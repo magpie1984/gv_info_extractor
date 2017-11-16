@@ -43,7 +43,11 @@ print("tokenized text:")
 print(tokenized_display)
 print("------------------------------------")
 
-text_array = loaded_text.split()
+
+print("")
+print("comparison:")
+for t, c in zip(tokenized_text, classified_text):
+    print(t.encode('ascii','ignore'), c[1].encode('ascii','ignore'))
 
 g = Graph()
 g.parse('crime_news.owl')
