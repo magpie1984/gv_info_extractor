@@ -91,4 +91,4 @@ class Extractor:
         return relationship
 
 a = Extractor()
-print (a.query_ontology("PERSON", "shoots", "PERSON"))
+print (a.query_ontology("PERSON", "helped", "PERSON"))
