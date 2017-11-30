@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/487.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/487.sgm">
+  <entity ID="487.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="487.sgm-E0-1">
+      <extent>
+			<charseq START="85" END="91">BUFFALO</charseq>
+      </extent>
+      <head>
+			<charseq START="85" END="91">BUFFALO</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="487.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="487.sgm-E1-1">
+      <extent>
+			<charseq START="94" END="96">N.Y</charseq>
+      </extent>
+      <head>
+			<charseq START="94" END="96">N.Y</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="487.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="487.sgm-E2-1">
+      <extent>
+			<charseq START="108" END="117">One person</charseq>
+      </extent>
+      <head>
+			<charseq START="112" END="117">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="487.sgm-E3" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="487.sgm-E3-1">
+      <extent>
+			<charseq START="141" END="148">the city</charseq>
+      </extent>
+      <head>
+			<charseq START="145" END="148">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="487.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="487.sgm-E4-1">
+      <extent>
+			<charseq START="172" END="177">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="172" END="177">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="487.sgm-E5" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="487.sgm-E5-1">
+      <extent>
+			<charseq START="213" END="225">Holmes Street</charseq>
+      </extent>
+      <head>
+			<charseq START="213" END="225">Holmes Street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="487.sgm-E6" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="487.sgm-E6-1">
+      <extent>
+			<charseq START="255" END="271">7 Eyewitness News</charseq>
+      </extent>
+      <head>
+			<charseq START="255" END="271">7 Eyewitness News</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="487.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="487.sgm-E7-1">
+      <extent>
+			<charseq START="277" END="286">one victim</charseq>
+      </extent>
+      <head>
+			<charseq START="281" END="286">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="487.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="487.sgm-E8-1">
+      <extent>
+			<charseq START="288" END="291">that</charseq>
+      </extent>
+      <head>
+			<charseq START="288" END="291">that</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="487.sgm-E9" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="487.sgm-E9-1">
+      <extent>
+			<charseq START="326" END="353">Rural Metro Medical Services</charseq>
+      </extent>
+      <head>
+			<charseq START="332" END="336">Metro</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="487.sgm-E10" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="487.sgm-E10-1">
+      <extent>
+			<charseq START="326" END="353">Rural Metro Medical Services</charseq>
+      </extent>
+      <head>
+			<charseq START="338" END="353">Medical Services</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="487.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="487.sgm-E11-1">
+      <extent>
+			<charseq START="360" END="369">the victim</charseq>
+      </extent>
+      <head>
+			<charseq START="364" END="369">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="487.sgm-E12" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="487.sgm-E12-1">
+      <extent>
+			<charseq START="374" END="385">the hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="378" END="385">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="487.sgm-R0" TYPE="PHYS">
+    <relation_argument REFID="487.sgm-E2" ROLE="Arg-1" />
+    <relation_argument REFID="487.sgm-E3" ROLE="Arg-2" />
+      <relation_mention ID="487.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="99" END="170">(WKBW) - One person was shot overnight in the city&apos;s Black Rock section.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="487.sgm-E2-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="108" END="117">One person</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="487.sgm-E3-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="141" END="148">the city</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="487.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="487.sgm-E11" ROLE="Arg-1" />
+    <relation_argument REFID="487.sgm-E12" ROLE="Arg-2" />
+      <relation_mention ID="487.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="326" END="386">Rural Metro Medical Services took the victim to the hospital.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="487.sgm-E11-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="360" END="369">the victim</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="487.sgm-E12-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="374" END="385">the hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="487.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="487.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="99" END="170">(WKBW) - One person was shot overnight in the city&apos;s Black Rock section.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="123" END="126">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="487.sgm-E2-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="108" END="117">One person</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="487.sgm-E3-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="141" END="148">the city</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="487.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="487.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="255" END="324">7 Eyewitness News saw one victim that appeared to be shot in the foot.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="308" END="311">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="487.sgm-E7-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="277" END="286">one victim</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

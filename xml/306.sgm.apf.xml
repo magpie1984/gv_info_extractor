@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/306.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/306.sgm">
+  <entity ID="306.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="306.sgm-E0-1">
+      <extent>
+			<charseq START="139" END="157">the shooting victim</charseq>
+      </extent>
+      <head>
+			<charseq START="152" END="157">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="306.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="306.sgm-E1-1">
+      <extent>
+			<charseq START="181" END="207">18-year-old Tachanna Styles</charseq>
+      </extent>
+      <head>
+			<charseq START="193" END="207">Tachanna Styles</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="306.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="306.sgm-E2-1">
+      <extent>
+			<charseq START="210" END="222">Albany Police</charseq>
+      </extent>
+      <head>
+			<charseq START="217" END="222">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="306.sgm-E3" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="306.sgm-E3-1">
+      <extent>
+			<charseq START="257" END="265">the Hotel</charseq>
+      </extent>
+      <head>
+			<charseq START="261" END="265">Hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="306.sgm-E4" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="306.sgm-E4-1">
+      <extent>
+			<charseq START="334" END="354">Phoebe Medical Center</charseq>
+      </extent>
+      <head>
+			<charseq START="349" END="354">Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="306.sgm-E5" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="306.sgm-E5-1">
+      <extent>
+			<charseq START="356" END="360">where</charseq>
+      </extent>
+      <head>
+			<charseq START="356" END="360">where</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="306.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="306.sgm-E6-1">
+      <extent>
+			<charseq START="362" END="364">she</charseq>
+      </extent>
+      <head>
+			<charseq START="362" END="364">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="306.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="306.sgm-E7-1">
+      <extent>
+			<charseq START="425" END="432">her head</charseq>
+      </extent>
+      <head>
+			<charseq START="425" END="427">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <event ID="306.sgm-EV0" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="306.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="308" END="433">Styles was transported to Phoebe Medical Center where she received treatment for a gunshot wound to the left side of her head.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="319" END="329">transported</charseq>
+      </anchor>
+      <event_mention_argument REFID="306.sgm-E4-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="334" END="354">Phoebe Medical Center</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="306.sgm-EV1" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="306.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="308" END="433">Styles was transported to Phoebe Medical Center where she received treatment for a gunshot wound to the left side of her head.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="399" END="403">wound</charseq>
+      </anchor>
+      <event_mention_argument REFID="306.sgm-E7-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="425" END="432">her head</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

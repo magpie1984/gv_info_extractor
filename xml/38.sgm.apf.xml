@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/38.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/38.sgm">
+  <entity ID="38.sgm-E0" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="38.sgm-E0-1">
+      <extent>
+			<charseq START="65" END="96">The West Point Police Department</charseq>
+      </extent>
+      <head>
+			<charseq START="69" END="96">West Point Police Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="38.sgm-E1" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="38.sgm-E1-1">
+      <extent>
+			<charseq START="159" END="171">Renesant Bank</charseq>
+      </extent>
+      <head>
+			<charseq START="159" END="171">Renesant Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="38.sgm-E2" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="38.sgm-E2-1">
+      <extent>
+			<charseq START="176" END="191">East Main Street</charseq>
+      </extent>
+      <head>
+			<charseq START="176" END="191">East Main Street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="38.sgm-E3" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="38.sgm-E3-1">
+      <extent>
+			<charseq START="196" END="205">West Point</charseq>
+      </extent>
+      <head>
+			<charseq START="196" END="205">West Point</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="38.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="38.sgm-E4-1">
+      <extent>
+			<charseq START="233" END="235">you</charseq>
+      </extent>
+      <head>
+			<charseq START="233" END="235">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="38.sgm-E5" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="38.sgm-E5-1">
+      <extent>
+			<charseq START="267" END="303">Copyright © 2015 Daily Times Leader |</charseq>
+      </extent>
+      <head>
+			<charseq START="284" END="301">Daily Times Leader</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="38.sgm-E6" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="38.sgm-E6-1">
+      <extent>
+			<charseq START="305" END="331">221 East Main Street | P.O.</charseq>
+      </extent>
+      <head>
+			<charseq START="328" END="331">P.O.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="38.sgm-E7" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="38.sgm-E7-1">
+      <extent>
+			<charseq START="471" END="492">The Daily Times Leader</charseq>
+      </extent>
+      <head>
+			<charseq START="475" END="492">Daily Times Leader</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="38.sgm-R0" TYPE="PART-WHOLE">
+    <relation_argument REFID="38.sgm-E2" ROLE="Arg-1" />
+    <relation_argument REFID="38.sgm-E3" ROLE="Arg-2" />
+      <relation_mention ID="38.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="65" END="206">The West Point Police Department is investigating an alleged robbery from Monday afternoon at Renesant Bank on East Main Street in West Point.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="38.sgm-E2-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="176" END="191">East Main Street</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="38.sgm-E3-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="196" END="205">West Point</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="38.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="38.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="561" END="585">Privacy and Terms of Use
+</charseq>
+      </extent>
+      <anchor>
+			<charseq START="582" END="584">Use</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

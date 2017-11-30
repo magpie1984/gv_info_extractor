@@ -1,0 +1,1278 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/210.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/210.sgm">
+  <entity ID="210.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E0-1">
+      <extent>
+			<charseq START="59" END="61">you</charseq>
+      </extent>
+      <head>
+			<charseq START="59" END="61">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E1-1">
+      <extent>
+			<charseq START="112" END="113">We</charseq>
+      </extent>
+      <head>
+			<charseq START="112" END="113">We</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E2-1">
+      <extent>
+			<charseq START="124" END="125">we</charseq>
+      </extent>
+      <head>
+			<charseq START="124" END="125">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E3" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E3-1">
+      <extent>
+			<charseq START="160" END="177">WLKY Street Voices</charseq>
+      </extent>
+      <head>
+			<charseq START="160" END="177">WLKY Street Voices</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E4-1">
+      <extent>
+			<charseq START="260" END="265">people</charseq>
+      </extent>
+      <head>
+			<charseq START="260" END="265">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E5-1">
+      <extent>
+			<charseq START="267" END="277">whose lives</charseq>
+      </extent>
+      <head>
+			<charseq START="267" END="271">whose</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E6-1">
+      <extent>
+			<charseq START="333" END="335">you</charseq>
+      </extent>
+      <head>
+			<charseq START="333" END="335">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E7-1">
+      <extent>
+			<charseq START="350" END="352">you</charseq>
+      </extent>
+      <head>
+			<charseq START="350" END="352">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E8-1">
+      <extent>
+			<charseq START="398" END="399">He</charseq>
+      </extent>
+      <head>
+			<charseq START="398" END="399">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E9" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E9-1">
+      <extent>
+			<charseq START="431" END="440">Louisville</charseq>
+      </extent>
+      <head>
+			<charseq START="431" END="440">Louisville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E10-1">
+      <extent>
+			<charseq START="443" END="481">rapper, actor and entrepreneur Master P</charseq>
+      </extent>
+      <head>
+			<charseq START="443" END="448">rapper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E11-1">
+      <extent>
+			<charseq START="443" END="481">rapper, actor and entrepreneur Master P</charseq>
+      </extent>
+      <head>
+			<charseq START="451" END="455">actor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E12-1">
+      <extent>
+			<charseq START="545" END="553">Survivors</charseq>
+      </extent>
+      <head>
+			<charseq START="545" END="553">Survivors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E13" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E13-1">
+      <extent>
+			<charseq START="558" END="569">gun violence</charseq>
+      </extent>
+      <head>
+			<charseq START="558" END="560">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E14" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E14-1">
+      <extent>
+			<charseq START="574" END="583">Louisville</charseq>
+      </extent>
+      <head>
+			<charseq START="574" END="583">Louisville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E15-1">
+      <extent>
+			<charseq START="603" END="616">A young mother</charseq>
+      </extent>
+      <head>
+			<charseq START="611" END="616">mother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E16-1">
+      <extent>
+			<charseq START="634" END="641">her part</charseq>
+      </extent>
+      <head>
+			<charseq START="634" END="636">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E17-1">
+      <extent>
+			<charseq START="656" END="673">many close friends</charseq>
+      </extent>
+      <head>
+			<charseq START="667" END="673">friends</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E18-1">
+      <extent>
+			<charseq START="688" END="696">Survivors</charseq>
+      </extent>
+      <head>
+			<charseq START="688" END="696">Survivors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E19" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E19-1">
+      <extent>
+			<charseq START="701" END="712">gun violence</charseq>
+      </extent>
+      <head>
+			<charseq START="701" END="703">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E20-1">
+      <extent>
+			<charseq START="753" END="768">A local teenager</charseq>
+      </extent>
+      <head>
+			<charseq START="761" END="768">teenager</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E21" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E21-1">
+      <extent>
+			<charseq START="827" END="832">school</charseq>
+      </extent>
+      <head>
+			<charseq START="827" END="832">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E22-1">
+      <extent>
+			<charseq START="856" END="863">Master P</charseq>
+      </extent>
+      <head>
+			<charseq START="856" END="861">Master</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E23-1">
+      <extent>
+			<charseq START="856" END="863">Master P</charseq>
+      </extent>
+      <head>
+			<charseq START="863" END="863">P</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E24" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E24-1">
+      <extent>
+			<charseq START="937" END="954">A Louisville woman</charseq>
+      </extent>
+      <head>
+			<charseq START="939" END="948">Louisville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E25-1">
+      <extent>
+			<charseq START="937" END="954">A Louisville woman</charseq>
+      </extent>
+      <head>
+			<charseq START="950" END="954">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E26-1">
+      <extent>
+			<charseq START="956" END="967">whose father</charseq>
+      </extent>
+      <head>
+			<charseq START="956" END="960">whose</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E27-1">
+      <extent>
+			<charseq START="956" END="967">whose father</charseq>
+      </extent>
+      <head>
+			<charseq START="962" END="967">father</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E28-1">
+      <extent>
+			<charseq START="1024" END="1036">the community</charseq>
+      </extent>
+      <head>
+			<charseq START="1028" END="1036">community</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E29" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E29-1">
+      <extent>
+			<charseq START="1039" END="1056">A Louisville woman</charseq>
+      </extent>
+      <head>
+			<charseq START="1041" END="1050">Louisville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E30-1">
+      <extent>
+			<charseq START="1039" END="1056">A Louisville woman</charseq>
+      </extent>
+      <head>
+			<charseq START="1052" END="1056">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E31-1">
+      <extent>
+			<charseq START="1058" END="1060">who</charseq>
+      </extent>
+      <head>
+			<charseq START="1058" END="1060">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E32-1">
+      <extent>
+			<charseq START="1067" END="1073">her son</charseq>
+      </extent>
+      <head>
+			<charseq START="1067" END="1069">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E33-1">
+      <extent>
+			<charseq START="1067" END="1073">her son</charseq>
+      </extent>
+      <head>
+			<charseq START="1071" END="1073">son</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E34-1">
+      <extent>
+			<charseq START="1152" END="1182">A local artist and entrepreneur</charseq>
+      </extent>
+      <head>
+			<charseq START="1160" END="1165">artist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E35-1">
+      <extent>
+			<charseq START="1152" END="1182">A local artist and entrepreneur</charseq>
+      </extent>
+      <head>
+			<charseq START="1171" END="1182">entrepreneur</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E36" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E36-1">
+      <extent>
+			<charseq START="1215" END="1229">west Louisville</charseq>
+      </extent>
+      <head>
+			<charseq START="1220" END="1229">Louisville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E37" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E37-1">
+      <extent>
+			<charseq START="1232" END="1273">Louisville Metro Police Chief Steve Conrad</charseq>
+      </extent>
+      <head>
+			<charseq START="1249" END="1254">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E38-1">
+      <extent>
+			<charseq START="1232" END="1273">Louisville Metro Police Chief Steve Conrad</charseq>
+      </extent>
+      <head>
+			<charseq START="1256" END="1260">Chief</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E39-1">
+      <extent>
+			<charseq START="1232" END="1273">Louisville Metro Police Chief Steve Conrad</charseq>
+      </extent>
+      <head>
+			<charseq START="1262" END="1273">Steve Conrad</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E40" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E40-1">
+      <extent>
+			<charseq START="1389" END="1429">WLKY Investigative Reporter Duane Pohlman</charseq>
+      </extent>
+      <head>
+			<charseq START="1408" END="1415">Reporter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E41" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E41-1">
+      <extent>
+			<charseq START="1389" END="1429">WLKY Investigative Reporter Duane Pohlman</charseq>
+      </extent>
+      <head>
+			<charseq START="1417" END="1429">Duane Pohlman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E42-1">
+      <extent>
+			<charseq START="1452" END="1468">the former Marine</charseq>
+      </extent>
+      <head>
+			<charseq START="1463" END="1468">Marine</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E43" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E43-1">
+      <extent>
+			<charseq START="1496" END="1506">the streets</charseq>
+      </extent>
+      <head>
+			<charseq START="1500" END="1506">streets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E44" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E44-1">
+      <extent>
+			<charseq START="1511" END="1520">Louisville</charseq>
+      </extent>
+      <head>
+			<charseq START="1511" END="1520">Louisville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E45" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E45-1">
+      <extent>
+			<charseq START="1554" END="1572">University Hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="1554" END="1572">University Hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E46" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E46-1">
+      <extent>
+			<charseq START="1590" END="1604">the trauma team</charseq>
+      </extent>
+      <head>
+			<charseq START="1601" END="1604">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E47" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E47-1">
+      <extent>
+			<charseq START="1642" END="1656">gunshot victims</charseq>
+      </extent>
+      <head>
+			<charseq START="1650" END="1656">victims</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E48" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E48-1">
+      <extent>
+			<charseq START="1658" END="1660">who</charseq>
+      </extent>
+      <head>
+			<charseq START="1658" END="1660">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E49" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E49-1">
+      <extent>
+			<charseq START="1720" END="1734">west Louisville</charseq>
+      </extent>
+      <head>
+			<charseq START="1725" END="1734">Louisville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E50" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E50-1">
+      <extent>
+			<charseq START="1740" END="1769">Beecher Terrace Public Housing</charseq>
+      </extent>
+      <head>
+			<charseq START="1740" END="1769">Beecher Terrace Public Housing</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E51" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E51-1">
+      <extent>
+			<charseq START="1786" END="1797">gun violence</charseq>
+      </extent>
+      <head>
+			<charseq START="1786" END="1788">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E52" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E52-1">
+      <extent>
+			<charseq START="1834" END="1853">people and resources</charseq>
+      </extent>
+      <head>
+			<charseq START="1834" END="1839">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E53" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E53-1">
+      <extent>
+			<charseq START="1967" END="1973">members</charseq>
+      </extent>
+      <head>
+			<charseq START="1967" END="1973">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E54" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E54-1">
+      <extent>
+			<charseq START="2044" END="2046">you</charseq>
+      </extent>
+      <head>
+			<charseq START="2044" END="2046">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E55" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E55-1">
+      <extent>
+			<charseq START="2075" END="2090">a child or youth</charseq>
+      </extent>
+      <head>
+			<charseq START="2077" END="2081">child</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E56" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E56-1">
+      <extent>
+			<charseq START="2145" END="2160">Bigs and Littles</charseq>
+      </extent>
+      <head>
+			<charseq START="2154" END="2160">Littles</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E57" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E57-1">
+      <extent>
+			<charseq START="2273" END="2279">friends</charseq>
+      </extent>
+      <head>
+			<charseq START="2273" END="2279">friends</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E58" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E58-1">
+      <extent>
+			<charseq START="2365" END="2372">Our kids</charseq>
+      </extent>
+      <head>
+			<charseq START="2365" END="2367">Our</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E59" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E59-1">
+      <extent>
+			<charseq START="2365" END="2372">Our kids</charseq>
+      </extent>
+      <head>
+			<charseq START="2369" END="2372">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E60" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E60-1">
+      <extent>
+			<charseq START="2405" END="2413">your life</charseq>
+      </extent>
+      <head>
+			<charseq START="2405" END="2408">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E61" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E61-1">
+      <extent>
+			<charseq START="2484" END="2499">?assist students</charseq>
+      </extent>
+      <head>
+			<charseq START="2492" END="2499">students</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E62" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E62-1">
+      <extent>
+			<charseq START="2540" END="2553">a Youth Mentor</charseq>
+      </extent>
+      <head>
+			<charseq START="2542" END="2553">Youth Mentor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E63" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E63-1">
+      <extent>
+			<charseq START="2601" END="2623">the Emergency Food Bank</charseq>
+      </extent>
+      <head>
+			<charseq START="2605" END="2623">Emergency Food Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E64" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E64-1">
+      <extent>
+			<charseq START="2626" END="2636">Our mission</charseq>
+      </extent>
+      <head>
+			<charseq START="2626" END="2628">Our</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E65" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E65-1">
+      <extent>
+			<charseq START="2703" END="2724">?to children and teens</charseq>
+      </extent>
+      <head>
+			<charseq START="2707" END="2714">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E66" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E66-1">
+      <extent>
+			<charseq START="2703" END="2724">?to children and teens</charseq>
+      </extent>
+      <head>
+			<charseq START="2720" END="2724">teens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E67" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E67-1">
+      <extent>
+			<charseq START="2763" END="2789">Prisoners Mentoring Program</charseq>
+      </extent>
+      <head>
+			<charseq START="2763" END="2789">Prisoners Mentoring Program</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E68" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E68-1">
+      <extent>
+			<charseq START="2831" END="2833">who</charseq>
+      </extent>
+      <head>
+			<charseq START="2831" END="2833">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E69" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E69-1">
+      <extent>
+			<charseq START="2876" END="2899">Louisville Metro Council</charseq>
+      </extent>
+      <head>
+			<charseq START="2876" END="2899">Louisville Metro Council</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E70" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E70-1">
+      <extent>
+			<charseq START="2919" END="2951">your local Council Representative</charseq>
+      </extent>
+      <head>
+			<charseq START="2919" END="2922">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E71" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E71-1">
+      <extent>
+			<charseq START="2919" END="2951">your local Council Representative</charseq>
+      </extent>
+      <head>
+			<charseq START="2930" END="2951">Council Representative</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E72" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E72-1">
+      <extent>
+			<charseq START="2990" END="3006">your neighborhood</charseq>
+      </extent>
+      <head>
+			<charseq START="2990" END="2993">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E73" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E73-1">
+      <extent>
+			<charseq START="2990" END="3006">your neighborhood</charseq>
+      </extent>
+      <head>
+			<charseq START="2995" END="3006">neighborhood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E74" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E74-1">
+      <extent>
+			<charseq START="3109" END="3116">our area</charseq>
+      </extent>
+      <head>
+			<charseq START="3109" END="3111">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="210.sgm-E75" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="210.sgm-E75-1">
+      <extent>
+			<charseq START="3109" END="3116">our area</charseq>
+      </extent>
+      <head>
+			<charseq START="3113" END="3116">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="210.sgm-R0" TYPE="GEN-AFF">
+    <relation_argument REFID="210.sgm-E25" ROLE="Arg-1" />
+    <relation_argument REFID="210.sgm-E24" ROLE="Arg-2" />
+      <relation_mention ID="210.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="937" END="1037">A Louisville woman whose father was slain speaks out against the violence that plagues the community.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="210.sgm-E25-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="937" END="954">A Louisville woman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="210.sgm-E24-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="937" END="954">A Louisville woman</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="210.sgm-R1" TYPE="PER-SOC">
+    <relation_argument REFID="210.sgm-E26" ROLE="Arg-1" />
+    <relation_argument REFID="210.sgm-E27" ROLE="Arg-2" />
+      <relation_mention ID="210.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="937" END="1037">A Louisville woman whose father was slain speaks out against the violence that plagues the community.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="210.sgm-E26-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="956" END="967">whose father</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="210.sgm-E27-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="956" END="967">whose father</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="210.sgm-R2" TYPE="GEN-AFF">
+    <relation_argument REFID="210.sgm-E30" ROLE="Arg-1" />
+    <relation_argument REFID="210.sgm-E29" ROLE="Arg-2" />
+      <relation_mention ID="210.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="1039" END="1150">A Louisville woman who lost her son to violence speaks out in hopes of making positive changes in the community.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="210.sgm-E30-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1039" END="1056">A Louisville woman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="210.sgm-E29-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1039" END="1056">A Louisville woman</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="210.sgm-R3" TYPE="PER-SOC">
+    <relation_argument REFID="210.sgm-E32" ROLE="Arg-1" />
+    <relation_argument REFID="210.sgm-E33" ROLE="Arg-2" />
+      <relation_mention ID="210.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="1039" END="1150">A Louisville woman who lost her son to violence speaks out in hopes of making positive changes in the community.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="210.sgm-E32-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1067" END="1073">her son</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="210.sgm-E33-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1067" END="1073">her son</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="210.sgm-R4" TYPE="ORG-AFF">
+    <relation_argument REFID="210.sgm-E38" ROLE="Arg-1" />
+    <relation_argument REFID="210.sgm-E37" ROLE="Arg-2" />
+      <relation_mention ID="210.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="1232" END="1339">Louisville Metro Police Chief Steve Conrad speaks out about possible solutions to violence in the community.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="210.sgm-E38-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1232" END="1273">Louisville Metro Police Chief Steve Conrad</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="210.sgm-E37-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1232" END="1273">Louisville Metro Police Chief Steve Conrad</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="210.sgm-R5" TYPE="PART-WHOLE">
+    <relation_argument REFID="210.sgm-E43" ROLE="Arg-1" />
+    <relation_argument REFID="210.sgm-E44" ROLE="Arg-2" />
+      <relation_mention ID="210.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="1341" END="1521">In Part 3 of The Real Impact of Local Violence, WLKY Investigative Reporter Duane Pohlman talks exclusively to the former Marine gunned down in January on the streets of Louisville.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="210.sgm-E43-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1496" END="1506">the streets</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="210.sgm-E44-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1511" END="1520">Louisville</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="210.sgm-R6" TYPE="GEN-AFF">
+    <relation_argument REFID="210.sgm-E72" ROLE="Arg-1" />
+    <relation_argument REFID="210.sgm-E73" ROLE="Arg-2" />
+      <relation_mention ID="210.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="2727" END="3007">Volunteer Mentors-Y-NOW Children of Prisoners Mentoring Program is a unique and special program.??Youth who Enter this program, finish it changed...
+Louisville Metro Council:??Want to contact your local Council Representative to discuss opportunities specific to your neighborhood?</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="210.sgm-E72-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2990" END="3006">your neighborhood</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="210.sgm-E73-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2990" END="3006">your neighborhood</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="210.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="54" END="110">Have you noticed a disturbing increase in local violence?</charseq>
+      </extent>
+      <anchor>
+			<charseq START="102" END="109">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="160" END="396">WLKY Street Voices is a violence prevention initiative that not only shares the personal stories of people whose lives have been affected by violence, but is a resource for you to learn how you can get involved to make a positive change.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="301" END="308">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="398" END="543">He&apos;s becoming a growing voice in Louisville; rapper, actor and entrepreneur Master P is trying to help turn the tide on violence in the community.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="518" END="525">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="545" END="601">Survivors of gun violence in Louisville want to be heard.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="562" END="569">violence</charseq>
+      </anchor>
+      <event_mention_argument REFID="210.sgm-E13-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="558" END="569">gun violence</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="210.sgm-E14-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="574" END="583">Louisville</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="603" END="686">A young mother is trying to do her part after losing many close friends to violence.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="678" END="685">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="688" END="751">Survivors of gun violence are rising up as one collective voice.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="705" END="712">violence</charseq>
+      </anchor>
+      <event_mention_argument REFID="210.sgm-E19-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="701" END="712">gun violence</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="753" END="854">A local teenager affected by violence is getting encouragement to stay in school from a hip hop mogul.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="782" END="789">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV7" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="937" END="1037">A Louisville woman whose father was slain speaks out against the violence that plagues the community.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="973" END="977">slain</charseq>
+      </anchor>
+      <event_mention_argument REFID="210.sgm-E27-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="956" END="967">whose father</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="937" END="1037">A Louisville woman whose father was slain speaks out against the violence that plagues the community.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1002" END="1009">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV9" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="1039" END="1150">A Louisville woman who lost her son to violence speaks out in hopes of making positive changes in the community.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1078" END="1085">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV10-1" p="1.000">
+      <extent>
+			<charseq START="1152" END="1230">A local artist and entrepreneur speaks out against violence in west Louisville.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1203" END="1210">violence</charseq>
+      </anchor>
+      <event_mention_argument REFID="210.sgm-E36-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1215" END="1229">west Louisville</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV11" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV11-1" p="1.000">
+      <extent>
+			<charseq START="1232" END="1339">Louisville Metro Police Chief Steve Conrad speaks out about possible solutions to violence in the community.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1314" END="1321">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV12" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV12-1" p="1.000">
+      <extent>
+			<charseq START="1341" END="1521">In Part 3 of The Real Impact of Local Violence, WLKY Investigative Reporter Duane Pohlman talks exclusively to the former Marine gunned down in January on the streets of Louisville.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1456" END="1461">former</charseq>
+      </anchor>
+      <event_mention_argument REFID="210.sgm-E42-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1452" END="1468">the former Marine</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV13" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV13-1" p="1.000">
+      <extent>
+			<charseq START="1523" END="1702">Murders grab headlines, but at University Hospital???s Room No. 9, the trauma team is increasingly saving the lives of gunshot victims who would not have made it just a decade ago.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1523" END="1529">Murders</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV14" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV14-1" p="1.000">
+      <extent>
+			<charseq START="1523" END="1702">Murders grab headlines, but at University Hospital???s Room No. 9, the trauma team is increasingly saving the lives of gunshot victims who would not have made it just a decade ago.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1642" END="1648">gunshot</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV15" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV15-1" p="1.000">
+      <extent>
+			<charseq START="1704" END="1806">In the heart of west Louisville, at Beecher Terrace Public Housing, the threat of gun violence is real.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1790" END="1797">violence</charseq>
+      </anchor>
+      <event_mention_argument REFID="210.sgm-E51-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1786" END="1797">gun violence</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV16" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV16-1" p="1.000">
+      <extent>
+			<charseq START="2145" END="2283">Bigs and Littles typically meet once a week for about an??hour to read together, play sports, computer games or simply??talk as friends do.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2172" END="2175">meet</charseq>
+      </anchor>
+      <event_mention_argument REFID="210.sgm-E56-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2145" END="2160">Bigs and Littles</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="210.sgm-EV17" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="210.sgm-EV17-1" p="1.000">
+      <extent>
+			<charseq START="2727" END="3007">Volunteer Mentors-Y-NOW Children of Prisoners Mentoring Program is a unique and special program.??Youth who Enter this program, finish it changed...
+Louisville Metro Council:??Want to contact your local Council Representative to discuss opportunities specific to your neighborhood?</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2835" END="2839">Enter</charseq>
+      </anchor>
+      <event_mention_argument REFID="210.sgm-E68-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2831" END="2833">who</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

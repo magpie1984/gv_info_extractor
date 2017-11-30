@@ -1,0 +1,543 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/454.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/454.sgm">
+  <entity ID="454.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E0-1">
+      <extent>
+			<charseq START="112" END="117">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="112" END="117">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E1-1">
+      <extent>
+			<charseq START="135" END="142">a person</charseq>
+      </extent>
+      <head>
+			<charseq START="137" END="142">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E2" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E2-1">
+      <extent>
+			<charseq START="159" END="181">a Central City shooting</charseq>
+      </extent>
+      <head>
+			<charseq START="161" END="172">Central City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E3-1">
+      <extent>
+			<charseq START="238" END="247">S. Liberty</charseq>
+      </extent>
+      <head>
+			<charseq START="238" END="247">S. Liberty</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E4-1">
+      <extent>
+			<charseq START="253" END="270">St. Andrew streets</charseq>
+      </extent>
+      <head>
+			<charseq START="253" END="254">St</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E5-1">
+      <extent>
+			<charseq START="253" END="270">St. Andrew streets</charseq>
+      </extent>
+      <head>
+			<charseq START="257" END="270">Andrew streets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E6-1">
+      <extent>
+			<charseq START="275" END="297">about 8 p.m.
+Detectives</charseq>
+      </extent>
+      <head>
+			<charseq START="288" END="297">Detectives</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E7-1">
+      <extent>
+			<charseq START="315" END="333">a 28-year-old woman</charseq>
+      </extent>
+      <head>
+			<charseq START="329" END="333">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E8-1">
+      <extent>
+			<charseq START="358" END="364">a woman</charseq>
+      </extent>
+      <head>
+			<charseq START="360" END="364">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E9-1">
+      <extent>
+			<charseq START="366" END="368">who</charseq>
+      </extent>
+      <head>
+			<charseq START="366" END="368">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E10-1">
+      <extent>
+			<charseq START="454" END="459">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="454" END="459">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E11-1">
+      <extent>
+			<charseq START="469" END="477">Dominique</charseq>
+      </extent>
+      <head>
+			<charseq START="469" END="477">Dominique</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E12-1">
+      <extent>
+			<charseq START="495" END="506">other people</charseq>
+      </extent>
+      <head>
+			<charseq START="501" END="506">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E13-1">
+      <extent>
+			<charseq START="538" END="541">They</charseq>
+      </extent>
+      <head>
+			<charseq START="538" END="541">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E14-1">
+      <extent>
+			<charseq START="556" END="592">a red or maroon colored Nissan Altima</charseq>
+      </extent>
+      <head>
+			<charseq START="580" END="592">Nissan Altima</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E15-1">
+      <extent>
+			<charseq START="595" END="603">Dominique</charseq>
+      </extent>
+      <head>
+			<charseq START="595" END="603">Dominique</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E16-1">
+      <extent>
+			<charseq START="609" END="620">those people</charseq>
+      </extent>
+      <head>
+			<charseq START="615" END="620">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E17" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E17-1">
+      <extent>
+			<charseq START="675" END="690">the Algiers area</charseq>
+      </extent>
+      <head>
+			<charseq START="679" END="685">Algiers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E18" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E18-1">
+      <extent>
+			<charseq START="675" END="690">the Algiers area</charseq>
+      </extent>
+      <head>
+			<charseq START="687" END="690">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E19-1">
+      <extent>
+			<charseq START="693" END="707">The individuals</charseq>
+      </extent>
+      <head>
+			<charseq START="697" END="707">individuals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E20-1">
+      <extent>
+			<charseq START="728" END="735">suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="728" END="735">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E21" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E21-1">
+      <extent>
+			<charseq START="751" END="758">the NOPD</charseq>
+      </extent>
+      <head>
+			<charseq START="755" END="758">NOPD</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E22-1">
+      <extent>
+			<charseq START="769" END="775">persons</charseq>
+      </extent>
+      <head>
+			<charseq START="769" END="775">persons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E23-1">
+      <extent>
+			<charseq START="790" END="795">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="790" END="795">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E24-1">
+      <extent>
+			<charseq START="805" END="808">they</charseq>
+      </extent>
+      <head>
+			<charseq START="805" END="808">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E25-1">
+      <extent>
+			<charseq START="862" END="871">The victim</charseq>
+      </extent>
+      <head>
+			<charseq START="866" END="871">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E26" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E26-1">
+      <extent>
+			<charseq START="890" END="901">the hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="894" END="901">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E27-1">
+      <extent>
+			<charseq START="908" END="925">her gunshot wounds</charseq>
+      </extent>
+      <head>
+			<charseq START="908" END="910">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E28-1">
+      <extent>
+			<charseq START="931" END="933">you</charseq>
+      </extent>
+      <head>
+			<charseq START="931" END="933">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E29-1">
+      <extent>
+			<charseq START="963" END="975">investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="963" END="975">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="454.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="454.sgm-E30-1">
+      <extent>
+			<charseq START="983" END="995">Crimestoppers</charseq>
+      </extent>
+      <head>
+			<charseq START="983" END="995">Crimestoppers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="454.sgm-R0" TYPE="PHYS">
+    <relation_argument REFID="454.sgm-E1" ROLE="Arg-1" />
+    <relation_argument REFID="454.sgm-E2" ROLE="Arg-2" />
+      <relation_mention ID="454.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="96" END="182">NEW ORLEANS ??? Police have identified a person of interest in a Central City shooting.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="454.sgm-E1-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="135" END="142">a person</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="454.sgm-E2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="159" END="181">a Central City shooting</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="454.sgm-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="454.sgm-E17" ROLE="Arg-1" />
+    <relation_argument REFID="454.sgm-E18" ROLE="Arg-2" />
+      <relation_mention ID="454.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="595" END="691">Dominique and those people called to the shooting scene are believed to be from the Algiers area.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="454.sgm-E17-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="675" END="690">the Algiers area</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="454.sgm-E18-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="675" END="690">the Algiers area</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="454.sgm-R2" TYPE="PHYS">
+    <relation_argument REFID="454.sgm-E25" ROLE="Arg-1" />
+    <relation_argument REFID="454.sgm-E26" ROLE="Arg-2" />
+      <relation_mention ID="454.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="862" END="926">The victim is recovering in the hospital from her gunshot wounds.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="454.sgm-E25-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="862" END="871">The victim</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="454.sgm-E26-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="890" END="901">the hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="454.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="454.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="96" END="182">NEW ORLEANS ??? Police have identified a person of interest in a Central City shooting.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="174" END="181">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="454.sgm-E2-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="159" END="181">a Central City shooting</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="454.sgm-E1-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="135" END="142">a person</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="454.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="454.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="184" END="452">The shooting happened Friday near the intersection of S. Liberty and St. Andrew streets at about 8 p.m.
+Detectives say the victim, a 28-year-old woman, got into a fight with a woman who may be named &quot;Dominique&quot; at that intersection right before the shooting took place.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="188" END="195">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="454.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="454.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="184" END="452">The shooting happened Friday near the intersection of S. Liberty and St. Andrew streets at about 8 p.m.
+Detectives say the victim, a 28-year-old woman, got into a fight with a woman who may be named &quot;Dominique&quot; at that intersection right before the shooting took place.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="347" END="351">fight</charseq>
+      </anchor>
+      <event_mention_argument REFID="454.sgm-E8-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="358" END="364">a woman</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="454.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="454.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="454" END="536">Police believe Dominique may have called other people to the scene of the shooting.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="528" END="535">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="454.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="454.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="790" END="860">Police believe they may have information in connection to the shooting.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="852" END="859">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="454.sgm-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="454.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="862" END="926">The victim is recovering in the hospital from her gunshot wounds.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="876" END="885">recovering</charseq>
+      </anchor>
+      <event_mention_argument REFID="454.sgm-E25-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="862" END="871">The victim</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="454.sgm-E26-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="890" END="901">the hospital</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="454.sgm-EV6" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="454.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="862" END="926">The victim is recovering in the hospital from her gunshot wounds.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="920" END="925">wounds</charseq>
+      </anchor>
+      <event_mention_argument REFID="454.sgm-E27-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="908" END="925">her gunshot wounds</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="454.sgm-E26-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="890" END="901">the hospital</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

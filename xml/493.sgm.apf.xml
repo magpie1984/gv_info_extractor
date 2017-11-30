@@ -1,0 +1,3104 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/493.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/493.sgm">
+  <entity ID="493.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E0-1">
+      <extent>
+			<charseq START="126" END="146">Thomas Lee Newman Jr.</charseq>
+      </extent>
+      <head>
+			<charseq START="126" END="146">Thomas Lee Newman Jr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E1-1">
+      <extent>
+			<charseq START="151" END="160">Pittsfield</charseq>
+      </extent>
+      <head>
+			<charseq START="151" END="160">Pittsfield</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E2" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E2-1">
+      <extent>
+			<charseq START="185" END="189">Utica</charseq>
+      </extent>
+      <head>
+			<charseq START="185" END="189">Utica</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E3" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E3-1">
+      <extent>
+			<charseq START="192" END="195">N.Y.</charseq>
+      </extent>
+      <head>
+			<charseq START="192" END="195">N.Y.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E4" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E4-1">
+      <extent>
+			<charseq START="211" END="252">Berkshire District Attorney David Capeless</charseq>
+      </extent>
+      <head>
+			<charseq START="211" END="219">Berkshire</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E5-1">
+      <extent>
+			<charseq START="211" END="252">Berkshire District Attorney David Capeless</charseq>
+      </extent>
+      <head>
+			<charseq START="230" END="237">Attorney</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E6-1">
+      <extent>
+			<charseq START="211" END="252">Berkshire District Attorney David Capeless</charseq>
+      </extent>
+      <head>
+			<charseq START="239" END="252">David Capeless</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E7-1">
+      <extent>
+			<charseq START="255" END="260">Newman</charseq>
+      </extent>
+      <head>
+			<charseq START="255" END="260">Newman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E8" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E8-1">
+      <extent>
+			<charseq START="285" END="297">a Utica court</charseq>
+      </extent>
+      <head>
+			<charseq START="293" END="297">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E9-1">
+      <extent>
+			<charseq START="331" END="338">fugitive</charseq>
+      </extent>
+      <head>
+			<charseq START="331" END="338">fugitive</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E10-1">
+      <extent>
+			<charseq START="358" END="374">local authorities</charseq>
+      </extent>
+      <head>
+			<charseq START="364" END="374">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E11-1">
+      <extent>
+			<charseq START="386" END="398">his rendition</charseq>
+      </extent>
+      <head>
+			<charseq START="386" END="388">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E12" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E12-1">
+      <extent>
+			<charseq START="403" END="412">Pittsfield</charseq>
+      </extent>
+      <head>
+			<charseq START="403" END="412">Pittsfield</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E13" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E13-1">
+      <extent>
+			<charseq START="415" END="419">where</charseq>
+      </extent>
+      <head>
+			<charseq START="415" END="419">where</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E14-1">
+      <extent>
+			<charseq START="421" END="422">he</charseq>
+      </extent>
+      <head>
+			<charseq START="421" END="422">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E15" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E15-1">
+      <extent>
+			<charseq START="556" END="573">PITTSFIELD &amp;GT;&amp;GT</charseq>
+      </extent>
+      <head>
+			<charseq START="556" END="573">PITTSFIELD &amp;GT;&amp;GT</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E16" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E16-1">
+      <extent>
+			<charseq START="576" END="598">An 18-year-old city man</charseq>
+      </extent>
+      <head>
+			<charseq START="591" END="594">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E17-1">
+      <extent>
+			<charseq START="576" END="598">An 18-year-old city man</charseq>
+      </extent>
+      <head>
+			<charseq START="596" END="598">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E18-1">
+      <extent>
+			<charseq START="640" END="659">Keenan S. Pellot Jr.</charseq>
+      </extent>
+      <head>
+			<charseq START="640" END="659">Keenan S. Pellot Jr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E19-1">
+      <extent>
+			<charseq START="672" END="681">the victim</charseq>
+      </extent>
+      <head>
+			<charseq START="676" END="681">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E20-1">
+      <extent>
+			<charseq START="682" END="690">&apos;s sister</charseq>
+      </extent>
+      <head>
+			<charseq START="685" END="690">sister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E21-1">
+      <extent>
+			<charseq START="706" END="711">Pellot</charseq>
+      </extent>
+      <head>
+			<charseq START="706" END="711">Pellot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E22-1">
+      <extent>
+			<charseq START="712" END="720">&apos;s mother</charseq>
+      </extent>
+      <head>
+			<charseq START="715" END="720">mother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E23-1">
+      <extent>
+			<charseq START="723" END="733">Carey Pilot</charseq>
+      </extent>
+      <head>
+			<charseq START="723" END="733">Carey Pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E24-1">
+      <extent>
+			<charseq START="736" END="738">She</charseq>
+      </extent>
+      <head>
+			<charseq START="736" END="738">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E25-1">
+      <extent>
+			<charseq START="745" END="763">the alleged shooter</charseq>
+      </extent>
+      <head>
+			<charseq START="757" END="763">shooter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E26-1">
+      <extent>
+			<charseq START="766" END="786">Thomas Lee Newman Jr.</charseq>
+      </extent>
+      <head>
+			<charseq START="766" END="786">Thomas Lee Newman Jr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E27-1">
+      <extent>
+			<charseq START="793" END="799">her son</charseq>
+      </extent>
+      <head>
+			<charseq START="793" END="795">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E28-1">
+      <extent>
+			<charseq START="793" END="799">her son</charseq>
+      </extent>
+      <head>
+			<charseq START="797" END="799">son</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E29-1">
+      <extent>
+			<charseq START="843" END="845">she</charseq>
+      </extent>
+      <head>
+			<charseq START="843" END="845">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E30" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E30-1">
+      <extent>
+			<charseq START="904" END="934">The Berkshire District Attorney</charseq>
+      </extent>
+      <head>
+			<charseq START="908" END="934">Berkshire District Attorney</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E31" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E31-1">
+      <extent>
+			<charseq START="935" END="943">&apos;s Office</charseq>
+      </extent>
+      <head>
+			<charseq START="938" END="943">Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E32-1">
+      <extent>
+			<charseq START="978" END="983">Newman</charseq>
+      </extent>
+      <head>
+			<charseq START="978" END="983">Newman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E33-1">
+      <extent>
+			<charseq START="1073" END="1078">Thomas</charseq>
+      </extent>
+      <head>
+			<charseq START="1073" END="1078">Thomas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E34-1">
+      <extent>
+			<charseq START="1086" END="1089">they</charseq>
+      </extent>
+      <head>
+			<charseq START="1086" END="1089">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E35-1">
+      <extent>
+			<charseq START="1104" END="1110">Pampers</charseq>
+      </extent>
+      <head>
+			<charseq START="1104" END="1110">Pampers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E36-1">
+      <extent>
+			<charseq START="1114" END="1118">Pilot</charseq>
+      </extent>
+      <head>
+			<charseq START="1114" END="1118">Pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E37" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E37-1">
+      <extent>
+			<charseq START="1126" END="1131">Pellot</charseq>
+      </extent>
+      <head>
+			<charseq START="1126" END="1131">Pellot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E38-1">
+      <extent>
+			<charseq START="1141" END="1150">his wounds</charseq>
+      </extent>
+      <head>
+			<charseq START="1141" END="1143">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E39" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E39-1">
+      <extent>
+			<charseq START="1229" END="1240">Tyler Street</charseq>
+      </extent>
+      <head>
+			<charseq START="1229" END="1240">Tyler Street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E40" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E40-1">
+      <extent>
+			<charseq START="1245" END="1259">A second victim</charseq>
+      </extent>
+      <head>
+			<charseq START="1254" END="1259">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E41" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E41-1">
+      <extent>
+			<charseq START="1261" END="1263">who</charseq>
+      </extent>
+      <head>
+			<charseq START="1261" END="1263">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E42-1">
+      <extent>
+			<charseq START="1274" END="1279">Pellot</charseq>
+      </extent>
+      <head>
+			<charseq START="1274" END="1279">Pellot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E43" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E43-1">
+      <extent>
+			<charseq START="1282" END="1284">who</charseq>
+      </extent>
+      <head>
+			<charseq START="1282" END="1284">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E44" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E44-1">
+      <extent>
+			<charseq START="1286" END="1291">police</charseq>
+      </extent>
+      <head>
+			<charseq START="1286" END="1291">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E45" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E45-1">
+      <extent>
+			<charseq START="1306" END="1322">a 17-year-old man</charseq>
+      </extent>
+      <head>
+			<charseq START="1320" END="1322">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E46" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E46-1">
+      <extent>
+			<charseq START="1399" END="1422">Berkshire Medical Center</charseq>
+      </extent>
+      <head>
+			<charseq START="1399" END="1422">Berkshire Medical Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E47" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E47-1">
+      <extent>
+			<charseq START="1435" END="1440">the DA</charseq>
+      </extent>
+      <head>
+			<charseq START="1439" END="1440">DA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E48" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E48-1">
+      <extent>
+			<charseq START="1496" END="1500">Pilot</charseq>
+      </extent>
+      <head>
+			<charseq START="1496" END="1500">Pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E49" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E49-1">
+      <extent>
+			<charseq START="1631" END="1647">one dead and four</charseq>
+      </extent>
+      <head>
+			<charseq START="1635" END="1638">dead</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E50" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E50-1">
+      <extent>
+			<charseq START="1658" END="1662">Pilot</charseq>
+      </extent>
+      <head>
+			<charseq START="1658" END="1662">Pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E51" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E51-1">
+      <extent>
+			<charseq START="1675" END="1680">Newman</charseq>
+      </extent>
+      <head>
+			<charseq START="1675" END="1680">Newman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E52" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E52-1">
+      <extent>
+			<charseq START="1685" END="1692">a member</charseq>
+      </extent>
+      <head>
+			<charseq START="1687" END="1692">member</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E53" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E53-1">
+      <extent>
+			<charseq START="1713" END="1719">her son</charseq>
+      </extent>
+      <head>
+			<charseq START="1713" END="1715">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E54" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E54-1">
+      <extent>
+			<charseq START="1713" END="1719">her son</charseq>
+      </extent>
+      <head>
+			<charseq START="1717" END="1719">son</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E55" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E55-1">
+      <extent>
+			<charseq START="1734" END="1739">Newman</charseq>
+      </extent>
+      <head>
+			<charseq START="1734" END="1739">Newman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E56" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E56-1">
+      <extent>
+			<charseq START="1826" END="1831">Newman</charseq>
+      </extent>
+      <head>
+			<charseq START="1826" END="1831">Newman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E57" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E57-1">
+      <extent>
+			<charseq START="1837" END="1842">Pellot</charseq>
+      </extent>
+      <head>
+			<charseq START="1837" END="1842">Pellot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E58" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E58-1">
+      <extent>
+			<charseq START="1843" END="1863">&apos;s 16-year-old sister</charseq>
+      </extent>
+      <head>
+			<charseq START="1858" END="1863">sister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E59" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E59-1">
+      <extent>
+			<charseq START="1866" END="1868">she</charseq>
+      </extent>
+      <head>
+			<charseq START="1866" END="1868">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E60" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E60-1">
+      <extent>
+			<charseq START="1877" END="1882">Thomas</charseq>
+      </extent>
+      <head>
+			<charseq START="1877" END="1882">Thomas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E61" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E61-1">
+      <extent>
+			<charseq START="1888" END="1898">my daughter</charseq>
+      </extent>
+      <head>
+			<charseq START="1888" END="1889">my</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E62" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E62-1">
+      <extent>
+			<charseq START="1888" END="1898">my daughter</charseq>
+      </extent>
+      <head>
+			<charseq START="1891" END="1898">daughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E63" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E63-1">
+      <extent>
+			<charseq START="1899" END="1910">&apos;s boyfriend</charseq>
+      </extent>
+      <head>
+			<charseq START="1902" END="1910">boyfriend</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E64" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E64-1">
+      <extent>
+			<charseq START="1914" END="1918">Pilot</charseq>
+      </extent>
+      <head>
+			<charseq START="1914" END="1918">Pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E65" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E65-1">
+      <extent>
+			<charseq START="1927" END="1928">He</charseq>
+      </extent>
+      <head>
+			<charseq START="1927" END="1928">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E66" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E66-1">
+      <extent>
+			<charseq START="1935" END="1942">my house</charseq>
+      </extent>
+      <head>
+			<charseq START="1935" END="1936">my</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E67" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E67-1">
+      <extent>
+			<charseq START="1935" END="1942">my house</charseq>
+      </extent>
+      <head>
+			<charseq START="1938" END="1942">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E68" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E68-1">
+      <extent>
+			<charseq START="1958" END="1958">I</charseq>
+      </extent>
+      <head>
+			<charseq START="1958" END="1958">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E69" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E69-1">
+      <extent>
+			<charseq START="1967" END="1969">him</charseq>
+      </extent>
+      <head>
+			<charseq START="1967" END="1969">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E70" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E70-1">
+      <extent>
+			<charseq START="1974" END="1981">my house</charseq>
+      </extent>
+      <head>
+			<charseq START="1974" END="1975">my</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E71" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E71-1">
+      <extent>
+			<charseq START="1974" END="1981">my house</charseq>
+      </extent>
+      <head>
+			<charseq START="1977" END="1981">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E72" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E72-1">
+      <extent>
+			<charseq START="1999" END="2000">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1999" END="2000">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E73" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E73-1">
+      <extent>
+			<charseq START="2006" END="2011">a baby</charseq>
+      </extent>
+      <head>
+			<charseq START="2008" END="2011">baby</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E74" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E74-1">
+      <extent>
+			<charseq START="2016" END="2021">Keenan</charseq>
+      </extent>
+      <head>
+			<charseq START="2016" END="2021">Keenan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E75" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E75-1">
+      <extent>
+			<charseq START="2031" END="2033">him</charseq>
+      </extent>
+      <head>
+			<charseq START="2031" END="2033">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E76" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E76-1">
+      <extent>
+			<charseq START="2037" END="2039">she</charseq>
+      </extent>
+      <head>
+			<charseq START="2037" END="2039">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E77" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E77-1">
+      <extent>
+			<charseq START="2048" END="2053">Thomas</charseq>
+      </extent>
+      <head>
+			<charseq START="2048" END="2053">Thomas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E78" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E78-1">
+      <extent>
+			<charseq START="2062" END="2067">Keenan</charseq>
+      </extent>
+      <head>
+			<charseq START="2062" END="2067">Keenan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E79" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E79-1">
+      <extent>
+			<charseq START="2088" END="2090">him</charseq>
+      </extent>
+      <head>
+			<charseq START="2088" END="2090">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E80" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E80-1">
+      <extent>
+			<charseq START="2118" END="2122">Pilot</charseq>
+      </extent>
+      <head>
+			<charseq START="2118" END="2122">Pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E81" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E81-1">
+      <extent>
+			<charseq START="2129" END="2131">she</charseq>
+      </extent>
+      <head>
+			<charseq START="2129" END="2131">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E82" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E82-1">
+      <extent>
+			<charseq START="2159" END="2165">someone</charseq>
+      </extent>
+      <head>
+			<charseq START="2159" END="2165">someone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E83" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E83-1">
+      <extent>
+			<charseq START="2167" END="2169">who</charseq>
+      </extent>
+      <head>
+			<charseq START="2167" END="2169">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E84" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E84-1">
+      <extent>
+			<charseq START="2182" END="2184">She</charseq>
+      </extent>
+      <head>
+			<charseq START="2182" END="2184">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E85" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E85-1">
+      <extent>
+			<charseq START="2191" END="2193">she</charseq>
+      </extent>
+      <head>
+			<charseq START="2191" END="2193">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E86" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E86-1">
+      <extent>
+			<charseq START="2207" END="2209">who</charseq>
+      </extent>
+      <head>
+			<charseq START="2207" END="2209">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E87" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E87-1">
+      <extent>
+			<charseq START="2234" END="2234">I</charseq>
+      </extent>
+      <head>
+			<charseq START="2234" END="2234">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E88" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E88-1">
+      <extent>
+			<charseq START="2271" END="2275">Pilot</charseq>
+      </extent>
+      <head>
+			<charseq START="2271" END="2275">Pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E89" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E89-1">
+      <extent>
+			<charseq START="2284" END="2285">He</charseq>
+      </extent>
+      <head>
+			<charseq START="2284" END="2285">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E90" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E90-1">
+      <extent>
+			<charseq START="2292" END="2298">my baby</charseq>
+      </extent>
+      <head>
+			<charseq START="2292" END="2293">my</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E91" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E91-1">
+      <extent>
+			<charseq START="2292" END="2298">my baby</charseq>
+      </extent>
+      <head>
+			<charseq START="2295" END="2298">baby</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E92" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E92-1">
+      <extent>
+			<charseq START="2301" END="2301">I</charseq>
+      </extent>
+      <head>
+			<charseq START="2301" END="2301">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E93" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E93-1">
+      <extent>
+			<charseq START="2315" END="2319">Pilot</charseq>
+      </extent>
+      <head>
+			<charseq START="2315" END="2319">Pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E94" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E94-1">
+      <extent>
+			<charseq START="2354" END="2356">she</charseq>
+      </extent>
+      <head>
+			<charseq START="2354" END="2356">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E95" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E95-1">
+      <extent>
+			<charseq START="2369" END="2376">a cousin</charseq>
+      </extent>
+      <head>
+			<charseq START="2371" END="2376">cousin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E96" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E96-1">
+      <extent>
+			<charseq START="2381" END="2386">Newman</charseq>
+      </extent>
+      <head>
+			<charseq START="2381" END="2386">Newman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E97" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E97-1">
+      <extent>
+			<charseq START="2393" END="2416">neighborhood gas station</charseq>
+      </extent>
+      <head>
+			<charseq START="2410" END="2416">station</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E98" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E98-1">
+      <extent>
+			<charseq START="2419" END="2428">The cousin</charseq>
+      </extent>
+      <head>
+			<charseq START="2423" END="2428">cousin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E99" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E99-1">
+      <extent>
+			<charseq START="2484" END="2493">her Newman</charseq>
+      </extent>
+      <head>
+			<charseq START="2484" END="2486">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E100" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E100-1">
+      <extent>
+			<charseq START="2484" END="2493">her Newman</charseq>
+      </extent>
+      <head>
+			<charseq START="2488" END="2493">Newman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E101" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E101-1">
+      <extent>
+			<charseq START="2505" END="2507">him</charseq>
+      </extent>
+      <head>
+			<charseq START="2505" END="2507">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E102" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E102-1">
+      <extent>
+			<charseq START="2509" END="2515">the gun</charseq>
+      </extent>
+      <head>
+			<charseq START="2513" END="2515">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E103" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E103-1">
+      <extent>
+			<charseq START="2551" END="2557">the bus</charseq>
+      </extent>
+      <head>
+			<charseq START="2555" END="2557">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E104" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E104-1">
+      <extent>
+			<charseq START="2562" END="2570">Tennessee</charseq>
+      </extent>
+      <head>
+			<charseq START="2562" END="2570">Tennessee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E105" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E105-1">
+      <extent>
+			<charseq START="2580" END="2592">other members</charseq>
+      </extent>
+      <head>
+			<charseq START="2586" END="2592">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E106" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E106-1">
+      <extent>
+			<charseq START="2597" END="2606">his family</charseq>
+      </extent>
+      <head>
+			<charseq START="2597" END="2599">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E107" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E107-1">
+      <extent>
+			<charseq START="2597" END="2606">his family</charseq>
+      </extent>
+      <head>
+			<charseq START="2601" END="2606">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E108" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E108-1">
+      <extent>
+			<charseq START="2620" END="2622">she</charseq>
+      </extent>
+      <head>
+			<charseq START="2620" END="2622">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E109" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E109-1">
+      <extent>
+			<charseq START="2747" END="2751">Pilot</charseq>
+      </extent>
+      <head>
+			<charseq START="2747" END="2751">Pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E110" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E110-1">
+      <extent>
+			<charseq START="2752" END="2774">&apos;s Bartlett Avenue home</charseq>
+      </extent>
+      <head>
+			<charseq START="2755" END="2769">Bartlett Avenue</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E111" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E111-1">
+      <extent>
+			<charseq START="2752" END="2774">&apos;s Bartlett Avenue home</charseq>
+      </extent>
+      <head>
+			<charseq START="2771" END="2774">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E112" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E112-1">
+      <extent>
+			<charseq START="2793" END="2798">family</charseq>
+      </extent>
+      <head>
+			<charseq START="2793" END="2798">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E113" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E113-1">
+      <extent>
+			<charseq START="2849" END="2854">Pellot</charseq>
+      </extent>
+      <head>
+			<charseq START="2849" END="2854">Pellot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E114" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E114-1">
+      <extent>
+			<charseq START="2897" END="2906">his family</charseq>
+      </extent>
+      <head>
+			<charseq START="2897" END="2899">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E115" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E115-1">
+      <extent>
+			<charseq START="2897" END="2906">his family</charseq>
+      </extent>
+      <head>
+			<charseq START="2901" END="2906">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E116" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E116-1">
+      <extent>
+			<charseq START="2911" END="2921">Northampton</charseq>
+      </extent>
+      <head>
+			<charseq START="2911" END="2921">Northampton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E117" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E117-1">
+      <extent>
+			<charseq START="2924" END="2933">The family</charseq>
+      </extent>
+      <head>
+			<charseq START="2928" END="2933">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E118" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E118-1">
+      <extent>
+			<charseq START="2947" END="2956">Pittsfield</charseq>
+      </extent>
+      <head>
+			<charseq START="2947" END="2956">Pittsfield</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E119" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E119-1">
+      <extent>
+			<charseq START="2967" END="2968">He</charseq>
+      </extent>
+      <head>
+			<charseq START="2967" END="2968">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E120" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E120-1">
+      <extent>
+			<charseq START="2990" END="3000">high school</charseq>
+      </extent>
+      <head>
+			<charseq START="2995" END="3000">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E121" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E121-1">
+      <extent>
+			<charseq START="3010" END="3037">Department of Youth Services</charseq>
+      </extent>
+      <head>
+			<charseq START="3010" END="3037">Department of Youth Services</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E122" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E122-1">
+      <extent>
+			<charseq START="3087" END="3120">Hoosac Valley Middle &amp; High School</charseq>
+      </extent>
+      <head>
+			<charseq START="3087" END="3106">Hoosac Valley Middle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E123" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E123-1">
+      <extent>
+			<charseq START="3087" END="3120">Hoosac Valley Middle &amp; High School</charseq>
+      </extent>
+      <head>
+			<charseq START="3115" END="3120">School</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E124" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E124-1">
+      <extent>
+			<charseq START="3126" END="3140">his senior year</charseq>
+      </extent>
+      <head>
+			<charseq START="3126" END="3128">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E125" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E125-1">
+      <extent>
+			<charseq START="3153" END="3158">Pellot</charseq>
+      </extent>
+      <head>
+			<charseq START="3153" END="3158">Pellot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E126" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E126-1">
+      <extent>
+			<charseq START="3220" END="3258">the basketball court and football field</charseq>
+      </extent>
+      <head>
+			<charseq START="3235" END="3239">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E127" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E127-1">
+      <extent>
+			<charseq START="3220" END="3258">the basketball court and football field</charseq>
+      </extent>
+      <head>
+			<charseq START="3254" END="3258">field</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E128" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E128-1">
+      <extent>
+			<charseq START="3313" END="3317">Pilot</charseq>
+      </extent>
+      <head>
+			<charseq START="3313" END="3317">Pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E129" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E129-1">
+      <extent>
+			<charseq START="3326" END="3327">He</charseq>
+      </extent>
+      <head>
+			<charseq START="3326" END="3327">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E130" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E130-1">
+      <extent>
+			<charseq START="3333" END="3342">an athlete</charseq>
+      </extent>
+      <head>
+			<charseq START="3336" END="3342">athlete</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E131" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E131-1">
+      <extent>
+			<charseq START="3344" END="3347">that</charseq>
+      </extent>
+      <head>
+			<charseq START="3344" END="3347">that</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E132" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E132-1">
+      <extent>
+			<charseq START="3360" END="3369">this world</charseq>
+      </extent>
+      <head>
+			<charseq START="3365" END="3369">world</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E133" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E133-1">
+      <extent>
+			<charseq START="3373" END="3377">Pilot</charseq>
+      </extent>
+      <head>
+			<charseq START="3373" END="3377">Pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E134" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E134-1">
+      <extent>
+			<charseq START="3400" END="3402">you</charseq>
+      </extent>
+      <head>
+			<charseq START="3400" END="3402">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E135" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E135-1">
+      <extent>
+			<charseq START="3409" END="3411">him</charseq>
+      </extent>
+      <head>
+			<charseq START="3409" END="3411">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E136" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E136-1">
+      <extent>
+			<charseq START="3414" END="3415">he</charseq>
+      </extent>
+      <head>
+			<charseq START="3414" END="3415">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E137" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E137-1">
+      <extent>
+			<charseq START="3438" END="3439">He</charseq>
+      </extent>
+      <head>
+			<charseq START="3438" END="3439">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E138" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E138-1">
+      <extent>
+			<charseq START="3445" END="3456">the only kid</charseq>
+      </extent>
+      <head>
+			<charseq START="3454" END="3456">kid</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E139" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E139-1">
+      <extent>
+			<charseq START="3461" END="3474">the DYS school</charseq>
+      </extent>
+      <head>
+			<charseq START="3469" END="3474">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E140" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E140-1">
+      <extent>
+			<charseq START="3476" END="3478">who</charseq>
+      </extent>
+      <head>
+			<charseq START="3476" END="3478">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E141" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E141-1">
+      <extent>
+			<charseq START="3514" END="3519">Pellot</charseq>
+      </extent>
+      <head>
+			<charseq START="3514" END="3519">Pellot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E142" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E142-1">
+      <extent>
+			<charseq START="3580" END="3586">college</charseq>
+      </extent>
+      <head>
+			<charseq START="3580" END="3586">college</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E143" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E143-1">
+      <extent>
+			<charseq START="3589" END="3593">Pilot</charseq>
+      </extent>
+      <head>
+			<charseq START="3589" END="3593">Pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E144" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E144-1">
+      <extent>
+			<charseq START="3601" END="3602">He</charseq>
+      </extent>
+      <head>
+			<charseq START="3601" END="3602">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E145" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E145-1">
+      <extent>
+			<charseq START="3629" END="3635">his way</charseq>
+      </extent>
+      <head>
+			<charseq START="3629" END="3631">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E146" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E146-1">
+      <extent>
+			<charseq START="3679" END="3685">his job</charseq>
+      </extent>
+      <head>
+			<charseq START="3679" END="3681">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E147" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E147-1">
+      <extent>
+			<charseq START="3690" END="3694">Hotel</charseq>
+      </extent>
+      <head>
+			<charseq START="3690" END="3694">Hotel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E148" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E148-1">
+      <extent>
+			<charseq START="3699" END="3703">North</charseq>
+      </extent>
+      <head>
+			<charseq START="3699" END="3703">North</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E149" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E149-1">
+      <extent>
+			<charseq START="3706" END="3710">Pilot</charseq>
+      </extent>
+      <head>
+			<charseq START="3706" END="3710">Pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E150" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E150-1">
+      <extent>
+			<charseq START="3717" END="3722">Newman</charseq>
+      </extent>
+      <head>
+			<charseq START="3717" END="3722">Newman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E151" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E151-1">
+      <extent>
+			<charseq START="3757" END="3772">the neighborhood</charseq>
+      </extent>
+      <head>
+			<charseq START="3761" END="3772">neighborhood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E152" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E152-1">
+      <extent>
+			<charseq START="3806" END="3807">he</charseq>
+      </extent>
+      <head>
+			<charseq START="3806" END="3807">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E153" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E153-1">
+      <extent>
+			<charseq START="3817" END="3821">a bus</charseq>
+      </extent>
+      <head>
+			<charseq START="3819" END="3821">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E154" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E154-1">
+      <extent>
+			<charseq START="3826" END="3834">Tennessee</charseq>
+      </extent>
+      <head>
+			<charseq START="3826" END="3834">Tennessee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E155" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E155-1">
+      <extent>
+			<charseq START="3844" END="3856">other members</charseq>
+      </extent>
+      <head>
+			<charseq START="3850" END="3856">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E156" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E156-1">
+      <extent>
+			<charseq START="3861" END="3870">his family</charseq>
+      </extent>
+      <head>
+			<charseq START="3861" END="3863">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E157" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E157-1">
+      <extent>
+			<charseq START="3861" END="3870">his family</charseq>
+      </extent>
+      <head>
+			<charseq START="3865" END="3870">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E158" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E158-1">
+      <extent>
+			<charseq START="3885" END="3898">Sabrina Powell</charseq>
+      </extent>
+      <head>
+			<charseq START="3885" END="3898">Sabrina Powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E159" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E159-1">
+      <extent>
+			<charseq START="3901" END="3908">director</charseq>
+      </extent>
+      <head>
+			<charseq START="3901" END="3908">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E160" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E160-1">
+      <extent>
+			<charseq START="3921" END="3945">Our Community Youth Needs</charseq>
+      </extent>
+      <head>
+			<charseq START="3921" END="3923">Our</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E161" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E161-1">
+      <extent>
+			<charseq START="3925" END="3959">Community Youth Needs of Pittsfield</charseq>
+      </extent>
+      <head>
+			<charseq START="3925" END="3959">Community Youth Needs of Pittsfield</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E162" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E162-1">
+      <extent>
+			<charseq START="3971" END="3975">Pilot</charseq>
+      </extent>
+      <head>
+			<charseq START="3971" END="3975">Pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E163" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E163-1">
+      <extent>
+			<charseq START="3980" END="4002">the Barlett Avenue home</charseq>
+      </extent>
+      <head>
+			<charseq START="3984" END="4002">Barlett Avenue home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E164" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E164-1">
+      <extent>
+			<charseq START="4063" END="4068">Powell</charseq>
+      </extent>
+      <head>
+			<charseq START="4063" END="4068">Powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E165" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E165-1">
+      <extent>
+			<charseq START="4105" END="4112">No child</charseq>
+      </extent>
+      <head>
+			<charseq START="4108" END="4112">child</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E166" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E166-1">
+      <extent>
+			<charseq START="4131" END="4142">their mother</charseq>
+      </extent>
+      <head>
+			<charseq START="4131" END="4135">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E167" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E167-1">
+      <extent>
+			<charseq START="4131" END="4142">their mother</charseq>
+      </extent>
+      <head>
+			<charseq START="4137" END="4142">mother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E168" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E168-1">
+      <extent>
+			<charseq START="4145" END="4152">no child</charseq>
+      </extent>
+      <head>
+			<charseq START="4148" END="4152">child</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E169" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E169-1">
+      <extent>
+			<charseq START="4171" END="4182">their father</charseq>
+      </extent>
+      <head>
+			<charseq START="4171" END="4175">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E170" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E170-1">
+      <extent>
+			<charseq START="4171" END="4182">their father</charseq>
+      </extent>
+      <head>
+			<charseq START="4177" END="4182">father</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E171" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E171-1">
+      <extent>
+			<charseq START="4186" END="4191">Powell</charseq>
+      </extent>
+      <head>
+			<charseq START="4186" END="4191">Powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E172" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E172-1">
+      <extent>
+			<charseq START="4198" END="4203">Pellot</charseq>
+      </extent>
+      <head>
+			<charseq START="4198" END="4203">Pellot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E173" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E173-1">
+      <extent>
+			<charseq START="4214" END="4216">she</charseq>
+      </extent>
+      <head>
+			<charseq START="4214" END="4216">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E174" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E174-1">
+      <extent>
+			<charseq START="4255" END="4257">you</charseq>
+      </extent>
+      <head>
+			<charseq START="4255" END="4257">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E175" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E175-1">
+      <extent>
+			<charseq START="4273" END="4281">his smile</charseq>
+      </extent>
+      <head>
+			<charseq START="4273" END="4275">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E176" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E176-1">
+      <extent>
+			<charseq START="4296" END="4306">your spirit</charseq>
+      </extent>
+      <head>
+			<charseq START="4296" END="4299">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E177" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E177-1">
+      <extent>
+			<charseq START="4310" END="4315">Powell</charseq>
+      </extent>
+      <head>
+			<charseq START="4310" END="4315">Powell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E178" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E178-1">
+      <extent>
+			<charseq START="4345" END="4352">any room</charseq>
+      </extent>
+      <head>
+			<charseq START="4349" END="4352">room</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="493.sgm-E179" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="493.sgm-E179-1">
+      <extent>
+			<charseq START="4356" END="4374">Contact Phil Demers</charseq>
+      </extent>
+      <head>
+			<charseq START="4364" END="4374">Phil Demers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="493.sgm-R0" TYPE="PART-WHOLE">
+    <relation_argument REFID="493.sgm-E2" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E3" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="118" END="253">UPDATE: Thomas Lee Newman Jr. of Pittsfield was arrested Sunday in Utica, N.Y., according to Berkshire District Attorney David Capeless.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E2-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="185" END="189">Utica</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E3-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="192" END="195">N.Y.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="493.sgm-E0" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E3" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="118" END="253">UPDATE: Thomas Lee Newman Jr. of Pittsfield was arrested Sunday in Utica, N.Y., according to Berkshire District Attorney David Capeless.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E0-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="126" END="146">Thomas Lee Newman Jr.</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E3-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="192" END="195">N.Y.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R2" TYPE="GEN-AFF">
+    <relation_argument REFID="493.sgm-E17" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E16" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="556" END="734">PITTSFIELD &amp;GT;&amp;GT; An 18-year-old city man suspected in Friday&apos;s fatal shooting of Keenan S. Pellot Jr. was dating the victim&apos;s sister, according to Pellot&apos;s mother, Carey Pilot.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E17-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="576" END="598">An 18-year-old city man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E16-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="576" END="598">An 18-year-old city man</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R3" TYPE="PER-SOC">
+    <relation_argument REFID="493.sgm-E19" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E20" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="556" END="734">PITTSFIELD &amp;GT;&amp;GT; An 18-year-old city man suspected in Friday&apos;s fatal shooting of Keenan S. Pellot Jr. was dating the victim&apos;s sister, according to Pellot&apos;s mother, Carey Pilot.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E19-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="672" END="681">the victim</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E20-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="682" END="690">&apos;s sister</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R4" TYPE="PER-SOC">
+    <relation_argument REFID="493.sgm-E21" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E22" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="556" END="734">PITTSFIELD &amp;GT;&amp;GT; An 18-year-old city man suspected in Friday&apos;s fatal shooting of Keenan S. Pellot Jr. was dating the victim&apos;s sister, according to Pellot&apos;s mother, Carey Pilot.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E21-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="706" END="711">Pellot</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E22-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="712" END="720">&apos;s mother</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R5" TYPE="PER-SOC">
+    <relation_argument REFID="493.sgm-E27" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E28" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="736" END="902">She said the alleged shooter, Thomas Lee Newman Jr., and her son have known each other since childhood and she believed Friday&apos;s slaying stemmed from a &quot;family issue.&quot;</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E27-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="793" END="799">her son</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E28-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="793" END="799">her son</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R6" TYPE="ORG-AFF">
+    <relation_argument REFID="493.sgm-E31" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E30" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="904" END="1055">The Berkshire District Attorney&apos;s Office on Saturday issued a warrant for Newman&apos;s arrest on charges of murder and assault with intent to commit murder.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E31-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="935" END="943">&apos;s Office</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E30-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="904" END="934">The Berkshire District Attorney</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R7" TYPE="PER-SOC">
+    <relation_argument REFID="493.sgm-E53" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E54" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R7-1">
+      <ldc_extent>
+			<charseq START="1658" END="1786">Pilot identified Newman as a member of a gang but said her son was not, and Newman&apos;s participation played no role in the dispute.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E53-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1713" END="1719">her son</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E54-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1713" END="1719">her son</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R8" TYPE="PER-SOC">
+    <relation_argument REFID="493.sgm-E57" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E58" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R8-1">
+      <ldc_extent>
+			<charseq START="1789" END="1874">It involved the relationship between Newman and Pellot&apos;s 16-year-old sister, she said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E57-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1837" END="1842">Pellot</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E58-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1843" END="1863">&apos;s 16-year-old sister</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R9" TYPE="PER-SOC">
+    <relation_argument REFID="493.sgm-E61" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E62" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R9-1">
+      <ldc_extent>
+			<charseq START="1876" END="1924">&quot;Thomas was my daughter&apos;s boyfriend,&quot; Pilot said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E61-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1888" END="1898">my daughter</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E62-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1888" END="1898">my daughter</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R10" TYPE="PER-SOC">
+    <relation_argument REFID="493.sgm-E62" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E63" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R10-1">
+      <ldc_extent>
+			<charseq START="1876" END="1924">&quot;Thomas was my daughter&apos;s boyfriend,&quot; Pilot said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E62-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1888" END="1898">my daughter</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E63-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1899" END="1910">&apos;s boyfriend</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R11" TYPE="ART">
+    <relation_argument REFID="493.sgm-E66" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E67" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R11-1">
+      <ldc_extent>
+			<charseq START="1926" END="1956">&quot;He&apos;s at my house all the time.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E66-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1935" END="1942">my house</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E67-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1935" END="1942">my house</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R12" TYPE="ART">
+    <relation_argument REFID="493.sgm-E70" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E71" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R12-1">
+      <ldc_extent>
+			<charseq START="1958" END="2013">I&apos;ve had him at my house regularly since he was a baby.&quot;</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E70-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1974" END="1981">my house</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E71-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1974" END="1981">my house</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R13" TYPE="PER-SOC">
+    <relation_argument REFID="493.sgm-E90" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E91" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R13-1">
+      <ldc_extent>
+			<charseq START="2283" END="2299">&quot;He took my baby.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E90-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2292" END="2298">my baby</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E91-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2292" END="2298">my baby</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R14" TYPE="PHYS">
+    <relation_argument REFID="493.sgm-E96" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E97" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R14-1">
+      <ldc_extent>
+			<charseq START="2315" END="2417">Pilot said shortly after the shooting, she spoke with a cousin of Newman&apos;s at neighborhood gas station.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E96-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2381" END="2386">Newman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E97-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2393" END="2416">neighborhood gas station</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R15" TYPE="PER-SOC">
+    <relation_argument REFID="493.sgm-E106" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E107" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R15-1">
+      <ldc_extent>
+			<charseq START="2419" END="2628">The cousin was &quot;shaking&quot; and apologetic about the death and told her Newman had given him the gun used in the shooting then &quot;got on the bus to Tennessee,&quot; where other members of his family are living, she said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E106-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2597" END="2606">his family</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E107-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2597" END="2606">his family</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R16" TYPE="PER-SOC">
+    <relation_argument REFID="493.sgm-E109" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E110" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R16-1">
+      <ldc_extent>
+			<charseq START="2631" END="2847">A GoFundMe.com page established to help defray the funeral costs collected several thousand dollars Saturday, while Pilot&apos;s Bartlett Avenue home was flooded with family and other visitors bearing food and condolences.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E109-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2747" END="2751">Pilot</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E110-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2752" END="2774">&apos;s Bartlett Avenue home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R17" TYPE="ORG-AFF">
+    <relation_argument REFID="493.sgm-E109" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E111" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R17-1">
+      <ldc_extent>
+			<charseq START="2631" END="2847">A GoFundMe.com page established to help defray the funeral costs collected several thousand dollars Saturday, while Pilot&apos;s Bartlett Avenue home was flooded with family and other visitors bearing food and condolences.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E109-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2747" END="2751">Pilot</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E111-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2752" END="2774">&apos;s Bartlett Avenue home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R18" TYPE="PER-SOC">
+    <relation_argument REFID="493.sgm-E114" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E115" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R18-1">
+      <ldc_extent>
+			<charseq START="2849" END="2922">Pellot grew up in Pittsfield before moving with his family to Northampton.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E114-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2897" END="2906">his family</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E115-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2897" END="2906">his family</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R19" TYPE="PHYS">
+    <relation_argument REFID="493.sgm-E119" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E122" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R19-1">
+      <ldc_extent>
+			<charseq START="2967" END="3151">He previously attended high school through Department of Youth Services educational programs but was preparing to enter Hoosac Valley Middle &amp; High School for his senior year this fall.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E119-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2967" END="2968">He</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E122-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3087" END="3120">Hoosac Valley Middle &amp; High School</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R20" TYPE="ORG-AFF">
+    <relation_argument REFID="493.sgm-E119" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E121" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R20-1">
+      <ldc_extent>
+			<charseq START="2967" END="3151">He previously attended high school through Department of Youth Services educational programs but was preparing to enter Hoosac Valley Middle &amp; High School for his senior year this fall.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E119-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2967" END="2968">He</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E121-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3010" END="3037">Department of Youth Services</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R21" TYPE="ORG-AFF">
+    <relation_argument REFID="493.sgm-E138" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E139" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R21-1">
+      <ldc_extent>
+			<charseq START="3438" END="3501">He was the only kid in the DYS school who understood chemistry.&quot;</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E138-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3445" END="3456">the only kid</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E139-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3461" END="3474">the DYS school</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R22" TYPE="PER-SOC">
+    <relation_argument REFID="493.sgm-E156" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E157" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R22-1">
+      <ldc_extent>
+			<charseq START="3706" END="3882">Pilot said Newman was known for starting fights in the neighborhood and that following the shooting he &quot;got on a bus to Tennessee,&quot; where other members of his family are living.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E156-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3861" END="3870">his family</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E157-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3861" END="3870">his family</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R23" TYPE="PHYS">
+    <relation_argument REFID="493.sgm-E158" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E163" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R23-1">
+      <ldc_extent>
+			<charseq START="3885" END="4015">Sabrina Powell, director of Meeting Our Community Youth Needs of Pittsfield, was with Pilot at the Barlett Avenue home on Saturday.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E158-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3885" END="3898">Sabrina Powell</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E163-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3980" END="4002">the Barlett Avenue home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R24" TYPE="ORG-AFF">
+    <relation_argument REFID="493.sgm-E159" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E161" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R24-1">
+      <ldc_extent>
+			<charseq START="3885" END="4015">Sabrina Powell, director of Meeting Our Community Youth Needs of Pittsfield, was with Pilot at the Barlett Avenue home on Saturday.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E159-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3901" END="3908">director</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E161-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3925" END="3959">Community Youth Needs of Pittsfield</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R25" TYPE="PER-SOC">
+    <relation_argument REFID="493.sgm-E166" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E167" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R25-1">
+      <ldc_extent>
+			<charseq START="4105" END="4184">No child should go before their mother, no child should go before their father.&quot;</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E166-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4131" END="4142">their mother</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E167-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="4131" END="4142">their mother</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="493.sgm-R26" TYPE="PER-SOC">
+    <relation_argument REFID="493.sgm-E169" ROLE="Arg-1" />
+    <relation_argument REFID="493.sgm-E170" ROLE="Arg-2" />
+      <relation_mention ID="493.sgm-R26-1">
+      <ldc_extent>
+			<charseq START="4105" END="4184">No child should go before their mother, no child should go before their father.&quot;</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="493.sgm-E169-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4171" END="4182">their father</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="493.sgm-E170-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="4171" END="4182">their father</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="493.sgm-EV0" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="118" END="253">UPDATE: Thomas Lee Newman Jr. of Pittsfield was arrested Sunday in Utica, N.Y., according to Berkshire District Attorney David Capeless.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="166" END="173">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E0-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="126" END="146">Thomas Lee Newman Jr.</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV1" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="255" END="509">Newman will be brought before a Utica court on Monday to answer a charge of fugitive from justice, and local authorities will seek his rendition to Pittsfield, where he faces one count of murder and one count of armed assault with intent to commit murder.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="321" END="326">charge</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E9-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="331" END="338">fugitive</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="255" END="509">Newman will be brought before a Utica court on Monday to answer a charge of fugitive from justice, and local authorities will seek his rendition to Pittsfield, where he faces one count of murder and one count of armed assault with intent to commit murder.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="443" END="448">murder</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="255" END="509">Newman will be brought before a Utica court on Monday to answer a charge of fugitive from justice, and local authorities will seek his rendition to Pittsfield, where he faces one count of murder and one count of armed assault with intent to commit murder.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="503" END="508">murder</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="556" END="734">PITTSFIELD &amp;GT;&amp;GT; An 18-year-old city man suspected in Friday&apos;s fatal shooting of Keenan S. Pellot Jr. was dating the victim&apos;s sister, according to Pellot&apos;s mother, Carey Pilot.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="622" END="626">fatal</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="556" END="734">PITTSFIELD &amp;GT;&amp;GT; An 18-year-old city man suspected in Friday&apos;s fatal shooting of Keenan S. Pellot Jr. was dating the victim&apos;s sister, according to Pellot&apos;s mother, Carey Pilot.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="628" END="635">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E17-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="576" END="598">An 18-year-old city man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="736" END="902">She said the alleged shooter, Thomas Lee Newman Jr., and her son have known each other since childhood and she believed Friday&apos;s slaying stemmed from a &quot;family issue.&quot;</charseq>
+      </extent>
+      <anchor>
+			<charseq START="865" END="871">slaying</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV7" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="904" END="1055">The Berkshire District Attorney&apos;s Office on Saturday issued a warrant for Newman&apos;s arrest on charges of murder and assault with intent to commit murder.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="987" END="992">arrest</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E32-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="978" END="983">Newman</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV8" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="904" END="1055">The Berkshire District Attorney&apos;s Office on Saturday issued a warrant for Newman&apos;s arrest on charges of murder and assault with intent to commit murder.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="997" END="1003">charges</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="904" END="1055">The Berkshire District Attorney&apos;s Office on Saturday issued a warrant for Newman&apos;s arrest on charges of murder and assault with intent to commit murder.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1049" END="1054">murder</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV10" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV10-1" p="1.000">
+      <extent>
+			<charseq START="1126" END="1241">Pellot died of his wounds shortly after the shooting, which occurred around 1 p.m. in the 100 block of Tyler Street.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1133" END="1136">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E37-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1126" END="1131">Pellot</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV11" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV11-1" p="1.000">
+      <extent>
+			<charseq START="1126" END="1241">Pellot died of his wounds shortly after the shooting, which occurred around 1 p.m. in the 100 block of Tyler Street.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1145" END="1150">wounds</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E37-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1126" END="1131">Pellot</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV12" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV12-1" p="1.000">
+      <extent>
+			<charseq START="1126" END="1241">Pellot died of his wounds shortly after the shooting, which occurred around 1 p.m. in the 100 block of Tyler Street.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1170" END="1177">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV13" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV13-1" p="1.000">
+      <extent>
+			<charseq START="1245" END="1450">A second victim who was with Pellot, who police described as a 17-year-old man, also suffered multiple gunshot wounds and remains in guarded condition at Berkshire Medical Center, according the DA&apos;s office.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1356" END="1361">wounds</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E40-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1245" END="1259">A second victim</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV14" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV14-1" p="1.000">
+      <extent>
+			<charseq START="1452" END="1656">In an interview with the Eagle on Saturday, Pilot objected to suggestions on social media that the shooting was gang-related or somehow related to shootings on July 4, which left one dead and four wounded.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1551" END="1558">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV15" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV15-1" p="1.000">
+      <extent>
+			<charseq START="1452" END="1656">In an interview with the Eagle on Saturday, Pilot objected to suggestions on social media that the shooting was gang-related or somehow related to shootings on July 4, which left one dead and four wounded.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1599" END="1607">shootings</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV16" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV16-1" p="1.000">
+      <extent>
+			<charseq START="1452" END="1656">In an interview with the Eagle on Saturday, Pilot objected to suggestions on social media that the shooting was gang-related or somehow related to shootings on July 4, which left one dead and four wounded.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1649" END="1655">wounded</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E49-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1631" END="1647">one dead and four</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV17" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV17-1" p="1.000">
+      <extent>
+			<charseq START="2015" END="2045">&quot;Keenan did hit him,&quot; she said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2027" END="2029">hit</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E74-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2016" END="2021">Keenan</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="493.sgm-E75-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2031" END="2033">him</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV18" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV18-1" p="1.000">
+      <extent>
+			<charseq START="2047" END="2116">&quot;Thomas pushed Keenan down and then shot him in the chest five times.&quot;</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2083" END="2086">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E77-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2048" END="2053">Thomas</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="493.sgm-E79-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2088" END="2090">him</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV19" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV19-1" p="1.000">
+      <extent>
+			<charseq START="2315" END="2417">Pilot said shortly after the shooting, she spoke with a cousin of Newman&apos;s at neighborhood gas station.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2358" END="2362">spoke</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E94-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2354" END="2356">she</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="493.sgm-E95-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2369" END="2376">a cousin</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV20" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV20-1" p="1.000">
+      <extent>
+			<charseq START="2419" END="2628">The cousin was &quot;shaking&quot; and apologetic about the death and told her Newman had given him the gun used in the shooting then &quot;got on the bus to Tennessee,&quot; where other members of his family are living, she said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2469" END="2473">death</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E102-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2509" END="2515">the gun</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV21" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV21-1" p="1.000">
+      <extent>
+			<charseq START="2849" END="2922">Pellot grew up in Pittsfield before moving with his family to Northampton.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2885" END="2890">moving</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E115-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2897" END="2906">his family</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="493.sgm-E116-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2911" END="2921">Northampton</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV22" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV22-1" p="1.000">
+      <extent>
+			<charseq START="2924" END="2965">The family returned to Pittsfield in 2011.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2935" END="2942">returned</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E117-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2924" END="2933">The family</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV23" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV23-1" p="1.000">
+      <extent>
+			<charseq START="2967" END="3151">He previously attended high school through Department of Youth Services educational programs but was preparing to enter Hoosac Valley Middle &amp; High School for his senior year this fall.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3081" END="3085">enter</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E119-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2967" END="2968">He</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="493.sgm-E122-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3087" END="3120">Hoosac Valley Middle &amp; High School</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV24" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV24-1" p="1.000">
+      <extent>
+			<charseq START="3503" END="3599">At Hoosac, Pellot hoped to play basketball and get recruited to a Division I college, Pilot said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3554" END="3562">recruited</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E142-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3580" END="3586">college</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV25" TYPE="Justice" SUBTYPE="Extradite" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV25-1" p="1.000">
+      <extent>
+			<charseq START="3503" END="3599">At Hoosac, Pellot hoped to play basketball and get recruited to a Division I college, Pilot said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3569" END="3576">Division</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV26" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV26-1" p="1.000">
+      <extent>
+			<charseq START="3706" END="3882">Pilot said Newman was known for starting fights in the neighborhood and that following the shooting he &quot;got on a bus to Tennessee,&quot; where other members of his family are living.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3747" END="3752">fights</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E151-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3757" END="3772">the neighborhood</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV27" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV27-1" p="1.000">
+      <extent>
+			<charseq START="3706" END="3882">Pilot said Newman was known for starting fights in the neighborhood and that following the shooting he &quot;got on a bus to Tennessee,&quot; where other members of his family are living.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3797" END="3804">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E153-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3817" END="3821">a bus</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="493.sgm-E154-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3826" END="3834">Tennessee</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV28" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV28-1" p="1.000">
+      <extent>
+			<charseq START="3885" END="4015">Sabrina Powell, director of Meeting Our Community Youth Needs of Pittsfield, was with Pilot at the Barlett Avenue home on Saturday.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3913" END="3919">Meeting</charseq>
+      </anchor>
+      <event_mention_argument REFID="493.sgm-E158-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3885" END="3898">Sabrina Powell</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="493.sgm-EV29" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="493.sgm-EV29-1" p="1.000">
+      <extent>
+			<charseq START="4017" END="4074">&quot;It&apos;s another tragedy to hit this community,&quot; Powell said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4042" END="4044">hit</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

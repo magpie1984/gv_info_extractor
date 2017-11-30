@@ -1,0 +1,3174 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/341.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/341.sgm">
+  <entity ID="341.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E0-1">
+      <extent>
+			<charseq START="115" END="123">Tennessee</charseq>
+      </extent>
+      <head>
+			<charseq START="115" END="123">Tennessee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E1-1">
+      <extent>
+			<charseq START="158" END="171">American jihad</charseq>
+      </extent>
+      <head>
+			<charseq START="158" END="165">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E2" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E2-1">
+      <extent>
+			<charseq START="190" END="218">the five U.S. service members</charseq>
+      </extent>
+      <head>
+			<charseq START="199" END="202">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E3-1">
+      <extent>
+			<charseq START="190" END="218">the five U.S. service members</charseq>
+      </extent>
+      <head>
+			<charseq START="212" END="218">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E4" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E4-1">
+      <extent>
+			<charseq START="252" END="262">Chattanooga</charseq>
+      </extent>
+      <head>
+			<charseq START="252" END="262">Chattanooga</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E5" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E5-1">
+      <extent>
+			<charseq START="272" END="298">the Boston Marathon bombers</charseq>
+      </extent>
+      <head>
+			<charseq START="276" END="298">Boston Marathon bombers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E6" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E6-1">
+      <extent>
+			<charseq START="301" END="322">the Fort Hood shooting</charseq>
+      </extent>
+      <head>
+			<charseq START="305" END="313">Fort Hood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E7" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E7-1">
+      <extent>
+			<charseq START="339" END="355">the Islamic State</charseq>
+      </extent>
+      <head>
+			<charseq START="351" END="355">State</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E8-1">
+      <extent>
+			<charseq START="365" END="389">another troubled teenager</charseq>
+      </extent>
+      <head>
+			<charseq START="382" END="389">teenager</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E9" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E9-1">
+      <extent>
+			<charseq START="396" END="409">the same state</charseq>
+      </extent>
+      <head>
+			<charseq START="405" END="409">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E10" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E10-1">
+      <extent>
+			<charseq START="411" END="413">who</charseq>
+      </extent>
+      <head>
+			<charseq START="411" END="413">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E11-1">
+      <extent>
+			<charseq START="459" END="491">the first deadly terrorist attack</charseq>
+      </extent>
+      <head>
+			<charseq START="476" END="484">terrorist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E12" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E12-1">
+      <extent>
+			<charseq START="496" END="504">U.S. soil</charseq>
+      </extent>
+      <head>
+			<charseq START="496" END="499">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E13" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E13-1">
+      <extent>
+			<charseq START="518" END="525">The road</charseq>
+      </extent>
+      <head>
+			<charseq START="522" END="525">road</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E14" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E14-1">
+      <extent>
+			<charseq START="542" END="545">here</charseq>
+      </extent>
+      <head>
+			<charseq START="542" END="545">here</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E15" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E15-1">
+      <extent>
+			<charseq START="548" END="552">where</charseq>
+      </extent>
+      <head>
+			<charseq START="548" END="552">where</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E16-1">
+      <extent>
+			<charseq START="554" END="563">Highway 40</charseq>
+      </extent>
+      <head>
+			<charseq START="554" END="560">Highway</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E17" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E17-1">
+      <extent>
+			<charseq START="573" END="597">the state Abraham Lincoln</charseq>
+      </extent>
+      <head>
+			<charseq START="577" END="581">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E18" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E18-1">
+      <extent>
+			<charseq START="573" END="597">the state Abraham Lincoln</charseq>
+      </extent>
+      <head>
+			<charseq START="583" END="597">Abraham Lincoln</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E19" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E19-1">
+      <extent>
+			<charseq START="673" END="693">Nashville and Jackson</charseq>
+      </extent>
+      <head>
+			<charseq START="673" END="681">Nashville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E20" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E20-1">
+      <extent>
+			<charseq START="673" END="693">Nashville and Jackson</charseq>
+      </extent>
+      <head>
+			<charseq START="687" END="693">Jackson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E21" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E21-1">
+      <extent>
+			<charseq START="724" END="745">rich Mississippi delta</charseq>
+      </extent>
+      <head>
+			<charseq START="729" END="745">Mississippi delta</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E22" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E22-1">
+      <extent>
+			<charseq START="790" END="812">Hernando de Soto Bridge</charseq>
+      </extent>
+      <head>
+			<charseq START="790" END="812">Hernando de Soto Bridge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E23" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E23-1">
+      <extent>
+			<charseq START="821" END="840">the wide lazy waters</charseq>
+      </extent>
+      <head>
+			<charseq START="835" END="840">waters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E24" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E24-1">
+      <extent>
+			<charseq START="891" END="907">the cotton fields</charseq>
+      </extent>
+      <head>
+			<charseq START="902" END="907">fields</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E25" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E25-1">
+      <extent>
+			<charseq START="933" END="956">the local black churches</charseq>
+      </extent>
+      <head>
+			<charseq START="949" END="956">churches</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E26" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E26-1">
+      <extent>
+			<charseq START="982" END="1010">the Southern chitlin’ circuit</charseq>
+      </extent>
+      <head>
+			<charseq START="986" END="1010">Southern chitlin’ circuit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E27" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E27-1">
+      <extent>
+			<charseq START="1029" END="1047">country honky-tonks</charseq>
+      </extent>
+      <head>
+			<charseq START="1029" END="1035">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E28" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E28-1">
+      <extent>
+			<charseq START="1071" END="1091">clubs of Beale Street</charseq>
+      </extent>
+      <head>
+			<charseq START="1071" END="1091">clubs of Beale Street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E29" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E29-1">
+      <extent>
+			<charseq START="1138" END="1151">American music</charseq>
+      </extent>
+      <head>
+			<charseq START="1138" END="1145">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E30" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E30-1">
+      <extent>
+			<charseq START="1198" END="1204">Memphis</charseq>
+      </extent>
+      <head>
+			<charseq START="1198" END="1204">Memphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E31-1">
+      <extent>
+			<charseq START="1211" END="1225">a tourist mecca</charseq>
+      </extent>
+      <head>
+			<charseq START="1213" END="1219">tourist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E32-1">
+      <extent>
+			<charseq START="1232" END="1255">Melvin Bledsoe’s company</charseq>
+      </extent>
+      <head>
+			<charseq START="1232" END="1237">Melvin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E33" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E33-1">
+      <extent>
+			<charseq START="1232" END="1255">Melvin Bledsoe’s company</charseq>
+      </extent>
+      <head>
+			<charseq START="1249" END="1255">company</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E34" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E34-1">
+      <extent>
+			<charseq START="1258" END="1272">Twin City Tours</charseq>
+      </extent>
+      <head>
+			<charseq START="1258" END="1272">Twin City Tours</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E35-1">
+      <extent>
+			<charseq START="1309" END="1311">you</charseq>
+      </extent>
+      <head>
+			<charseq START="1309" END="1311">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E36" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E36-1">
+      <extent>
+			<charseq START="1323" END="1339">many other places</charseq>
+      </extent>
+      <head>
+			<charseq START="1334" END="1339">places</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E37" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E37-1">
+      <extent>
+			<charseq START="1342" END="1371">Stax Records soul music museum</charseq>
+      </extent>
+      <head>
+			<charseq START="1366" END="1371">museum</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E38-1">
+      <extent>
+			<charseq START="1377" END="1389">Sam Phillips’</charseq>
+      </extent>
+      <head>
+			<charseq START="1377" END="1388">Sam Phillips</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E39" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E39-1">
+      <extent>
+			<charseq START="1391" END="1409">original Sun Studio</charseq>
+      </extent>
+      <head>
+			<charseq START="1400" END="1402">Sun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E40" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E40-1">
+      <extent>
+			<charseq START="1391" END="1409">original Sun Studio</charseq>
+      </extent>
+      <head>
+			<charseq START="1404" END="1409">Studio</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E41" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E41-1">
+      <extent>
+			<charseq START="1448" END="1510">the late great B.B. King’s Blues Club and Jerry Lee Lewis’ Café</charseq>
+      </extent>
+      <head>
+			<charseq START="1463" END="1484">B.B. King’s Blues Club</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E42-1">
+      <extent>
+			<charseq START="1448" END="1510">the late great B.B. King’s Blues Club and Jerry Lee Lewis’ Café</charseq>
+      </extent>
+      <head>
+			<charseq START="1490" END="1510">Jerry Lee Lewis’ Café</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E43" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E43-1">
+      <extent>
+			<charseq START="1516" END="1529">Honky Tonk—and</charseq>
+      </extent>
+      <head>
+			<charseq START="1516" END="1529">Honky Tonk—and</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E44" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E44-1">
+      <extent>
+			<charseq START="1553" END="1563">A quiet man</charseq>
+      </extent>
+      <head>
+			<charseq START="1561" END="1563">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E45" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E45-1">
+      <extent>
+			<charseq START="1687" END="1700">Melvin Bledsoe</charseq>
+      </extent>
+      <head>
+			<charseq START="1687" END="1700">Melvin Bledsoe</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E46" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E46-1">
+      <extent>
+			<charseq START="1747" END="1752">people</charseq>
+      </extent>
+      <head>
+			<charseq START="1747" END="1752">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E47" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E47-1">
+      <extent>
+			<charseq START="1811" END="1829">Twin City customers</charseq>
+      </extent>
+      <head>
+			<charseq START="1811" END="1819">Twin City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E48" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E48-1">
+      <extent>
+			<charseq START="1811" END="1829">Twin City customers</charseq>
+      </extent>
+      <head>
+			<charseq START="1821" END="1829">customers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E49" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E49-1">
+      <extent>
+			<charseq START="1864" END="1877">a proud Melvin</charseq>
+      </extent>
+      <head>
+			<charseq START="1872" END="1877">Melvin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E50" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E50-1">
+      <extent>
+			<charseq START="1883" END="1897">his teenage son</charseq>
+      </extent>
+      <head>
+			<charseq START="1883" END="1885">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E51" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E51-1">
+      <extent>
+			<charseq START="1883" END="1897">his teenage son</charseq>
+      </extent>
+      <head>
+			<charseq START="1895" END="1897">son</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E52" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E52-1">
+      <extent>
+			<charseq START="1899" END="1904">Carlos</charseq>
+      </extent>
+      <head>
+			<charseq START="1899" END="1904">Carlos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E53" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E53-1">
+      <extent>
+			<charseq START="1907" END="1909">who</charseq>
+      </extent>
+      <head>
+			<charseq START="1907" END="1909">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E54" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E54-1">
+      <extent>
+			<charseq START="1917" END="1918">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1917" END="1918">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E55" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E55-1">
+      <extent>
+			<charseq START="2003" END="2008">Carlos</charseq>
+      </extent>
+      <head>
+			<charseq START="2003" END="2008">Carlos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E56" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E56-1">
+      <extent>
+			<charseq START="2019" END="2024">school</charseq>
+      </extent>
+      <head>
+			<charseq START="2019" END="2024">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E57" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E57-1">
+      <extent>
+			<charseq START="2102" END="2133">Redeemed Christian Church of God</charseq>
+      </extent>
+      <head>
+			<charseq START="2102" END="2133">Redeemed Christian Church of God</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E58" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E58-1">
+      <extent>
+			<charseq START="2139" END="2173">the nearby East Side Baptist Church</charseq>
+      </extent>
+      <head>
+			<charseq START="2150" END="2153">East</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E59" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E59-1">
+      <extent>
+			<charseq START="2139" END="2173">the nearby East Side Baptist Church</charseq>
+      </extent>
+      <head>
+			<charseq START="2155" END="2158">Side</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E60" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E60-1">
+      <extent>
+			<charseq START="2139" END="2173">the nearby East Side Baptist Church</charseq>
+      </extent>
+      <head>
+			<charseq START="2160" END="2173">Baptist Church</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E61" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E61-1">
+      <extent>
+			<charseq START="2176" END="2177">He</charseq>
+      </extent>
+      <head>
+			<charseq START="2176" END="2177">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E62" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E62-1">
+      <extent>
+			<charseq START="2200" END="2214">the high school</charseq>
+      </extent>
+      <head>
+			<charseq START="2209" END="2214">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E63" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E63-1">
+      <extent>
+			<charseq START="2224" END="2251">his girlfriend and prom date</charseq>
+      </extent>
+      <head>
+			<charseq START="2224" END="2226">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E64" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E64-1">
+      <extent>
+			<charseq START="2224" END="2251">his girlfriend and prom date</charseq>
+      </extent>
+      <head>
+			<charseq START="2228" END="2237">girlfriend</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E65" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E65-1">
+      <extent>
+			<charseq START="2256" END="2277">a local Baptist church</charseq>
+      </extent>
+      <head>
+			<charseq START="2264" END="2270">Baptist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E66" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E66-1">
+      <extent>
+			<charseq START="2280" END="2304">The Bledsoe family—father</charseq>
+      </extent>
+      <head>
+			<charseq START="2284" END="2304">Bledsoe family—father</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E67" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E67-1">
+      <extent>
+			<charseq START="2307" END="2312">mother</charseq>
+      </extent>
+      <head>
+			<charseq START="2307" END="2312">mother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E68" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E68-1">
+      <extent>
+			<charseq START="2315" END="2317">son</charseq>
+      </extent>
+      <head>
+			<charseq START="2315" END="2317">son</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E69" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E69-1">
+      <extent>
+			<charseq START="2380" END="2408">two-story mostly brick houses</charseq>
+      </extent>
+      <head>
+			<charseq START="2403" END="2408">houses</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E70" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E70-1">
+      <extent>
+			<charseq START="2513" END="2549">a prominently displayed American flag</charseq>
+      </extent>
+      <head>
+			<charseq START="2537" END="2544">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E71" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E71-1">
+      <extent>
+			<charseq START="2570" END="2583">Melvin Bledsoe</charseq>
+      </extent>
+      <head>
+			<charseq START="2570" END="2583">Melvin Bledsoe</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E72" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E72-1">
+      <extent>
+			<charseq START="2646" END="2663">the American dream</charseq>
+      </extent>
+      <head>
+			<charseq START="2650" END="2657">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E73" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E73-1">
+      <extent>
+			<charseq START="2666" END="2669">Both</charseq>
+      </extent>
+      <head>
+			<charseq START="2666" END="2669">Both</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E74" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E74-1">
+      <extent>
+			<charseq START="2674" END="2685">his children</charseq>
+      </extent>
+      <head>
+			<charseq START="2674" END="2676">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E75" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E75-1">
+      <extent>
+			<charseq START="2674" END="2685">his children</charseq>
+      </extent>
+      <head>
+			<charseq START="2678" END="2685">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E76" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E76-1">
+      <extent>
+			<charseq START="2756" END="2766">own parents</charseq>
+      </extent>
+      <head>
+			<charseq START="2760" END="2766">parents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E77" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E77-1">
+      <extent>
+			<charseq START="2788" END="2799">The Bledsoes</charseq>
+      </extent>
+      <head>
+			<charseq START="2792" END="2799">Bledsoes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E78" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E78-1">
+      <extent>
+			<charseq START="2806" END="2826">a tightly knit family</charseq>
+      </extent>
+      <head>
+			<charseq START="2821" END="2826">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E79" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E79-1">
+      <extent>
+			<charseq START="2852" END="2886">a supportive and familiar community</charseq>
+      </extent>
+      <head>
+			<charseq START="2878" END="2886">community</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E80" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E80-1">
+      <extent>
+			<charseq START="3082" END="3085">they</charseq>
+      </extent>
+      <head>
+			<charseq START="3082" END="3085">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E81" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E81-1">
+      <extent>
+			<charseq START="3136" END="3151">’ American dream</charseq>
+      </extent>
+      <head>
+			<charseq START="3138" END="3145">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E82" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E82-1">
+      <extent>
+			<charseq START="3195" END="3222">a heartbroken Melvin Bledsoe</charseq>
+      </extent>
+      <head>
+			<charseq START="3209" END="3222">Melvin Bledsoe</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E83" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E83-1">
+      <extent>
+			<charseq START="3259" END="3280">his beloved son Carlos</charseq>
+      </extent>
+      <head>
+			<charseq START="3259" END="3261">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E84" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E84-1">
+      <extent>
+			<charseq START="3259" END="3280">his beloved son Carlos</charseq>
+      </extent>
+      <head>
+			<charseq START="3271" END="3273">son</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E85" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E85-1">
+      <extent>
+			<charseq START="3259" END="3280">his beloved son Carlos</charseq>
+      </extent>
+      <head>
+			<charseq START="3275" END="3280">Carlos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E86" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E86-1">
+      <extent>
+			<charseq START="3325" END="3341">a hate-filled man</charseq>
+      </extent>
+      <head>
+			<charseq START="3339" END="3341">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E87" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E87-1">
+      <extent>
+			<charseq START="3343" END="3345">who</charseq>
+      </extent>
+      <head>
+			<charseq START="3343" END="3345">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E88" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E88-1">
+      <extent>
+			<charseq START="3354" END="3360">himself</charseq>
+      </extent>
+      <head>
+			<charseq START="3354" END="3360">himself</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E89" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E89-1">
+      <extent>
+			<charseq START="3362" END="3387">Abulhakim Mujahid Mohammed</charseq>
+      </extent>
+      <head>
+			<charseq START="3362" END="3387">Abulhakim Mujahid Mohammed</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E90" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E90-1">
+      <extent>
+			<charseq START="3390" END="3395">Carlos</charseq>
+      </extent>
+      <head>
+			<charseq START="3390" END="3395">Carlos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E91" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E91-1">
+      <extent>
+			<charseq START="3511" END="3520">the nation</charseq>
+      </extent>
+      <head>
+			<charseq START="3515" END="3520">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E92" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E92-1">
+      <extent>
+			<charseq START="3554" END="3570">another young man</charseq>
+      </extent>
+      <head>
+			<charseq START="3568" END="3570">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E93" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E93-1">
+      <extent>
+			<charseq START="3600" END="3619">a recruiting station</charseq>
+      </extent>
+      <head>
+			<charseq START="3613" END="3619">station</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E94" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E94-1">
+      <extent>
+			<charseq START="3624" END="3632">Tennessee</charseq>
+      </extent>
+      <head>
+			<charseq START="3624" END="3632">Tennessee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E95" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E95-1">
+      <extent>
+			<charseq START="3677" END="3696">that alleged shooter</charseq>
+      </extent>
+      <head>
+			<charseq START="3690" END="3696">shooter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E96" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E96-1">
+      <extent>
+			<charseq START="3699" END="3725">Mohammad Youssef Abdulazeez</charseq>
+      </extent>
+      <head>
+			<charseq START="3699" END="3725">Mohammad Youssef Abdulazeez</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E97" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E97-1">
+      <extent>
+			<charseq START="3732" END="3747">Carlos Bledsoe’s</charseq>
+      </extent>
+      <head>
+			<charseq START="3732" END="3737">Carlos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E98" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E98-1">
+      <extent>
+			<charseq START="3732" END="3747">Carlos Bledsoe’s</charseq>
+      </extent>
+      <head>
+			<charseq START="3739" END="3747">Bledsoe’s</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E99" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E99-1">
+      <extent>
+			<charseq START="3789" END="3796">Both men</charseq>
+      </extent>
+      <head>
+			<charseq START="3794" END="3796">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E100" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E100-1">
+      <extent>
+			<charseq START="3809" END="3817">Tennessee</charseq>
+      </extent>
+      <head>
+			<charseq START="3809" END="3817">Tennessee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E101" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E101-1">
+      <extent>
+			<charseq START="3872" END="3882">their lives</charseq>
+      </extent>
+      <head>
+			<charseq START="3872" END="3876">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E102" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E102-1">
+      <extent>
+			<charseq START="3943" END="3946">They</charseq>
+      </extent>
+      <head>
+			<charseq START="3943" END="3946">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E103" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E103-1">
+      <extent>
+			<charseq START="4002" END="4016">the Middle East</charseq>
+      </extent>
+      <head>
+			<charseq START="4006" END="4016">Middle East</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E104" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E104-1">
+      <extent>
+			<charseq START="4083" END="4099">Fort Hood shooter</charseq>
+      </extent>
+      <head>
+			<charseq START="4083" END="4091">Fort Hood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E105" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E105-1">
+      <extent>
+			<charseq START="4101" END="4118">Major Nidal Hassan</charseq>
+      </extent>
+      <head>
+			<charseq START="4107" END="4118">Nidal Hassan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E106" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E106-1">
+      <extent>
+			<charseq START="4121" END="4124">they</charseq>
+      </extent>
+      <head>
+			<charseq START="4121" END="4124">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E107" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E107-1">
+      <extent>
+			<charseq START="4176" END="4220">the charismatic, radical imam Anwar al-Awlaki</charseq>
+      </extent>
+      <head>
+			<charseq START="4206" END="4210">Anwar</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E108" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E108-1">
+      <extent>
+			<charseq START="4176" END="4220">the charismatic, radical imam Anwar al-Awlaki</charseq>
+      </extent>
+      <head>
+			<charseq START="4212" END="4220">al-Awlaki</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E109" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E109-1">
+      <extent>
+			<charseq START="4223" END="4225">who</charseq>
+      </extent>
+      <head>
+			<charseq START="4223" END="4225">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E110" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E110-1">
+      <extent>
+			<charseq START="4242" END="4267">the first American citizen</charseq>
+      </extent>
+      <head>
+			<charseq START="4252" END="4259">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E111" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E111-1">
+      <extent>
+			<charseq START="4242" END="4267">the first American citizen</charseq>
+      </extent>
+      <head>
+			<charseq START="4261" END="4267">citizen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E112" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E112-1">
+      <extent>
+			<charseq START="4298" END="4316">a U.S. drone strike</charseq>
+      </extent>
+      <head>
+			<charseq START="4300" END="4303">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E113" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E113-1">
+      <extent>
+			<charseq START="4298" END="4316">a U.S. drone strike</charseq>
+      </extent>
+      <head>
+			<charseq START="4305" END="4309">drone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E114" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E114-1">
+      <extent>
+			<charseq START="4319" END="4346">Both Mohammed and Abdulazeez</charseq>
+      </extent>
+      <head>
+			<charseq START="4324" END="4331">Mohammed</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E115" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E115-1">
+      <extent>
+			<charseq START="4319" END="4346">Both Mohammed and Abdulazeez</charseq>
+      </extent>
+      <head>
+			<charseq START="4337" END="4346">Abdulazeez</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E116" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E116-1">
+      <extent>
+			<charseq START="4354" END="4381">military recruiting stations</charseq>
+      </extent>
+      <head>
+			<charseq START="4354" END="4361">military</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E117" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E117-1">
+      <extent>
+			<charseq START="4414" END="4432">their violent jihad</charseq>
+      </extent>
+      <head>
+			<charseq START="4414" END="4418">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E118" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E118-1">
+      <extent>
+			<charseq START="4525" END="4544">homegrown extremists</charseq>
+      </extent>
+      <head>
+			<charseq START="4535" END="4544">extremists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E119" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E119-1">
+      <extent>
+			<charseq START="4551" END="4571">their growing numbers</charseq>
+      </extent>
+      <head>
+			<charseq START="4551" END="4555">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E120" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E120-1">
+      <extent>
+			<charseq START="4595" END="4610">U.S. authorities</charseq>
+      </extent>
+      <head>
+			<charseq START="4595" END="4598">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E121" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E121-1">
+      <extent>
+			<charseq START="4595" END="4610">U.S. authorities</charseq>
+      </extent>
+      <head>
+			<charseq START="4600" END="4610">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E122" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E122-1">
+      <extent>
+			<charseq START="4624" END="4630">the FBI</charseq>
+      </extent>
+      <head>
+			<charseq START="4628" END="4630">FBI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E123" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E123-1">
+      <extent>
+			<charseq START="4633" END="4635">who</charseq>
+      </extent>
+      <head>
+			<charseq START="4633" END="4635">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E124" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E124-1">
+      <extent>
+			<charseq START="4650" END="4653">them</charseq>
+      </extent>
+      <head>
+			<charseq START="4650" END="4653">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E125" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E125-1">
+      <extent>
+			<charseq START="4688" END="4698">their plots</charseq>
+      </extent>
+      <head>
+			<charseq START="4688" END="4692">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E126" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E126-1">
+      <extent>
+			<charseq START="4708" END="4711">they</charseq>
+      </extent>
+      <head>
+			<charseq START="4708" END="4711">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E127" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E127-1">
+      <extent>
+			<charseq START="4753" END="4762">his family</charseq>
+      </extent>
+      <head>
+			<charseq START="4753" END="4755">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E128" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E128-1">
+      <extent>
+			<charseq START="4753" END="4762">his family</charseq>
+      </extent>
+      <head>
+			<charseq START="4757" END="4762">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E129" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E129-1">
+      <extent>
+			<charseq START="4765" END="4778">Carlos Bledsoe</charseq>
+      </extent>
+      <head>
+			<charseq START="4765" END="4778">Carlos Bledsoe</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E130" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E130-1">
+      <extent>
+			<charseq START="4813" END="4829">His sister Monica</charseq>
+      </extent>
+      <head>
+			<charseq START="4813" END="4815">His</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E131" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E131-1">
+      <extent>
+			<charseq START="4813" END="4829">His sister Monica</charseq>
+      </extent>
+      <head>
+			<charseq START="4817" END="4822">sister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E132" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E132-1">
+      <extent>
+			<charseq START="4867" END="4869">him</charseq>
+      </extent>
+      <head>
+			<charseq START="4867" END="4869">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E133" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E133-1">
+      <extent>
+			<charseq START="4883" END="4893">her friends</charseq>
+      </extent>
+      <head>
+			<charseq START="4883" END="4885">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E134" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E134-1">
+      <extent>
+			<charseq START="4883" END="4893">her friends</charseq>
+      </extent>
+      <head>
+			<charseq START="4887" END="4893">friends</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E135" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E135-1">
+      <extent>
+			<charseq START="4908" END="4916">the house</charseq>
+      </extent>
+      <head>
+			<charseq START="4912" END="4916">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E136" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E136-1">
+      <extent>
+			<charseq START="4923" END="4926">they</charseq>
+      </extent>
+      <head>
+			<charseq START="4923" END="4926">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E137" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E137-1">
+      <extent>
+			<charseq START="4952" END="4958">the boy</charseq>
+      </extent>
+      <head>
+			<charseq START="4956" END="4958">boy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E138" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E138-1">
+      <extent>
+			<charseq START="4991" END="5015">their own littler brother</charseq>
+      </extent>
+      <head>
+			<charseq START="4991" END="4995">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E139" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E139-1">
+      <extent>
+			<charseq START="4991" END="5015">their own littler brother</charseq>
+      </extent>
+      <head>
+			<charseq START="5009" END="5015">brother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E140" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E140-1">
+      <extent>
+			<charseq START="5018" END="5023">Carlos</charseq>
+      </extent>
+      <head>
+			<charseq START="5018" END="5023">Carlos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E141" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E141-1">
+      <extent>
+			<charseq START="5086" END="5094">his pants</charseq>
+      </extent>
+      <head>
+			<charseq START="5086" END="5088">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E142" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E142-1">
+      <extent>
+			<charseq START="5086" END="5094">his pants</charseq>
+      </extent>
+      <head>
+			<charseq START="5090" END="5094">pants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E143" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E143-1">
+      <extent>
+			<charseq START="5133" END="5136">kids</charseq>
+      </extent>
+      <head>
+			<charseq START="5133" END="5136">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E144" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E144-1">
+      <extent>
+			<charseq START="5150" END="5152">you</charseq>
+      </extent>
+      <head>
+			<charseq START="5150" END="5152">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E145" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E145-1">
+      <extent>
+			<charseq START="5193" END="5203">high school</charseq>
+      </extent>
+      <head>
+			<charseq START="5198" END="5203">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E146" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E146-1">
+      <extent>
+			<charseq START="5210" END="5215">Carlos</charseq>
+      </extent>
+      <head>
+			<charseq START="5210" END="5215">Carlos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E147" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E147-1">
+      <extent>
+			<charseq START="5273" END="5287">the wrong crowd</charseq>
+      </extent>
+      <head>
+			<charseq START="5283" END="5287">crowd</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E148" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E148-1">
+      <extent>
+			<charseq START="5346" END="5379">the Shelby County Sheriff’s Office</charseq>
+      </extent>
+      <head>
+			<charseq START="5350" END="5379">Shelby County Sheriff’s Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E149" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E149-1">
+      <extent>
+			<charseq START="5517" END="5522">Carlos</charseq>
+      </extent>
+      <head>
+			<charseq START="5517" END="5522">Carlos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E150" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E150-1">
+      <extent>
+			<charseq START="5536" END="5561">Tennessee State University</charseq>
+      </extent>
+      <head>
+			<charseq START="5536" END="5561">Tennessee State University</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E151" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E151-1">
+      <extent>
+			<charseq START="5566" END="5574">Nashville</charseq>
+      </extent>
+      <head>
+			<charseq START="5566" END="5574">Nashville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E152" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E152-1">
+      <extent>
+			<charseq START="5620" END="5639">over Twin City Tours</charseq>
+      </extent>
+      <head>
+			<charseq START="5625" END="5639">Twin City Tours</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E153" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E153-1">
+      <extent>
+			<charseq START="5642" END="5647">Melvin</charseq>
+      </extent>
+      <head>
+			<charseq START="5642" END="5647">Melvin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E154" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E154-1">
+      <extent>
+			<charseq START="5653" END="5660">his wife</charseq>
+      </extent>
+      <head>
+			<charseq START="5653" END="5655">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E155" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E155-1">
+      <extent>
+			<charseq START="5653" END="5660">his wife</charseq>
+      </extent>
+      <head>
+			<charseq START="5657" END="5660">wife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E156" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E156-1">
+      <extent>
+			<charseq START="5673" END="5702">countless middle-class parents</charseq>
+      </extent>
+      <head>
+			<charseq START="5696" END="5702">parents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E157" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E157-1">
+      <extent>
+			<charseq START="5711" END="5721">the country</charseq>
+      </extent>
+      <head>
+			<charseq START="5715" END="5721">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E158" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E158-1">
+      <extent>
+			<charseq START="5723" END="5725">who</charseq>
+      </extent>
+      <head>
+			<charseq START="5723" END="5725">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E159" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E159-1">
+      <extent>
+			<charseq START="5771" END="5781">their child</charseq>
+      </extent>
+      <head>
+			<charseq START="5771" END="5775">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E160" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E160-1">
+      <extent>
+			<charseq START="5858" END="5863">Carlos</charseq>
+      </extent>
+      <head>
+			<charseq START="5858" END="5863">Carlos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E161" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E161-1">
+      <extent>
+			<charseq START="5868" END="5874">college</charseq>
+      </extent>
+      <head>
+			<charseq START="5868" END="5874">college</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E162" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E162-1">
+      <extent>
+			<charseq START="5966" END="5981">a police cruiser</charseq>
+      </extent>
+      <head>
+			<charseq START="5968" END="5973">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E163" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E163-1">
+      <extent>
+			<charseq START="5966" END="5981">a police cruiser</charseq>
+      </extent>
+      <head>
+			<charseq START="5975" END="5981">cruiser</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E164" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E164-1">
+      <extent>
+			<charseq START="5986" END="5994">Knoxville</charseq>
+      </extent>
+      <head>
+			<charseq START="5986" END="5994">Knoxville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E165" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E165-1">
+      <extent>
+			<charseq START="6003" END="6020">Carlos’ blue Mazda</charseq>
+      </extent>
+      <head>
+			<charseq START="6016" END="6020">Mazda</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E166" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E166-1">
+      <extent>
+			<charseq START="6046" END="6050">A man</charseq>
+      </extent>
+      <head>
+			<charseq START="6048" END="6050">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E167" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E167-1">
+      <extent>
+			<charseq START="6063" END="6086">the front passenger seat</charseq>
+      </extent>
+      <head>
+			<charseq START="6073" END="6081">passenger</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E168" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E168-1">
+      <extent>
+			<charseq START="6145" END="6151">the car</charseq>
+      </extent>
+      <head>
+			<charseq START="6149" END="6151">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E169" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E169-1">
+      <extent>
+			<charseq START="6159" END="6165">a rifle</charseq>
+      </extent>
+      <head>
+			<charseq START="6161" END="6165">rifle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E170" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E170-1">
+      <extent>
+			<charseq START="6186" END="6191">Carlos</charseq>
+      </extent>
+      <head>
+			<charseq START="6186" END="6191">Carlos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E171" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E171-1">
+      <extent>
+			<charseq START="6198" END="6207">the police</charseq>
+      </extent>
+      <head>
+			<charseq START="6202" END="6207">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E172" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E172-1">
+      <extent>
+			<charseq START="6209" END="6210">he</charseq>
+      </extent>
+      <head>
+			<charseq START="6209" END="6210">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E173" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E173-1">
+      <extent>
+			<charseq START="6232" END="6241">The police</charseq>
+      </extent>
+      <head>
+			<charseq START="6236" END="6241">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E174" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E174-1">
+      <extent>
+			<charseq START="6303" END="6304">He</charseq>
+      </extent>
+      <head>
+			<charseq START="6303" END="6304">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E175" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E175-1">
+      <extent>
+			<charseq START="6346" END="6373">a weapon and drug possession</charseq>
+      </extent>
+      <head>
+			<charseq START="6348" END="6353">weapon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E176" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E176-1">
+      <extent>
+			<charseq START="6443" END="6456">The prosecutor</charseq>
+      </extent>
+      <head>
+			<charseq START="6447" END="6456">prosecutor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E177" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E177-1">
+      <extent>
+			<charseq START="6538" END="6543">Carlos</charseq>
+      </extent>
+      <head>
+			<charseq START="6538" END="6543">Carlos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E178" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E178-1">
+      <extent>
+			<charseq START="6578" END="6579">he</charseq>
+      </extent>
+      <head>
+			<charseq START="6578" END="6579">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E179" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E179-1">
+      <extent>
+			<charseq START="6673" END="6678">Carlos</charseq>
+      </extent>
+      <head>
+			<charseq START="6673" END="6678">Carlos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E180" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E180-1">
+      <extent>
+			<charseq START="6703" END="6704">he</charseq>
+      </extent>
+      <head>
+			<charseq START="6703" END="6704">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E181" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E181-1">
+      <extent>
+			<charseq START="6734" END="6752">his life and circle</charseq>
+      </extent>
+      <head>
+			<charseq START="6734" END="6736">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E182" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E182-1">
+      <extent>
+			<charseq START="6757" END="6763">friends</charseq>
+      </extent>
+      <head>
+			<charseq START="6757" END="6763">friends</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E183" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E183-1">
+      <extent>
+			<charseq START="6766" END="6779">Carlos Bledsoe</charseq>
+      </extent>
+      <head>
+			<charseq START="6766" END="6779">Carlos Bledsoe</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E184" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E184-1">
+      <extent>
+			<charseq START="6812" END="6813">He</charseq>
+      </extent>
+      <head>
+			<charseq START="6812" END="6813">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E185" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E185-1">
+      <extent>
+			<charseq START="6840" END="6872">the Southern Baptist Christianity</charseq>
+      </extent>
+      <head>
+			<charseq START="6844" END="6872">Southern Baptist Christianity</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E186" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E186-1">
+      <extent>
+			<charseq START="6877" END="6885">his youth</charseq>
+      </extent>
+      <head>
+			<charseq START="6877" END="6879">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E187" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E187-1">
+      <extent>
+			<charseq START="6907" END="6932">orthodox Jewish synagogues</charseq>
+      </extent>
+      <head>
+			<charseq START="6916" END="6921">Jewish</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E188" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E188-1">
+      <extent>
+			<charseq START="7006" END="7007">he</charseq>
+      </extent>
+      <head>
+			<charseq START="7006" END="7007">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E189" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E189-1">
+      <extent>
+			<charseq START="7022" END="7027">Carlos</charseq>
+      </extent>
+      <head>
+			<charseq START="7022" END="7027">Carlos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E190" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E190-1">
+      <extent>
+			<charseq START="7033" END="7040">a cousin</charseq>
+      </extent>
+      <head>
+			<charseq START="7035" END="7040">cousin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E191" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E191-1">
+      <extent>
+			<charseq START="7042" END="7044">who</charseq>
+      </extent>
+      <head>
+			<charseq START="7042" END="7044">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E192" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E192-1">
+      <extent>
+			<charseq START="7050" END="7066">a lifelong Muslim</charseq>
+      </extent>
+      <head>
+			<charseq START="7061" END="7066">Muslim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E193" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E193-1">
+      <extent>
+			<charseq START="7073" END="7074">he</charseq>
+      </extent>
+      <head>
+			<charseq START="7073" END="7074">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E194" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E194-1">
+      <extent>
+			<charseq START="7090" END="7095">Nation</charseq>
+      </extent>
+      <head>
+			<charseq START="7090" END="7095">Nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E195" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E195-1">
+      <extent>
+			<charseq START="7100" END="7127">Islam leader Louis Farrakhan</charseq>
+      </extent>
+      <head>
+			<charseq START="7106" END="7111">leader</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E196" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E196-1">
+      <extent>
+			<charseq START="7100" END="7127">Islam leader Louis Farrakhan</charseq>
+      </extent>
+      <head>
+			<charseq START="7113" END="7127">Louis Farrakhan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E197" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E197-1">
+      <extent>
+			<charseq START="7139" END="7140">he</charseq>
+      </extent>
+      <head>
+			<charseq START="7139" END="7140">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E198" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E198-1">
+      <extent>
+			<charseq START="7226" END="7235">his family</charseq>
+      </extent>
+      <head>
+			<charseq START="7226" END="7228">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E199" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E199-1">
+      <extent>
+			<charseq START="7226" END="7235">his family</charseq>
+      </extent>
+      <head>
+			<charseq START="7230" END="7235">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E200" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E200-1">
+      <extent>
+			<charseq START="7238" END="7243">Carlos</charseq>
+      </extent>
+      <head>
+			<charseq START="7238" END="7243">Carlos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E201" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E201-1">
+      <extent>
+			<charseq START="7280" END="7297">his college campus</charseq>
+      </extent>
+      <head>
+			<charseq START="7280" END="7282">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E202" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E202-1">
+      <extent>
+			<charseq START="7280" END="7297">his college campus</charseq>
+      </extent>
+      <head>
+			<charseq START="7292" END="7297">campus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="341.sgm-E203" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="341.sgm-E203-1">
+      <extent>
+			<charseq START="7302" END="7316">Tennessee State</charseq>
+      </extent>
+      <head>
+			<charseq START="7302" END="7316">Tennessee State</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="341.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="341.sgm-E3" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E2" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="174" END="516">Yet long before the five U.S. service members were murdered this past week in Chattanooga, before the Boston Marathon bombers, the Fort Hood shooting or the rise of the Islamic State, it was another troubled teenager from the same state who embarked on a journey of jihad and ended in the first deadly terrorist attack on U.S. soil after 9/11.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E3-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="190" END="218">the five U.S. service members</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="190" END="218">the five U.S. service members</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="341.sgm-E3" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E4" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="174" END="516">Yet long before the five U.S. service members were murdered this past week in Chattanooga, before the Boston Marathon bombers, the Fort Hood shooting or the rise of the Islamic State, it was another troubled teenager from the same state who embarked on a journey of jihad and ended in the first deadly terrorist attack on U.S. soil after 9/11.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E3-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="190" END="218">the five U.S. service members</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E4-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="252" END="262">Chattanooga</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R2" TYPE="ORG-AFF">
+    <relation_argument REFID="341.sgm-E38" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E39" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="1162" END="1551">And which, not incidentally, turned Memphis into a tourist mecca that Melvin Bledsoe’s company, Twin City Tours, is happy to service, transporting you to, among many other places, Stax Records soul music museum and Sam Phillips’ original Sun Studio (the “birthplace of rock ’n’ roll”), the late great B.B. King’s Blues Club and Jerry Lee Lewis’ Café and Honky Tonk—and, of course—Graceland.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E38-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1377" END="1389">Sam Phillips’</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E39-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1391" END="1409">original Sun Studio</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R3" TYPE="ORG-AFF">
+    <relation_argument REFID="341.sgm-E32" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E33" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="1162" END="1551">And which, not incidentally, turned Memphis into a tourist mecca that Melvin Bledsoe’s company, Twin City Tours, is happy to service, transporting you to, among many other places, Stax Records soul music museum and Sam Phillips’ original Sun Studio (the “birthplace of rock ’n’ roll”), the late great B.B. King’s Blues Club and Jerry Lee Lewis’ Café and Honky Tonk—and, of course—Graceland.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E32-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1232" END="1255">Melvin Bledsoe’s company</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E33-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1232" END="1255">Melvin Bledsoe’s company</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R4" TYPE="PER-SOC">
+    <relation_argument REFID="341.sgm-E50" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E51" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="1774" END="2001">During summers not so very long ago, Twin City customers were often greeted personally by a proud Melvin and his teenage son Carlos, who since he was 8 years old had been groomed to one day take over the expanding tour business.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E50-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1883" END="1897">his teenage son</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E51-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1883" END="1897">his teenage son</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R5" TYPE="ORG-AFF">
+    <relation_argument REFID="341.sgm-E61" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E62" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="2176" END="2278">He played basketball at the high school and met his girlfriend and prom date at a local Baptist church.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E61-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2176" END="2177">He</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E62-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2200" END="2214">the high school</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R6" TYPE="PER-SOC">
+    <relation_argument REFID="341.sgm-E63" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E64" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="2176" END="2278">He played basketball at the high school and met his girlfriend and prom date at a local Baptist church.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E63-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2224" END="2251">his girlfriend and prom date</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E64-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2224" END="2251">his girlfriend and prom date</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R7" TYPE="PER-SOC">
+    <relation_argument REFID="341.sgm-E74" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E75" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R7-1">
+      <ldc_extent>
+			<charseq START="2666" END="2786">Both of his children were college bound, a step up the socioeconomic ladder that Melvin’s own parents could never afford.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E74-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2674" END="2685">his children</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E75-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2674" END="2685">his children</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R8" TYPE="PER-SOC">
+    <relation_argument REFID="341.sgm-E83" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E84" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R8-1">
+      <ldc_extent>
+			<charseq START="3173" END="3388">Somehow, in ways that a heartbroken Melvin Bledsoe even now doesn’t fully comprehend, his beloved son Carlos was transformed into a murderous jihadist, a hate-filled man who called himself Abulhakim Mujahid Mohammed.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E83-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3259" END="3280">his beloved son Carlos</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E84-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3259" END="3280">his beloved son Carlos</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R9" TYPE="PHYS">
+    <relation_argument REFID="341.sgm-E92" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E93" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R9-1">
+      <ldc_extent>
+			<charseq START="3390" END="3633">Carlos, to a certain extent, was patient zero in the phenomenon of homegrown, lone-wolf terrorism, a scourge that struck the nation once again this past week, when another young man went on a shooting spree at a recruiting station in Tennessee.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E92-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3554" END="3570">another young man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E93-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3600" END="3619">a recruiting station</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R10" TYPE="PART-WHOLE">
+    <relation_argument REFID="341.sgm-E93" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E94" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R10-1">
+      <ldc_extent>
+			<charseq START="3390" END="3633">Carlos, to a certain extent, was patient zero in the phenomenon of homegrown, lone-wolf terrorism, a scourge that struck the nation once again this past week, when another young man went on a shooting spree at a recruiting station in Tennessee.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E93-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3600" END="3619">a recruiting station</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E94-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3624" END="3632">Tennessee</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R11" TYPE="PHYS">
+    <relation_argument REFID="341.sgm-E99" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E100" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R11-1">
+      <ldc_extent>
+			<charseq START="3789" END="3941">Both men grew up in Tennessee and turned toward jihadism at a vulnerable moment in their lives resulting from drug and alcohol use and unrelated arrests.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E99-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3789" END="3796">Both men</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E100-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3809" END="3817">Tennessee</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R12" TYPE="ORG-AFF">
+    <relation_argument REFID="341.sgm-E111" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E110" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R12-1">
+      <ldc_extent>
+			<charseq START="4078" END="4317">Like Fort Hood shooter Major Nidal Hassan, they both ultimately were influenced by the sermons of the charismatic, radical imam Anwar al-Awlaki, who in 2011 became the first American citizen to be targeted and killed in a U.S. drone strike.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E111-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4242" END="4267">the first American citizen</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E110-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="4242" END="4267">the first American citizen</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R13" TYPE="ORG-AFF">
+    <relation_argument REFID="341.sgm-E121" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E120" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R13-1">
+      <ldc_extent>
+			<charseq START="4435" END="4748">That journey toward Islamist radicalization and terrorism has become a well-worn path for homegrown extremists, and their growing numbers threaten to overwhelm U.S. authorities, especially the FBI, who are tracking them in a desperate attempt to thwart their plots and, as they say, “stay to the left of the boom.”</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E121-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4595" END="4610">U.S. authorities</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E120-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="4595" END="4610">U.S. authorities</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R14" TYPE="PER-SOC">
+    <relation_argument REFID="341.sgm-E127" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E128" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R14-1">
+      <ldc_extent>
+			<charseq START="4750" END="4811">To his family, Carlos Bledsoe was the happy-go-lucky jokester.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E127-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4753" END="4762">his family</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E128-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="4753" END="4762">his family</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R15" TYPE="PER-SOC">
+    <relation_argument REFID="341.sgm-E130" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E131" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R15-1">
+      <ldc_extent>
+			<charseq START="4813" END="5016">His sister Monica, older by seven years, liked having him around when her friends were over to the house, and they all practically adopted the boy with the high-wattage smile as their own littler brother.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E130-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4813" END="4829">His sister Monica</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E131-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="4813" END="4829">His sister Monica</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R16" TYPE="PER-SOC">
+    <relation_argument REFID="341.sgm-E133" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E134" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R16-1">
+      <ldc_extent>
+			<charseq START="4813" END="5016">His sister Monica, older by seven years, liked having him around when her friends were over to the house, and they all practically adopted the boy with the high-wattage smile as their own littler brother.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E133-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4883" END="4893">her friends</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E134-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="4883" END="4893">her friends</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R17" TYPE="GEN-AFF">
+    <relation_argument REFID="341.sgm-E150" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E151" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R17-1">
+      <ldc_extent>
+			<charseq START="5512" END="5835">When Carlos set off for Tennessee State University in Nashville to study business in anticipation of taking over Twin City Tours, Melvin and his wife were among countless middle-class parents around the country who breathed a sigh of relief at having steered their child through treacherous teenage shoals and on to college.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E150-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5536" END="5561">Tennessee State University</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E151-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5566" END="5574">Nashville</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R18" TYPE="PER-SOC">
+    <relation_argument REFID="341.sgm-E154" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E155" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R18-1">
+      <ldc_extent>
+			<charseq START="5512" END="5835">When Carlos set off for Tennessee State University in Nashville to study business in anticipation of taking over Twin City Tours, Melvin and his wife were among countless middle-class parents around the country who breathed a sigh of relief at having steered their child through treacherous teenage shoals and on to college.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E154-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5653" END="5660">his wife</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E155-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5653" END="5660">his wife</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R19" TYPE="ART">
+    <relation_argument REFID="341.sgm-E162" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E163" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R19-1">
+      <ldc_extent>
+			<charseq START="5931" END="6044">On the night of February 21, 2004, a police cruiser in Knoxville pulled Carlos’ blue Mazda over in a traffic stop.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E162-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5966" END="5981">a police cruiser</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E163-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5966" END="5981">a police cruiser</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R20" TYPE="PART-WHOLE">
+    <relation_argument REFID="341.sgm-E163" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E164" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R20-1">
+      <ldc_extent>
+			<charseq START="5931" END="6044">On the night of February 21, 2004, a police cruiser in Knoxville pulled Carlos’ blue Mazda over in a traffic stop.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E163-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5966" END="5981">a police cruiser</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E164-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5986" END="5994">Knoxville</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R21" TYPE="PER-SOC">
+    <relation_argument REFID="341.sgm-E181" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E182" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R21-1">
+      <ldc_extent>
+			<charseq START="6690" END="6810">Knowing that he had to fundamentally change his life and circle of friends, Carlos Bledsoe launched on a spiritual quest.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E181-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="6734" END="6752">his life and circle</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E182-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="6757" END="6763">friends</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R22" TYPE="ORG-AFF">
+    <relation_argument REFID="341.sgm-E195" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E194" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R22-1">
+      <ldc_extent>
+			<charseq START="7022" END="7174">Carlos had a cousin who was a lifelong Muslim, and he had once seen Nation of Islam leader Louis Farrakhan speak, so he decided to explore Islam as well.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E195-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="7100" END="7127">Islam leader Louis Farrakhan</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E194-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="7090" END="7095">Nation</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R23" TYPE="ART">
+    <relation_argument REFID="341.sgm-E201" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E202" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R23-1">
+      <ldc_extent>
+			<charseq START="7176" END="7317">As it turned out, and somewhat to the surprise of his family, Carlos would not have to venture far from his college campus at Tennessee State.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E201-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="7280" END="7297">his college campus</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E202-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="7280" END="7297">his college campus</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="341.sgm-R24" TYPE="PER-SOC">
+    <relation_argument REFID="341.sgm-E198" ROLE="Arg-1" />
+    <relation_argument REFID="341.sgm-E199" ROLE="Arg-2" />
+      <relation_mention ID="341.sgm-R24-1">
+      <ldc_extent>
+			<charseq START="7176" END="7317">As it turned out, and somewhat to the surprise of his family, Carlos would not have to venture far from his college campus at Tennessee State.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="341.sgm-E198-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="7226" END="7235">his family</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="341.sgm-E199-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="7226" END="7235">his family</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="341.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="115" END="172">Tennessee seems an unlikely birthplace for American jihad.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="167" END="171">jihad</charseq>
+      </anchor>
+      <event_mention_argument REFID="341.sgm-E1-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="158" END="171">American jihad</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="174" END="516">Yet long before the five U.S. service members were murdered this past week in Chattanooga, before the Boston Marathon bombers, the Fort Hood shooting or the rise of the Islamic State, it was another troubled teenager from the same state who embarked on a journey of jihad and ended in the first deadly terrorist attack on U.S. soil after 9/11.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="225" END="232">murdered</charseq>
+      </anchor>
+      <event_mention_argument REFID="341.sgm-E3-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="190" END="218">the five U.S. service members</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="341.sgm-E4-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="252" END="262">Chattanooga</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="174" END="516">Yet long before the five U.S. service members were murdered this past week in Chattanooga, before the Boston Marathon bombers, the Fort Hood shooting or the rise of the Islamic State, it was another troubled teenager from the same state who embarked on a journey of jihad and ended in the first deadly terrorist attack on U.S. soil after 9/11.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="440" END="444">jihad</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="174" END="516">Yet long before the five U.S. service members were murdered this past week in Chattanooga, before the Boston Marathon bombers, the Fort Hood shooting or the rise of the Islamic State, it was another troubled teenager from the same state who embarked on a journey of jihad and ended in the first deadly terrorist attack on U.S. soil after 9/11.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="486" END="491">attack</charseq>
+      </anchor>
+      <event_mention_argument REFID="341.sgm-E11-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="459" END="491">the first deadly terrorist attack</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="518" END="841">The road to jihad began here, where Highway 40 bisects the state Abraham Lincoln once called the “keystone of the southern arch,” heading southwest out of Nashville and Jackson and through endless miles of rich Mississippi delta before riding the steel scaffolding of the Hernando de Soto Bridge across the wide lazy waters.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="530" END="534">jihad</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV5" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="2176" END="2278">He played basketball at the high school and met his girlfriend and prom date at a local Baptist church.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2220" END="2222">met</charseq>
+      </anchor>
+      <event_mention_argument REFID="341.sgm-E61-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2176" END="2177">He</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="341.sgm-E64-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2224" END="2251">his girlfriend and prom date</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="2666" END="2786">Both of his children were college bound, a step up the socioeconomic ladder that Melvin’s own parents could never afford.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2692" END="2698">college</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="3390" END="3633">Carlos, to a certain extent, was patient zero in the phenomenon of homegrown, lone-wolf terrorism, a scourge that struck the nation once again this past week, when another young man went on a shooting spree at a recruiting station in Tennessee.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3478" END="3486">terrorism</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV8" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="3789" END="3941">Both men grew up in Tennessee and turned toward jihadism at a vulnerable moment in their lives resulting from drug and alcohol use and unrelated arrests.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3934" END="3940">arrests</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="4078" END="4317">Like Fort Hood shooter Major Nidal Hassan, they both ultimately were influenced by the sermons of the charismatic, radical imam Anwar al-Awlaki, who in 2011 became the first American citizen to be targeted and killed in a U.S. drone strike.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4288" END="4293">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="341.sgm-E111-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4242" END="4267">the first American citizen</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV10-1" p="1.000">
+      <extent>
+			<charseq START="4078" END="4317">Like Fort Hood shooter Major Nidal Hassan, they both ultimately were influenced by the sermons of the charismatic, radical imam Anwar al-Awlaki, who in 2011 became the first American citizen to be targeted and killed in a U.S. drone strike.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4311" END="4316">strike</charseq>
+      </anchor>
+      <event_mention_argument REFID="341.sgm-E113-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4298" END="4316">a U.S. drone strike</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="341.sgm-E112-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4298" END="4316">a U.S. drone strike</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV11" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV11-1" p="1.000">
+      <extent>
+			<charseq START="4319" END="4433">Both Mohammed and Abdulazeez chose military recruiting stations in the south as the targets of their violent jihad.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4428" END="4432">jihad</charseq>
+      </anchor>
+      <event_mention_argument REFID="341.sgm-E117-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4414" END="4432">their violent jihad</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV12" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV12-1" p="1.000">
+      <extent>
+			<charseq START="4435" END="4748">That journey toward Islamist radicalization and terrorism has become a well-worn path for homegrown extremists, and their growing numbers threaten to overwhelm U.S. authorities, especially the FBI, who are tracking them in a desperate attempt to thwart their plots and, as they say, “stay to the left of the boom.”</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4483" END="4491">terrorism</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV13" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV13-1" p="1.000">
+      <extent>
+			<charseq START="5160" END="5288">And yet there were signs even in high school that Carlos had a hot temper and was susceptible to falling in with the wrong crowd.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="5257" END="5263">falling</charseq>
+      </anchor>
+      <event_mention_argument REFID="341.sgm-E147-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="5273" END="5287">the wrong crowd</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV14" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV14-1" p="1.000">
+      <extent>
+			<charseq START="5290" END="5510">There were a few fights that ended up in the records of the Shelby County Sheriff’s Office, including an apparent road rage incident and another that was written up as gang-related, but nothing that led to formal charges.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="5503" END="5509">charges</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV15" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV15-1" p="1.000">
+      <extent>
+			<charseq START="5512" END="5835">When Carlos set off for Tennessee State University in Nashville to study business in anticipation of taking over Twin City Tours, Melvin and his wife were among countless middle-class parents around the country who breathed a sigh of relief at having steered their child through treacherous teenage shoals and on to college.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="5828" END="5834">college</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV16" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV16-1" p="1.000">
+      <extent>
+			<charseq START="6303" END="6441">He was charged with unlawful possession of a weapon and drug possession and was staring at a possible sentence of up to 14 years in prison.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="6310" END="6316">charged</charseq>
+      </anchor>
+      <event_mention_argument REFID="341.sgm-E174-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="6303" END="6304">He</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="341.sgm-EV17" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="341.sgm-EV17-1" p="1.000">
+      <extent>
+			<charseq START="6303" END="6441">He was charged with unlawful possession of a weapon and drug possession and was staring at a possible sentence of up to 14 years in prison.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="6405" END="6412">sentence</charseq>
+      </anchor>
+      <event_mention_argument REFID="341.sgm-E174-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="6303" END="6304">He</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

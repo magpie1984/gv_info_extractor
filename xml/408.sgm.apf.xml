@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/408.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/408.sgm">
+  <entity ID="408.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="408.sgm-E0-1">
+      <extent>
+			<charseq START="153" END="161">TOPPENISH</charseq>
+      </extent>
+      <head>
+			<charseq START="153" END="161">TOPPENISH</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="408.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="408.sgm-E1-1">
+      <extent>
+			<charseq START="164" END="170">Wash.--</charseq>
+      </extent>
+      <head>
+			<charseq START="164" END="170">Wash.--</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="408.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="408.sgm-E2-1">
+      <extent>
+			<charseq START="172" END="181">One person</charseq>
+      </extent>
+      <head>
+			<charseq START="176" END="181">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="408.sgm-E3" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="408.sgm-E3-1">
+      <extent>
+			<charseq START="249" END="257">Toppenish</charseq>
+      </extent>
+      <head>
+			<charseq START="249" END="257">Toppenish</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="408.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="408.sgm-E4-1">
+      <extent>
+			<charseq START="284" END="293">Two people</charseq>
+      </extent>
+      <head>
+			<charseq START="288" END="293">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="408.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="408.sgm-E5-1">
+      <extent>
+			<charseq START="298" END="317">the family gathering</charseq>
+      </extent>
+      <head>
+			<charseq START="302" END="307">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="408.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="408.sgm-E6-1">
+      <extent>
+			<charseq START="298" END="317">the family gathering</charseq>
+      </extent>
+      <head>
+			<charseq START="309" END="317">gathering</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="408.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="408.sgm-E7-1">
+      <extent>
+			<charseq START="329" END="345">A 21-year-old man</charseq>
+      </extent>
+      <head>
+			<charseq START="343" END="345">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="408.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="408.sgm-E8-1">
+      <extent>
+			<charseq START="370" END="388">a 29-year-old woman</charseq>
+      </extent>
+      <head>
+			<charseq START="384" END="388">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="408.sgm-E9" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="408.sgm-E9-1">
+      <extent>
+			<charseq START="412" END="436">Harborview Medical Center</charseq>
+      </extent>
+      <head>
+			<charseq START="412" END="436">Harborview Medical Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="408.sgm-E10" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="408.sgm-E10-1">
+      <extent>
+			<charseq START="441" END="447">Seattle</charseq>
+      </extent>
+      <head>
+			<charseq START="441" END="447">Seattle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="408.sgm-R0" TYPE="PHYS">
+    <relation_argument REFID="408.sgm-E8" ROLE="Arg-1" />
+    <relation_argument REFID="408.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="408.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="329" END="448">A 21-year-old man died at the scene, and a 29-year-old woman has been airlifted to Harborview Medical Center in Seattle.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="408.sgm-E8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="370" END="388">a 29-year-old woman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="408.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="412" END="436">Harborview Medical Center</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="408.sgm-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="408.sgm-E9" ROLE="Arg-1" />
+    <relation_argument REFID="408.sgm-E10" ROLE="Arg-2" />
+      <relation_mention ID="408.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="329" END="448">A 21-year-old man died at the scene, and a 29-year-old woman has been airlifted to Harborview Medical Center in Seattle.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="408.sgm-E9-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="412" END="436">Harborview Medical Center</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="408.sgm-E10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="441" END="447">Seattle</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="408.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="408.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="172" END="274">One person has died and another is in critical condition after a shooting in Toppenish around 2:00 a.m.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="187" END="190">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="408.sgm-E2-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="172" END="181">One person</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="408.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="408.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="172" END="274">One person has died and another is in critical condition after a shooting in Toppenish around 2:00 a.m.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="237" END="244">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="408.sgm-E3-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="249" END="257">Toppenish</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="408.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="408.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="284" END="327">Two people at the family gathering were hit.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="324" END="326">hit</charseq>
+      </anchor>
+      <event_mention_argument REFID="408.sgm-E4-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="284" END="293">Two people</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="408.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="408.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="329" END="448">A 21-year-old man died at the scene, and a 29-year-old woman has been airlifted to Harborview Medical Center in Seattle.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="347" END="350">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="408.sgm-E7-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="329" END="345">A 21-year-old man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="408.sgm-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="408.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="329" END="448">A 21-year-old man died at the scene, and a 29-year-old woman has been airlifted to Harborview Medical Center in Seattle.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="399" END="407">airlifted</charseq>
+      </anchor>
+      <event_mention_argument REFID="408.sgm-E8-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="370" END="388">a 29-year-old woman</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="408.sgm-E9-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="412" END="436">Harborview Medical Center</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

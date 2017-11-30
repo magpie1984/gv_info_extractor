@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/764.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/764.sgm">
+  <entity ID="764.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="764.sgm-E0-1">
+      <extent>
+			<charseq START="111" END="122">NORTH COUNTY</charseq>
+      </extent>
+      <head>
+			<charseq START="111" END="122">NORTH COUNTY</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="764.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="764.sgm-E1-1">
+      <extent>
+			<charseq START="125" END="126">Mo</charseq>
+      </extent>
+      <head>
+			<charseq START="125" END="126">Mo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="764.sgm-E2" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="764.sgm-E2-1">
+      <extent>
+			<charseq START="130" END="137">KMOV.com</charseq>
+      </extent>
+      <head>
+			<charseq START="130" END="137">KMOV.com</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="764.sgm-E3" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="764.sgm-E3-1">
+      <extent>
+			<charseq START="209" END="220">North County</charseq>
+      </extent>
+      <head>
+			<charseq START="209" END="220">North County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="764.sgm-E4" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="764.sgm-E4-1">
+      <extent>
+			<charseq START="277" END="282">Empire</charseq>
+      </extent>
+      <head>
+			<charseq START="277" END="282">Empire</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="764.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="764.sgm-E5-1">
+      <extent>
+			<charseq START="352" END="357">police</charseq>
+      </extent>
+      <head>
+			<charseq START="352" END="357">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="764.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="764.sgm-E6-1">
+      <extent>
+			<charseq START="396" END="407">the teenager</charseq>
+      </extent>
+      <head>
+			<charseq START="400" END="407">teenager</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="764.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="764.sgm-E7-1">
+      <extent>
+			<charseq START="444" END="459">his left buttock</charseq>
+      </extent>
+      <head>
+			<charseq START="444" END="446">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="764.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="764.sgm-E8-1">
+      <extent>
+			<charseq START="513" END="523">Authorities</charseq>
+      </extent>
+      <head>
+			<charseq START="513" END="523">Authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="764.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="764.sgm-E9-1">
+      <extent>
+			<charseq START="543" END="576">any information regarding suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="569" END="576">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="764.sgm-R0" TYPE="PART-WHOLE">
+    <relation_argument REFID="764.sgm-E0" ROLE="Arg-1" />
+    <relation_argument REFID="764.sgm-E1" ROLE="Arg-2" />
+      <relation_mention ID="764.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="111" END="138">NORTH COUNTY, Mo. (KMOV.com)</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="764.sgm-E0-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="111" END="122">NORTH COUNTY</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="764.sgm-E1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="125" END="126">Mo</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="764.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="764.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="140" END="242">– A 16-year-old was hospitalized after being shot outside a party in North County early Monday morning.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="185" END="188">shot</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="764.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="764.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="244" END="363">A residence in the 2100 block of Empire was hosting a party when several gunshots were heard around 2 a.m., police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="317" END="324">gunshots</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="764.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="764.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="365" END="460">After the gunshots were heard, the teenager ran inside with a gunshot wound to his left buttock.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="375" END="382">gunshots</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="764.sgm-EV3" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="764.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="365" END="460">After the gunshots were heard, the teenager ran inside with a gunshot wound to his left buttock.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="435" END="439">wound</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="764.sgm-EV4" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="764.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="462" END="511">The injury is not believed to be life threatening.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="466" END="471">injury</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

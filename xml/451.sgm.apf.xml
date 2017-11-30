@@ -1,0 +1,432 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/451.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/451.sgm">
+  <entity ID="451.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E0-1">
+      <extent>
+			<charseq START="116" END="135">Bessemer City Police</charseq>
+      </extent>
+      <head>
+			<charseq START="116" END="128">Bessemer City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E1-1">
+      <extent>
+			<charseq START="116" END="135">Bessemer City Police</charseq>
+      </extent>
+      <head>
+			<charseq START="130" END="135">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E2-1">
+      <extent>
+			<charseq START="155" END="173">Dawn Kathlyn Walker</charseq>
+      </extent>
+      <head>
+			<charseq START="155" END="173">Dawn Kathlyn Walker</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E3" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E3-1">
+      <extent>
+			<charseq START="183" END="201">Marshall Wolfe Road</charseq>
+      </extent>
+      <head>
+			<charseq START="183" END="201">Marshall Wolfe Road</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E4" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E4-1">
+      <extent>
+			<charseq START="222" END="236">a deadly weapon</charseq>
+      </extent>
+      <head>
+			<charseq START="231" END="236">weapon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E5-1">
+      <extent>
+			<charseq START="285" END="287">She</charseq>
+      </extent>
+      <head>
+			<charseq START="285" END="287">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E6" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E6-1">
+      <extent>
+			<charseq START="300" END="317">Gaston County jail</charseq>
+      </extent>
+      <head>
+			<charseq START="300" END="312">Gaston County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E7-1">
+      <extent>
+			<charseq START="339" END="344">Walker</charseq>
+      </extent>
+      <head>
+			<charseq START="339" END="344">Walker</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E8-1">
+      <extent>
+			<charseq START="360" END="387">shooting Christopher Hatcher</charseq>
+      </extent>
+      <head>
+			<charseq START="369" END="387">Christopher Hatcher</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E9" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E9-1">
+      <extent>
+			<charseq START="412" END="424">Bessemer City</charseq>
+      </extent>
+      <head>
+			<charseq START="412" END="424">Bessemer City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E10" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E10-1">
+      <extent>
+			<charseq START="491" END="527">Bessemer City Police Officer CA Duque</charseq>
+      </extent>
+      <head>
+			<charseq START="491" END="503">Bessemer City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E11-1">
+      <extent>
+			<charseq START="491" END="527">Bessemer City Police Officer CA Duque</charseq>
+      </extent>
+      <head>
+			<charseq START="505" END="510">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E12-1">
+      <extent>
+			<charseq START="491" END="527">Bessemer City Police Officer CA Duque</charseq>
+      </extent>
+      <head>
+			<charseq START="512" END="527">Officer CA Duque</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E13-1">
+      <extent>
+			<charseq START="555" END="560">Walker</charseq>
+      </extent>
+      <head>
+			<charseq START="555" END="560">Walker</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E14-1">
+      <extent>
+			<charseq START="561" END="570">&apos;s husband</charseq>
+      </extent>
+      <head>
+			<charseq START="564" END="570">husband</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E15-1">
+      <extent>
+			<charseq START="573" END="582">whose name</charseq>
+      </extent>
+      <head>
+			<charseq START="573" END="577">whose</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E16-1">
+      <extent>
+			<charseq START="617" END="623">Hatcher</charseq>
+      </extent>
+      <head>
+			<charseq START="617" END="623">Hatcher</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E17" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E17-1">
+      <extent>
+			<charseq START="630" END="647">Bank of the Ozarks</charseq>
+      </extent>
+      <head>
+			<charseq START="630" END="647">Bank of the Ozarks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E18" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E18-1">
+      <extent>
+			<charseq START="652" END="667">Gastonia Highway</charseq>
+      </extent>
+      <head>
+			<charseq START="652" END="667">Gastonia Highway</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E19" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E19-1">
+      <extent>
+			<charseq START="672" END="684">Bessemer City</charseq>
+      </extent>
+      <head>
+			<charseq START="672" END="684">Bessemer City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E20-1">
+      <extent>
+			<charseq START="687" END="693">Hatcher</charseq>
+      </extent>
+      <head>
+			<charseq START="687" END="693">Hatcher</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E21" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E21-1">
+      <extent>
+			<charseq START="710" END="741">CaroMont Regional Medical Center</charseq>
+      </extent>
+      <head>
+			<charseq START="710" END="741">CaroMont Regional Medical Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="451.sgm-E22" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="451.sgm-E22-1">
+      <extent>
+			<charseq START="781" END="792">the hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="785" END="792">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="451.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="451.sgm-E1" ROLE="Arg-1" />
+    <relation_argument REFID="451.sgm-E0" ROLE="Arg-2" />
+      <relation_mention ID="451.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="116" END="283">Bessemer City Police on Sunday charged Dawn Kathlyn Walker, 42, of Marshall Wolfe Road, with assault with a deadly weapon with intent to kill or inflict serious injury.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="451.sgm-E1-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="116" END="135">Bessemer City Police</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="451.sgm-E0-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="116" END="135">Bessemer City Police</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="451.sgm-R1" TYPE="ORG-AFF">
+    <relation_argument REFID="451.sgm-E2" ROLE="Arg-1" />
+    <relation_argument REFID="451.sgm-E3" ROLE="Arg-2" />
+      <relation_mention ID="451.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="116" END="283">Bessemer City Police on Sunday charged Dawn Kathlyn Walker, 42, of Marshall Wolfe Road, with assault with a deadly weapon with intent to kill or inflict serious injury.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="451.sgm-E2-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="155" END="173">Dawn Kathlyn Walker</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="451.sgm-E3-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="183" END="201">Marshall Wolfe Road</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="451.sgm-R2" TYPE="ORG-AFF">
+    <relation_argument REFID="451.sgm-E12" ROLE="Arg-1" />
+    <relation_argument REFID="451.sgm-E10" ROLE="Arg-2" />
+      <relation_mention ID="451.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="463" END="537">Long revolver, according to Bessemer City Police Officer CA Duque&apos;s report.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="451.sgm-E12-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="491" END="527">Bessemer City Police Officer CA Duque</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="451.sgm-E10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="491" END="527">Bessemer City Police Officer CA Duque</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="451.sgm-R3" TYPE="PER-SOC">
+    <relation_argument REFID="451.sgm-E13" ROLE="Arg-1" />
+    <relation_argument REFID="451.sgm-E14" ROLE="Arg-2" />
+      <relation_mention ID="451.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="539" END="685">The report said Walker&apos;s husband, whose name is not listed, was fighting with Hatcher near Bank of the Ozarks on Gastonia Highway in Bessemer City.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="451.sgm-E13-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="555" END="560">Walker</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="451.sgm-E14-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="561" END="570">&apos;s husband</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="451.sgm-R4" TYPE="PART-WHOLE">
+    <relation_argument REFID="451.sgm-E18" ROLE="Arg-1" />
+    <relation_argument REFID="451.sgm-E19" ROLE="Arg-2" />
+      <relation_mention ID="451.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="539" END="685">The report said Walker&apos;s husband, whose name is not listed, was fighting with Hatcher near Bank of the Ozarks on Gastonia Highway in Bessemer City.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="451.sgm-E18-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="652" END="667">Gastonia Highway</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="451.sgm-E19-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="672" END="684">Bessemer City</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="451.sgm-EV0" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="451.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="116" END="283">Bessemer City Police on Sunday charged Dawn Kathlyn Walker, 42, of Marshall Wolfe Road, with assault with a deadly weapon with intent to kill or inflict serious injury.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="147" END="153">charged</charseq>
+      </anchor>
+      <event_mention_argument REFID="451.sgm-E1-1" ROLE="Prosecutor" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="116" END="135">Bessemer City Police</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="451.sgm-E2-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="155" END="173">Dawn Kathlyn Walker</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="451.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="451.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="116" END="283">Bessemer City Police on Sunday charged Dawn Kathlyn Walker, 42, of Marshall Wolfe Road, with assault with a deadly weapon with intent to kill or inflict serious injury.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="253" END="256">kill</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="451.sgm-EV2" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="451.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="116" END="283">Bessemer City Police on Sunday charged Dawn Kathlyn Walker, 42, of Marshall Wolfe Road, with assault with a deadly weapon with intent to kill or inflict serious injury.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="277" END="282">injury</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="451.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="451.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="539" END="685">The report said Walker&apos;s husband, whose name is not listed, was fighting with Hatcher near Bank of the Ozarks on Gastonia Highway in Bessemer City.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="603" END="610">fighting</charseq>
+      </anchor>
+      <event_mention_argument REFID="451.sgm-E16-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="617" END="623">Hatcher</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

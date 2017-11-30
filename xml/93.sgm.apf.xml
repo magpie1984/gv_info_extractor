@@ -1,0 +1,4029 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/93.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/93.sgm">
+  <entity ID="93.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E0-1">
+      <extent>
+			<charseq START="143" END="171">Three Boulder police officers</charseq>
+      </extent>
+      <head>
+			<charseq START="149" END="155">Boulder</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E1" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E1-1">
+      <extent>
+			<charseq START="143" END="171">Three Boulder police officers</charseq>
+      </extent>
+      <head>
+			<charseq START="157" END="162">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E2-1">
+      <extent>
+			<charseq START="143" END="171">Three Boulder police officers</charseq>
+      </extent>
+      <head>
+			<charseq START="164" END="171">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E3" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E3-1">
+      <extent>
+			<charseq START="182" END="191">University</charseq>
+      </extent>
+      <head>
+			<charseq START="182" END="191">University</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E4" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E4-1">
+      <extent>
+			<charseq START="196" END="227">Colorado student Coleman Stewart</charseq>
+      </extent>
+      <head>
+			<charseq START="196" END="203">Colorado</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E5-1">
+      <extent>
+			<charseq START="196" END="227">Colorado student Coleman Stewart</charseq>
+      </extent>
+      <head>
+			<charseq START="205" END="211">student</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E6-1">
+      <extent>
+			<charseq START="196" END="227">Colorado student Coleman Stewart</charseq>
+      </extent>
+      <head>
+			<charseq START="213" END="227">Coleman Stewart</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E7-1">
+      <extent>
+			<charseq START="235" END="241">Stewart</charseq>
+      </extent>
+      <head>
+			<charseq START="235" END="241">Stewart</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E8" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E8-1">
+      <extent>
+			<charseq START="251" END="262">a pellet gun</charseq>
+      </extent>
+      <head>
+			<charseq START="260" END="262">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E9-1">
+      <extent>
+			<charseq START="282" END="294">his apartment</charseq>
+      </extent>
+      <head>
+			<charseq START="282" END="284">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E10-1">
+      <extent>
+			<charseq START="317" END="331">University Hill</charseq>
+      </extent>
+      <head>
+			<charseq START="317" END="331">University Hill</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E11-1">
+      <extent>
+			<charseq START="334" END="340">Stewart</charseq>
+      </extent>
+      <head>
+			<charseq START="334" END="340">Stewart</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E12-1">
+      <extent>
+			<charseq START="375" END="376">he</charseq>
+      </extent>
+      <head>
+			<charseq START="375" END="376">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E13-1">
+      <extent>
+			<charseq START="388" END="405">All three officers</charseq>
+      </extent>
+      <head>
+			<charseq START="398" END="405">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E14" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E14-1">
+      <extent>
+			<charseq START="436" END="475">Boulder police officer Vincent Gallerani</charseq>
+      </extent>
+      <head>
+			<charseq START="436" END="442">Boulder</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E15" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E15-1">
+      <extent>
+			<charseq START="436" END="475">Boulder police officer Vincent Gallerani</charseq>
+      </extent>
+      <head>
+			<charseq START="444" END="449">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E16-1">
+      <extent>
+			<charseq START="436" END="475">Boulder police officer Vincent Gallerani</charseq>
+      </extent>
+      <head>
+			<charseq START="451" END="457">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E17-1">
+      <extent>
+			<charseq START="436" END="475">Boulder police officer Vincent Gallerani</charseq>
+      </extent>
+      <head>
+			<charseq START="459" END="475">Vincent Gallerani</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E18-1">
+      <extent>
+			<charseq START="494" END="506">Michael Habay</charseq>
+      </extent>
+      <head>
+			<charseq START="494" END="506">Michael Habay</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E19-1">
+      <extent>
+			<charseq START="535" END="550">3009 Madison St.</charseq>
+      </extent>
+      <head>
+			<charseq START="540" END="550">Madison St.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E20-1">
+      <extent>
+			<charseq START="582" END="586">a man</charseq>
+      </extent>
+      <head>
+			<charseq START="584" END="586">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E21" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E21-1">
+      <extent>
+			<charseq START="599" END="605">a knife</charseq>
+      </extent>
+      <head>
+			<charseq START="601" END="605">knife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E22-1">
+      <extent>
+			<charseq START="621" END="623">who</charseq>
+      </extent>
+      <head>
+			<charseq START="621" END="623">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E23-1">
+      <extent>
+			<charseq START="696" END="708">his apartment</charseq>
+      </extent>
+      <head>
+			<charseq START="696" END="698">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E24" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E24-1">
+      <extent>
+			<charseq START="773" END="799">A SWAT team member — CU Cpl</charseq>
+      </extent>
+      <head>
+			<charseq START="780" END="783">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E25-1">
+      <extent>
+			<charseq START="773" END="799">A SWAT team member — CU Cpl</charseq>
+      </extent>
+      <head>
+			<charseq START="785" END="790">member</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E26-1">
+      <extent>
+			<charseq START="802" END="815">Matt DeLaria —</charseq>
+      </extent>
+      <head>
+			<charseq START="802" END="813">Matt DeLaria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E27-1">
+      <extent>
+			<charseq START="832" END="848">Terrance Baughman</charseq>
+      </extent>
+      <head>
+			<charseq START="832" END="848">Terrance Baughman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E28-1">
+      <extent>
+			<charseq START="851" END="853">who</charseq>
+      </extent>
+      <head>
+			<charseq START="851" END="853">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E29-1">
+      <extent>
+			<charseq START="863" END="864">he</charseq>
+      </extent>
+      <head>
+			<charseq START="863" END="864">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E30" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E30-1">
+      <extent>
+			<charseq START="878" END="883">a bomb</charseq>
+      </extent>
+      <head>
+			<charseq START="880" END="883">bomb</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E31" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E31-1">
+      <extent>
+			<charseq START="892" END="917">Boulder Community Hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="892" END="917">Boulder Community Hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E32-1">
+      <extent>
+			<charseq START="920" END="926">DeLaria</charseq>
+      </extent>
+      <head>
+			<charseq START="920" END="926">DeLaria</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E33" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E33-1">
+      <extent>
+			<charseq START="958" END="986">A Boulder police officer shot</charseq>
+      </extent>
+      <head>
+			<charseq START="960" END="966">Boulder</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E34" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E34-1">
+      <extent>
+			<charseq START="958" END="986">A Boulder police officer shot</charseq>
+      </extent>
+      <head>
+			<charseq START="968" END="973">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E35-1">
+      <extent>
+			<charseq START="958" END="986">A Boulder police officer shot</charseq>
+      </extent>
+      <head>
+			<charseq START="975" END="981">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E36" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E36-1">
+      <extent>
+			<charseq START="1001" END="1022">University of Colorado</charseq>
+      </extent>
+      <head>
+			<charseq START="1001" END="1022">University of Colorado</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E37" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E37-1">
+      <extent>
+			<charseq START="1015" END="1030">Colorado student</charseq>
+      </extent>
+      <head>
+			<charseq START="1024" END="1030">student</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E38-1">
+      <extent>
+			<charseq START="1078" END="1084">the man</charseq>
+      </extent>
+      <head>
+			<charseq START="1082" END="1084">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E39-1">
+      <extent>
+			<charseq START="1096" END="1104">residents</charseq>
+      </extent>
+      <head>
+			<charseq START="1096" END="1104">residents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E40" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E40-1">
+      <extent>
+			<charseq START="1111" END="1117">a knife</charseq>
+      </extent>
+      <head>
+			<charseq START="1113" END="1117">knife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E41" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E41-1">
+      <extent>
+			<charseq START="1136" END="1141">police</charseq>
+      </extent>
+      <head>
+			<charseq START="1136" END="1141">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E42-1">
+      <extent>
+			<charseq START="1170" END="1178">officials</charseq>
+      </extent>
+      <head>
+			<charseq START="1170" END="1178">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E43" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E43-1">
+      <extent>
+			<charseq START="1186" END="1191">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="1186" END="1191">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E44" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E44-1">
+      <extent>
+			<charseq START="1198" END="1210">the suspect —</charseq>
+      </extent>
+      <head>
+			<charseq START="1202" END="1208">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E45" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E45-1">
+      <extent>
+			<charseq START="1226" END="1236">the coroner</charseq>
+      </extent>
+      <head>
+			<charseq START="1230" END="1236">coroner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E46" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E46-1">
+      <extent>
+			<charseq START="1241" END="1252">Samuel Forgy</charseq>
+      </extent>
+      <head>
+			<charseq START="1241" END="1252">Samuel Forgy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E47" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E47-1">
+      <extent>
+			<charseq START="1287" END="1319">the 19th Street apartment complex</charseq>
+      </extent>
+      <head>
+			<charseq START="1313" END="1319">complex</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E48" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E48-1">
+      <extent>
+			<charseq START="1327" END="1328">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1327" END="1328">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E49" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E49-1">
+      <extent>
+			<charseq START="1356" END="1367">the officers</charseq>
+      </extent>
+      <head>
+			<charseq START="1360" END="1367">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E50" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E50-1">
+      <extent>
+			<charseq START="1390" END="1392">him</charseq>
+      </extent>
+      <head>
+			<charseq START="1390" END="1392">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E51" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E51-1">
+      <extent>
+			<charseq START="1395" END="1400">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="1395" END="1400">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E52" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E52-1">
+      <extent>
+			<charseq START="1408" END="1417">an officer</charseq>
+      </extent>
+      <head>
+			<charseq START="1411" END="1417">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E53" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E53-1">
+      <extent>
+			<charseq START="1458" END="1462">Forgy</charseq>
+      </extent>
+      <head>
+			<charseq START="1458" END="1462">Forgy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E54" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E54-1">
+      <extent>
+			<charseq START="1472" END="1473">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1472" END="1473">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E55" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E55-1">
+      <extent>
+			<charseq START="1495" END="1510">a second officer</charseq>
+      </extent>
+      <head>
+			<charseq START="1504" END="1510">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E56" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E56-1">
+      <extent>
+			<charseq START="1517" END="1526">a neighbor</charseq>
+      </extent>
+      <head>
+			<charseq START="1519" END="1526">neighbor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E57" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E57-1">
+      <extent>
+			<charseq START="1528" END="1530">who</charseq>
+      </extent>
+      <head>
+			<charseq START="1528" END="1530">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E58" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E58-1">
+      <extent>
+			<charseq START="1566" END="1577">the stun gun</charseq>
+      </extent>
+      <head>
+			<charseq START="1575" END="1577">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E59" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E59-1">
+      <extent>
+			<charseq START="1584" END="1594">the handgun</charseq>
+      </extent>
+      <head>
+			<charseq START="1588" END="1594">handgun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E60" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E60-1">
+      <extent>
+			<charseq START="1675" END="1698">&apos;&quot; neighbor Nikki Larsen</charseq>
+      </extent>
+      <head>
+			<charseq START="1678" END="1685">neighbor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E61" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E61-1">
+      <extent>
+			<charseq START="1675" END="1698">&apos;&quot; neighbor Nikki Larsen</charseq>
+      </extent>
+      <head>
+			<charseq START="1687" END="1698">Nikki Larsen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E62" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E62-1">
+      <extent>
+			<charseq START="1824" END="1835">CU officials</charseq>
+      </extent>
+      <head>
+			<charseq START="1824" END="1825">CU</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E63" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E63-1">
+      <extent>
+			<charseq START="1824" END="1835">CU officials</charseq>
+      </extent>
+      <head>
+			<charseq START="1827" END="1835">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E64" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E64-1">
+      <extent>
+			<charseq START="1847" END="1851">Forgy</charseq>
+      </extent>
+      <head>
+			<charseq START="1847" END="1851">Forgy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E65" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E65-1">
+      <extent>
+			<charseq START="1857" END="1865">a student</charseq>
+      </extent>
+      <head>
+			<charseq START="1859" END="1865">student</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E66" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E66-1">
+      <extent>
+			<charseq START="1870" END="1887">the Boulder campus</charseq>
+      </extent>
+      <head>
+			<charseq START="1874" END="1887">Boulder campus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E67" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E67-1">
+      <extent>
+			<charseq START="1896" END="1897">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1896" END="1897">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E68" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E68-1">
+      <extent>
+			<charseq START="1936" END="1937">He</charseq>
+      </extent>
+      <head>
+			<charseq START="1936" END="1937">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E69" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E69-1">
+      <extent>
+			<charseq START="1976" END="2002">Community College of Denver</charseq>
+      </extent>
+      <head>
+			<charseq START="1976" END="2002">Community College of Denver</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E70" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E70-1">
+      <extent>
+			<charseq START="2018" END="2037">his LinkedIn profile</charseq>
+      </extent>
+      <head>
+			<charseq START="2018" END="2020">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E71" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E71-1">
+      <extent>
+			<charseq START="2040" END="2052">Bouler police</charseq>
+      </extent>
+      <head>
+			<charseq START="2047" END="2052">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E72" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E72-1">
+      <extent>
+			<charseq START="2059" END="2062">they</charseq>
+      </extent>
+      <head>
+			<charseq START="2059" END="2062">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E73" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E73-1">
+      <extent>
+			<charseq START="2106" END="2115">a resident</charseq>
+      </extent>
+      <head>
+			<charseq START="2108" END="2115">resident</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E74" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E74-1">
+      <extent>
+			<charseq START="2120" END="2131">an apartment</charseq>
+      </extent>
+      <head>
+			<charseq START="2123" END="2131">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E75" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E75-1">
+      <extent>
+			<charseq START="2136" END="2147">1841 19th St</charseq>
+      </extent>
+      <head>
+			<charseq START="2146" END="2147">St</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E76" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E76-1">
+      <extent>
+			<charseq START="2208" END="2212">a man</charseq>
+      </extent>
+      <head>
+			<charseq START="2210" END="2212">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E77" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E77-1">
+      <extent>
+			<charseq START="2253" END="2265">the apartment</charseq>
+      </extent>
+      <head>
+			<charseq START="2257" END="2265">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E78" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E78-1">
+      <extent>
+			<charseq START="2284" END="2291">officers</charseq>
+      </extent>
+      <head>
+			<charseq START="2284" END="2291">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E79" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E79-1">
+      <extent>
+			<charseq START="2302" END="2307">police</charseq>
+      </extent>
+      <head>
+			<charseq START="2302" END="2307">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E80" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E80-1">
+      <extent>
+			<charseq START="2315" END="2318">they</charseq>
+      </extent>
+      <head>
+			<charseq START="2315" END="2318">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E81" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E81-1">
+      <extent>
+			<charseq START="2360" END="2367">his face</charseq>
+      </extent>
+      <head>
+			<charseq START="2360" END="2362">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E82" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E82-1">
+      <extent>
+			<charseq START="2370" END="2376">The man</charseq>
+      </extent>
+      <head>
+			<charseq START="2374" END="2376">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E83" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E83-1">
+      <extent>
+			<charseq START="2387" END="2407">multiple knife wounds</charseq>
+      </extent>
+      <head>
+			<charseq START="2396" END="2400">knife</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E84" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E84-1">
+      <extent>
+			<charseq START="2436" END="2447">his forehead</charseq>
+      </extent>
+      <head>
+			<charseq START="2436" END="2438">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E85" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E85-1">
+      <extent>
+			<charseq START="2464" END="2471">his hand</charseq>
+      </extent>
+      <head>
+			<charseq START="2464" END="2466">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E86" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E86-1">
+      <extent>
+			<charseq START="2474" END="2479">police</charseq>
+      </extent>
+      <head>
+			<charseq START="2474" END="2479">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E87" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E87-1">
+      <extent>
+			<charseq START="2487" END="2488">He</charseq>
+      </extent>
+      <head>
+			<charseq START="2487" END="2488">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E88" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E88-1">
+      <extent>
+			<charseq START="2515" END="2538">Boulder Community Health</charseq>
+      </extent>
+      <head>
+			<charseq START="2515" END="2538">Boulder Community Health</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E89" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E89-1">
+      <extent>
+			<charseq START="2596" END="2601">police</charseq>
+      </extent>
+      <head>
+			<charseq START="2596" END="2601">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E90" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E90-1">
+      <extent>
+			<charseq START="2624" END="2642">the stabbing victim</charseq>
+      </extent>
+      <head>
+			<charseq START="2637" END="2642">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E91" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E91-1">
+      <extent>
+			<charseq START="2645" END="2652">officers</charseq>
+      </extent>
+      <head>
+			<charseq START="2645" END="2652">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E92" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E92-1">
+      <extent>
+			<charseq START="2660" END="2668">their way</charseq>
+      </extent>
+      <head>
+			<charseq START="2660" END="2664">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E93" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E93-1">
+      <extent>
+			<charseq START="2690" END="2715">the second-story apartment</charseq>
+      </extent>
+      <head>
+			<charseq START="2707" END="2715">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E94" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E94-1">
+      <extent>
+			<charseq START="2734" END="2738">Forgy</charseq>
+      </extent>
+      <head>
+			<charseq START="2734" END="2738">Forgy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E95" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E95-1">
+      <extent>
+			<charseq START="2741" END="2743">who</charseq>
+      </extent>
+      <head>
+			<charseq START="2741" END="2743">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E96" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E96-1">
+      <extent>
+			<charseq START="2793" END="2798">police</charseq>
+      </extent>
+      <head>
+			<charseq START="2793" END="2798">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E97" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E97-1">
+      <extent>
+			<charseq START="2801" END="2808">Officers</charseq>
+      </extent>
+      <head>
+			<charseq START="2801" END="2808">Officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E98" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E98-1">
+      <extent>
+			<charseq START="2829" END="2833">Forgy</charseq>
+      </extent>
+      <head>
+			<charseq START="2829" END="2833">Forgy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E99" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E99-1">
+      <extent>
+			<charseq START="2855" END="2860">police</charseq>
+      </extent>
+      <head>
+			<charseq START="2855" END="2860">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E100" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E100-1">
+      <extent>
+			<charseq START="2872" END="2873">he</charseq>
+      </extent>
+      <head>
+			<charseq START="2872" END="2873">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E101" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E101-1">
+      <extent>
+			<charseq START="2954" END="2975">One officer shot Forgy</charseq>
+      </extent>
+      <head>
+			<charseq START="2958" END="2964">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E102" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E102-1">
+      <extent>
+			<charseq START="2954" END="2975">One officer shot Forgy</charseq>
+      </extent>
+      <head>
+			<charseq START="2971" END="2975">Forgy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E103" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E103-1">
+      <extent>
+			<charseq START="2982" END="2988">a Taser</charseq>
+      </extent>
+      <head>
+			<charseq START="2984" END="2988">Taser</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E104" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E104-1">
+      <extent>
+			<charseq START="2991" END="2996">police</charseq>
+      </extent>
+      <head>
+			<charseq START="2991" END="2996">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E105" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E105-1">
+      <extent>
+			<charseq START="3028" END="3030">him</charseq>
+      </extent>
+      <head>
+			<charseq START="3028" END="3030">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E106" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E106-1">
+      <extent>
+			<charseq START="3033" END="3048">A second officer</charseq>
+      </extent>
+      <head>
+			<charseq START="3042" END="3048">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E107" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E107-1">
+      <extent>
+			<charseq START="3056" END="3077">his gun multiple times</charseq>
+      </extent>
+      <head>
+			<charseq START="3056" END="3058">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E108" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E108-1">
+      <extent>
+			<charseq START="3090" END="3094">Forgy</charseq>
+      </extent>
+      <head>
+			<charseq START="3090" END="3094">Forgy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E109" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E109-1">
+      <extent>
+			<charseq START="3097" END="3099">who</charseq>
+      </extent>
+      <head>
+			<charseq START="3097" END="3099">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E110" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E110-1">
+      <extent>
+			<charseq START="3166" END="3171">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="3166" END="3171">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E111" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E111-1">
+      <extent>
+			<charseq START="3200" END="3210">the officer</charseq>
+      </extent>
+      <head>
+			<charseq START="3204" END="3210">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E112" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E112-1">
+      <extent>
+			<charseq START="3218" END="3224">his gun</charseq>
+      </extent>
+      <head>
+			<charseq START="3218" END="3220">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E113" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E113-1">
+      <extent>
+			<charseq START="3218" END="3224">his gun</charseq>
+      </extent>
+      <head>
+			<charseq START="3222" END="3224">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E114" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E114-1">
+      <extent>
+			<charseq START="3246" END="3278">Boulder spokeswoman Sarah Huntley</charseq>
+      </extent>
+      <head>
+			<charseq START="3246" END="3252">Boulder</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E115" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E115-1">
+      <extent>
+			<charseq START="3246" END="3278">Boulder spokeswoman Sarah Huntley</charseq>
+      </extent>
+      <head>
+			<charseq START="3254" END="3264">spokeswoman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E116" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E116-1">
+      <extent>
+			<charseq START="3246" END="3278">Boulder spokeswoman Sarah Huntley</charseq>
+      </extent>
+      <head>
+			<charseq START="3266" END="3278">Sarah Huntley</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E117" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E117-1">
+      <extent>
+			<charseq START="3298" END="3299">we</charseq>
+      </extent>
+      <head>
+			<charseq START="3298" END="3299">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E118" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E118-1">
+      <extent>
+			<charseq START="3327" END="3335">Officials</charseq>
+      </extent>
+      <head>
+			<charseq START="3327" END="3335">Officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E119" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E119-1">
+      <extent>
+			<charseq START="3342" END="3346">Forgy</charseq>
+      </extent>
+      <head>
+			<charseq START="3342" END="3346">Forgy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E120" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E120-1">
+      <extent>
+			<charseq START="3392" END="3397">people</charseq>
+      </extent>
+      <head>
+			<charseq START="3392" END="3397">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E121" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E121-1">
+      <extent>
+			<charseq START="3402" END="3415">that apartment</charseq>
+      </extent>
+      <head>
+			<charseq START="3407" END="3415">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E122" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E122-1">
+      <extent>
+			<charseq START="3422" END="3434">investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="3422" END="3434">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E123" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E123-1">
+      <extent>
+			<charseq START="3436" END="3437">he</charseq>
+      </extent>
+      <head>
+			<charseq START="3436" END="3437">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E124" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E124-1">
+      <extent>
+			<charseq START="3482" END="3487">Larsen</charseq>
+      </extent>
+      <head>
+			<charseq START="3482" END="3487">Larsen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E125" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E125-1">
+      <extent>
+			<charseq START="3494" END="3496">she</charseq>
+      </extent>
+      <head>
+			<charseq START="3494" END="3496">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E126" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E126-1">
+      <extent>
+			<charseq START="3502" END="3512">her husband</charseq>
+      </extent>
+      <head>
+			<charseq START="3502" END="3504">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E127" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E127-1">
+      <extent>
+			<charseq START="3502" END="3512">her husband</charseq>
+      </extent>
+      <head>
+			<charseq START="3506" END="3512">husband</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E128" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E128-1">
+      <extent>
+			<charseq START="3542" END="3551">their deck</charseq>
+      </extent>
+      <head>
+			<charseq START="3542" END="3546">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E129" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E129-1">
+      <extent>
+			<charseq START="3574" END="3576">She</charseq>
+      </extent>
+      <head>
+			<charseq START="3574" END="3576">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E130" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E130-1">
+      <extent>
+			<charseq START="3583" END="3586">they</charseq>
+      </extent>
+      <head>
+			<charseq START="3583" END="3586">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E131" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E131-1">
+      <extent>
+			<charseq START="3593" END="3607">police officers</charseq>
+      </extent>
+      <head>
+			<charseq START="3593" END="3598">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E132" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E132-1">
+      <extent>
+			<charseq START="3593" END="3607">police officers</charseq>
+      </extent>
+      <head>
+			<charseq START="3600" END="3607">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E133" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E133-1">
+      <extent>
+			<charseq START="3656" END="3666">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="3660" END="3666">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E134" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E134-1">
+      <extent>
+			<charseq START="3682" END="3683">We</charseq>
+      </extent>
+      <head>
+			<charseq START="3682" END="3683">We</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E135" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E135-1">
+      <extent>
+			<charseq START="3694" END="3702">(officers</charseq>
+      </extent>
+      <head>
+			<charseq START="3695" END="3702">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E136" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E136-1">
+      <extent>
+			<charseq START="3751" END="3754">they</charseq>
+      </extent>
+      <head>
+			<charseq START="3751" END="3754">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E137" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E137-1">
+      <extent>
+			<charseq START="3800" END="3805">Larsen</charseq>
+      </extent>
+      <head>
+			<charseq START="3800" END="3805">Larsen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E138" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E138-1">
+      <extent>
+			<charseq START="3866" END="3877">the officers</charseq>
+      </extent>
+      <head>
+			<charseq START="3870" END="3877">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E139" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E139-1">
+      <extent>
+			<charseq START="3933" END="3934">he</charseq>
+      </extent>
+      <head>
+			<charseq START="3933" END="3934">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E140" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E140-1">
+      <extent>
+			<charseq START="3979" END="3984">Larsen</charseq>
+      </extent>
+      <head>
+			<charseq START="3979" END="3984">Larsen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E141" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E141-1">
+      <extent>
+			<charseq START="3991" END="3993">she</charseq>
+      </extent>
+      <head>
+			<charseq START="3991" END="3993">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E142" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E142-1">
+      <extent>
+			<charseq START="4001" END="4016">the suspect yell</charseq>
+      </extent>
+      <head>
+			<charseq START="4005" END="4011">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E143" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E143-1">
+      <extent>
+			<charseq START="4020" END="4020">I</charseq>
+      </extent>
+      <head>
+			<charseq START="4020" END="4020">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E144" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E144-1">
+      <extent>
+			<charseq START="4048" END="4056">his right</charseq>
+      </extent>
+      <head>
+			<charseq START="4048" END="4050">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E145" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E145-1">
+      <extent>
+			<charseq START="4118" END="4123">Larsen</charseq>
+      </extent>
+      <head>
+			<charseq START="4118" END="4123">Larsen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E146" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E146-1">
+      <extent>
+			<charseq START="4130" END="4132">she</charseq>
+      </extent>
+      <head>
+			<charseq START="4130" END="4132">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E147" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E147-1">
+      <extent>
+			<charseq START="4145" END="4147">she</charseq>
+      </extent>
+      <head>
+			<charseq START="4145" END="4147">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E148" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E148-1">
+      <extent>
+			<charseq START="4192" END="4198">Huntley</charseq>
+      </extent>
+      <head>
+			<charseq START="4192" END="4198">Huntley</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E149" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E149-1">
+      <extent>
+			<charseq START="4205" END="4210">police</charseq>
+      </extent>
+      <head>
+			<charseq START="4205" END="4210">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E150" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E150-1">
+      <extent>
+			<charseq START="4233" END="4241">the Taser</charseq>
+      </extent>
+      <head>
+			<charseq START="4237" END="4241">Taser</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E151" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E151-1">
+      <extent>
+			<charseq START="4257" END="4267">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="4261" END="4267">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E152" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E152-1">
+      <extent>
+			<charseq START="4304" END="4315">the stun gun</charseq>
+      </extent>
+      <head>
+			<charseq START="4313" END="4315">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E153" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E153-1">
+      <extent>
+			<charseq START="4332" END="4333">We</charseq>
+      </extent>
+      <head>
+			<charseq START="4332" END="4333">We</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E154" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E154-1">
+      <extent>
+			<charseq START="4391" END="4399">the Taser</charseq>
+      </extent>
+      <head>
+			<charseq START="4395" END="4399">Taser</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E155" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E155-1">
+      <extent>
+			<charseq START="4403" END="4405">she</charseq>
+      </extent>
+      <head>
+			<charseq START="4403" END="4405">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E156" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E156-1">
+      <extent>
+			<charseq START="4419" END="4425">a Taser</charseq>
+      </extent>
+      <head>
+			<charseq START="4421" END="4425">Taser</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E157" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E157-1">
+      <extent>
+			<charseq START="4478" END="4488">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="4482" END="4488">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E158" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E158-1">
+      <extent>
+			<charseq START="4527" END="4528">we</charseq>
+      </extent>
+      <head>
+			<charseq START="4527" END="4528">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E159" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E159-1">
+      <extent>
+			<charseq START="4575" END="4585">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="4579" END="4585">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E160" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E160-1">
+      <extent>
+			<charseq START="4615" END="4616">we</charseq>
+      </extent>
+      <head>
+			<charseq START="4615" END="4616">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E161" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E161-1">
+      <extent>
+			<charseq START="4651" END="4652">we</charseq>
+      </extent>
+      <head>
+			<charseq START="4651" END="4652">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E162" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E162-1">
+      <extent>
+			<charseq START="4659" END="4667">a suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="4661" END="4667">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E163" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E163-1">
+      <extent>
+			<charseq START="4669" END="4671">who</charseq>
+      </extent>
+      <head>
+			<charseq START="4669" END="4671">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E164" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E164-1">
+      <extent>
+			<charseq START="4753" END="4765">investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="4753" END="4765">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E165" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E165-1">
+      <extent>
+			<charseq START="4814" END="4824">The officer</charseq>
+      </extent>
+      <head>
+			<charseq START="4818" END="4824">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E166" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E166-1">
+      <extent>
+			<charseq START="4826" END="4828">who</charseq>
+      </extent>
+      <head>
+			<charseq START="4826" END="4828">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E167" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E167-1">
+      <extent>
+			<charseq START="4835" END="4845">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="4839" END="4845">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E168" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E168-1">
+      <extent>
+			<charseq START="4886" END="4921">the Boulder County District Attorney</charseq>
+      </extent>
+      <head>
+			<charseq START="4890" END="4921">Boulder County District Attorney</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E169" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E169-1">
+      <extent>
+			<charseq START="4922" END="4930">&apos;s Office</charseq>
+      </extent>
+      <head>
+			<charseq START="4925" END="4930">Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E170" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E170-1">
+      <extent>
+			<charseq START="4942" END="4951">its review</charseq>
+      </extent>
+      <head>
+			<charseq START="4942" END="4944">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E171" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E171-1">
+      <extent>
+			<charseq START="5009" END="5045">the Boulder County Investigative Team</charseq>
+      </extent>
+      <head>
+			<charseq START="5013" END="5045">Boulder County Investigative Team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E172" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E172-1">
+      <extent>
+			<charseq START="5048" END="5074">a multi-jurisdictional unit</charseq>
+      </extent>
+      <head>
+			<charseq START="5071" END="5074">unit</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E173" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E173-1">
+      <extent>
+			<charseq START="5076" END="5079">that</charseq>
+      </extent>
+      <head>
+			<charseq START="5076" END="5079">that</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E174" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E174-1">
+      <extent>
+			<charseq START="5093" END="5104">its findings</charseq>
+      </extent>
+      <head>
+			<charseq START="5093" END="5095">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E175" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E175-1">
+      <extent>
+			<charseq START="5109" END="5123">DA Stan Garnett</charseq>
+      </extent>
+      <head>
+			<charseq START="5109" END="5123">DA Stan Garnett</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E176" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E176-1">
+      <extent>
+			<charseq START="5130" END="5152">police Chief Greg Testa</charseq>
+      </extent>
+      <head>
+			<charseq START="5130" END="5135">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E177" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E177-1">
+      <extent>
+			<charseq START="5130" END="5152">police Chief Greg Testa</charseq>
+      </extent>
+      <head>
+			<charseq START="5137" END="5141">Chief</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E178" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E178-1">
+      <extent>
+			<charseq START="5130" END="5152">police Chief Greg Testa</charseq>
+      </extent>
+      <head>
+			<charseq START="5143" END="5152">Greg Testa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E179" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E179-1">
+      <extent>
+			<charseq START="5182" END="5185">Some</charseq>
+      </extent>
+      <head>
+			<charseq START="5182" END="5185">Some</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E180" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E180-1">
+      <extent>
+			<charseq START="5190" END="5194">those</charseq>
+      </extent>
+      <head>
+			<charseq START="5190" END="5194">those</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E181" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E181-1">
+      <extent>
+			<charseq START="5196" END="5198">who</charseq>
+      </extent>
+      <head>
+			<charseq START="5196" END="5198">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E182" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E182-1">
+      <extent>
+			<charseq START="5209" END="5213">Forgy</charseq>
+      </extent>
+      <head>
+			<charseq START="5209" END="5213">Forgy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E183" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E183-1">
+      <extent>
+			<charseq START="5214" END="5223">&apos;s complex</charseq>
+      </extent>
+      <head>
+			<charseq START="5217" END="5223">complex</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E184" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E184-1">
+      <extent>
+			<charseq START="5311" END="5327">several neighbors</charseq>
+      </extent>
+      <head>
+			<charseq START="5319" END="5327">neighbors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E185" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E185-1">
+      <extent>
+			<charseq START="5334" END="5337">they</charseq>
+      </extent>
+      <head>
+			<charseq START="5334" END="5337">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E186" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E186-1">
+      <extent>
+			<charseq START="5352" END="5363">Forgy before</charseq>
+      </extent>
+      <head>
+			<charseq START="5352" END="5356">Forgy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E187" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E187-1">
+      <extent>
+			<charseq START="5390" END="5411">neighbor Brett Spencer</charseq>
+      </extent>
+      <head>
+			<charseq START="5390" END="5397">neighbor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E188" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E188-1">
+      <extent>
+			<charseq START="5390" END="5411">neighbor Brett Spencer</charseq>
+      </extent>
+      <head>
+			<charseq START="5399" END="5411">Brett Spencer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E189" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E189-1">
+      <extent>
+			<charseq START="5414" END="5416">who</charseq>
+      </extent>
+      <head>
+			<charseq START="5414" END="5416">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E190" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E190-1">
+      <extent>
+			<charseq START="5426" END="5429">home</charseq>
+      </extent>
+      <head>
+			<charseq START="5426" END="5429">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E191" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E191-1">
+      <extent>
+			<charseq START="5481" END="5482">We</charseq>
+      </extent>
+      <head>
+			<charseq START="5481" END="5482">We</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E192" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E192-1">
+      <extent>
+			<charseq START="5503" END="5508">people</charseq>
+      </extent>
+      <head>
+			<charseq START="5503" END="5508">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E193" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E193-1">
+      <extent>
+			<charseq START="5513" END="5524">the building</charseq>
+      </extent>
+      <head>
+			<charseq START="5517" END="5524">building</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E194" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E194-1">
+      <extent>
+			<charseq START="5571" END="5574">they</charseq>
+      </extent>
+      <head>
+			<charseq START="5571" END="5574">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E195" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E195-1">
+      <extent>
+			<charseq START="5608" END="5617">the street</charseq>
+      </extent>
+      <head>
+			<charseq START="5612" END="5617">street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E196" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E196-1">
+      <extent>
+			<charseq START="5624" END="5634">the complex</charseq>
+      </extent>
+      <head>
+			<charseq START="5628" END="5634">complex</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E197" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E197-1">
+      <extent>
+			<charseq START="5637" END="5651">Sierra Brashear</charseq>
+      </extent>
+      <head>
+			<charseq START="5637" END="5651">Sierra Brashear</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E198" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E198-1">
+      <extent>
+			<charseq START="5658" END="5660">she</charseq>
+      </extent>
+      <head>
+			<charseq START="5658" END="5660">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E199" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E199-1">
+      <extent>
+			<charseq START="5707" END="5708">We</charseq>
+      </extent>
+      <head>
+			<charseq START="5707" END="5708">We</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E200" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E200-1">
+      <extent>
+			<charseq START="5718" END="5721">they</charseq>
+      </extent>
+      <head>
+			<charseq START="5718" END="5721">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E201" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E201-1">
+      <extent>
+			<charseq START="5728" END="5736">fireworks</charseq>
+      </extent>
+      <head>
+			<charseq START="5728" END="5736">fireworks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E202" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E202-1">
+      <extent>
+			<charseq START="5743" END="5756">then my friend</charseq>
+      </extent>
+      <head>
+			<charseq START="5748" END="5749">my</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E203" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E203-1">
+      <extent>
+			<charseq START="5743" END="5756">then my friend</charseq>
+      </extent>
+      <head>
+			<charseq START="5751" END="5756">friend</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E204" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E204-1">
+      <extent>
+			<charseq START="5768" END="5785">the police scanner</charseq>
+      </extent>
+      <head>
+			<charseq START="5772" END="5777">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E205" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E205-1">
+      <extent>
+			<charseq START="5797" END="5800">them</charseq>
+      </extent>
+      <head>
+			<charseq START="5797" END="5800">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E206" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E206-1">
+      <extent>
+			<charseq START="5831" END="5838">Brashear</charseq>
+      </extent>
+      <head>
+			<charseq START="5831" END="5838">Brashear</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E207" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E207-1">
+      <extent>
+			<charseq START="5841" END="5843">who</charseq>
+      </extent>
+      <head>
+			<charseq START="5841" END="5843">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E208" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E208-1">
+      <extent>
+			<charseq START="5858" END="5876">her upstairs window</charseq>
+      </extent>
+      <head>
+			<charseq START="5858" END="5860">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E209" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E209-1">
+      <extent>
+			<charseq START="5881" END="5898">emergency vehicles</charseq>
+      </extent>
+      <head>
+			<charseq START="5891" END="5898">vehicles</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E210" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E210-1">
+      <extent>
+			<charseq START="5956" END="5957">we</charseq>
+      </extent>
+      <head>
+			<charseq START="5956" END="5957">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E211" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E211-1">
+      <extent>
+			<charseq START="5999" END="6005">someone</charseq>
+      </extent>
+      <head>
+			<charseq START="5999" END="6005">someone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E212" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E212-1">
+      <extent>
+			<charseq START="6009" END="6019">Kate Haddon</charseq>
+      </extent>
+      <head>
+			<charseq START="6009" END="6019">Kate Haddon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E213" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E213-1">
+      <extent>
+			<charseq START="6022" END="6036">chapter adviser</charseq>
+      </extent>
+      <head>
+			<charseq START="6030" END="6036">adviser</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E214" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E214-1">
+      <extent>
+			<charseq START="6046" END="6072">Community College of Denver</charseq>
+      </extent>
+      <head>
+			<charseq START="6046" END="6072">Community College of Denver</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E215" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E215-1">
+      <extent>
+			<charseq START="6073" END="6105">&apos;s Phi Theta Kappa honors program</charseq>
+      </extent>
+      <head>
+			<charseq START="6076" END="6090">Phi Theta Kappa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E216" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E216-1">
+      <extent>
+			<charseq START="6113" END="6117">Forgy</charseq>
+      </extent>
+      <head>
+			<charseq START="6113" END="6117">Forgy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E217" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E217-1">
+      <extent>
+			<charseq START="6123" END="6130">a member</charseq>
+      </extent>
+      <head>
+			<charseq START="6125" END="6130">member</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E218" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E218-1">
+      <extent>
+			<charseq START="6154" END="6155">he</charseq>
+      </extent>
+      <head>
+			<charseq START="6154" END="6155">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E219" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E219-1">
+      <extent>
+			<charseq START="6165" END="6166">CU</charseq>
+      </extent>
+      <head>
+			<charseq START="6165" END="6166">CU</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E220" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E220-1">
+      <extent>
+			<charseq START="6178" END="6183">Haddon</charseq>
+      </extent>
+      <head>
+			<charseq START="6178" END="6183">Haddon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E221" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E221-1">
+      <extent>
+			<charseq START="6190" END="6192">she</charseq>
+      </extent>
+      <head>
+			<charseq START="6190" END="6192">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E222" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E222-1">
+      <extent>
+			<charseq START="6199" END="6203">Forgy</charseq>
+      </extent>
+      <head>
+			<charseq START="6199" END="6203">Forgy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E223" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E223-1">
+      <extent>
+			<charseq START="6213" END="6221">a student</charseq>
+      </extent>
+      <head>
+			<charseq START="6215" END="6221">student</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E224" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E224-1">
+      <extent>
+			<charseq START="6301" END="6306">Haddon</charseq>
+      </extent>
+      <head>
+			<charseq START="6301" END="6306">Haddon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E225" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E225-1">
+      <extent>
+			<charseq START="6315" END="6316">He</charseq>
+      </extent>
+      <head>
+			<charseq START="6315" END="6316">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E226" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E226-1">
+      <extent>
+			<charseq START="6355" END="6356">He</charseq>
+      </extent>
+      <head>
+			<charseq START="6355" END="6356">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E227" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E227-1">
+      <extent>
+			<charseq START="6370" END="6374">Forgy</charseq>
+      </extent>
+      <head>
+			<charseq START="6370" END="6374">Forgy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E228" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E228-1">
+      <extent>
+			<charseq START="6436" END="6442">Boulder</charseq>
+      </extent>
+      <head>
+			<charseq START="6436" END="6442">Boulder</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E229" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E229-1">
+      <extent>
+			<charseq START="6529" END="6535">someone</charseq>
+      </extent>
+      <head>
+			<charseq START="6529" END="6535">someone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E230" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E230-1">
+      <extent>
+			<charseq START="6591" END="6617">19-year-old  Roberto Zamora</charseq>
+      </extent>
+      <head>
+			<charseq START="6604" END="6617">Roberto Zamora</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E231" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E231-1">
+      <extent>
+			<charseq START="6668" END="6680">south Boulder</charseq>
+      </extent>
+      <head>
+			<charseq START="6674" END="6680">Boulder</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E232" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E232-1">
+      <extent>
+			<charseq START="6683" END="6693">Prosecutors</charseq>
+      </extent>
+      <head>
+			<charseq START="6683" END="6693">Prosecutors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E233" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E233-1">
+      <extent>
+			<charseq START="6739" END="6744">Zamora</charseq>
+      </extent>
+      <head>
+			<charseq START="6739" END="6744">Zamora</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E234" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E234-1">
+      <extent>
+			<charseq START="6771" END="6795">Staff Writer Alex Burness</charseq>
+      </extent>
+      <head>
+			<charseq START="6771" END="6775">Staff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E235" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E235-1">
+      <extent>
+			<charseq START="6771" END="6795">Staff Writer Alex Burness</charseq>
+      </extent>
+      <head>
+			<charseq START="6777" END="6782">Writer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E236" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E236-1">
+      <extent>
+			<charseq START="6771" END="6795">Staff Writer Alex Burness</charseq>
+      </extent>
+      <head>
+			<charseq START="6784" END="6795">Alex Burness</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="93.sgm-E237" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="93.sgm-E237-1">
+      <extent>
+			<charseq START="6826" END="6839">Mitchell Byars</charseq>
+      </extent>
+      <head>
+			<charseq START="6826" END="6839">Mitchell Byars</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="93.sgm-R0" TYPE="PART-WHOLE">
+    <relation_argument REFID="93.sgm-E1" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E0" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="129" END="332">May 30, 2014: Three Boulder police officers shoot at University of Colorado student Coleman Stewart after Stewart pointed a pellet gun out the window of his apartment during a standoff on University Hill.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E1-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="143" END="171">Three Boulder police officers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E0-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="143" END="171">Three Boulder police officers</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R1" TYPE="ORG-AFF">
+    <relation_argument REFID="93.sgm-E2" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E1" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="129" END="332">May 30, 2014: Three Boulder police officers shoot at University of Colorado student Coleman Stewart after Stewart pointed a pellet gun out the window of his apartment during a standoff on University Hill.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E2-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="143" END="171">Three Boulder police officers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="143" END="171">Three Boulder police officers</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R2" TYPE="ART">
+    <relation_argument REFID="93.sgm-E20" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E21" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="421" END="709">Nov. 24, 2013: Boulder police officer Vincent Gallerani shoots and kills Michael Habay at Wimbledon Condominiums, 3009 Madison St., after responding to calls of a man armed with a knife and a machete who was allegedly making threatening remarks and &quot;stabbing a post&quot; outside his apartment.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E20-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="582" END="586">a man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E21-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="599" END="605">a knife</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R3" TYPE="PART-WHOLE">
+    <relation_argument REFID="93.sgm-E15" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E14" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="421" END="709">Nov. 24, 2013: Boulder police officer Vincent Gallerani shoots and kills Michael Habay at Wimbledon Condominiums, 3009 Madison St., after responding to calls of a man armed with a knife and a machete who was allegedly making threatening remarks and &quot;stabbing a post&quot; outside his apartment.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E15-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="436" END="475">Boulder police officer Vincent Gallerani</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E14-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="436" END="475">Boulder police officer Vincent Gallerani</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R4" TYPE="ORG-AFF">
+    <relation_argument REFID="93.sgm-E16" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E15" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="421" END="709">Nov. 24, 2013: Boulder police officer Vincent Gallerani shoots and kills Michael Habay at Wimbledon Condominiums, 3009 Madison St., after responding to calls of a man armed with a knife and a machete who was allegedly making threatening remarks and &quot;stabbing a post&quot; outside his apartment.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E16-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="436" END="475">Boulder police officer Vincent Gallerani</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E15-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="436" END="475">Boulder police officer Vincent Gallerani</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R5" TYPE="ORG-AFF">
+    <relation_argument REFID="93.sgm-E25" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E24" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="757" END="800">March 17, 2008: A SWAT team member — CU Cpl.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E25-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="773" END="799">A SWAT team member — CU Cpl</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E24-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="773" END="799">A SWAT team member — CU Cpl</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R6" TYPE="PART-WHOLE">
+    <relation_argument REFID="93.sgm-E34" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E33" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="958" END="1184">A Boulder police officer shot and killed a University of Colorado student believed to be high on LSD late Monday, after the man  attacked residents with a knife, then confronted police with a hammer while naked, officials said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E34-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="958" END="986">A Boulder police officer shot</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E33-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="958" END="986">A Boulder police officer shot</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R7" TYPE="ORG-AFF">
+    <relation_argument REFID="93.sgm-E35" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E34" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R7-1">
+      <ldc_extent>
+			<charseq START="958" END="1184">A Boulder police officer shot and killed a University of Colorado student believed to be high on LSD late Monday, after the man  attacked residents with a knife, then confronted police with a hammer while naked, officials said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E35-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="958" END="986">A Boulder police officer shot</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E34-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="958" END="986">A Boulder police officer shot</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R8" TYPE="ART">
+    <relation_argument REFID="93.sgm-E38" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E40" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R8-1">
+      <ldc_extent>
+			<charseq START="958" END="1184">A Boulder police officer shot and killed a University of Colorado student believed to be high on LSD late Monday, after the man  attacked residents with a knife, then confronted police with a hammer while naked, officials said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E38-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1078" END="1084">the man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E40-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1111" END="1117">a knife</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R9" TYPE="ORG-AFF">
+    <relation_argument REFID="93.sgm-E63" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E62" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R9-1">
+      <ldc_extent>
+			<charseq START="1824" END="1934">CU officials confirmed Forgy was a student on the Boulder campus, where he was majoring in applied mathematics.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E63-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1824" END="1835">CU officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E62-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1824" END="1835">CU officials</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R10" TYPE="PHYS">
+    <relation_argument REFID="93.sgm-E65" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E66" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R10-1">
+      <ldc_extent>
+			<charseq START="1824" END="1934">CU officials confirmed Forgy was a student on the Boulder campus, where he was majoring in applied mathematics.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E65-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1857" END="1865">a student</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E66-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1870" END="1887">the Boulder campus</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R11" TYPE="PART-WHOLE">
+    <relation_argument REFID="93.sgm-E74" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E75" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R11-1">
+      <ldc_extent>
+			<charseq START="2040" END="2277">Bouler police said they were originally called to the scene after a resident of an apartment at 1841 19th St. phoned 911 shortly after 10:30 p.m. Monday to report that a man was acting erratically and was outside the apartment, screaming.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E74-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2120" END="2131">an apartment</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E75-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2136" END="2147">1841 19th St</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R12" TYPE="ART">
+    <relation_argument REFID="93.sgm-E112" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E113" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R12-1">
+      <ldc_extent>
+			<charseq START="3166" END="3225">Police did not say how many times the officer fired his gun.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E112-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3218" END="3224">his gun</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E113-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3218" END="3224">his gun</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R13" TYPE="ORG-AFF">
+    <relation_argument REFID="93.sgm-E115" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E114" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R13-1">
+      <ldc_extent>
+			<charseq START="3228" END="3284">&quot;Multiple times,&quot; Boulder spokeswoman Sarah Huntley said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E115-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3246" END="3278">Boulder spokeswoman Sarah Huntley</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E114-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3246" END="3278">Boulder spokeswoman Sarah Huntley</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R14" TYPE="PHYS">
+    <relation_argument REFID="93.sgm-E120" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E121" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R14-1">
+      <ldc_extent>
+			<charseq START="3327" END="3457">Officials said Forgy was subletting the apartment unit and that  people in that apartment told investigators he had been using LSD.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E120-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3392" END="3397">people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E121-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3402" END="3415">that apartment</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R15" TYPE="PER-SOC">
+    <relation_argument REFID="93.sgm-E126" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E127" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R15-1">
+      <ldc_extent>
+			<charseq START="3459" END="3572">&apos;Put the hammer down!&apos;
+Larsen said she and her husband witnessed the shooting from their deck about 75 yards away.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E126-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3502" END="3512">her husband</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E127-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3502" END="3512">her husband</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R16" TYPE="ORG-AFF">
+    <relation_argument REFID="93.sgm-E132" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E131" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R16-1">
+      <ldc_extent>
+			<charseq START="3574" END="3679">She said they  saw police officers run up the stairs before stopping and ordering the suspect to come out.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E132-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3593" END="3607">police officers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E131-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3593" END="3607">police officers</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R17" TYPE="ORG-AFF">
+    <relation_argument REFID="93.sgm-E169" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E168" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R17-1">
+      <ldc_extent>
+			<charseq START="4814" END="4968">The officer who shot the suspect will be placed on leave with pay until the Boulder County District Attorney&apos;s Office completes its review of the shooting.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E169-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4922" END="4930">&apos;s Office</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E168-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="4886" END="4921">the Boulder County District Attorney</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R18" TYPE="ORG-AFF">
+    <relation_argument REFID="93.sgm-E177" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E176" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R18-1">
+      <ldc_extent>
+			<charseq START="4970" END="5153">The shooting is under investigation by the Boulder County Investigative Team, a multi-jurisdictional unit that will report its findings to DA Stan Garnett and  police Chief Greg Testa.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E177-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5130" END="5152">police Chief Greg Testa</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E176-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5130" END="5152">police Chief Greg Testa</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R19" TYPE="PHYS">
+    <relation_argument REFID="93.sgm-E181" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E183" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R19-1">
+      <ldc_extent>
+			<charseq START="5155" END="5285">&apos;It was pretty horrifying&apos;
+Some of those who lived in Forgy&apos;s complex, meanwhile, are still trying to piece together what happened.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E181-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5196" END="5198">who</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E183-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5214" END="5223">&apos;s complex</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R20" TYPE="ART">
+    <relation_argument REFID="93.sgm-E182" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E183" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R20-1">
+      <ldc_extent>
+			<charseq START="5155" END="5285">&apos;It was pretty horrifying&apos;
+Some of those who lived in Forgy&apos;s complex, meanwhile, are still trying to piece together what happened.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E182-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5209" END="5213">Forgy</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E183-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5214" END="5223">&apos;s complex</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R21" TYPE="PHYS">
+    <relation_argument REFID="93.sgm-E188" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E190" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R21-1">
+      <ldc_extent>
+			<charseq START="5366" END="5478">&quot;It&apos;s terrifying,&quot; said neighbor Brett Spencer, who arrived home Monday night roughly an hour after the shooting.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E188-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5390" END="5411">neighbor Brett Spencer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E190-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5426" END="5429">home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R22" TYPE="GEN-AFF">
+    <relation_argument REFID="93.sgm-E189" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E190" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R22-1">
+      <ldc_extent>
+			<charseq START="5366" END="5478">&quot;It&apos;s terrifying,&quot; said neighbor Brett Spencer, who arrived home Monday night roughly an hour after the shooting.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E189-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5414" END="5416">who</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E190-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5426" END="5429">home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R23" TYPE="PHYS">
+    <relation_argument REFID="93.sgm-E192" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E193" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R23-1">
+      <ldc_extent>
+			<charseq START="5480" END="5590">&quot;We had gotten to know people in the building, so it&apos;s really nerve-wracking to think that they were involved.&quot;</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E192-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5503" END="5508">people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E193-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5513" END="5524">the building</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R24" TYPE="PER-SOC">
+    <relation_argument REFID="93.sgm-E202" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E203" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R24-1">
+      <ldc_extent>
+			<charseq START="5706" END="5919">&quot;We thought they were fireworks, but then my friend turned on the police scanner and heard them call for an ambulance,&quot; said Brashear, who watched from her upstairs window as emergency vehicles flooded 19th Street.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E202-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5743" END="5756">then my friend</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E203-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5743" END="5756">then my friend</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R25" TYPE="ORG-AFF">
+    <relation_argument REFID="93.sgm-E213" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E214" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R25-1">
+      <ldc_extent>
+			<charseq START="6009" END="6175">Kate Haddon, chapter adviser for the Community College of Denver&apos;s Phi Theta Kappa honors program, said Forgy was a member of the society before he went to CU in 2014.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E213-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="6022" END="6036">chapter adviser</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E214-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="6046" END="6072">Community College of Denver</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="93.sgm-R26" TYPE="PHYS">
+    <relation_argument REFID="93.sgm-E230" ROLE="Arg-1" />
+    <relation_argument REFID="93.sgm-E231" ROLE="Arg-2" />
+      <relation_mention ID="93.sgm-R26-1">
+      <ldc_extent>
+			<charseq START="6488" END="6681">It&apos;s also the second time this year that someone reportedly high on psychedelic drugs died by gunshot; 19-year-old  Roberto Zamora was fatally shot during a home invasion May 4 in south Boulder.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="93.sgm-E230-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="6591" END="6617">19-year-old  Roberto Zamora</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="93.sgm-E231-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="6668" END="6680">south Boulder</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="93.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="129" END="332">May 30, 2014: Three Boulder police officers shoot at University of Colorado student Coleman Stewart after Stewart pointed a pellet gun out the window of his apartment during a standoff on University Hill.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="173" END="177">shoot</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E2-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="143" END="171">Three Boulder police officers</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="93.sgm-E3-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="182" END="191">University</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="334" END="386">Stewart was hit in the arm and knee, but he survived.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="346" END="348">hit</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E11-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="334" END="340">Stewart</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="421" END="709">Nov. 24, 2013: Boulder police officer Vincent Gallerani shoots and kills Michael Habay at Wimbledon Condominiums, 3009 Madison St., after responding to calls of a man armed with a knife and a machete who was allegedly making threatening remarks and &quot;stabbing a post&quot; outside his apartment.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="477" END="482">shoots</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E17-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="436" END="475">Boulder police officer Vincent Gallerani</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="421" END="709">Nov. 24, 2013: Boulder police officer Vincent Gallerani shoots and kills Michael Habay at Wimbledon Condominiums, 3009 Madison St., after responding to calls of a man armed with a knife and a machete who was allegedly making threatening remarks and &quot;stabbing a post&quot; outside his apartment.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="488" END="492">kills</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E17-1" ROLE="Agent" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="436" END="475">Boulder police officer Vincent Gallerani</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="93.sgm-E18-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="494" END="506">Michael Habay</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="711" END="755">The shooting was later ruled to be justified.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="715" END="722">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="802" END="918">Matt DeLaria — fatally shoots Terrance Baughman, who claimed he was wearing a bomb inside Boulder Community Hospital.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="825" END="830">shoots</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E27-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="832" END="848">Terrance Baughman</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="920" END="956">DeLaria  was cleared in the shooting.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="948" END="955">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E32-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="920" END="926">DeLaria</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="958" END="1184">A Boulder police officer shot and killed a University of Colorado student believed to be high on LSD late Monday, after the man  attacked residents with a knife, then confronted police with a hammer while naked, officials said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="983" END="986">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E35-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="958" END="986">A Boulder police officer shot</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="93.sgm-E37-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1015" END="1030">Colorado student</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV8" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="958" END="1184">A Boulder police officer shot and killed a University of Colorado student believed to be high on LSD late Monday, after the man  attacked residents with a knife, then confronted police with a hammer while naked, officials said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="992" END="997">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E35-1" ROLE="Agent" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="958" END="986">A Boulder police officer shot</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="93.sgm-E37-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1015" END="1030">Colorado student</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV9" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="958" END="1184">A Boulder police officer shot and killed a University of Colorado student believed to be high on LSD late Monday, after the man  attacked residents with a knife, then confronted police with a hammer while naked, officials said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1087" END="1094">attacked</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E39-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1096" END="1104">residents</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="93.sgm-E40-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1111" END="1117">a knife</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV10-1" p="1.000">
+      <extent>
+			<charseq START="1186" END="1393">Police said the suspect — identified by the coroner as Samuel Forgy, 22 —  climbed onto a railing at the 19th Street apartment complex as if he was going to jump down on the officers on the landing below him.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1343" END="1346">jump</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E48-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1327" END="1328">he</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV11" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV11-1" p="1.000">
+      <extent>
+			<charseq START="1395" END="1628">Police  said an officer tried unsuccessfully to use a Taser on Forgy  before he was fatally shot by a second officer, but a neighbor who witnessed the confrontation said  the stun gun  and the handgun were fired almost simultaneously.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1487" END="1490">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E54-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1472" END="1473">he</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="93.sgm-E55-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1495" END="1510">a second officer</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV12" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV12-1" p="1.000">
+      <extent>
+			<charseq START="1395" END="1628">Police  said an officer tried unsuccessfully to use a Taser on Forgy  before he was fatally shot by a second officer, but a neighbor who witnessed the confrontation said  the stun gun  and the handgun were fired almost simultaneously.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1601" END="1605">fired</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E59-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1584" END="1594">the handgun</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="93.sgm-E58-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1566" END="1577">the stun gun</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV13" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV13-1" p="1.000">
+      <extent>
+			<charseq START="2279" END="2368">When officers arrived, police said, they found a 23-year-old victim with cuts to his face.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2293" END="2299">arrived</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E78-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2284" END="2291">officers</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV14" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV14-1" p="1.000">
+      <extent>
+			<charseq START="2370" END="2485">The man suffered multiple knife wounds, including a 6-inch cut to his forehead and  a bite on his hand, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2402" END="2407">wounds</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E83-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2387" END="2407">multiple knife wounds</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="93.sgm-E82-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2370" END="2376">The man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV15" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV15-1" p="1.000">
+      <extent>
+			<charseq START="2487" END="2607">He was later transported to Boulder Community Health and was listed in good condition early Tuesday morning, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2500" END="2510">transported</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E87-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2487" END="2488">He</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV16" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV16-1" p="1.000">
+      <extent>
+			<charseq START="2801" END="2952">Officers repeatedly ordered Forgy to drop the hammer, police said, but he instead climbed up onto the railing, which is roughly 15 feet from the ground.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2883" END="2889">climbed</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E100-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2872" END="2873">he</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV17" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV17-1" p="1.000">
+      <extent>
+			<charseq START="2954" END="3031">One officer shot Forgy with a Taser, police said, but it failed to subdue him.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2966" END="2969">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E101-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2954" END="2975">One officer shot Forgy</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="93.sgm-E102-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2954" END="2975">One officer shot Forgy</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV18" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV18-1" p="1.000">
+      <extent>
+			<charseq START="3033" END="3163">A second officer fired his gun multiple times and struck Forgy, who fell to the landing below and was pronounced dead at the scene.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3050" END="3054">fired</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E106-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3033" END="3048">A second officer</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV19" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV19-1" p="1.000">
+      <extent>
+			<charseq START="3033" END="3163">A second officer fired his gun multiple times and struck Forgy, who fell to the landing below and was pronounced dead at the scene.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3083" END="3088">struck</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E108-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3090" END="3094">Forgy</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV20" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV20-1" p="1.000">
+      <extent>
+			<charseq START="3166" END="3225">Police did not say how many times the officer fired his gun.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3212" END="3216">fired</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E111-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3200" END="3210">the officer</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="93.sgm-E113-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3218" END="3224">his gun</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV21" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV21-1" p="1.000">
+      <extent>
+			<charseq START="3459" END="3572">&apos;Put the hammer down!&apos;
+Larsen said she and her husband witnessed the shooting from their deck about 75 yards away.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3528" END="3535">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV22" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV22-1" p="1.000">
+      <extent>
+			<charseq START="3681" END="3811">&quot;We just saw (officers) all running and heading up the stairwell, and they paused on the landing just before the top,&quot; Larsen said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3770" END="3776">landing</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E136-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3751" END="3754">they</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV23" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV23-1" p="1.000">
+      <extent>
+			<charseq START="3929" END="3977">And he sort of squatted and put the hammer down.&quot;</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3965" END="3970">hammer</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV24" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV24-1" p="1.000">
+      <extent>
+			<charseq START="4106" END="4190">That&apos;s when Larsen said she heard what she believes was a Taser, then three gunshots.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4164" END="4168">Taser</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV25" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV25-1" p="1.000">
+      <extent>
+			<charseq START="4192" END="4329">Huntley said police are not sure yet why the Taser didn&apos;t subdue the suspect or how soon shots were fired after the stun gun was deployed.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4292" END="4296">fired</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E151-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4257" END="4267">the suspect</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV26" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV26-1" p="1.000">
+      <extent>
+			<charseq START="4192" END="4329">Huntley said police are not sure yet why the Taser didn&apos;t subdue the suspect or how soon shots were fired after the stun gun was deployed.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4321" END="4328">deployed</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E152-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4304" END="4315">the stun gun</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV27" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV27-1" p="1.000">
+      <extent>
+			<charseq START="4413" END="4586">&quot;With a Taser, there are two probes that actually have to strike the suspect in order to have a full contact, and we&apos;re not sure that both probes actually struck the suspect.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4471" END="4476">strike</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E157-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4478" END="4488">the suspect</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV28" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV28-1" p="1.000">
+      <extent>
+			<charseq START="4589" END="4747">&quot;Another possibility that we&apos;ve seen in the past is that when we have a suspect who&apos;s heavily intoxicated or on drugs, sometimes (a Taser) is not as effective.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4721" END="4725">Taser</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV29" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV29-1" p="1.000">
+      <extent>
+			<charseq START="4814" END="4968">The officer who shot the suspect will be placed on leave with pay until the Boulder County District Attorney&apos;s Office completes its review of the shooting.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4830" END="4833">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E165-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4814" END="4824">The officer</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV30" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV30-1" p="1.000">
+      <extent>
+			<charseq START="4814" END="4968">The officer who shot the suspect will be placed on leave with pay until the Boulder County District Attorney&apos;s Office completes its review of the shooting.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4960" END="4967">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV31" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV31-1" p="1.000">
+      <extent>
+			<charseq START="4970" END="5153">The shooting is under investigation by the Boulder County Investigative Team, a multi-jurisdictional unit that will report its findings to DA Stan Garnett and  police Chief Greg Testa.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4974" END="4981">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV32" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV32-1" p="1.000">
+      <extent>
+			<charseq START="5366" END="5478">&quot;It&apos;s terrifying,&quot; said neighbor Brett Spencer, who arrived home Monday night roughly an hour after the shooting.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="5418" END="5424">arrived</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E188-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="5390" END="5411">neighbor Brett Spencer</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="93.sgm-E190-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="5426" END="5429">home</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV33" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV33-1" p="1.000">
+      <extent>
+			<charseq START="5366" END="5478">&quot;It&apos;s terrifying,&quot; said neighbor Brett Spencer, who arrived home Monday night roughly an hour after the shooting.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="5470" END="5477">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV34" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV34-1" p="1.000">
+      <extent>
+			<charseq START="5592" END="5704">Directly across the street from the complex, Sierra Brashear said she heard what sounded like four or five shots.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="5699" END="5703">shots</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV35" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV35-1" p="1.000">
+      <extent>
+			<charseq START="5922" END="6007">&quot;It was pretty horrifying to know we had heard gunshots that actually killed someone.&quot;</charseq>
+      </extent>
+      <anchor>
+			<charseq START="5992" END="5997">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E211-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="5999" END="6005">someone</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV36" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV36-1" p="1.000">
+      <extent>
+			<charseq START="6009" END="6175">Kate Haddon, chapter adviser for the Community College of Denver&apos;s Phi Theta Kappa honors program, said Forgy was a member of the society before he went to CU in 2014.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="6157" END="6160">went</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E218-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="6154" END="6155">he</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV37" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV37-1" p="1.000">
+      <extent>
+			<charseq START="6370" END="6485">Forgy&apos;s death represents  the third  officer-involved shooting in Boulder in three years, and the fourth since 2008.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="6378" END="6382">death</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E227-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="6370" END="6374">Forgy</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV38" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV38-1" p="1.000">
+      <extent>
+			<charseq START="6370" END="6485">Forgy&apos;s death represents  the third  officer-involved shooting in Boulder in three years, and the fourth since 2008.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="6424" END="6431">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E228-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="6436" END="6442">Boulder</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV39" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV39-1" p="1.000">
+      <extent>
+			<charseq START="6488" END="6681">It&apos;s also the second time this year that someone reportedly high on psychedelic drugs died by gunshot; 19-year-old  Roberto Zamora was fatally shot during a home invasion May 4 in south Boulder.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="6574" END="6577">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E229-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="6529" END="6535">someone</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV40" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV40-1" p="1.000">
+      <extent>
+			<charseq START="6488" END="6681">It&apos;s also the second time this year that someone reportedly high on psychedelic drugs died by gunshot; 19-year-old  Roberto Zamora was fatally shot during a home invasion May 4 in south Boulder.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="6631" END="6634">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="93.sgm-E230-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="6591" END="6617">19-year-old  Roberto Zamora</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="93.sgm-E231-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="6668" END="6680">south Boulder</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV41" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV41-1" p="1.000">
+      <extent>
+			<charseq START="6488" END="6681">It&apos;s also the second time this year that someone reportedly high on psychedelic drugs died by gunshot; 19-year-old  Roberto Zamora was fatally shot during a home invasion May 4 in south Boulder.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="6650" END="6657">invasion</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="93.sgm-EV42" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="93.sgm-EV42-1" p="1.000">
+      <extent>
+			<charseq START="6683" END="6769">Prosecutors later ruled the shooting justified and said Zamora was likely on mushrooms.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="6711" END="6718">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

@@ -1,0 +1,2128 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/356.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/356.sgm">
+  <entity ID="356.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E0-1">
+      <extent>
+			<charseq START="98" END="107">John Bacon</charseq>
+      </extent>
+      <head>
+			<charseq START="98" END="107">John Bacon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E1" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E1-1">
+      <extent>
+			<charseq START="110" END="125">USA TODAY
+Police</charseq>
+      </extent>
+      <head>
+			<charseq START="110" END="118">USA TODAY</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E2-1">
+      <extent>
+			<charseq START="110" END="125">USA TODAY
+Police</charseq>
+      </extent>
+      <head>
+			<charseq START="120" END="125">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E3" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E3-1">
+      <extent>
+			<charseq START="130" END="136">Memphis</charseq>
+      </extent>
+      <head>
+			<charseq START="130" END="136">Memphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E4" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E4-1">
+      <extent>
+			<charseq START="149" END="183">a 29-year-old convicted bank robber</charseq>
+      </extent>
+      <head>
+			<charseq START="173" END="176">bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E5-1">
+      <extent>
+			<charseq START="188" END="194">the man</charseq>
+      </extent>
+      <head>
+			<charseq START="192" END="194">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E6-1">
+      <extent>
+			<charseq START="196" END="198">who</charseq>
+      </extent>
+      <head>
+			<charseq START="196" END="198">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E7" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E7-1">
+      <extent>
+			<charseq START="217" END="226">a city cop</charseq>
+      </extent>
+      <head>
+			<charseq START="219" END="222">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E8" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E8-1">
+      <extent>
+			<charseq START="263" END="293">Police director Toney Armstrong</charseq>
+      </extent>
+      <head>
+			<charseq START="263" END="268">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E9-1">
+      <extent>
+			<charseq START="263" END="293">Police director Toney Armstrong</charseq>
+      </extent>
+      <head>
+			<charseq START="270" END="277">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E10-1">
+      <extent>
+			<charseq START="263" END="293">Police director Toney Armstrong</charseq>
+      </extent>
+      <head>
+			<charseq START="279" END="293">Toney Armstrong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E11-1">
+      <extent>
+			<charseq START="318" END="326">reporters</charseq>
+      </extent>
+      <head>
+			<charseq START="318" END="326">reporters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E12-1">
+      <extent>
+			<charseq START="328" END="351">that officer Sean Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="333" END="339">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E13-1">
+      <extent>
+			<charseq START="328" END="351">that officer Sean Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="341" END="351">Sean Bolton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E14-1">
+      <extent>
+			<charseq START="440" END="445">Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="440" END="445">Bolton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E15-1">
+      <extent>
+			<charseq START="470" END="480">a passenger</charseq>
+      </extent>
+      <head>
+			<charseq START="472" END="480">passenger</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E16" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E16-1">
+      <extent>
+			<charseq START="485" END="491">the car</charseq>
+      </extent>
+      <head>
+			<charseq START="489" END="491">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E17-1">
+      <extent>
+			<charseq START="494" END="502">Armstrong</charseq>
+      </extent>
+      <head>
+			<charseq START="494" END="502">Armstrong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E18-1">
+      <extent>
+			<charseq START="509" END="514">police</charseq>
+      </extent>
+      <head>
+			<charseq START="509" END="514">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E19-1">
+      <extent>
+			<charseq START="535" END="563">29-year-old Tremaine Wilbourn</charseq>
+      </extent>
+      <head>
+			<charseq START="547" END="563">Tremaine Wilbourn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E20-1">
+      <extent>
+			<charseq START="594" END="603">his arrest</charseq>
+      </extent>
+      <head>
+			<charseq START="594" END="596">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E21-1">
+      <extent>
+			<charseq START="606" END="613">Wilbourn</charseq>
+      </extent>
+      <head>
+			<charseq START="606" END="613">Wilbourn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E22" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E22-1">
+      <extent>
+			<charseq START="654" END="684">the U.S. Western District Court</charseq>
+      </extent>
+      <head>
+			<charseq START="658" END="661">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E23" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E23-1">
+      <extent>
+			<charseq START="654" END="684">the U.S. Western District Court</charseq>
+      </extent>
+      <head>
+			<charseq START="663" END="684">Western District Court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E24" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E24-1">
+      <extent>
+			<charseq START="715" END="726">bank robbery</charseq>
+      </extent>
+      <head>
+			<charseq START="715" END="718">bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E25-1">
+      <extent>
+			<charseq START="729" END="737">Armstrong</charseq>
+      </extent>
+      <head>
+			<charseq START="729" END="737">Armstrong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E26-1">
+      <extent>
+			<charseq START="745" END="746">He</charseq>
+      </extent>
+      <head>
+			<charseq START="745" END="746">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E27-1">
+      <extent>
+			<charseq START="788" END="796">Armstrong</charseq>
+      </extent>
+      <head>
+			<charseq START="788" END="796">Armstrong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E28-1">
+      <extent>
+			<charseq START="961" END="968">Wilbourn</charseq>
+      </extent>
+      <head>
+			<charseq START="961" END="968">Wilbourn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E29-1">
+      <extent>
+			<charseq START="971" END="979">Armstrong</charseq>
+      </extent>
+      <head>
+			<charseq START="971" END="979">Armstrong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E30-1">
+      <extent>
+			<charseq START="988" END="988">I</charseq>
+      </extent>
+      <head>
+			<charseq START="988" END="988">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E31-1">
+      <extent>
+			<charseq START="1023" END="1025">you</charseq>
+      </extent>
+      <head>
+			<charseq START="1023" END="1025">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E32-1">
+      <extent>
+			<charseq START="1035" END="1049">this individual</charseq>
+      </extent>
+      <head>
+			<charseq START="1040" END="1049">individual</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E33-1">
+      <extent>
+			<charseq START="1052" END="1054">you</charseq>
+      </extent>
+      <head>
+			<charseq START="1052" END="1054">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E34-1">
+      <extent>
+			<charseq START="1080" END="1081">He</charseq>
+      </extent>
+      <head>
+			<charseq START="1080" END="1081">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E35-1">
+      <extent>
+			<charseq START="1095" END="1097">You</charseq>
+      </extent>
+      <head>
+			<charseq START="1095" END="1097">You</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E36-1">
+      <extent>
+			<charseq START="1109" END="1111">you</charseq>
+      </extent>
+      <head>
+			<charseq START="1109" END="1111">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E37" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E37-1">
+      <extent>
+			<charseq START="1120" END="1135">a police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="1122" END="1127">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E38-1">
+      <extent>
+			<charseq START="1120" END="1135">a police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="1129" END="1135">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E39-1">
+      <extent>
+			<charseq START="1175" END="1177">You</charseq>
+      </extent>
+      <head>
+			<charseq START="1175" END="1177">You</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E40" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E40-1">
+      <extent>
+			<charseq START="1202" END="1209">a family</charseq>
+      </extent>
+      <head>
+			<charseq START="1204" END="1209">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E41" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E41-1">
+      <extent>
+			<charseq START="1250" END="1264">this department</charseq>
+      </extent>
+      <head>
+			<charseq START="1255" END="1264">department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E42" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E42-1">
+      <extent>
+			<charseq START="1283" END="1291">this city</charseq>
+      </extent>
+      <head>
+			<charseq START="1288" END="1291">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E43" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E43-1">
+      <extent>
+			<charseq START="1333" END="1348">The U.S. Marshal</charseq>
+      </extent>
+      <head>
+			<charseq START="1337" END="1340">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E44" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E44-1">
+      <extent>
+			<charseq START="1333" END="1348">The U.S. Marshal</charseq>
+      </extent>
+      <head>
+			<charseq START="1342" END="1348">Marshal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E45" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E45-1">
+      <extent>
+			<charseq START="1349" END="1358">&apos;s Service</charseq>
+      </extent>
+      <head>
+			<charseq START="1352" END="1358">Service</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E46" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E46-1">
+      <extent>
+			<charseq START="1416" END="1423">Wilbourn</charseq>
+      </extent>
+      <head>
+			<charseq START="1416" END="1423">Wilbourn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E47" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E47-1">
+      <extent>
+			<charseq START="1440" END="1458">Memphis) Commercial</charseq>
+      </extent>
+      <head>
+			<charseq START="1440" END="1446">Memphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E48" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E48-1">
+      <extent>
+			<charseq START="1467" END="1491">Memphis Mayor A C Wharton</charseq>
+      </extent>
+      <head>
+			<charseq START="1467" END="1473">Memphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E49" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E49-1">
+      <extent>
+			<charseq START="1467" END="1491">Memphis Mayor A C Wharton</charseq>
+      </extent>
+      <head>
+			<charseq START="1475" END="1479">Mayor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E50" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E50-1">
+      <extent>
+			<charseq START="1503" END="1504">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1503" END="1504">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E51" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E51-1">
+      <extent>
+			<charseq START="1515" END="1530">the city council</charseq>
+      </extent>
+      <head>
+			<charseq START="1519" END="1522">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E52" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E52-1">
+      <extent>
+			<charseq START="1515" END="1530">the city council</charseq>
+      </extent>
+      <head>
+			<charseq START="1524" END="1530">council</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E53" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E53-1">
+      <extent>
+			<charseq START="1554" END="1559">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="1554" END="1559">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E54" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E54-1">
+      <extent>
+			<charseq START="1618" END="1623">Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="1618" END="1623">Bolton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E55" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E55-1">
+      <extent>
+			<charseq START="1634" END="1658">the third Memphis officer</charseq>
+      </extent>
+      <head>
+			<charseq START="1644" END="1650">Memphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E56" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E56-1">
+      <extent>
+			<charseq START="1634" END="1658">the third Memphis officer</charseq>
+      </extent>
+      <head>
+			<charseq START="1652" END="1658">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E57" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E57-1">
+      <extent>
+			<charseq START="1688" END="1696">Armstrong</charseq>
+      </extent>
+      <head>
+			<charseq START="1688" END="1696">Armstrong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E58" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E58-1">
+      <extent>
+			<charseq START="1703" END="1710">a member</charseq>
+      </extent>
+      <head>
+			<charseq START="1705" END="1710">member</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E59" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E59-1">
+      <extent>
+			<charseq START="1715" END="1731">the public called</charseq>
+      </extent>
+      <head>
+			<charseq START="1719" END="1724">public</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E60" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E60-1">
+      <extent>
+			<charseq START="1774" END="1779">Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="1774" END="1779">Bolton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E61" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E61-1">
+      <extent>
+			<charseq START="1804" END="1814">the officer</charseq>
+      </extent>
+      <head>
+			<charseq START="1808" END="1814">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E62" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E62-1">
+      <extent>
+			<charseq START="1846" END="1853">Officers</charseq>
+      </extent>
+      <head>
+			<charseq START="1846" END="1853">Officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E63" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E63-1">
+      <extent>
+			<charseq START="1861" END="1866">Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="1861" END="1866">Bolton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E64" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E64-1">
+      <extent>
+			<charseq START="1892" END="1894">him</charseq>
+      </extent>
+      <head>
+			<charseq START="1892" END="1894">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E65" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E65-1">
+      <extent>
+			<charseq START="1899" END="1921">Regional Medical Center</charseq>
+      </extent>
+      <head>
+			<charseq START="1916" END="1921">Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E66" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E66-1">
+      <extent>
+			<charseq START="1950" END="1951">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1950" END="1951">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E67" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E67-1">
+      <extent>
+			<charseq START="1957" END="1988">later pronounced dead, Armstrong</charseq>
+      </extent>
+      <head>
+			<charseq START="1980" END="1988">Armstrong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E68" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E68-1">
+      <extent>
+			<charseq START="2045" END="2062">a sullen Armstrong</charseq>
+      </extent>
+      <head>
+			<charseq START="2054" END="2062">Armstrong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E69" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E69-1">
+      <extent>
+			<charseq START="2065" END="2067">who</charseq>
+      </extent>
+      <head>
+			<charseq START="2065" END="2067">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E70" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E70-1">
+      <extent>
+			<charseq START="2103" END="2104">we</charseq>
+      </extent>
+      <head>
+			<charseq START="2103" END="2104">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E71" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E71-1">
+      <extent>
+			<charseq START="2118" END="2126">ourselves</charseq>
+      </extent>
+      <head>
+			<charseq START="2118" END="2126">ourselves</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E72" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E72-1">
+      <extent>
+			<charseq START="2284" END="2291">officers</charseq>
+      </extent>
+      <head>
+			<charseq START="2284" END="2291">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E73" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E73-1">
+      <extent>
+			<charseq START="2305" END="2325">an apartment building</charseq>
+      </extent>
+      <head>
+			<charseq START="2308" END="2316">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E74" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E74-1">
+      <extent>
+			<charseq START="2305" END="2325">an apartment building</charseq>
+      </extent>
+      <head>
+			<charseq START="2318" END="2325">building</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E75" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E75-1">
+      <extent>
+			<charseq START="2330" END="2337">the city</charseq>
+      </extent>
+      <head>
+			<charseq START="2334" END="2337">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E76" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E76-1">
+      <extent>
+			<charseq START="2340" END="2345">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="2340" END="2345">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E77" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E77-1">
+      <extent>
+			<charseq START="2376" END="2385">the person</charseq>
+      </extent>
+      <head>
+			<charseq START="2380" END="2385">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E78" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E78-1">
+      <extent>
+			<charseq START="2399" END="2401">who</charseq>
+      </extent>
+      <head>
+			<charseq START="2399" END="2401">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E79" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E79-1">
+      <extent>
+			<charseq START="2420" END="2428">Armstrong</charseq>
+      </extent>
+      <head>
+			<charseq START="2420" END="2428">Armstrong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E80" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E80-1">
+      <extent>
+			<charseq START="2435" END="2448">his department</charseq>
+      </extent>
+      <head>
+			<charseq START="2435" END="2437">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E81" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E81-1">
+      <extent>
+			<charseq START="2435" END="2448">his department</charseq>
+      </extent>
+      <head>
+			<charseq START="2439" END="2448">department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E82" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E82-1">
+      <extent>
+			<charseq START="2505" END="2520">all the officers</charseq>
+      </extent>
+      <head>
+			<charseq START="2513" END="2520">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E83" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E83-1">
+      <extent>
+			<charseq START="2522" END="2524">you</charseq>
+      </extent>
+      <head>
+			<charseq START="2522" END="2524">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E84" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E84-1">
+      <extent>
+			<charseq START="2546" END="2547">me</charseq>
+      </extent>
+      <head>
+			<charseq START="2546" END="2547">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E85" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E85-1">
+      <extent>
+			<charseq START="2551" END="2552">he</charseq>
+      </extent>
+      <head>
+			<charseq START="2551" END="2552">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E86" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E86-1">
+      <extent>
+			<charseq START="2584" END="2591">the city</charseq>
+      </extent>
+      <head>
+			<charseq START="2588" END="2591">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E87" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E87-1">
+      <extent>
+			<charseq START="2603" END="2619">Mayor A C Wharton</charseq>
+      </extent>
+      <head>
+			<charseq START="2603" END="2607">Mayor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E88" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E88-1">
+      <extent>
+			<charseq START="2603" END="2619">Mayor A C Wharton</charseq>
+      </extent>
+      <head>
+			<charseq START="2613" END="2619">Wharton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E89" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E89-1">
+      <extent>
+			<charseq START="2628" END="2636">Armstrong</charseq>
+      </extent>
+      <head>
+			<charseq START="2628" END="2636">Armstrong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E90" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E90-1">
+      <extent>
+			<charseq START="2664" END="2674">the officer</charseq>
+      </extent>
+      <head>
+			<charseq START="2668" END="2674">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E91" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E91-1">
+      <extent>
+			<charseq START="2675" END="2683">&apos;s family</charseq>
+      </extent>
+      <head>
+			<charseq START="2678" END="2683">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E92" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E92-1">
+      <extent>
+			<charseq START="2686" END="2714">the Memphis police department</charseq>
+      </extent>
+      <head>
+			<charseq START="2690" END="2714">Memphis police department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E93" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E93-1">
+      <extent>
+			<charseq START="2720" END="2727">the city</charseq>
+      </extent>
+      <head>
+			<charseq START="2724" END="2727">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E94" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E94-1">
+      <extent>
+			<charseq START="2730" END="2731">He</charseq>
+      </extent>
+      <head>
+			<charseq START="2730" END="2731">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E95" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E95-1">
+      <extent>
+			<charseq START="2770" END="2773">guns</charseq>
+      </extent>
+      <head>
+			<charseq START="2770" END="2773">guns</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E96" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E96-1">
+      <extent>
+			<charseq START="2805" END="2812">officers</charseq>
+      </extent>
+      <head>
+			<charseq START="2805" END="2812">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E97" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E97-1">
+      <extent>
+			<charseq START="2833" END="2834">we</charseq>
+      </extent>
+      <head>
+			<charseq START="2833" END="2834">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E98" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E98-1">
+      <extent>
+			<charseq START="2920" END="2931">so many guns</charseq>
+      </extent>
+      <head>
+			<charseq START="2928" END="2931">guns</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E99" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E99-1">
+      <extent>
+			<charseq START="2936" END="2946">our streets</charseq>
+      </extent>
+      <head>
+			<charseq START="2936" END="2938">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E100" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E100-1">
+      <extent>
+			<charseq START="2969" END="2975">Wharton</charseq>
+      </extent>
+      <head>
+			<charseq START="2969" END="2975">Wharton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E101" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E101-1">
+      <extent>
+			<charseq START="2984" END="2996">Men and women</charseq>
+      </extent>
+      <head>
+			<charseq START="2984" END="2986">Men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E102" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E102-1">
+      <extent>
+			<charseq START="2984" END="2996">Men and women</charseq>
+      </extent>
+      <head>
+			<charseq START="2992" END="2996">women</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E103" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E103-1">
+      <extent>
+			<charseq START="3031" END="3034">they</charseq>
+      </extent>
+      <head>
+			<charseq START="3031" END="3034">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E104" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E104-1">
+      <extent>
+			<charseq START="3058" END="3061">they</charseq>
+      </extent>
+      <head>
+			<charseq START="3058" END="3061">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E105" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E105-1">
+      <extent>
+			<charseq START="3080" END="3085">people</charseq>
+      </extent>
+      <head>
+			<charseq START="3080" END="3085">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E106" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E106-1">
+      <extent>
+			<charseq START="3087" END="3089">who</charseq>
+      </extent>
+      <head>
+			<charseq START="3087" END="3089">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E107" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E107-1">
+      <extent>
+			<charseq START="3121" END="3126">Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="3121" END="3126">Bolton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E108" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E108-1">
+      <extent>
+			<charseq START="3129" END="3131">who</charseq>
+      </extent>
+      <head>
+			<charseq START="3129" END="3131">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E109" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E109-1">
+      <extent>
+			<charseq START="3140" END="3148">the force</charseq>
+      </extent>
+      <head>
+			<charseq START="3144" END="3148">force</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E110" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E110-1">
+      <extent>
+			<charseq START="3176" END="3179">Iraq</charseq>
+      </extent>
+      <head>
+			<charseq START="3176" END="3179">Iraq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E111" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E111-1">
+      <extent>
+			<charseq START="3218" END="3238">University of Memphis</charseq>
+      </extent>
+      <head>
+			<charseq START="3218" END="3238">University of Memphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E112" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E112-1">
+      <extent>
+			<charseq START="3255" END="3280">Memphis Officer Tim Warren</charseq>
+      </extent>
+      <head>
+			<charseq START="3255" END="3261">Memphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E113" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E113-1">
+      <extent>
+			<charseq START="3255" END="3280">Memphis Officer Tim Warren</charseq>
+      </extent>
+      <head>
+			<charseq START="3263" END="3269">Officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E114" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E114-1">
+      <extent>
+			<charseq START="3255" END="3280">Memphis Officer Tim Warren</charseq>
+      </extent>
+      <head>
+			<charseq START="3271" END="3280">Tim Warren</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E115" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E115-1">
+      <extent>
+			<charseq START="3343" END="3363">Officer Martoiya Lang</charseq>
+      </extent>
+      <head>
+			<charseq START="3343" END="3349">Officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E116" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E116-1">
+      <extent>
+			<charseq START="3343" END="3363">Officer Martoiya Lang</charseq>
+      </extent>
+      <head>
+			<charseq START="3351" END="3363">Martoiya Lang</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E117" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E117-1">
+      <extent>
+			<charseq START="3410" END="3422">my third time</charseq>
+      </extent>
+      <head>
+			<charseq START="3410" END="3411">my</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E118" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E118-1">
+      <extent>
+			<charseq START="3471" END="3479">Armstrong</charseq>
+      </extent>
+      <head>
+			<charseq START="3471" END="3479">Armstrong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E119" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E119-1">
+      <extent>
+			<charseq START="3501" END="3510">Greg Toppo</charseq>
+      </extent>
+      <head>
+			<charseq START="3501" END="3510">Greg Toppo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="356.sgm-E120" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="356.sgm-E120-1">
+      <extent>
+			<charseq START="3513" END="3521">USA TODAY</charseq>
+      </extent>
+      <head>
+			<charseq START="3513" END="3521">USA TODAY</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="356.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="356.sgm-E0" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E1" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="98" END="261">John Bacon, USA TODAY
+Police in Memphis identified a 29-year-old convicted bank robber as the man who allegedly killed a city cop during a traffic stop on Saturday.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E0-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="98" END="107">John Bacon</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="110" END="125">USA TODAY
+Police</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="356.sgm-E2" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E3" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="98" END="261">John Bacon, USA TODAY
+Police in Memphis identified a 29-year-old convicted bank robber as the man who allegedly killed a city cop during a traffic stop on Saturday.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E2-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="110" END="125">USA TODAY
+Police</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E3-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="130" END="136">Memphis</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R2" TYPE="ORG-AFF">
+    <relation_argument REFID="356.sgm-E9" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E8" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="263" END="492">Police director Toney Armstrong on Sunday evening told reporters that officer Sean Bolton apparently interrupted a drug deal and that after &quot;some type of physical altercation,&quot; Bolton was shot and killed by a passenger in the car.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E9-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="263" END="293">Police director Toney Armstrong</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E8-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="263" END="293">Police director Toney Armstrong</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R3" TYPE="ART">
+    <relation_argument REFID="356.sgm-E15" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E16" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="263" END="492">Police director Toney Armstrong on Sunday evening told reporters that officer Sean Bolton apparently interrupted a drug deal and that after &quot;some type of physical altercation,&quot; Bolton was shot and killed by a passenger in the car.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E15-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="470" END="480">a passenger</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E16-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="485" END="491">the car</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R4" TYPE="PART-WHOLE">
+    <relation_argument REFID="356.sgm-E23" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E22" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="606" END="743">Wilbourn had been free on supervised release by the U.S. Western District Court for a 122-month sentence for bank robbery, Armstrong said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E23-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="654" END="684">the U.S. Western District Court</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E22-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="654" END="684">the U.S. Western District Court</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R5" TYPE="ORG-AFF">
+    <relation_argument REFID="356.sgm-E38" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E37" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="1095" END="1173">You gun down, you murder a police officer for less than two grams of marijuana.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E38-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1120" END="1135">a police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E37-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1120" END="1135">a police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R6" TYPE="ORG-AFF">
+    <relation_argument REFID="356.sgm-E44" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E43" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="1333" END="1433">The U.S. Marshal&apos;s Service has offered a $10,000 reward for information leading to Wilbourn&apos;s arrest.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E44-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1333" END="1348">The U.S. Marshal</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E43-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1333" END="1348">The U.S. Marshal</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R7" TYPE="ORG-AFF">
+    <relation_argument REFID="356.sgm-E52" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E51" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R7-1">
+      <ldc_extent>
+			<charseq START="1435" END="1552">The (Memphis) Commercial quoted Memphis Mayor A C Wharton as saying he will ask the city council to match that amount.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E52-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1515" END="1530">the city council</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E51-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1515" END="1530">the city council</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R8" TYPE="ORG-AFF">
+    <relation_argument REFID="356.sgm-E49" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E48" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R8-1">
+      <ldc_extent>
+			<charseq START="1435" END="1552">The (Memphis) Commercial quoted Memphis Mayor A C Wharton as saying he will ask the city council to match that amount.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E49-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1467" END="1491">Memphis Mayor A C Wharton</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E48-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1467" END="1491">Memphis Mayor A C Wharton</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R9" TYPE="ORG-AFF">
+    <relation_argument REFID="356.sgm-E56" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E55" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R9-1">
+      <ldc_extent>
+			<charseq START="1618" END="1677">Bolton, 33, was the third Memphis officer killed since 2011.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E56-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1634" END="1658">the third Memphis officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E55-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1634" END="1658">the third Memphis officer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R10" TYPE="PHYS">
+    <relation_argument REFID="356.sgm-E64" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E65" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R10-1">
+      <ldc_extent>
+			<charseq START="1846" END="1994">Officers found Bolton at the scene and rushed him to Regional Medical Center in critical condition, but he was later pronounced dead, Armstrong said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E64-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1892" END="1894">him</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E65-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1899" END="1921">Regional Medical Center</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R11" TYPE="PART-WHOLE">
+    <relation_argument REFID="356.sgm-E73" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E75" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R11-1">
+      <ldc_extent>
+			<charseq START="2228" END="2338">The shooting set off an intense manhunt that ended with officers surrounding an apartment building in the city.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E73-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2305" END="2325">an apartment building</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E75-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2330" END="2337">the city</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R12" TYPE="PHYS">
+    <relation_argument REFID="356.sgm-E72" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E74" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R12-1">
+      <ldc_extent>
+			<charseq START="2228" END="2338">The shooting set off an intense manhunt that ended with officers surrounding an apartment building in the city.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E72-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2284" END="2291">officers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E74-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2305" END="2325">an apartment building</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R13" TYPE="ORG-AFF">
+    <relation_argument REFID="356.sgm-E80" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E81" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R13-1">
+      <ldc_extent>
+			<charseq START="2420" END="2476">Armstrong said his department was once again in mourning.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E80-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2435" END="2448">his department</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E81-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2435" END="2448">his department</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R14" TYPE="PER-SOC">
+    <relation_argument REFID="356.sgm-E90" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E91" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R14-1">
+      <ldc_extent>
+			<charseq START="2603" END="2728">Mayor A C Wharton joined Armstrong in asking the prayers for the officer&apos;s family, the Memphis police department and the city.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E90-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2664" END="2674">the officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E91-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2675" END="2683">&apos;s family</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R15" TYPE="PHYS">
+    <relation_argument REFID="356.sgm-E107" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E110" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R15-1">
+      <ldc_extent>
+			<charseq START="3121" END="3239">Bolton, who joined the force in 2010, served a tour in Iraq and studied political science at the University of Memphis.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E107-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3121" END="3126">Bolton</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E110-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3176" END="3179">Iraq</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R16" TYPE="ORG-AFF">
+    <relation_argument REFID="356.sgm-E113" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E112" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R16-1">
+      <ldc_extent>
+			<charseq START="3241" END="3323">In July 2011, Memphis Officer Tim Warren was killed while responding to a shooting.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E113-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3255" END="3280">Memphis Officer Tim Warren</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E112-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3255" END="3280">Memphis Officer Tim Warren</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="356.sgm-R17" TYPE="ORG-AFF">
+    <relation_argument REFID="356.sgm-E119" ROLE="Arg-1" />
+    <relation_argument REFID="356.sgm-E120" ROLE="Arg-2" />
+      <relation_mention ID="356.sgm-R17-1">
+      <ldc_extent>
+			<charseq START="3487" END="3521">Contributing: Greg Toppo, USA TODAY</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="356.sgm-E119-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3501" END="3510">Greg Toppo</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="356.sgm-E120-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3513" END="3521">USA TODAY</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="356.sgm-EV0" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="98" END="261">John Bacon, USA TODAY
+Police in Memphis identified a 29-year-old convicted bank robber as the man who allegedly killed a city cop during a traffic stop on Saturday.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="163" END="171">convicted</charseq>
+      </anchor>
+      <event_mention_argument REFID="356.sgm-E3-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="130" END="136">Memphis</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="98" END="261">John Bacon, USA TODAY
+Police in Memphis identified a 29-year-old convicted bank robber as the man who allegedly killed a city cop during a traffic stop on Saturday.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="210" END="215">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="356.sgm-E5-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="188" END="194">the man</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="356.sgm-E4-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="149" END="183">a 29-year-old convicted bank robber</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="263" END="492">Police director Toney Armstrong on Sunday evening told reporters that officer Sean Bolton apparently interrupted a drug deal and that after &quot;some type of physical altercation,&quot; Bolton was shot and killed by a passenger in the car.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="451" END="454">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="356.sgm-E14-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="440" END="445">Bolton</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="356.sgm-E15-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="470" END="480">a passenger</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="263" END="492">Police director Toney Armstrong on Sunday evening told reporters that officer Sean Bolton apparently interrupted a drug deal and that after &quot;some type of physical altercation,&quot; Bolton was shot and killed by a passenger in the car.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="460" END="465">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="356.sgm-E14-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="440" END="445">Bolton</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV4" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="494" END="604">Armstrong said police were searching for 29-year-old Tremaine Wilbourn and had issued a warrant for his arrest.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="598" END="603">arrest</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV5" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="606" END="743">Wilbourn had been free on supervised release by the U.S. Western District Court for a 122-month sentence for bank robbery, Armstrong said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="702" END="709">sentence</charseq>
+      </anchor>
+      <event_mention_argument REFID="356.sgm-E21-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="606" END="613">Wilbourn</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="745" END="786">He now faces a first-degree murder charge.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="773" END="778">murder</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV7" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="745" END="786">He now faces a first-degree murder charge.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="780" END="785">charge</charseq>
+      </anchor>
+      <event_mention_argument REFID="356.sgm-E26-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="745" END="746">He</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV8" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="1095" END="1173">You gun down, you murder a police officer for less than two grams of marijuana.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1099" END="1101">gun</charseq>
+      </anchor>
+      <event_mention_argument REFID="356.sgm-E35-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1095" END="1097">You</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="1095" END="1173">You gun down, you murder a police officer for less than two grams of marijuana.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1113" END="1118">murder</charseq>
+      </anchor>
+      <event_mention_argument REFID="356.sgm-E36-1" ROLE="Agent" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1109" END="1111">you</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="356.sgm-E38-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1120" END="1135">a police officer</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV10" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV10-1" p="1.000">
+      <extent>
+			<charseq START="1333" END="1433">The U.S. Marshal&apos;s Service has offered a $10,000 reward for information leading to Wilbourn&apos;s arrest.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1427" END="1432">arrest</charseq>
+      </anchor>
+      <event_mention_argument REFID="356.sgm-E46-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1416" END="1423">Wilbourn</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV11" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV11-1" p="1.000">
+      <extent>
+			<charseq START="1618" END="1677">Bolton, 33, was the third Memphis officer killed since 2011.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1660" END="1665">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="356.sgm-E56-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1634" END="1658">the third Memphis officer</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="356.sgm-E55-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1634" END="1658">the third Memphis officer</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV12" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV12-1" p="1.000">
+      <extent>
+			<charseq START="1679" END="1844">Earlier, Armstrong said a member of the public called dispatch at 9:18 p.m. CT Saturday, using Bolton&apos;s radio to report that the officer had been shot multiple times.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1825" END="1828">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="356.sgm-E61-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1804" END="1814">the officer</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV13" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV13-1" p="1.000">
+      <extent>
+			<charseq START="1846" END="1994">Officers found Bolton at the scene and rushed him to Regional Medical Center in critical condition, but he was later pronounced dead, Armstrong said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1885" END="1890">rushed</charseq>
+      </anchor>
+      <event_mention_argument REFID="356.sgm-E64-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1892" END="1894">him</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="356.sgm-E65-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1899" END="1921">Regional Medical Center</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV14" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV14-1" p="1.000">
+      <extent>
+			<charseq START="1846" END="1994">Officers found Bolton at the scene and rushed him to Regional Medical Center in critical condition, but he was later pronounced dead, Armstrong said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1974" END="1977">dead</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV15" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV15-1" p="1.000">
+      <extent>
+			<charseq START="2228" END="2338">The shooting set off an intense manhunt that ended with officers surrounding an apartment building in the city.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2232" END="2239">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV16" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV16-1" p="1.000">
+      <extent>
+			<charseq START="2340" END="2418">Police did not immediately identify the person of interest who was apprehended.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2407" END="2417">apprehended</charseq>
+      </anchor>
+      <event_mention_argument REFID="356.sgm-E77-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2376" END="2385">the person</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV17" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV17-1" p="1.000">
+      <extent>
+			<charseq START="3121" END="3239">Bolton, who joined the force in 2010, served a tour in Iraq and studied political science at the University of Memphis.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3168" END="3171">tour</charseq>
+      </anchor>
+      <event_mention_argument REFID="356.sgm-E107-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3121" END="3126">Bolton</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="356.sgm-E110-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3176" END="3179">Iraq</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV18" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV18-1" p="1.000">
+      <extent>
+			<charseq START="3241" END="3323">In July 2011, Memphis Officer Tim Warren was killed while responding to a shooting.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3286" END="3291">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="356.sgm-E114-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3255" END="3280">Memphis Officer Tim Warren</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV19" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV19-1" p="1.000">
+      <extent>
+			<charseq START="3241" END="3323">In July 2011, Memphis Officer Tim Warren was killed while responding to a shooting.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3315" END="3322">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="356.sgm-EV20" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="356.sgm-EV20-1" p="1.000">
+      <extent>
+			<charseq START="3325" END="3399">In December 2012, Officer Martoiya Lang was killed while serving a warrant.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3369" END="3374">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="356.sgm-E116-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3343" END="3363">Officer Martoiya Lang</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/138.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/138.sgm">
+  <entity ID="138.sgm-E0" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E0-1">
+      <extent>
+			<charseq START="217" END="248">the Blue Earth Police Department</charseq>
+      </extent>
+      <head>
+			<charseq START="221" END="248">Blue Earth Police Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E1-1">
+      <extent>
+			<charseq START="287" END="292">no one</charseq>
+      </extent>
+      <head>
+			<charseq START="290" END="292">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E2" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E2-1">
+      <extent>
+			<charseq START="306" END="333">The Faribault County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="310" END="325">Faribault County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E3-1">
+      <extent>
+			<charseq START="306" END="333">The Faribault County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="327" END="333">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E4" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E4-1">
+      <extent>
+			<charseq START="334" END="346">&apos;s Department</charseq>
+      </extent>
+      <head>
+			<charseq START="337" END="346">Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E5-1">
+      <extent>
+			<charseq START="354" END="360">one man</charseq>
+      </extent>
+      <head>
+			<charseq START="358" END="360">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E6" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E6-1">
+      <extent>
+			<charseq START="398" END="420">the Blue Earth hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="402" END="420">Blue Earth hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E7-1">
+      <extent>
+			<charseq START="423" END="424">He</charseq>
+      </extent>
+      <head>
+			<charseq START="423" END="424">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E8-1">
+      <extent>
+			<charseq START="452" END="466">Three other men</charseq>
+      </extent>
+      <head>
+			<charseq START="464" END="466">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E9" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E9-1">
+      <extent>
+			<charseq START="490" END="500">highway 169</charseq>
+      </extent>
+      <head>
+			<charseq START="490" END="496">highway</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E10" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E10-1">
+      <extent>
+			<charseq START="512" END="521">Blue Earth</charseq>
+      </extent>
+      <head>
+			<charseq START="517" END="521">Earth</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E11-1">
+      <extent>
+			<charseq START="555" END="568">the passengers</charseq>
+      </extent>
+      <head>
+			<charseq START="559" END="568">passengers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E12" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E12-1">
+      <extent>
+			<charseq START="611" END="614">town</charseq>
+      </extent>
+      <head>
+			<charseq START="611" END="614">town</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E13-1">
+      <extent>
+			<charseq START="617" END="623">The men</charseq>
+      </extent>
+      <head>
+			<charseq START="621" END="623">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E14" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E14-1">
+      <extent>
+			<charseq START="651" END="660">Blue Earth</charseq>
+      </extent>
+      <head>
+			<charseq START="656" END="660">Earth</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E15-1">
+      <extent>
+			<charseq START="664" END="666">Two</charseq>
+      </extent>
+      <head>
+			<charseq START="664" END="666">Two</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E16-1">
+      <extent>
+			<charseq START="671" END="677">the men</charseq>
+      </extent>
+      <head>
+			<charseq START="675" END="677">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E17-1">
+      <extent>
+			<charseq START="704" END="714">their homes</charseq>
+      </extent>
+      <head>
+			<charseq START="704" END="708">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E18" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E18-1">
+      <extent>
+			<charseq START="704" END="714">their homes</charseq>
+      </extent>
+      <head>
+			<charseq START="710" END="714">homes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E19-1">
+      <extent>
+			<charseq START="717" END="726">The driver</charseq>
+      </extent>
+      <head>
+			<charseq START="721" END="726">driver</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="138.sgm-E20" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="138.sgm-E20-1">
+      <extent>
+			<charseq START="754" END="778">the Faribault county jail</charseq>
+      </extent>
+      <head>
+			<charseq START="758" END="773">Faribault county</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="138.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="138.sgm-E3" ROLE="Arg-1" />
+    <relation_argument REFID="138.sgm-E2" ROLE="Arg-2" />
+      <relation_mention ID="138.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="306" END="421">The Faribault County Sheriff&apos;s Department says, one man was found walking towards the ER of the Blue Earth hospital.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="138.sgm-E3-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="306" END="333">The Faribault County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="138.sgm-E2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="306" END="333">The Faribault County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="138.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="138.sgm-E13" ROLE="Arg-1" />
+    <relation_argument REFID="138.sgm-E14" ROLE="Arg-2" />
+      <relation_mention ID="138.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="617" END="661">The men then fled on foot once in Blue Earth.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="138.sgm-E13-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="617" END="623">The men</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="138.sgm-E14-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="651" END="660">Blue Earth</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="138.sgm-R2" TYPE="ART">
+    <relation_argument REFID="138.sgm-E17" ROLE="Arg-1" />
+    <relation_argument REFID="138.sgm-E18" ROLE="Arg-2" />
+      <relation_mention ID="138.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="664" END="715">Two of the men were transported back to their homes.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="138.sgm-E17-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="704" END="714">their homes</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="138.sgm-E18-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="704" END="714">their homes</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="138.sgm-R3" TYPE="PHYS">
+    <relation_argument REFID="138.sgm-E15" ROLE="Arg-1" />
+    <relation_argument REFID="138.sgm-E18" ROLE="Arg-2" />
+      <relation_mention ID="138.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="664" END="715">Two of the men were transported back to their homes.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="138.sgm-E15-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="664" END="666">Two</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="138.sgm-E18-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="704" END="714">their homes</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="138.sgm-EV0" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="138.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="136" END="304">The accident happened just after midnight early Saturday morning,
+A release says the Blue Earth Police Department was first to arrive but advised that no one was around.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="263" END="268">arrive</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="138.sgm-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="138.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="617" END="661">The men then fled on foot once in Blue Earth.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="630" END="633">fled</charseq>
+      </anchor>
+      <event_mention_argument REFID="138.sgm-E13-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="617" END="623">The men</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="138.sgm-E14-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="651" END="660">Blue Earth</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="138.sgm-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="138.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="664" END="715">Two of the men were transported back to their homes.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="684" END="694">transported</charseq>
+      </anchor>
+      <event_mention_argument REFID="138.sgm-E15-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="664" END="666">Two</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="138.sgm-E18-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="704" END="714">their homes</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="138.sgm-EV3" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="138.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="717" END="779">The driver was arrested and taken to the Faribault county jail.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="732" END="739">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="138.sgm-E19-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="717" END="726">The driver</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

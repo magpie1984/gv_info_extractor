@@ -1,0 +1,274 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/267.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/267.sgm">
+  <entity ID="267.sgm-E0" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E0-1">
+      <extent>
+			<charseq START="99" END="112">Police Reports</charseq>
+      </extent>
+      <head>
+			<charseq START="99" END="104">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E1-1">
+      <extent>
+			<charseq START="145" END="188">The Homer Horizon
+A loss prevention employee</charseq>
+      </extent>
+      <head>
+			<charseq START="149" END="161">Homer Horizon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E2-1">
+      <extent>
+			<charseq START="145" END="188">The Homer Horizon
+A loss prevention employee</charseq>
+      </extent>
+      <head>
+			<charseq START="181" END="188">employee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E3" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E3-1">
+      <extent>
+			<charseq START="213" END="238">S. Bell Road in Homer Glen</charseq>
+      </extent>
+      <head>
+			<charseq START="213" END="238">S. Bell Road in Homer Glen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E4-1">
+      <extent>
+			<charseq START="263" END="264">he</charseq>
+      </extent>
+      <head>
+			<charseq START="263" END="264">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E5-1">
+      <extent>
+			<charseq START="275" END="283">two males</charseq>
+      </extent>
+      <head>
+			<charseq START="279" END="283">males</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E6-1">
+      <extent>
+			<charseq START="302" END="307">police</charseq>
+      </extent>
+      <head>
+			<charseq START="302" END="307">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E7" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E7-1">
+      <extent>
+			<charseq START="385" END="393">the store</charseq>
+      </extent>
+      <head>
+			<charseq START="389" END="393">store</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E8" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E8-1">
+      <extent>
+			<charseq START="410" END="425">the fitting room</charseq>
+      </extent>
+      <head>
+			<charseq START="422" END="425">room</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E9" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E9-1">
+      <extent>
+			<charseq START="441" END="455">a police report</charseq>
+      </extent>
+      <head>
+			<charseq START="443" END="448">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E10-1">
+      <extent>
+			<charseq START="508" END="519">the employee</charseq>
+      </extent>
+      <head>
+			<charseq START="512" END="519">employee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E11-1">
+      <extent>
+			<charseq START="536" END="550">the individuals</charseq>
+      </extent>
+      <head>
+			<charseq START="540" END="550">individuals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E12-1">
+      <extent>
+			<charseq START="670" END="674">pants</charseq>
+      </extent>
+      <head>
+			<charseq START="670" END="674">pants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E13" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E13-1">
+      <extent>
+			<charseq START="680" END="698">a Station Patch hat</charseq>
+      </extent>
+      <head>
+			<charseq START="682" END="694">Station Patch</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E14-1">
+      <extent>
+			<charseq START="680" END="698">a Station Patch hat</charseq>
+      </extent>
+      <head>
+			<charseq START="696" END="698">hat</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E15-1">
+      <extent>
+			<charseq START="727" END="732">police</charseq>
+      </extent>
+      <head>
+			<charseq START="727" END="732">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E16" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E16-1">
+      <extent>
+			<charseq START="759" END="776">22nd Century Media</charseq>
+      </extent>
+      <head>
+			<charseq START="772" END="776">Media</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="267.sgm-E17" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="267.sgm-E17-1">
+      <extent>
+			<charseq START="779" END="781">LLC</charseq>
+      </extent>
+      <head>
+			<charseq START="779" END="781">LLC</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="267.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="267.sgm-E14" ROLE="Arg-1" />
+    <relation_argument REFID="267.sgm-E13" ROLE="Arg-2" />
+      <relation_mention ID="267.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="588" END="738">Upon checking the fitting rooms, it was discovered that five shirts, two pairs of pants and a Station Patch hat had allegedly been stolen, police said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="267.sgm-E14-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="680" END="698">a Station Patch hat</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="267.sgm-E13-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="680" END="698">a Station Patch hat</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="267.sgm-EV0" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="267.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="99" END="456">Police Reports: Clothing stolen from Meijer | The Homer Horizon
+A loss prevention employee at the Meijer at 14169 S. Bell Road in Homer Glen stated that on June 17 he observed two males ??? described to police as white and about 15-20 years old ??? walk through the clothing section of the store and enter into the fitting room, according to a police report.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="399" END="403">enter</charseq>
+      </anchor>
+      <event_mention_argument REFID="267.sgm-E8-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="410" END="425">the fitting room</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="267.sgm-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="267.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="458" END="586">The pair were then reportedly observed leaving by the employee, with one of?? the individuals exiting wearing different clothing.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="497" END="503">leaving</charseq>
+      </anchor>
+      <event_mention_argument REFID="267.sgm-E11-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="536" END="550">the individuals</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

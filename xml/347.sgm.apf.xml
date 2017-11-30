@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/347.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/347.sgm">
+  <entity ID="347.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="347.sgm-E0-1">
+      <extent>
+			<charseq START="159" END="165">LA MESA</charseq>
+      </extent>
+      <head>
+			<charseq START="159" END="165">LA MESA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="347.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="347.sgm-E1-1">
+      <extent>
+			<charseq START="168" END="172">Calif</charseq>
+      </extent>
+      <head>
+			<charseq START="168" END="172">Calif</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="347.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="347.sgm-E2-1">
+      <extent>
+			<charseq START="177" END="181">A man</charseq>
+      </extent>
+      <head>
+			<charseq START="179" END="181">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="347.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="347.sgm-E3-1">
+      <extent>
+			<charseq START="208" END="209">he</charseq>
+      </extent>
+      <head>
+			<charseq START="208" END="209">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="347.sgm-E4" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="347.sgm-E4-1">
+      <extent>
+			<charseq START="225" END="232">a street</charseq>
+      </extent>
+      <head>
+			<charseq START="227" END="232">street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="347.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="347.sgm-E5-1">
+      <extent>
+			<charseq START="256" END="261">police</charseq>
+      </extent>
+      <head>
+			<charseq START="256" END="261">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="347.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="347.sgm-E6-1">
+      <extent>
+			<charseq START="276" END="282">The man</charseq>
+      </extent>
+      <head>
+			<charseq START="280" END="282">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="347.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="347.sgm-E7-1">
+      <extent>
+			<charseq START="319" END="320">he</charseq>
+      </extent>
+      <head>
+			<charseq START="319" END="320">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="347.sgm-E8" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="347.sgm-E8-1">
+      <extent>
+			<charseq START="349" END="366">El Cajon Boulevard</charseq>
+      </extent>
+      <head>
+			<charseq START="349" END="366">El Cajon Boulevard</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="347.sgm-E9" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="347.sgm-E9-1">
+      <extent>
+			<charseq START="369" END="397">the La Mesa Police Department</charseq>
+      </extent>
+      <head>
+			<charseq START="373" END="397">La Mesa Police Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="347.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="347.sgm-E10-1">
+      <extent>
+			<charseq START="405" END="414">The victim</charseq>
+      </extent>
+      <head>
+			<charseq START="409" END="414">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="347.sgm-E11" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="347.sgm-E11-1">
+      <extent>
+			<charseq START="429" END="444">a local hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="437" END="444">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="347.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="347.sgm-E12-1">
+      <extent>
+			<charseq START="462" END="471">The driver</charseq>
+      </extent>
+      <head>
+			<charseq START="466" END="471">driver</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="347.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="347.sgm-E13-1">
+      <extent>
+			<charseq START="519" END="532">La Mesa police</charseq>
+      </extent>
+      <head>
+			<charseq START="519" END="525">La Mesa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="347.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="347.sgm-E14-1">
+      <extent>
+			<charseq START="519" END="532">La Mesa police</charseq>
+      </extent>
+      <head>
+			<charseq START="527" END="532">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="347.sgm-R0" TYPE="PART-WHOLE">
+    <relation_argument REFID="347.sgm-E0" ROLE="Arg-1" />
+    <relation_argument REFID="347.sgm-E1" ROLE="Arg-2" />
+      <relation_mention ID="347.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="159" END="173">LA MESA, Calif.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="347.sgm-E0-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="159" END="165">LA MESA</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="347.sgm-E1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="168" END="172">Calif</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="347.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="347.sgm-E10" ROLE="Arg-1" />
+    <relation_argument REFID="347.sgm-E11" ROLE="Arg-2" />
+      <relation_mention ID="347.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="405" END="460">The victim was taken to a local hospital but later died.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="347.sgm-E10-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="405" END="414">The victim</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="347.sgm-E11-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="429" END="444">a local hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="347.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="347.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="175" END="274">– A man was struck and killed as he walked across a street??in La Mesa Saturday, police said Sunday.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="198" END="203">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="347.sgm-E2-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="177" END="181">A man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="347.sgm-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="347.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="175" END="274">– A man was struck and killed as he walked across a street??in La Mesa Saturday, police said Sunday.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="211" END="216">walked</charseq>
+      </anchor>
+      <event_mention_argument REFID="347.sgm-E3-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="208" END="209">he</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="347.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="347.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="276" END="403">The man, 61, was hit at about 8:40 p.m. as he crossed the 7500 block of??El Cajon Boulevard, the La Mesa Police Department said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="293" END="295">hit</charseq>
+      </anchor>
+      <event_mention_argument REFID="347.sgm-E6-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="276" END="282">The man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="347.sgm-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="347.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="276" END="403">The man, 61, was hit at about 8:40 p.m. as he crossed the 7500 block of??El Cajon Boulevard, the La Mesa Police Department said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="322" END="328">crossed</charseq>
+      </anchor>
+      <event_mention_argument REFID="347.sgm-E7-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="319" END="320">he</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="347.sgm-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="347.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="405" END="460">The victim was taken to a local hospital but later died.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="456" END="459">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="347.sgm-E10-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="405" END="414">The victim</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

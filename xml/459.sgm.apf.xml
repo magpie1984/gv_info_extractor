@@ -1,0 +1,1183 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/459.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/459.sgm">
+  <entity ID="459.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E0-1">
+      <extent>
+			<charseq START="115" END="131">A 28-year-old man</charseq>
+      </extent>
+      <head>
+			<charseq START="129" END="131">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E1-1">
+      <extent>
+			<charseq START="179" END="190">eight others</charseq>
+      </extent>
+      <head>
+			<charseq START="185" END="190">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E2-1">
+      <extent>
+			<charseq START="243" END="247">seven</charseq>
+      </extent>
+      <head>
+			<charseq START="243" END="247">seven</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E3" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E3-1">
+      <extent>
+			<charseq START="270" END="278">Baltimore</charseq>
+      </extent>
+      <head>
+			<charseq START="270" END="278">Baltimore</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E4-1">
+      <extent>
+			<charseq START="281" END="286">police</charseq>
+      </extent>
+      <head>
+			<charseq START="281" END="286">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E5-1">
+      <extent>
+			<charseq START="441" END="457">A 28-year-old man</charseq>
+      </extent>
+      <head>
+			<charseq START="455" END="457">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E6" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E6-1">
+      <extent>
+			<charseq START="538" END="549">N. Payson St</charseq>
+      </extent>
+      <head>
+			<charseq START="538" END="549">N. Payson St</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E7" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E7-1">
+      <extent>
+			<charseq START="555" END="602">the Penrose/Fayette Street Outreach neighborhood</charseq>
+      </extent>
+      <head>
+			<charseq START="559" END="602">Penrose/Fayette Street Outreach neighborhood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E8-1">
+      <extent>
+			<charseq START="605" END="612">Officers</charseq>
+      </extent>
+      <head>
+			<charseq START="605" END="612">Officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E9-1">
+      <extent>
+			<charseq START="620" END="622">him</charseq>
+      </extent>
+      <head>
+			<charseq START="620" END="622">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E10-1">
+      <extent>
+			<charseq START="642" END="643">he</charseq>
+      </extent>
+      <head>
+			<charseq START="642" END="643">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E11-1">
+      <extent>
+			<charseq START="692" END="697">police</charseq>
+      </extent>
+      <head>
+			<charseq START="692" END="697">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E12-1">
+      <extent>
+			<charseq START="739" END="743">a man</charseq>
+      </extent>
+      <head>
+			<charseq START="741" END="743">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E13-1">
+      <extent>
+			<charseq START="789" END="797">45 people</charseq>
+      </extent>
+      <head>
+			<charseq START="792" END="797">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E14-1">
+      <extent>
+			<charseq START="846" END="851">Anyone</charseq>
+      </extent>
+      <head>
+			<charseq START="846" END="851">Anyone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E15-1">
+      <extent>
+			<charseq START="879" END="897">homicide detectives</charseq>
+      </extent>
+      <head>
+			<charseq START="888" END="897">detectives</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E16" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E16-1">
+      <extent>
+			<charseq START="918" END="937">Metro Crime Stoppers</charseq>
+      </extent>
+      <head>
+			<charseq START="918" END="922">Metro</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E17-1">
+      <extent>
+			<charseq START="918" END="937">Metro Crime Stoppers</charseq>
+      </extent>
+      <head>
+			<charseq START="930" END="937">Stoppers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E18-1">
+      <extent>
+			<charseq START="993" END="998">police</charseq>
+      </extent>
+      <head>
+			<charseq START="993" END="998">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E19" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E19-1">
+      <extent>
+			<charseq START="1013" END="1028">an area hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="1016" END="1019">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E20" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E20-1">
+      <extent>
+			<charseq START="1013" END="1028">an area hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="1021" END="1028">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E21-1">
+      <extent>
+			<charseq START="1036" END="1046">five people</charseq>
+      </extent>
+      <head>
+			<charseq START="1041" END="1046">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E22-1">
+      <extent>
+			<charseq START="1099" END="1106">officers</charseq>
+      </extent>
+      <head>
+			<charseq START="1099" END="1106">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E23-1">
+      <extent>
+			<charseq START="1120" END="1141">two additional victims</charseq>
+      </extent>
+      <head>
+			<charseq START="1135" END="1141">victims</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E24-1">
+      <extent>
+			<charseq START="1174" END="1179">police</charseq>
+      </extent>
+      <head>
+			<charseq START="1174" END="1179">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E25-1">
+      <extent>
+			<charseq START="1218" END="1232">Garrison Avenue</charseq>
+      </extent>
+      <head>
+			<charseq START="1218" END="1232">Garrison Avenue</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E26" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E26-1">
+      <extent>
+			<charseq START="1237" END="1273">the Central Park Heights neighborhood</charseq>
+      </extent>
+      <head>
+			<charseq START="1241" END="1273">Central Park Heights neighborhood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E27-1">
+      <extent>
+			<charseq START="1276" END="1292">All seven victims</charseq>
+      </extent>
+      <head>
+			<charseq START="1286" END="1292">victims</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E28-1">
+      <extent>
+			<charseq START="1321" END="1330">their legs</charseq>
+      </extent>
+      <head>
+			<charseq START="1321" END="1325">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E29-1">
+      <extent>
+			<charseq START="1370" END="1375">police</charseq>
+      </extent>
+      <head>
+			<charseq START="1370" END="1375">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E30-1">
+      <extent>
+			<charseq START="1383" END="1393">The victims</charseq>
+      </extent>
+      <head>
+			<charseq START="1387" END="1393">victims</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E31-1">
+      <extent>
+			<charseq START="1404" END="1406">20-</charseq>
+      </extent>
+      <head>
+			<charseq START="1404" END="1406">20-</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E32-1">
+      <extent>
+			<charseq START="1412" END="1428">23-year-old women</charseq>
+      </extent>
+      <head>
+			<charseq START="1424" END="1428">women</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E33-1">
+      <extent>
+			<charseq START="1435" END="1437">men</charseq>
+      </extent>
+      <head>
+			<charseq START="1435" END="1437">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E34" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E34-1">
+      <extent>
+			<charseq START="1470" END="1498">Northwest District detectives</charseq>
+      </extent>
+      <head>
+			<charseq START="1470" END="1487">Northwest District</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E35-1">
+      <extent>
+			<charseq START="1470" END="1498">Northwest District detectives</charseq>
+      </extent>
+      <head>
+			<charseq START="1489" END="1498">detectives</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E36-1">
+      <extent>
+			<charseq START="1522" END="1527">anyone</charseq>
+      </extent>
+      <head>
+			<charseq START="1522" END="1527">anyone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E37" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E37-1">
+      <extent>
+			<charseq START="1626" END="1641">Woodbrook Avenue</charseq>
+      </extent>
+      <head>
+			<charseq START="1626" END="1641">Woodbrook Avenue</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E38" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E38-1">
+      <extent>
+			<charseq START="1646" END="1672">the Penn North neighborhood</charseq>
+      </extent>
+      <head>
+			<charseq START="1650" END="1659">Penn North</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E39" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E39-1">
+      <extent>
+			<charseq START="1646" END="1672">the Penn North neighborhood</charseq>
+      </extent>
+      <head>
+			<charseq START="1661" END="1672">neighborhood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E40" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E40-1">
+      <extent>
+			<charseq START="1680" END="1687">officers</charseq>
+      </extent>
+      <head>
+			<charseq START="1680" END="1687">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E41" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E41-1">
+      <extent>
+			<charseq START="1728" END="1740">Etting Street</charseq>
+      </extent>
+      <head>
+			<charseq START="1728" END="1740">Etting Street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E42-1">
+      <extent>
+			<charseq START="1759" END="1775">A 20-year-old man</charseq>
+      </extent>
+      <head>
+			<charseq START="1773" END="1775">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E43" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E43-1">
+      <extent>
+			<charseq START="1839" END="1846">his head</charseq>
+      </extent>
+      <head>
+			<charseq START="1839" END="1841">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E44" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E44-1">
+      <extent>
+			<charseq START="1849" END="1854">police</charseq>
+      </extent>
+      <head>
+			<charseq START="1849" END="1854">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E45" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E45-1">
+      <extent>
+			<charseq START="1862" END="1863">He</charseq>
+      </extent>
+      <head>
+			<charseq START="1862" END="1863">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E46" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E46-1">
+      <extent>
+			<charseq START="1899" END="1914">an area hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="1907" END="1914">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E47" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E47-1">
+      <extent>
+			<charseq START="1917" END="1922">police</charseq>
+      </extent>
+      <head>
+			<charseq START="1917" END="1922">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E48" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E48-1">
+      <extent>
+			<charseq START="1971" END="1984">Fayette Street</charseq>
+      </extent>
+      <head>
+			<charseq START="1971" END="1984">Fayette Street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E49" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E49-1">
+      <extent>
+			<charseq START="1989" END="2036">the Penrose/Fayette Street Outreach neighborhood</charseq>
+      </extent>
+      <head>
+			<charseq START="1993" END="2036">Penrose/Fayette Street Outreach neighborhood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E50" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E50-1">
+      <extent>
+			<charseq START="2039" END="2044">police</charseq>
+      </extent>
+      <head>
+			<charseq START="2039" END="2044">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E51" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E51-1">
+      <extent>
+			<charseq START="2052" END="2068">a 21-year-old man</charseq>
+      </extent>
+      <head>
+			<charseq START="2066" END="2068">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E52" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E52-1">
+      <extent>
+			<charseq START="2114" END="2115">He</charseq>
+      </extent>
+      <head>
+			<charseq START="2114" END="2115">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E53" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E53-1">
+      <extent>
+			<charseq START="2152" END="2167">an area hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="2160" END="2167">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E54" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E54-1">
+      <extent>
+			<charseq START="2170" END="2175">police</charseq>
+      </extent>
+      <head>
+			<charseq START="2170" END="2175">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E55" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E55-1">
+      <extent>
+			<charseq START="2183" END="2209">Western District detectives</charseq>
+      </extent>
+      <head>
+			<charseq START="2191" END="2198">District</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E56" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E56-1">
+      <extent>
+			<charseq START="2183" END="2209">Western District detectives</charseq>
+      </extent>
+      <head>
+			<charseq START="2200" END="2209">detectives</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E57" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E57-1">
+      <extent>
+			<charseq START="2249" END="2254">anyone</charseq>
+      </extent>
+      <head>
+			<charseq START="2249" END="2254">anyone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E58" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E58-1">
+      <extent>
+			<charseq START="2340" END="2345">Editor</charseq>
+      </extent>
+      <head>
+			<charseq START="2340" END="2345">Editor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E59" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E59-1">
+      <extent>
+			<charseq START="2501" END="2516">Baltimore police</charseq>
+      </extent>
+      <head>
+			<charseq START="2501" END="2509">Baltimore</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E60" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E60-1">
+      <extent>
+			<charseq START="2501" END="2516">Baltimore police</charseq>
+      </extent>
+      <head>
+			<charseq START="2511" END="2516">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E61" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E61-1">
+      <extent>
+			<charseq START="2519" END="2530">Seven people</charseq>
+      </extent>
+      <head>
+			<charseq START="2525" END="2530">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="459.sgm-E62" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="459.sgm-E62-1">
+      <extent>
+			<charseq START="2545" END="2559">Garrison Avenue</charseq>
+      </extent>
+      <head>
+			<charseq START="2545" END="2559">Garrison Avenue</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="459.sgm-R0" TYPE="PHYS">
+    <relation_argument REFID="459.sgm-E18" ROLE="Arg-1" />
+    <relation_argument REFID="459.sgm-E20" ROLE="Arg-2" />
+      <relation_mention ID="459.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="846" END="1077">Anyone with information may call homicide detectives at 410-396-2100 or Metro Crime Stoppers at 1-866-7LOCKUP
+About 20 minutes after the homicide, police responded to an area hospital where five people walked in with gunshot wounds.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="459.sgm-E18-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="993" END="998">police</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="459.sgm-E20-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1013" END="1028">an area hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="459.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="459.sgm-E21" ROLE="Arg-1" />
+    <relation_argument REFID="459.sgm-E19" ROLE="Arg-2" />
+      <relation_mention ID="459.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="846" END="1077">Anyone with information may call homicide detectives at 410-396-2100 or Metro Crime Stoppers at 1-866-7LOCKUP
+About 20 minutes after the homicide, police responded to an area hospital where five people walked in with gunshot wounds.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="459.sgm-E21-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1036" END="1046">five people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="459.sgm-E19-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1013" END="1028">an area hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="459.sgm-R2" TYPE="PHYS">
+    <relation_argument REFID="459.sgm-E25" ROLE="Arg-1" />
+    <relation_argument REFID="459.sgm-E26" ROLE="Arg-2" />
+      <relation_mention ID="459.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="1079" END="1274">Shortly thereafter, officers encountered two additional victims from the same incident — which police said transpired in the 2700 block of Garrison Avenue in the Central Park Heights neighborhood.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="459.sgm-E25-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1218" END="1232">Garrison Avenue</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="459.sgm-E26-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1237" END="1273">the Central Park Heights neighborhood</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="459.sgm-R3" TYPE="GEN-AFF">
+    <relation_argument REFID="459.sgm-E35" ROLE="Arg-1" />
+    <relation_argument REFID="459.sgm-E34" ROLE="Arg-2" />
+      <relation_mention ID="459.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="1383" END="1567">The victims included 20- and 23-year-old women, and men ranging in ages from 22 to 25.
+Northwest District detectives are investigating and anyone with information may call 410-396-2466.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="459.sgm-E35-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1470" END="1498">Northwest District detectives</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="459.sgm-E34-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1470" END="1498">Northwest District detectives</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="459.sgm-R4" TYPE="PHYS">
+    <relation_argument REFID="459.sgm-E37" ROLE="Arg-1" />
+    <relation_argument REFID="459.sgm-E39" ROLE="Arg-2" />
+      <relation_mention ID="459.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="1569" END="1757">The first reports of violence began in the 2400 block of Woodbrook Avenue in the Penn North neighborhood, when officers, on roving patrol in the 2400 block of Etting Street, heard gunshots.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="459.sgm-E37-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1626" END="1641">Woodbrook Avenue</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="459.sgm-E39-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1646" END="1672">the Penn North neighborhood</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="459.sgm-R5" TYPE="PHYS">
+    <relation_argument REFID="459.sgm-E45" ROLE="Arg-1" />
+    <relation_argument REFID="459.sgm-E46" ROLE="Arg-2" />
+      <relation_mention ID="459.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="1862" END="1935">He was listed in stable condition at an area hospital, police said Sunday.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="459.sgm-E45-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1862" END="1863">He</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="459.sgm-E46-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1899" END="1914">an area hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="459.sgm-R6" TYPE="ORG-AFF">
+    <relation_argument REFID="459.sgm-E48" ROLE="Arg-1" />
+    <relation_argument REFID="459.sgm-E49" ROLE="Arg-2" />
+      <relation_mention ID="459.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="1937" END="2112">At 1:22 a.m. in the 2200 block of Fayette Street in the Penrose/Fayette Street Outreach neighborhood, police found a 21-year-old man shot multiple times in the chest and torso.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="459.sgm-E48-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1971" END="1984">Fayette Street</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="459.sgm-E49-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1989" END="2036">the Penrose/Fayette Street Outreach neighborhood</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="459.sgm-R7" TYPE="PHYS">
+    <relation_argument REFID="459.sgm-E52" ROLE="Arg-1" />
+    <relation_argument REFID="459.sgm-E53" ROLE="Arg-2" />
+      <relation_mention ID="459.sgm-R7-1">
+      <ldc_extent>
+			<charseq START="2114" END="2181">He was listed in serious condition at an area hospital, police said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="459.sgm-E52-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2114" END="2115">He</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="459.sgm-E53-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2152" END="2167">an area hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="459.sgm-R8" TYPE="GEN-AFF">
+    <relation_argument REFID="459.sgm-E56" ROLE="Arg-1" />
+    <relation_argument REFID="459.sgm-E55" ROLE="Arg-2" />
+      <relation_mention ID="459.sgm-R8-1">
+      <ldc_extent>
+			<charseq START="2183" END="2294">Western District detectives are investigating both incidents, and anyone with information may call 410-396-2477.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="459.sgm-E56-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2183" END="2209">Western District detectives</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="459.sgm-E55-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2183" END="2209">Western District detectives</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="459.sgm-R9" TYPE="ORG-AFF">
+    <relation_argument REFID="459.sgm-E60" ROLE="Arg-1" />
+    <relation_argument REFID="459.sgm-E59" ROLE="Arg-2" />
+      <relation_mention ID="459.sgm-R9-1">
+      <ldc_extent>
+			<charseq START="2384" END="2517">An earlier version of this story gave the wrong block number of a multi-victim shooting, based upon information from Baltimore police.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="459.sgm-E60-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2501" END="2516">Baltimore police</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="459.sgm-E59-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2501" END="2516">Baltimore police</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="459.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="115" END="292">A 28-year-old man is dead, another is in serious condition, and eight others were injured in early Sunday shootings — including seven in one incident — in Baltimore, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="136" END="139">dead</charseq>
+      </anchor>
+      <event_mention_argument REFID="459.sgm-E0-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="115" END="131">A 28-year-old man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="459.sgm-EV1" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="115" END="292">A 28-year-old man is dead, another is in serious condition, and eight others were injured in early Sunday shootings — including seven in one incident — in Baltimore, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="197" END="203">injured</charseq>
+      </anchor>
+      <event_mention_argument REFID="459.sgm-E1-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="179" END="190">eight others</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="459.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="294" END="439">The shootings took place in a two-hour span, beginning around 12:30 a.m., and culminating in a seven-victim incident just before 3 a.m. on Sunday.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="298" END="306">shootings</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="459.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="441" END="603">A 28-year-old man died after being shot multiple times in the face and chest in the 200 block of N. Payson St. in the Penrose/Fayette Street Outreach neighborhood.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="459" END="462">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="459.sgm-E5-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="441" END="457">A 28-year-old man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="459.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="441" END="603">A 28-year-old man died after being shot multiple times in the face and chest in the 200 block of N. Payson St. in the Penrose/Fayette Street Outreach neighborhood.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="476" END="479">shot</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="459.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="605" END="698">Officers found him at 2:26 a.m., and he was pronounced dead at the scene, according to police.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="660" END="663">dead</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="459.sgm-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="700" END="844">The homicide is the second in August — a man was shot in the head early Saturday — after 45 people were killed in a record-setting month of July.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="749" END="752">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="459.sgm-E12-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="739" END="743">a man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="459.sgm-EV7" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="700" END="844">The homicide is the second in August — a man was shot in the head early Saturday — after 45 people were killed in a record-setting month of July.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="804" END="809">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="459.sgm-E13-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="789" END="797">45 people</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="459.sgm-EV8" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="846" END="1077">Anyone with information may call homicide detectives at 410-396-2100 or Metro Crime Stoppers at 1-866-7LOCKUP
+About 20 minutes after the homicide, police responded to an area hospital where five people walked in with gunshot wounds.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="879" END="886">homicide</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="459.sgm-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="846" END="1077">Anyone with information may call homicide detectives at 410-396-2100 or Metro Crime Stoppers at 1-866-7LOCKUP
+About 20 minutes after the homicide, police responded to an area hospital where five people walked in with gunshot wounds.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="983" END="990">homicide</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="459.sgm-EV10" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV10-1" p="1.000">
+      <extent>
+			<charseq START="846" END="1077">Anyone with information may call homicide detectives at 410-396-2100 or Metro Crime Stoppers at 1-866-7LOCKUP
+About 20 minutes after the homicide, police responded to an area hospital where five people walked in with gunshot wounds.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1071" END="1076">wounds</charseq>
+      </anchor>
+      <event_mention_argument REFID="459.sgm-E21-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1036" END="1046">five people</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="459.sgm-EV11" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV11-1" p="1.000">
+      <extent>
+			<charseq START="1276" END="1381">All seven victims suffered gunshot wounds to their legs, and were listed in stable condition, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1311" END="1316">wounds</charseq>
+      </anchor>
+      <event_mention_argument REFID="459.sgm-E27-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1276" END="1292">All seven victims</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="459.sgm-EV12" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV12-1" p="1.000">
+      <extent>
+			<charseq START="1569" END="1757">The first reports of violence began in the 2400 block of Woodbrook Avenue in the Penn North neighborhood, when officers, on roving patrol in the 2400 block of Etting Street, heard gunshots.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1590" END="1597">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="459.sgm-EV13" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV13-1" p="1.000">
+      <extent>
+			<charseq START="1759" END="1860">A 20-year-old man was found shot in the leg and suffering from a graze wound to his head, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1787" END="1790">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="459.sgm-E42-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1759" END="1775">A 20-year-old man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="459.sgm-EV14" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV14-1" p="1.000">
+      <extent>
+			<charseq START="1937" END="2112">At 1:22 a.m. in the 2200 block of Fayette Street in the Penrose/Fayette Street Outreach neighborhood, police found a 21-year-old man shot multiple times in the chest and torso.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2070" END="2073">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="459.sgm-E51-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2052" END="2068">a 21-year-old man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="459.sgm-EV15" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV15-1" p="1.000">
+      <extent>
+			<charseq START="2384" END="2517">An earlier version of this story gave the wrong block number of a multi-victim shooting, based upon information from Baltimore police.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2463" END="2470">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="459.sgm-EV16" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="459.sgm-EV16-1" p="1.000">
+      <extent>
+			<charseq START="2519" END="2560">Seven people were shot on Garrison Avenue.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2537" END="2540">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="459.sgm-E61-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2519" END="2530">Seven people</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="459.sgm-E62-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2545" END="2559">Garrison Avenue</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

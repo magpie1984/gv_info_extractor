@@ -1,0 +1,301 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/264.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/264.sgm">
+  <entity ID="264.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E0-1">
+      <extent>
+			<charseq START="117" END="128">Police Chase</charseq>
+      </extent>
+      <head>
+			<charseq START="117" END="122">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E1-1">
+      <extent>
+			<charseq START="117" END="128">Police Chase</charseq>
+      </extent>
+      <head>
+			<charseq START="124" END="128">Chase</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E2-1">
+      <extent>
+			<charseq START="131" END="133">Man</charseq>
+      </extent>
+      <head>
+			<charseq START="131" END="133">Man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E3" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E3-1">
+      <extent>
+			<charseq START="142" END="146">truck</charseq>
+      </extent>
+      <head>
+			<charseq START="142" END="146">truck</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E4" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E4-1">
+      <extent>
+			<charseq START="156" END="171">court appearance</charseq>
+      </extent>
+      <head>
+			<charseq START="156" END="160">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E5-1">
+      <extent>
+			<charseq START="190" END="204">KHBS Home
+A man</charseq>
+      </extent>
+      <head>
+			<charseq START="202" END="204">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E6" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E6-1">
+      <extent>
+			<charseq START="209" END="216">Oklahoma</charseq>
+      </extent>
+      <head>
+			<charseq START="209" END="216">Oklahoma</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E7" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E7-1">
+      <extent>
+			<charseq START="224" END="239">a police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="226" END="231">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E8-1">
+      <extent>
+			<charseq START="224" END="239">a police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="233" END="239">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E9" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E9-1">
+      <extent>
+			<charseq START="240" END="247">&apos;s truck</charseq>
+      </extent>
+      <head>
+			<charseq START="243" END="247">truck</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E10-1">
+      <extent>
+			<charseq START="257" END="262">police</charseq>
+      </extent>
+      <head>
+			<charseq START="257" END="262">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E11-1">
+      <extent>
+			<charseq START="294" END="295">he</charseq>
+      </extent>
+      <head>
+			<charseq START="294" END="295">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E12" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E12-1">
+      <extent>
+			<charseq START="308" END="325">a court appearance</charseq>
+      </extent>
+      <head>
+			<charseq START="310" END="314">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E13-1">
+      <extent>
+			<charseq START="336" END="348">Patrick Jones</charseq>
+      </extent>
+      <head>
+			<charseq START="336" END="348">Patrick Jones</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E14" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E14-1">
+      <extent>
+			<charseq START="444" END="467">its affiliated companies</charseq>
+      </extent>
+      <head>
+			<charseq START="459" END="467">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E15-1">
+      <extent>
+			<charseq START="481" END="493">your comments</charseq>
+      </extent>
+      <head>
+			<charseq START="481" END="484">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E16-1">
+      <extent>
+			<charseq START="495" END="497">you</charseq>
+      </extent>
+      <head>
+			<charseq START="495" END="497">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="264.sgm-E17" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="264.sgm-E17-1">
+      <extent>
+			<charseq START="515" END="523">our terms</charseq>
+      </extent>
+      <head>
+			<charseq START="515" END="517">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="264.sgm-R0" TYPE="PHYS">
+    <relation_argument REFID="264.sgm-E5" ROLE="Arg-1" />
+    <relation_argument REFID="264.sgm-E6" ROLE="Arg-2" />
+      <relation_mention ID="264.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="117" END="284">Police Chase: Man steals truck to make court appearance on time | Vuz  - KHBS Home
+A man in Oklahoma stole a police officer&apos;s truck and led police on a dangerous chase.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="264.sgm-E5-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="190" END="204">KHBS Home
+A man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="264.sgm-E6-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="209" END="216">Oklahoma</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="264.sgm-R1" TYPE="ORG-AFF">
+    <relation_argument REFID="264.sgm-E8" ROLE="Arg-1" />
+    <relation_argument REFID="264.sgm-E7" ROLE="Arg-2" />
+      <relation_mention ID="264.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="117" END="284">Police Chase: Man steals truck to make court appearance on time | Vuz  - KHBS Home
+A man in Oklahoma stole a police officer&apos;s truck and led police on a dangerous chase.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="264.sgm-E8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="224" END="239">a police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="264.sgm-E7-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="224" END="239">a police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="264.sgm-R2" TYPE="ART">
+    <relation_argument REFID="264.sgm-E8" ROLE="Arg-1" />
+    <relation_argument REFID="264.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="264.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="117" END="284">Police Chase: Man steals truck to make court appearance on time | Vuz  - KHBS Home
+A man in Oklahoma stole a police officer&apos;s truck and led police on a dangerous chase.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="264.sgm-E8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="224" END="239">a police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="264.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="240" END="247">&apos;s truck</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="264.sgm-EV0" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="264.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="117" END="284">Police Chase: Man steals truck to make court appearance on time | Vuz  - KHBS Home
+A man in Oklahoma stole a police officer&apos;s truck and led police on a dangerous chase.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="218" END="222">stole</charseq>
+      </anchor>
+      <event_mention_argument REFID="264.sgm-E5-1" ROLE="Giver" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="190" END="204">KHBS Home
+A man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

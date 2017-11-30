@@ -1,0 +1,986 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/207.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/207.sgm">
+  <entity ID="207.sgm-E0" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E0-1">
+      <extent>
+			<charseq START="106" END="121">New Orleans News</charseq>
+      </extent>
+      <head>
+			<charseq START="106" END="121">New Orleans News</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E1" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E1-1">
+      <extent>
+			<charseq START="124" END="130">Weather</charseq>
+      </extent>
+      <head>
+			<charseq START="124" END="130">Weather</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E2" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E2-1">
+      <extent>
+			<charseq START="136" END="158">Sports - Louisiana News</charseq>
+      </extent>
+      <head>
+			<charseq START="136" END="158">Sports - Louisiana News</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E3-1">
+      <extent>
+			<charseq START="210" END="211">us</charseq>
+      </extent>
+      <head>
+			<charseq START="210" END="211">us</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E4" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E4-1">
+      <extent>
+			<charseq START="235" END="240">a home</charseq>
+      </extent>
+      <head>
+			<charseq START="237" END="240">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E5-1">
+      <extent>
+			<charseq START="275" END="281">Coaches</charseq>
+      </extent>
+      <head>
+			<charseq START="275" END="281">Coaches</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E6-1">
+      <extent>
+			<charseq START="319" END="325">players</charseq>
+      </extent>
+      <head>
+			<charseq START="319" END="325">players</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E7-1">
+      <extent>
+			<charseq START="369" END="375">Players</charseq>
+      </extent>
+      <head>
+			<charseq START="369" END="375">Players</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E8" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E8-1">
+      <extent>
+			<charseq START="426" END="445">The WDSU Sports team</charseq>
+      </extent>
+      <head>
+			<charseq START="430" END="445">WDSU Sports team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E9" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E9-1">
+      <extent>
+			<charseq START="453" END="465">West Virginia</charseq>
+      </extent>
+      <head>
+			<charseq START="453" END="465">West Virginia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E10" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E10-1">
+      <extent>
+			<charseq START="511" END="543">The New Orleans Police Department</charseq>
+      </extent>
+      <head>
+			<charseq START="515" END="543">New Orleans Police Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E11-1">
+      <extent>
+			<charseq START="594" END="616">two unknown individuals</charseq>
+      </extent>
+      <head>
+			<charseq START="606" END="616">individuals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E12-1">
+      <extent>
+			<charseq START="619" END="626">one male</charseq>
+      </extent>
+      <head>
+			<charseq START="623" END="626">male</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E13-1">
+      <extent>
+			<charseq START="632" END="641">one female</charseq>
+      </extent>
+      <head>
+			<charseq START="636" END="641">female</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E14-1">
+      <extent>
+			<charseq START="644" END="646">who</charseq>
+      </extent>
+      <head>
+			<charseq START="644" END="646">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E15-1">
+      <extent>
+			<charseq START="648" END="651">they</charseq>
+      </extent>
+      <head>
+			<charseq START="648" END="651">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E16-1">
+      <extent>
+			<charseq START="664" END="690">The St. Bernard Post Office</charseq>
+      </extent>
+      <head>
+			<charseq START="668" END="669">St</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E17-1">
+      <extent>
+			<charseq START="664" END="690">The St. Bernard Post Office</charseq>
+      </extent>
+      <head>
+			<charseq START="672" END="690">Bernard Post Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E18" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E18-1">
+      <extent>
+			<charseq START="715" END="754">The new Raceland Lower Elementary School</charseq>
+      </extent>
+      <head>
+			<charseq START="723" END="754">Raceland Lower Elementary School</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E19-1">
+      <extent>
+			<charseq START="780" END="784">A man</charseq>
+      </extent>
+      <head>
+			<charseq START="782" END="784">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E20" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E20-1">
+      <extent>
+			<charseq START="825" END="842">the French Quarter</charseq>
+      </extent>
+      <head>
+			<charseq START="829" END="834">French</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E21" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E21-1">
+      <extent>
+			<charseq START="845" END="862">New Orleans police</charseq>
+      </extent>
+      <head>
+			<charseq START="845" END="855">New Orleans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E22-1">
+      <extent>
+			<charseq START="845" END="862">New Orleans police</charseq>
+      </extent>
+      <head>
+			<charseq START="857" END="862">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E23" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E23-1">
+      <extent>
+			<charseq START="870" END="887">New Orleans police</charseq>
+      </extent>
+      <head>
+			<charseq START="870" END="880">New Orleans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E24-1">
+      <extent>
+			<charseq START="870" END="887">New Orleans police</charseq>
+      </extent>
+      <head>
+			<charseq START="882" END="887">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E25-1">
+      <extent>
+			<charseq START="907" END="913">two men</charseq>
+      </extent>
+      <head>
+			<charseq START="911" END="913">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E26-1">
+      <extent>
+			<charseq START="915" END="917">who</charseq>
+      </extent>
+      <head>
+			<charseq START="915" END="917">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E27" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E27-1">
+      <extent>
+			<charseq START="925" END="936">a school bus</charseq>
+      </extent>
+      <head>
+			<charseq START="927" END="932">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E28" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E28-1">
+      <extent>
+			<charseq START="925" END="936">a school bus</charseq>
+      </extent>
+      <head>
+			<charseq START="934" END="936">bus</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E29" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E29-1">
+      <extent>
+			<charseq START="972" END="987">New Orleans East</charseq>
+      </extent>
+      <head>
+			<charseq START="972" END="982">New Orleans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E30-1">
+      <extent>
+			<charseq START="1000" END="1021">music, food and people</charseq>
+      </extent>
+      <head>
+			<charseq START="1016" END="1021">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E31-1">
+      <extent>
+			<charseq START="1033" END="1041">their way</charseq>
+      </extent>
+      <head>
+			<charseq START="1033" END="1037">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E32" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E32-1">
+      <extent>
+			<charseq START="1046" END="1063">the French Quarter</charseq>
+      </extent>
+      <head>
+			<charseq START="1050" END="1055">French</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E33-1">
+      <extent>
+			<charseq START="1069" END="1097">the annual Satchmo SummerFest</charseq>
+      </extent>
+      <head>
+			<charseq START="1080" END="1097">Satchmo SummerFest</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E34-1">
+      <extent>
+			<charseq START="1127" END="1135">officials</charseq>
+      </extent>
+      <head>
+			<charseq START="1127" END="1135">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E35" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E35-1">
+      <extent>
+			<charseq START="1153" END="1197">the new University Medical Center New Orleans</charseq>
+      </extent>
+      <head>
+			<charseq START="1161" END="1170">University</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E36" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E36-1">
+      <extent>
+			<charseq START="1153" END="1197">the new University Medical Center New Orleans</charseq>
+      </extent>
+      <head>
+			<charseq START="1187" END="1197">New Orleans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E37" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E37-1">
+      <extent>
+			<charseq START="1200" END="1211">the hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="1204" END="1211">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E38" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E38-1">
+      <extent>
+			<charseq START="1251" END="1268">New Orleans police</charseq>
+      </extent>
+      <head>
+			<charseq START="1251" END="1261">New Orleans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E39-1">
+      <extent>
+			<charseq START="1251" END="1268">New Orleans police</charseq>
+      </extent>
+      <head>
+			<charseq START="1263" END="1268">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E40" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E40-1">
+      <extent>
+			<charseq START="1294" END="1311">an 18-year-old man</charseq>
+      </extent>
+      <head>
+			<charseq START="1309" END="1311">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E41" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E41-1">
+      <extent>
+			<charseq START="1346" END="1360">Hayne Boulevard</charseq>
+      </extent>
+      <head>
+			<charseq START="1346" END="1360">Hayne Boulevard</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E42-1">
+      <extent>
+			<charseq START="1363" END="1379">A 59-year-old man</charseq>
+      </extent>
+      <head>
+			<charseq START="1377" END="1379">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E43" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E43-1">
+      <extent>
+			<charseq START="1399" END="1406">his home</charseq>
+      </extent>
+      <head>
+			<charseq START="1399" END="1401">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E44" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E44-1">
+      <extent>
+			<charseq START="1399" END="1406">his home</charseq>
+      </extent>
+      <head>
+			<charseq START="1403" END="1406">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E45" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E45-1">
+      <extent>
+			<charseq START="1545" END="1574">the Plaquemines Parish Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="1549" END="1574">Plaquemines Parish Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E46" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E46-1">
+      <extent>
+			<charseq START="1580" END="1585">Office</charseq>
+      </extent>
+      <head>
+			<charseq START="1580" END="1585">Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E47" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E47-1">
+      <extent>
+			<charseq START="1598" END="1605">the body</charseq>
+      </extent>
+      <head>
+			<charseq START="1602" END="1605">body</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E48" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E48-1">
+      <extent>
+			<charseq START="1622" END="1642">the Mississippi River</charseq>
+      </extent>
+      <head>
+			<charseq START="1626" END="1642">Mississippi River</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E49" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E49-1">
+      <extent>
+			<charseq START="1685" END="1697">Robert E. Lee</charseq>
+      </extent>
+      <head>
+			<charseq START="1685" END="1697">Robert E. Lee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E50" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E50-1">
+      <extent>
+			<charseq START="1708" END="1722">the Confederacy</charseq>
+      </extent>
+      <head>
+			<charseq START="1712" END="1722">Confederacy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E51" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E51-1">
+      <extent>
+			<charseq START="1767" END="1769">him</charseq>
+      </extent>
+      <head>
+			<charseq START="1767" END="1769">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E52" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E52-1">
+      <extent>
+			<charseq START="1774" END="1785">his monument</charseq>
+      </extent>
+      <head>
+			<charseq START="1774" END="1776">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E53" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E53-1">
+      <extent>
+			<charseq START="1790" END="1799">Lee Circle</charseq>
+      </extent>
+      <head>
+			<charseq START="1790" END="1799">Lee Circle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E54" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E54-1">
+      <extent>
+			<charseq START="1802" END="1806">A man</charseq>
+      </extent>
+      <head>
+			<charseq START="1804" END="1806">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E55" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E55-1">
+      <extent>
+			<charseq START="1862" END="1873">Central City</charseq>
+      </extent>
+      <head>
+			<charseq START="1862" END="1873">Central City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E56" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E56-1">
+      <extent>
+			<charseq START="1876" END="1881">police</charseq>
+      </extent>
+      <head>
+			<charseq START="1876" END="1881">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E57" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E57-1">
+      <extent>
+			<charseq START="1962" END="1972">some people</charseq>
+      </extent>
+      <head>
+			<charseq START="1967" END="1972">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="207.sgm-E58" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="207.sgm-E58-1">
+      <extent>
+			<charseq START="1977" END="1994">the French Quarter</charseq>
+      </extent>
+      <head>
+			<charseq START="1981" END="1986">French</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="207.sgm-R0" TYPE="ART">
+    <relation_argument REFID="207.sgm-E1" ROLE="Arg-1" />
+    <relation_argument REFID="207.sgm-E4" ROLE="Arg-2" />
+      <relation_mention ID="207.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="106" END="273">New Orleans News, Weather and Sports - Louisiana News - WDSU Channel 6
+This week&apos;s Mansion Monday takes us to English Turn where a home is on the market for $1,100,000.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="207.sgm-E1-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="124" END="130">Weather</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="207.sgm-E4-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="235" END="240">a home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="207.sgm-R1" TYPE="GEN-AFF">
+    <relation_argument REFID="207.sgm-E8" ROLE="Arg-1" />
+    <relation_argument REFID="207.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="207.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="426" END="509">The WDSU Sports team is in West Virginia covering the Saints for training camp 2015.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="207.sgm-E8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="426" END="445">The WDSU Sports team</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="207.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="453" END="465">West Virginia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="207.sgm-R2" TYPE="ORG-AFF">
+    <relation_argument REFID="207.sgm-E22" ROLE="Arg-1" />
+    <relation_argument REFID="207.sgm-E21" ROLE="Arg-2" />
+      <relation_mention ID="207.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="780" END="868">A man was found shot early Sunday morning in the French Quarter, New Orleans police said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="207.sgm-E22-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="845" END="862">New Orleans police</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="207.sgm-E21-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="845" END="862">New Orleans police</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="207.sgm-R3" TYPE="ART">
+    <relation_argument REFID="207.sgm-E26" ROLE="Arg-1" />
+    <relation_argument REFID="207.sgm-E28" ROLE="Arg-2" />
+      <relation_mention ID="207.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="870" END="988">New Orleans police are searching for two men who stole a school bus and left it damaged last month in New Orleans East.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="207.sgm-E26-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="915" END="917">who</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="207.sgm-E28-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="925" END="936">a school bus</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="207.sgm-R4" TYPE="ART">
+    <relation_argument REFID="207.sgm-E27" ROLE="Arg-1" />
+    <relation_argument REFID="207.sgm-E28" ROLE="Arg-2" />
+      <relation_mention ID="207.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="870" END="988">New Orleans police are searching for two men who stole a school bus and left it damaged last month in New Orleans East.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="207.sgm-E27-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="925" END="936">a school bus</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="207.sgm-E28-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="925" END="936">a school bus</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="207.sgm-R5" TYPE="ORG-AFF">
+    <relation_argument REFID="207.sgm-E39" ROLE="Arg-1" />
+    <relation_argument REFID="207.sgm-E38" ROLE="Arg-2" />
+      <relation_mention ID="207.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="1100" END="1361">More than four years after officials broke ground on the new University Medical Center New Orleans, the hospital officially opened to the public on???
+New Orleans police are investigating after an 18-year-old man was shot Friday while walking on Hayne Boulevard.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="207.sgm-E39-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1251" END="1268">New Orleans police</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="207.sgm-E38-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1251" END="1268">New Orleans police</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="207.sgm-R6" TYPE="ART">
+    <relation_argument REFID="207.sgm-E43" ROLE="Arg-1" />
+    <relation_argument REFID="207.sgm-E44" ROLE="Arg-2" />
+      <relation_mention ID="207.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="1363" END="1438">A 59-year-old man was robbed inside his home Saturday morning in Hollygrove.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="207.sgm-E43-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1399" END="1406">his home</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="207.sgm-E44-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1399" END="1406">his home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="207.sgm-R7" TYPE="PHYS">
+    <relation_argument REFID="207.sgm-E42" ROLE="Arg-1" />
+    <relation_argument REFID="207.sgm-E44" ROLE="Arg-2" />
+      <relation_mention ID="207.sgm-R7-1">
+      <ldc_extent>
+			<charseq START="1363" END="1438">A 59-year-old man was robbed inside his home Saturday morning in Hollygrove.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="207.sgm-E42-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1363" END="1379">A 59-year-old man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="207.sgm-E44-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1399" END="1406">his home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="207.sgm-R8" TYPE="PHYS">
+    <relation_argument REFID="207.sgm-E47" ROLE="Arg-1" />
+    <relation_argument REFID="207.sgm-E48" ROLE="Arg-2" />
+      <relation_mention ID="207.sgm-R8-1">
+      <ldc_extent>
+			<charseq START="1440" END="1800">Humidity will climb, pushing ???feels like??? temps back to near 105 starting Monday.??
+Authorities with the Plaquemines Parish Sheriff???s Office identified the body recovered from the Mississippi River on Friday as 24-year-old Jmarcus???
+Gen. Robert E. Lee defended the Confederacy and on Saturday dozens turned up to defend him at his monument in Lee Circle.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="207.sgm-E47-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1598" END="1605">the body</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="207.sgm-E48-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1622" END="1642">the Mississippi River</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="207.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="207.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="369" END="424">Players clashed with one another in several hard hits???</charseq>
+      </extent>
+      <anchor>
+			<charseq START="418" END="421">hits</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="207.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="207.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="780" END="868">A man was found shot early Sunday morning in the French Quarter, New Orleans police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="796" END="799">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="207.sgm-E19-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="780" END="784">A man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="207.sgm-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="207.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="870" END="988">New Orleans police are searching for two men who stole a school bus and left it damaged last month in New Orleans East.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="942" END="945">left</charseq>
+      </anchor>
+      <event_mention_argument REFID="207.sgm-E25-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="907" END="913">two men</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="207.sgm-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="207.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="1100" END="1361">More than four years after officials broke ground on the new University Medical Center New Orleans, the hospital officially opened to the public on???
+New Orleans police are investigating after an 18-year-old man was shot Friday while walking on Hayne Boulevard.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1224" END="1229">opened</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="207.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="207.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="1100" END="1361">More than four years after officials broke ground on the new University Medical Center New Orleans, the hospital officially opened to the public on???
+New Orleans police are investigating after an 18-year-old man was shot Friday while walking on Hayne Boulevard.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1317" END="1320">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="207.sgm-E40-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1294" END="1311">an 18-year-old man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="207.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="207.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="1802" END="1887">A man was found dead Saturday after an apparent shooting in Central City, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1818" END="1821">dead</charseq>
+      </anchor>
+      <event_mention_argument REFID="207.sgm-E54-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1802" END="1806">A man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="207.sgm-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="207.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="1802" END="1887">A man was found dead Saturday after an apparent shooting in Central City, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1850" END="1857">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="207.sgm-E55-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1862" END="1873">Central City</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

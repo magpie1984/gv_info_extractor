@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/236.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/236.sgm">
+  <entity ID="236.sgm-E0" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="236.sgm-E0-1">
+      <extent>
+			<charseq START="128" END="142">Richmond Police</charseq>
+      </extent>
+      <head>
+			<charseq START="137" END="142">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="236.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="236.sgm-E1-1">
+      <extent>
+			<charseq START="160" END="167">suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="160" END="167">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="236.sgm-E2" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="236.sgm-E2-1">
+      <extent>
+			<charseq START="189" END="195">the Fan</charseq>
+      </extent>
+      <head>
+			<charseq START="193" END="195">Fan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="236.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="236.sgm-E3-1">
+      <extent>
+			<charseq START="198" END="208">Sarah Bloom</charseq>
+      </extent>
+      <head>
+			<charseq START="198" END="208">Sarah Bloom</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <event ID="236.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="236.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="128" END="196">Richmond Police are looking for suspects after a shooting in the Fan.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="177" END="184">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="236.sgm-E2-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="189" END="195">the Fan</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

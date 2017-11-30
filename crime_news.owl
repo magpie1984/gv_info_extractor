@@ -69,13 +69,16 @@
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/michael/ontologies/crime_ontology#Harms">
         <rdfs:domain rdf:resource="http://www.semanticweb.org/michael/ontologies/crime_ontology#Assailant"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/michael/ontologies/crime_ontology#Victim"/>
+        <rdfs:label>assault</rdfs:label>
         <rdfs:label>attacked</rdfs:label>
-        <rdfs:label>gunned down</rdfs:label>
-        <rdfs:label>guns down</rdfs:label>
+        <rdfs:label>barrage</rdfs:label>
+        <rdfs:label>destroyed</rdfs:label>
+        <rdfs:label>fired</rdfs:label>
+        <rdfs:label>gunned</rdfs:label>
+        <rdfs:label>hits</rdfs:label>
         <rdfs:label>injured</rdfs:label>
         <rdfs:label>killed</rdfs:label>
         <rdfs:label>murdered</rdfs:label>
-        <rdfs:label>shoots</rdfs:label>
         <rdfs:label>shot</rdfs:label>
     </owl:ObjectProperty>
     

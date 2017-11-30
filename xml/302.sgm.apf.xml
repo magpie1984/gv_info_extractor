@@ -1,0 +1,804 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/302.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/302.sgm">
+  <entity ID="302.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E0-1">
+      <extent>
+			<charseq START="53" END="55">Man</charseq>
+      </extent>
+      <head>
+			<charseq START="53" END="55">Man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E1-1">
+      <extent>
+			<charseq START="87" END="114">parking lot
+NORTH FORT MYERS</charseq>
+      </extent>
+      <head>
+			<charseq START="105" END="114">FORT MYERS</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E2" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E2-1">
+      <extent>
+			<charseq START="117" END="119">Fla</charseq>
+      </extent>
+      <head>
+			<charseq START="117" END="119">Fla</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E3" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E3-1">
+      <extent>
+			<charseq START="126" END="157">Southwest Florida Crime Stoppers</charseq>
+      </extent>
+      <head>
+			<charseq START="136" END="142">Florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E4-1">
+      <extent>
+			<charseq START="126" END="157">Southwest Florida Crime Stoppers</charseq>
+      </extent>
+      <head>
+			<charseq START="150" END="157">Stoppers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E5-1">
+      <extent>
+			<charseq START="172" END="183">Woman guilty</charseq>
+      </extent>
+      <head>
+			<charseq START="172" END="176">Woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E6-1">
+      <extent>
+			<charseq START="197" END="210">pregnant woman</charseq>
+      </extent>
+      <head>
+			<charseq START="206" END="210">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E7-1">
+      <extent>
+			<charseq START="221" END="244">unborn baby
+JACKSONVILLE</charseq>
+      </extent>
+      <head>
+			<charseq START="228" END="231">baby</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E8-1">
+      <extent>
+			<charseq START="221" END="244">unborn baby
+JACKSONVILLE</charseq>
+      </extent>
+      <head>
+			<charseq START="233" END="244">JACKSONVILLE</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E9" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E9-1">
+      <extent>
+			<charseq START="247" END="249">Fla</charseq>
+      </extent>
+      <head>
+			<charseq START="247" END="249">Fla</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E10" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E10-1">
+      <extent>
+			<charseq START="253" END="254">AP</charseq>
+      </extent>
+      <head>
+			<charseq START="253" END="254">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E11" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E11-1">
+      <extent>
+			<charseq START="261" END="280">A Jacksonville woman</charseq>
+      </extent>
+      <head>
+			<charseq START="263" END="274">Jacksonville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E12-1">
+      <extent>
+			<charseq START="261" END="280">A Jacksonville woman</charseq>
+      </extent>
+      <head>
+			<charseq START="276" END="280">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E13-1">
+      <extent>
+			<charseq START="304" END="313">Prosecutor</charseq>
+      </extent>
+      <head>
+			<charseq START="304" END="313">Prosecutor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E14" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E14-1">
+      <extent>
+			<charseq START="316" END="325">Jail death</charseq>
+      </extent>
+      <head>
+			<charseq START="316" END="319">Jail</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E15" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E15-1">
+      <extent>
+			<charseq START="357" END="379">murder
+HEMPSTEAD, Texas</charseq>
+      </extent>
+      <head>
+			<charseq START="375" END="379">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E16" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E16-1">
+      <extent>
+			<charseq START="382" END="383">AP</charseq>
+      </extent>
+      <head>
+			<charseq START="382" END="383">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E17" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E17-1">
+      <extent>
+			<charseq START="390" END="407">A Texas prosecutor</charseq>
+      </extent>
+      <head>
+			<charseq START="392" END="396">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E18-1">
+      <extent>
+			<charseq START="390" END="407">A Texas prosecutor</charseq>
+      </extent>
+      <head>
+			<charseq START="398" END="407">prosecutor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E19-1">
+      <extent>
+			<charseq START="427" END="436">a...
+Woman</charseq>
+      </extent>
+      <head>
+			<charseq START="432" END="436">Woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E20" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E20-1">
+      <extent>
+			<charseq START="494" END="496">Fla</charseq>
+      </extent>
+      <head>
+			<charseq START="494" END="496">Fla</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E21" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E21-1">
+      <extent>
+			<charseq START="500" END="501">AP</charseq>
+      </extent>
+      <head>
+			<charseq START="500" END="501">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E22-1">
+      <extent>
+			<charseq START="508" END="515">Deputies</charseq>
+      </extent>
+      <head>
+			<charseq START="508" END="515">Deputies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E23-1">
+      <extent>
+			<charseq START="521" END="527">a woman</charseq>
+      </extent>
+      <head>
+			<charseq START="523" END="527">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E24" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E24-1">
+      <extent>
+			<charseq START="554" END="566">U.S. Treasury</charseq>
+      </extent>
+      <head>
+			<charseq START="554" END="566">U.S. Treasury</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E25-1">
+      <extent>
+			<charseq START="605" END="611">a woman</charseq>
+      </extent>
+      <head>
+			<charseq START="607" END="611">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E26-1">
+      <extent>
+			<charseq START="613" END="619">A woman</charseq>
+      </extent>
+      <head>
+			<charseq START="615" END="619">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E27" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E27-1">
+      <extent>
+			<charseq START="649" END="661">American cash</charseq>
+      </extent>
+      <head>
+			<charseq START="649" END="656">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E28" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E28-1">
+      <extent>
+			<charseq START="686" END="690">Group</charseq>
+      </extent>
+      <head>
+			<charseq START="686" END="690">Group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E29-1">
+      <extent>
+			<charseq START="707" END="713">a woman</charseq>
+      </extent>
+      <head>
+			<charseq START="709" END="713">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E30-1">
+      <extent>
+			<charseq START="792" END="798">Harriet</charseq>
+      </extent>
+      <head>
+			<charseq START="792" END="798">Harriet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E31" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E31-1">
+      <extent>
+			<charseq START="803" END="812">FORT WORTH</charseq>
+      </extent>
+      <head>
+			<charseq START="803" END="812">FORT WORTH</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E32" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E32-1">
+      <extent>
+			<charseq START="815" END="819">Texas</charseq>
+      </extent>
+      <head>
+			<charseq START="815" END="819">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E33" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E33-1">
+      <extent>
+			<charseq START="822" END="840">A North Texas woman</charseq>
+      </extent>
+      <head>
+			<charseq START="824" END="834">North Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E34-1">
+      <extent>
+			<charseq START="822" END="840">A North Texas woman</charseq>
+      </extent>
+      <head>
+			<charseq START="836" END="840">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E35-1">
+      <extent>
+			<charseq START="857" END="870">her priorities</charseq>
+      </extent>
+      <head>
+			<charseq START="857" END="859">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E36" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E36-1">
+      <extent>
+			<charseq START="875" END="886">Tampa police</charseq>
+      </extent>
+      <head>
+			<charseq START="875" END="879">Tampa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E37" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E37-1">
+      <extent>
+			<charseq START="875" END="886">Tampa police</charseq>
+      </extent>
+      <head>
+			<charseq START="881" END="886">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E38-1">
+      <extent>
+			<charseq START="889" END="893">Woman</charseq>
+      </extent>
+      <head>
+			<charseq START="889" END="893">Woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E39" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E39-1">
+      <extent>
+			<charseq START="902" END="930">stray New Year’s bullet
+TAMPA</charseq>
+      </extent>
+      <head>
+			<charseq START="919" END="924">bullet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E40" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E40-1">
+      <extent>
+			<charseq START="902" END="930">stray New Year’s bullet
+TAMPA</charseq>
+      </extent>
+      <head>
+			<charseq START="926" END="930">TAMPA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E41" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E41-1">
+      <extent>
+			<charseq START="939" END="940">AP</charseq>
+      </extent>
+      <head>
+			<charseq START="939" END="940">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E42-1">
+      <extent>
+			<charseq START="947" END="952">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="947" END="952">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="302.sgm-E43" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="302.sgm-E43-1">
+      <extent>
+			<charseq START="958" END="976">a 20-year-old woman</charseq>
+      </extent>
+      <head>
+			<charseq START="972" END="976">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="302.sgm-R0" TYPE="PHYS">
+    <relation_argument REFID="302.sgm-E8" ROLE="Arg-1" />
+    <relation_argument REFID="302.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="302.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="53" END="259">Man steals 90-year-old’s purse in parking lot
+NORTH FORT MYERS, Fla. ??? Southwest Florida Crime Stoppers is asking...
+Woman guilty of shooting pregnant woman, killing unborn baby
+JACKSONVILLE, Fla. (AP) ???</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="302.sgm-E8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="221" END="244">unborn baby
+JACKSONVILLE</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="302.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="247" END="249">Fla</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="302.sgm-R1" TYPE="GEN-AFF">
+    <relation_argument REFID="302.sgm-E12" ROLE="Arg-1" />
+    <relation_argument REFID="302.sgm-E11" ROLE="Arg-2" />
+      <relation_mention ID="302.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="261" END="388">A Jacksonville woman has been convicted...
+Prosecutor: Jail death investigated as thoroughly as murder
+HEMPSTEAD, Texas (AP) ???</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="302.sgm-E12-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="261" END="280">A Jacksonville woman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="302.sgm-E11-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="261" END="280">A Jacksonville woman</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="302.sgm-R2" TYPE="GEN-AFF">
+    <relation_argument REFID="302.sgm-E18" ROLE="Arg-1" />
+    <relation_argument REFID="302.sgm-E17" ROLE="Arg-2" />
+      <relation_mention ID="302.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="390" END="552">A Texas prosecutor says the death of a...
+Woman arrested after fight over chicken and biscuits
+BUNNELL, Fla. (AP) ??? Deputies say a woman has been charged with...</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="302.sgm-E18-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="390" END="407">A Texas prosecutor</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="302.sgm-E17-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="390" END="407">A Texas prosecutor</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="302.sgm-R3" TYPE="GEN-AFF">
+    <relation_argument REFID="302.sgm-E34" ROLE="Arg-1" />
+    <relation_argument REFID="302.sgm-E33" ROLE="Arg-2" />
+      <relation_mention ID="302.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="664" END="994">In five years, the...
+Group rallies to get a woman on the $20 bill
+With more than 33 percent of ballots cast in an online poll, Harriet...
+FORT WORTH, Texas- A North Texas woman has had one of her priorities...
+Tampa police: Woman hit by stray New Year’s bullet
+TAMPA, Fla. (AP) ??? Police say a 20-year-old woman waiting to see...</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="302.sgm-E34-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="822" END="840">A North Texas woman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="302.sgm-E33-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="822" END="840">A North Texas woman</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="302.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="302.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="53" END="259">Man steals 90-year-old’s purse in parking lot
+NORTH FORT MYERS, Fla. ??? Southwest Florida Crime Stoppers is asking...
+Woman guilty of shooting pregnant woman, killing unborn baby
+JACKSONVILLE, Fla. (AP) ???</charseq>
+      </extent>
+      <anchor>
+			<charseq START="188" END="195">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="302.sgm-E5-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="172" END="183">Woman guilty</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="302.sgm-E6-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="197" END="210">pregnant woman</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="302.sgm-E8-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="221" END="244">unborn baby
+JACKSONVILLE</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="302.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="302.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="53" END="259">Man steals 90-year-old’s purse in parking lot
+NORTH FORT MYERS, Fla. ??? Southwest Florida Crime Stoppers is asking...
+Woman guilty of shooting pregnant woman, killing unborn baby
+JACKSONVILLE, Fla. (AP) ???</charseq>
+      </extent>
+      <anchor>
+			<charseq START="213" END="219">killing</charseq>
+      </anchor>
+      <event_mention_argument REFID="302.sgm-E6-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="197" END="210">pregnant woman</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="302.sgm-E7-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="221" END="244">unborn baby
+JACKSONVILLE</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="302.sgm-E8-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="221" END="244">unborn baby
+JACKSONVILLE</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="302.sgm-EV2" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="302.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="261" END="388">A Jacksonville woman has been convicted...
+Prosecutor: Jail death investigated as thoroughly as murder
+HEMPSTEAD, Texas (AP) ???</charseq>
+      </extent>
+      <anchor>
+			<charseq START="291" END="299">convicted</charseq>
+      </anchor>
+      <event_mention_argument REFID="302.sgm-E12-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="261" END="280">A Jacksonville woman</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="302.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="302.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="261" END="388">A Jacksonville woman has been convicted...
+Prosecutor: Jail death investigated as thoroughly as murder
+HEMPSTEAD, Texas (AP) ???</charseq>
+      </extent>
+      <anchor>
+			<charseq START="321" END="325">death</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="302.sgm-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="302.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="261" END="388">A Jacksonville woman has been convicted...
+Prosecutor: Jail death investigated as thoroughly as murder
+HEMPSTEAD, Texas (AP) ???</charseq>
+      </extent>
+      <anchor>
+			<charseq START="357" END="362">murder</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="302.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="302.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="390" END="552">A Texas prosecutor says the death of a...
+Woman arrested after fight over chicken and biscuits
+BUNNELL, Fla. (AP) ??? Deputies say a woman has been charged with...</charseq>
+      </extent>
+      <anchor>
+			<charseq START="418" END="422">death</charseq>
+      </anchor>
+      <event_mention_argument REFID="302.sgm-E19-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="427" END="436">a...
+Woman</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="302.sgm-EV6" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="302.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="390" END="552">A Texas prosecutor says the death of a...
+Woman arrested after fight over chicken and biscuits
+BUNNELL, Fla. (AP) ??? Deputies say a woman has been charged with...</charseq>
+      </extent>
+      <anchor>
+			<charseq START="438" END="445">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="302.sgm-E19-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="427" END="436">a...
+Woman</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="302.sgm-EV7" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="302.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="390" END="552">A Texas prosecutor says the death of a...
+Woman arrested after fight over chicken and biscuits
+BUNNELL, Fla. (AP) ??? Deputies say a woman has been charged with...</charseq>
+      </extent>
+      <anchor>
+			<charseq START="538" END="544">charged</charseq>
+      </anchor>
+      <event_mention_argument REFID="302.sgm-E23-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="521" END="527">a woman</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="302.sgm-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="302.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="664" END="994">In five years, the...
+Group rallies to get a woman on the $20 bill
+With more than 33 percent of ballots cast in an online poll, Harriet...
+FORT WORTH, Texas- A North Texas woman has had one of her priorities...
+Tampa police: Woman hit by stray New Year’s bullet
+TAMPA, Fla. (AP) ??? Police say a 20-year-old woman waiting to see...</charseq>
+      </extent>
+      <anchor>
+			<charseq START="895" END="897">hit</charseq>
+      </anchor>
+      <event_mention_argument REFID="302.sgm-E40-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="902" END="930">stray New Year’s bullet
+TAMPA</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

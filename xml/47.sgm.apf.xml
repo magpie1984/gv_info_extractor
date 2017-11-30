@@ -1,0 +1,714 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/47.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/47.sgm">
+  <entity ID="47.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E0-1">
+      <extent>
+			<charseq START="49" END="57">A tourist</charseq>
+      </extent>
+      <head>
+			<charseq START="51" END="57">tourist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E1-1">
+      <extent>
+			<charseq START="64" END="68">Texas</charseq>
+      </extent>
+      <head>
+			<charseq START="64" END="68">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E2-1">
+      <extent>
+			<charseq START="111" END="113">she</charseq>
+      </extent>
+      <head>
+			<charseq START="111" END="113">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E3" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E3-1">
+      <extent>
+			<charseq START="127" END="145">two loaded handguns</charseq>
+      </extent>
+      <head>
+			<charseq START="138" END="145">handguns</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E4" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E4-1">
+      <extent>
+			<charseq START="150" END="170">the Sept. 11 memorial</charseq>
+      </extent>
+      <head>
+			<charseq START="163" END="170">memorial</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E5" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E5-1">
+      <extent>
+			<charseq START="175" END="187">New York City</charseq>
+      </extent>
+      <head>
+			<charseq START="175" END="187">New York City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E6-1">
+      <extent>
+			<charseq START="195" END="204">The victim</charseq>
+      </extent>
+      <head>
+			<charseq START="199" END="204">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E7-1">
+      <extent>
+			<charseq START="239" END="240">he</charseq>
+      </extent>
+      <head>
+			<charseq START="239" END="240">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E8-1">
+      <extent>
+			<charseq START="249" END="252">Tops</charseq>
+      </extent>
+      <head>
+			<charseq START="249" END="252">Tops</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E9-1">
+      <extent>
+			<charseq START="255" END="260">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="255" END="260">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E10-1">
+      <extent>
+			<charseq START="266" END="281">Alexander Jewell</charseq>
+      </extent>
+      <head>
+			<charseq START="266" END="281">Alexander Jewell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E11-1">
+      <extent>
+			<charseq START="292" END="307">Michael Robinson</charseq>
+      </extent>
+      <head>
+			<charseq START="292" END="307">Michael Robinson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E12-1">
+      <extent>
+			<charseq START="341" END="350">A resident</charseq>
+      </extent>
+      <head>
+			<charseq START="343" END="350">resident</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E13-1">
+      <extent>
+			<charseq START="416" END="422">The man</charseq>
+      </extent>
+      <head>
+			<charseq START="420" END="422">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E14-1">
+      <extent>
+			<charseq START="475" END="499">in…  
+  Several teenagers</charseq>
+      </extent>
+      <head>
+			<charseq START="491" END="499">teenagers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E15" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E15-1">
+      <extent>
+			<charseq START="515" END="526">the hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="519" END="526">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E16-1">
+      <extent>
+			<charseq START="579" END="586">Deputies</charseq>
+      </extent>
+      <head>
+			<charseq START="579" END="586">Deputies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E17-1">
+      <extent>
+			<charseq START="605" END="608">they</charseq>
+      </extent>
+      <head>
+			<charseq START="605" END="608">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E18" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E18-1">
+      <extent>
+			<charseq START="621" END="644">A Buffalo Police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="631" END="636">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E19-1">
+      <extent>
+			<charseq START="621" END="644">A Buffalo Police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="638" END="644">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E20-1">
+      <extent>
+			<charseq START="692" END="712">Kensington and Grider</charseq>
+      </extent>
+      <head>
+			<charseq START="692" END="701">Kensington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E21-1">
+      <extent>
+			<charseq START="692" END="712">Kensington and Grider</charseq>
+      </extent>
+      <head>
+			<charseq START="707" END="712">Grider</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E22-1">
+      <extent>
+			<charseq START="751" END="765">Three teenagers</charseq>
+      </extent>
+      <head>
+			<charseq START="757" END="765">teenagers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E23-1">
+      <extent>
+			<charseq START="786" END="788">who</charseq>
+      </extent>
+      <head>
+			<charseq START="786" END="788">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E24-1">
+      <extent>
+			<charseq START="790" END="795">police</charseq>
+      </extent>
+      <head>
+			<charseq START="790" END="795">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E25-1">
+      <extent>
+			<charseq START="808" END="815">a family</charseq>
+      </extent>
+      <head>
+			<charseq START="810" END="815">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E26-1">
+      <extent>
+			<charseq START="838" END="847">their home</charseq>
+      </extent>
+      <head>
+			<charseq START="838" END="842">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E27" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E27-1">
+      <extent>
+			<charseq START="838" END="847">their home</charseq>
+      </extent>
+      <head>
+			<charseq START="844" END="847">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E28-1">
+      <extent>
+			<charseq START="855" END="858">they</charseq>
+      </extent>
+      <head>
+			<charseq START="855" END="858">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E29-1">
+      <extent>
+			<charseq START="883" END="897">A federal judge</charseq>
+      </extent>
+      <head>
+			<charseq START="893" END="897">judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E30-1">
+      <extent>
+			<charseq START="914" END="924">Arafat Nagi</charseq>
+      </extent>
+      <head>
+			<charseq START="914" END="924">Arafat Nagi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E31-1">
+      <extent>
+			<charseq START="966" END="976">Judge Scott</charseq>
+      </extent>
+      <head>
+			<charseq START="966" END="970">Judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E32-1">
+      <extent>
+			<charseq START="966" END="976">Judge Scott</charseq>
+      </extent>
+      <head>
+			<charseq START="972" END="976">Scott</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E33-1">
+      <extent>
+			<charseq START="988" END="989">he</charseq>
+      </extent>
+      <head>
+			<charseq START="988" END="989">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E34-1">
+      <extent>
+			<charseq START="1027" END="1036">One person</charseq>
+      </extent>
+      <head>
+			<charseq START="1031" END="1036">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E35" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E35-1">
+      <extent>
+			<charseq START="1060" END="1067">the city</charseq>
+      </extent>
+      <head>
+			<charseq START="1064" END="1067">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="47.sgm-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="47.sgm-E36-1">
+      <extent>
+			<charseq START="1108" END="1131">21-month-old Joshua Jock</charseq>
+      </extent>
+      <head>
+			<charseq START="1121" END="1131">Joshua Jock</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="47.sgm-R0" TYPE="GEN-AFF">
+    <relation_argument REFID="47.sgm-E0" ROLE="Arg-1" />
+    <relation_argument REFID="47.sgm-E1" ROLE="Arg-2" />
+      <relation_mention ID="47.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="49" END="189">A tourist from Texas was arrested over the weekend on charges she was packing two loaded handguns at the Sept. 11 memorial in New York City.…</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="47.sgm-E0-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="49" END="57">A tourist</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="47.sgm-E1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="64" END="68">Texas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="47.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="47.sgm-E0" ROLE="Arg-1" />
+    <relation_argument REFID="47.sgm-E4" ROLE="Arg-2" />
+      <relation_mention ID="47.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="49" END="189">A tourist from Texas was arrested over the weekend on charges she was packing two loaded handguns at the Sept. 11 memorial in New York City.…</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="47.sgm-E0-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="49" END="57">A tourist</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="47.sgm-E4-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="150" END="170">the Sept. 11 memorial</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="47.sgm-R2" TYPE="PHYS">
+    <relation_argument REFID="47.sgm-E14" ROLE="Arg-1" />
+    <relation_argument REFID="47.sgm-E15" ROLE="Arg-2" />
+      <relation_mention ID="47.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="416" END="577">The man collects antiques but didn&apos;t know exactly what was in…  
+  Several teenagers were taken to the hospital to be treated for injuries sustained in the fight.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="47.sgm-E14-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="475" END="499">in…  
+  Several teenagers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="47.sgm-E15-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="515" END="526">the hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="47.sgm-R3" TYPE="ORG-AFF">
+    <relation_argument REFID="47.sgm-E19" ROLE="Arg-1" />
+    <relation_argument REFID="47.sgm-E18" ROLE="Arg-2" />
+      <relation_mention ID="47.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="579" END="745">Deputies say at one point they saw a…  
+  A Buffalo Police officer suffered facial injuries after an incident at Kensington and Grider, just after 9:30 Saturday night.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="47.sgm-E19-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="621" END="644">A Buffalo Police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="47.sgm-E18-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="621" END="644">A Buffalo Police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="47.sgm-R4" TYPE="ART">
+    <relation_argument REFID="47.sgm-E26" ROLE="Arg-1" />
+    <relation_argument REFID="47.sgm-E27" ROLE="Arg-2" />
+      <relation_mention ID="47.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="751" END="877">Three teenagers have been arrested who police say forced a family into the basement of their home while they stole electronics.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="47.sgm-E26-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="838" END="847">their home</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="47.sgm-E27-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="838" END="847">their home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="47.sgm-R5" TYPE="PHYS">
+    <relation_argument REFID="47.sgm-E34" ROLE="Arg-1" />
+    <relation_argument REFID="47.sgm-E35" ROLE="Arg-2" />
+      <relation_mention ID="47.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="966" END="1089">Judge Scott said that he &quot;has to consider the safety of…  
+  One person was shot overnight in the city&apos;s Black Rock section.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="47.sgm-E34-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1027" END="1036">One person</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="47.sgm-E35-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1060" END="1067">the city</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="47.sgm-EV0" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="47.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="49" END="189">A tourist from Texas was arrested over the weekend on charges she was packing two loaded handguns at the Sept. 11 memorial in New York City.…</charseq>
+      </extent>
+      <anchor>
+			<charseq START="74" END="81">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="47.sgm-E0-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="49" END="57">A tourist</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="47.sgm-EV1" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="47.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="49" END="189">A tourist from Texas was arrested over the weekend on charges she was packing two loaded handguns at the Sept. 11 memorial in New York City.…</charseq>
+      </extent>
+      <anchor>
+			<charseq START="103" END="109">charges</charseq>
+      </anchor>
+      <event_mention_argument REFID="47.sgm-E0-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="49" END="57">A tourist</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="47.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="47.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="195" END="253">The victim was shot twice with a shotgun as he exited Tops.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="210" END="213">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="47.sgm-E6-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="195" END="204">The victim</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="47.sgm-EV3" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="47.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="255" END="414">Police say Alexander Jewell, 23, and Michael Robinson, 31, were arrested the day…  
+  A resident on Hoyt Street purchased it from an estate sale a few days ago.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="319" END="326">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="47.sgm-E11-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="292" END="307">Michael Robinson</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="47.sgm-EV4" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="47.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="416" END="577">The man collects antiques but didn&apos;t know exactly what was in…  
+  Several teenagers were taken to the hospital to be treated for injuries sustained in the fight.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="546" END="553">injuries</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="47.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="47.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="416" END="577">The man collects antiques but didn&apos;t know exactly what was in…  
+  Several teenagers were taken to the hospital to be treated for injuries sustained in the fight.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="572" END="576">fight</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="47.sgm-EV6" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="47.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="579" END="745">Deputies say at one point they saw a…  
+  A Buffalo Police officer suffered facial injuries after an incident at Kensington and Grider, just after 9:30 Saturday night.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="662" END="669">injuries</charseq>
+      </anchor>
+      <event_mention_argument REFID="47.sgm-E19-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="621" END="644">A Buffalo Police officer</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="47.sgm-EV7" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="47.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="751" END="877">Three teenagers have been arrested who police say forced a family into the basement of their home while they stole electronics.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="777" END="784">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="47.sgm-E22-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="751" END="765">Three teenagers</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="47.sgm-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="47.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="966" END="1089">Judge Scott said that he &quot;has to consider the safety of…  
+  One person was shot overnight in the city&apos;s Black Rock section.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1042" END="1045">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="47.sgm-E34-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1027" END="1036">One person</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="47.sgm-E35-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1060" END="1067">the city</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="47.sgm-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="47.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="1095" END="1196">The death of 21-month-old Joshua Jock, Jr. on Monday night has been ruled a homicide by strangulation.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1099" END="1103">death</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

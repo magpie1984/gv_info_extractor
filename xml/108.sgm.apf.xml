@@ -1,0 +1,846 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/108.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/108.sgm">
+  <entity ID="108.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E0-1">
+      <extent>
+			<charseq START="90" END="98">Three men</charseq>
+      </extent>
+      <head>
+			<charseq START="96" END="98">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E1-1">
+      <extent>
+			<charseq START="100" END="102">who</charseq>
+      </extent>
+      <head>
+			<charseq START="100" END="102">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E2" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E2-1">
+      <extent>
+			<charseq START="112" END="123">a stolen car</charseq>
+      </extent>
+      <head>
+			<charseq START="121" END="123">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E3-1">
+      <extent>
+			<charseq START="130" END="141">Boyd Tuesday</charseq>
+      </extent>
+      <head>
+			<charseq START="130" END="133">Boyd</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E4" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E4-1">
+      <extent>
+			<charseq START="184" END="215">Wise County Sheriff David Walker</charseq>
+      </extent>
+      <head>
+			<charseq START="184" END="194">Wise County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E5-1">
+      <extent>
+			<charseq START="184" END="215">Wise County Sheriff David Walker</charseq>
+      </extent>
+      <head>
+			<charseq START="196" END="202">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E6-1">
+      <extent>
+			<charseq START="184" END="215">Wise County Sheriff David Walker</charseq>
+      </extent>
+      <head>
+			<charseq START="204" END="215">David Walker</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E7-1">
+      <extent>
+			<charseq START="266" END="290">a 2000 black Chevy Impala</charseq>
+      </extent>
+      <head>
+			<charseq START="279" END="290">Chevy Impala</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E8" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E8-1">
+      <extent>
+			<charseq START="316" END="336">County Road 4698 west</charseq>
+      </extent>
+      <head>
+			<charseq START="316" END="321">County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E9-1">
+      <extent>
+			<charseq START="341" END="344">Boyd</charseq>
+      </extent>
+      <head>
+			<charseq START="341" END="344">Boyd</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E10-1">
+      <extent>
+			<charseq START="347" END="359">The three men</charseq>
+      </extent>
+      <head>
+			<charseq START="357" END="359">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E11" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E11-1">
+      <extent>
+			<charseq START="364" END="370">the car</charseq>
+      </extent>
+      <head>
+			<charseq START="368" END="370">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E12" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E12-1">
+      <extent>
+			<charseq START="411" END="417">the car</charseq>
+      </extent>
+      <head>
+			<charseq START="415" END="417">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E13" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E13-1">
+      <extent>
+			<charseq START="447" END="478">the Fort Worth Police Department</charseq>
+      </extent>
+      <head>
+			<charseq START="451" END="478">Fort Worth Police Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E14-1">
+      <extent>
+			<charseq START="535" END="549">the three males</charseq>
+      </extent>
+      <head>
+			<charseq START="545" END="549">males</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E15-1">
+      <extent>
+			<charseq START="563" END="566">them</charseq>
+      </extent>
+      <head>
+			<charseq START="563" END="566">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E16" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E16-1">
+      <extent>
+			<charseq START="576" END="594">Texas) 114,” Walker</charseq>
+      </extent>
+      <head>
+			<charseq START="576" END="580">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E17-1">
+      <extent>
+			<charseq START="576" END="594">Texas) 114,” Walker</charseq>
+      </extent>
+      <head>
+			<charseq START="589" END="594">Walker</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E18-1">
+      <extent>
+			<charseq START="602" END="610">“Officers</charseq>
+      </extent>
+      <head>
+			<charseq START="602" END="610">“Officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E19-1">
+      <extent>
+			<charseq START="618" END="630">the three men</charseq>
+      </extent>
+      <head>
+			<charseq START="628" END="630">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E20-1">
+      <extent>
+			<charseq START="652" END="655">Boyd</charseq>
+      </extent>
+      <head>
+			<charseq START="652" END="655">Boyd</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E21-1">
+      <extent>
+			<charseq START="687" END="698">the suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="691" END="698">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E22-1">
+      <extent>
+			<charseq START="702" END="704">One</charseq>
+      </extent>
+      <head>
+			<charseq START="702" END="704">One</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E23-1">
+      <extent>
+			<charseq START="709" END="715">the men</charseq>
+      </extent>
+      <head>
+			<charseq START="713" END="715">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E24-1">
+      <extent>
+			<charseq START="718" END="738">Wesley Daniel Morphis</charseq>
+      </extent>
+      <head>
+			<charseq START="718" END="738">Wesley Daniel Morphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E25-1">
+      <extent>
+			<charseq START="748" END="756">Arlington</charseq>
+      </extent>
+      <head>
+			<charseq START="748" END="756">Arlington</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E26" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E26-1">
+      <extent>
+			<charseq START="762" END="766">a gun</charseq>
+      </extent>
+      <head>
+			<charseq START="764" END="766">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E27" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E27-1">
+      <extent>
+			<charseq START="768" END="771">that</charseq>
+      </extent>
+      <head>
+			<charseq START="768" END="771">that</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E28" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E28-1">
+      <extent>
+			<charseq START="802" END="807">Euless</charseq>
+      </extent>
+      <head>
+			<charseq START="802" END="807">Euless</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E29-1">
+      <extent>
+			<charseq START="812" END="827">his front pocket</charseq>
+      </extent>
+      <head>
+			<charseq START="812" END="814">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E30-1">
+      <extent>
+			<charseq START="830" END="837">Officers</charseq>
+      </extent>
+      <head>
+			<charseq START="830" END="837">Officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E31" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E31-1">
+      <extent>
+			<charseq START="914" END="927">car burglaries</charseq>
+      </extent>
+      <head>
+			<charseq START="914" END="916">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E32-1">
+      <extent>
+			<charseq START="1033" END="1039">Morphis</charseq>
+      </extent>
+      <head>
+			<charseq START="1033" END="1039">Morphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E33" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E33-1">
+      <extent>
+			<charseq START="1078" END="1086">a vehicle</charseq>
+      </extent>
+      <head>
+			<charseq START="1080" END="1086">vehicle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E34" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E34-1">
+      <extent>
+			<charseq START="1147" END="1154">a weapon</charseq>
+      </extent>
+      <head>
+			<charseq START="1149" END="1154">weapon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E35" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E35-1">
+      <extent>
+			<charseq START="1157" END="1168">Jail records</charseq>
+      </extent>
+      <head>
+			<charseq START="1157" END="1160">Jail</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E36-1">
+      <extent>
+			<charseq START="1179" END="1185">Morphis</charseq>
+      </extent>
+      <head>
+			<charseq START="1179" END="1185">Morphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E37" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E37-1">
+      <extent>
+			<charseq START="1252" END="1265">Tarrant County</charseq>
+      </extent>
+      <head>
+			<charseq START="1252" END="1265">Tarrant County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E38-1">
+      <extent>
+			<charseq START="1268" END="1284">The two other men</charseq>
+      </extent>
+      <head>
+			<charseq START="1282" END="1284">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E39-1">
+      <extent>
+			<charseq START="1287" END="1308">Forrest Matthew Nelson</charseq>
+      </extent>
+      <head>
+			<charseq START="1287" END="1293">Forrest</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E40" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E40-1">
+      <extent>
+			<charseq START="1287" END="1308">Forrest Matthew Nelson</charseq>
+      </extent>
+      <head>
+			<charseq START="1295" END="1308">Matthew Nelson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E41" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E41-1">
+      <extent>
+			<charseq START="1318" END="1328">Duncanville</charseq>
+      </extent>
+      <head>
+			<charseq START="1318" END="1328">Duncanville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E42-1">
+      <extent>
+			<charseq START="1334" END="1365">Kristopher Robert Wesley Holcomb</charseq>
+      </extent>
+      <head>
+			<charseq START="1334" END="1343">Kristopher</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E43" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E43-1">
+      <extent>
+			<charseq START="1334" END="1365">Kristopher Robert Wesley Holcomb</charseq>
+      </extent>
+      <head>
+			<charseq START="1345" END="1365">Robert Wesley Holcomb</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E44" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E44-1">
+      <extent>
+			<charseq START="1427" END="1450">a vehicle and possession</charseq>
+      </extent>
+      <head>
+			<charseq START="1429" END="1435">vehicle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E45" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E45-1">
+      <extent>
+			<charseq START="1497" END="1516">the Wise County Jail</charseq>
+      </extent>
+      <head>
+			<charseq START="1501" END="1511">Wise County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E46" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E46-1">
+      <extent>
+			<charseq START="1497" END="1516">the Wise County Jail</charseq>
+      </extent>
+      <head>
+			<charseq START="1513" END="1516">Jail</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E47" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E47-1">
+      <extent>
+			<charseq START="1526" END="1559">The Boyd Volunteer Fire Department</charseq>
+      </extent>
+      <head>
+			<charseq START="1530" END="1559">Boyd Volunteer Fire Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E48" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E48-1">
+      <extent>
+			<charseq START="1592" END="1606">Wise County EMS</charseq>
+      </extent>
+      <head>
+			<charseq START="1592" END="1602">Wise County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E49" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E49-1">
+      <extent>
+			<charseq START="1592" END="1606">Wise County EMS</charseq>
+      </extent>
+      <head>
+			<charseq START="1604" END="1606">EMS</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E50" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E50-1">
+      <extent>
+			<charseq START="1639" END="1650">the suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="1643" END="1650">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E51" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E51-1">
+      <extent>
+			<charseq START="1652" END="1654">who</charseq>
+      </extent>
+      <head>
+			<charseq START="1652" END="1654">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E52" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E52-1">
+      <extent>
+			<charseq START="1681" END="1706">The Boyd Police Department</charseq>
+      </extent>
+      <head>
+			<charseq START="1685" END="1706">Boyd Police Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E53" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E53-1">
+      <extent>
+			<charseq START="1709" END="1757">Wise County Sheriff’s Office and Texas Department</charseq>
+      </extent>
+      <head>
+			<charseq START="1709" END="1736">Wise County Sheriff’s Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="108.sgm-E54" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="108.sgm-E54-1">
+      <extent>
+			<charseq START="1742" END="1774">Texas Department of Public Safety</charseq>
+      </extent>
+      <head>
+			<charseq START="1742" END="1774">Texas Department of Public Safety</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="108.sgm-R0" TYPE="ART">
+    <relation_argument REFID="108.sgm-E1" ROLE="Arg-1" />
+    <relation_argument REFID="108.sgm-E2" ROLE="Arg-2" />
+      <relation_mention ID="108.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="90" END="182">Three men who crashed a stolen car near Boyd Tuesday were later arrested on numerous charges.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="108.sgm-E1-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="100" END="102">who</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="108.sgm-E2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="112" END="123">a stolen car</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="108.sgm-R1" TYPE="ORG-AFF">
+    <relation_argument REFID="108.sgm-E5" ROLE="Arg-1" />
+    <relation_argument REFID="108.sgm-E4" ROLE="Arg-2" />
+      <relation_mention ID="108.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="184" END="345">Wise County Sheriff David Walker said an accident was reported around 3 p.m. when a 2000 black Chevy Impala crashed into a fence on County Road 4698 west of Boyd.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="108.sgm-E5-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="184" END="215">Wise County Sheriff David Walker</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="108.sgm-E4-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="184" END="215">Wise County Sheriff David Walker</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="108.sgm-R2" TYPE="ART">
+    <relation_argument REFID="108.sgm-E10" ROLE="Arg-1" />
+    <relation_argument REFID="108.sgm-E11" ROLE="Arg-2" />
+      <relation_mention ID="108.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="347" END="479">The three men in the car quickly left the scene, likely because the car had been reported stolen by the Fort Worth Police Department.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="108.sgm-E10-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="347" END="359">The three men</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="108.sgm-E11-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="364" END="370">the car</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="108.sgm-R3" TYPE="ART">
+    <relation_argument REFID="108.sgm-E30" ROLE="Arg-1" />
+    <relation_argument REFID="108.sgm-E31" ROLE="Arg-2" />
+      <relation_mention ID="108.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="830" END="975">Officers also found backpacks that included several tools that are commonly used in car burglaries, as well as a syringe with clear liquid inside.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="108.sgm-E30-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="830" END="837">Officers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="108.sgm-E31-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="914" END="927">car burglaries</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="108.sgm-R4" TYPE="GEN-AFF">
+    <relation_argument REFID="108.sgm-E49" ROLE="Arg-1" />
+    <relation_argument REFID="108.sgm-E48" ROLE="Arg-2" />
+      <relation_mention ID="108.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="1526" END="1679">The Boyd Volunteer Fire Department responded to the accident, and Wise County EMS was called to check out one of the suspects who complained of lung pain.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="108.sgm-E49-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1592" END="1606">Wise County EMS</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="108.sgm-E48-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1592" END="1606">Wise County EMS</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="108.sgm-EV0" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="108.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="90" END="182">Three men who crashed a stolen car near Boyd Tuesday were later arrested on numerous charges.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="154" END="161">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="108.sgm-E0-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="90" END="98">Three men</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="108.sgm-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="108.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="184" END="345">Wise County Sheriff David Walker said an accident was reported around 3 p.m. when a 2000 black Chevy Impala crashed into a fence on County Road 4698 west of Boyd.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="292" END="298">crashed</charseq>
+      </anchor>
+      <event_mention_argument REFID="108.sgm-E7-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="266" END="290">a 2000 black Chevy Impala</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="108.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="108.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="481" END="600">“Witnesses on the scene said a green pickup picked up the three males and dropped them off on (Texas) 114,” Walker said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="555" END="561">dropped</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="108.sgm-EV3" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="108.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="1033" END="1155">Morphis was arrested for unauthorized use of a vehicle, theft of a firearm and two counts of unlawful carrying of a weapon.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1045" END="1052">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="108.sgm-E32-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1033" END="1039">Morphis</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="108.sgm-EV4" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="108.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="1268" END="1473">The two other men, Forrest Matthew Nelson, 27, of Duncanville and Kristopher Robert Wesley Holcomb, 25, of Amarillo were both charged with unauthorized use of a vehicle and possession of drug paraphernalia.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1394" END="1400">charged</charseq>
+      </anchor>
+      <event_mention_argument REFID="108.sgm-E38-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1268" END="1284">The two other men</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="108.sgm-EV5" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="108.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="1681" END="1801">The Boyd Police Department, Wise County Sheriff’s Office and Texas Department of Public Safety all responded to the call.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1797" END="1800">call</charseq>
+      </anchor>
+      <event_mention_argument REFID="108.sgm-E52-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1681" END="1706">The Boyd Police Department</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

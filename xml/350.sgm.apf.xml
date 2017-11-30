@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/350.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/350.sgm">
+  <entity ID="350.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="350.sgm-E0-1">
+      <extent>
+			<charseq START="140" END="148">MILWAUKEE</charseq>
+      </extent>
+      <head>
+			<charseq START="140" END="148">MILWAUKEE</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="350.sgm-E1" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="350.sgm-E1-1">
+      <extent>
+			<charseq START="151" END="153">AP)</charseq>
+      </extent>
+      <head>
+			<charseq START="151" END="152">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="350.sgm-E2" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="350.sgm-E2-1">
+      <extent>
+			<charseq START="158" END="173">Milwaukee police</charseq>
+      </extent>
+      <head>
+			<charseq START="158" END="166">Milwaukee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="350.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="350.sgm-E3-1">
+      <extent>
+			<charseq START="158" END="173">Milwaukee police</charseq>
+      </extent>
+      <head>
+			<charseq START="168" END="173">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="350.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="350.sgm-E4-1">
+      <extent>
+			<charseq START="226" END="236">four people</charseq>
+      </extent>
+      <head>
+			<charseq START="231" END="236">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="350.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="350.sgm-E5-1">
+      <extent>
+			<charseq START="249" END="266">an 11-year-old boy</charseq>
+      </extent>
+      <head>
+			<charseq START="264" END="266">boy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="350.sgm-E6" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="350.sgm-E6-1">
+      <extent>
+			<charseq START="269" END="299">The Milwaukee Police Department</charseq>
+      </extent>
+      <head>
+			<charseq START="273" END="299">Milwaukee Police Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="350.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="350.sgm-E7-1">
+      <extent>
+			<charseq START="330" END="347">a family gathering</charseq>
+      </extent>
+      <head>
+			<charseq START="332" END="337">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="350.sgm-E8" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="350.sgm-E8-1">
+      <extent>
+			<charseq START="352" END="369">northern Milwaukee</charseq>
+      </extent>
+      <head>
+			<charseq START="361" END="369">Milwaukee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="350.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="350.sgm-E9-1">
+      <extent>
+			<charseq START="408" END="424">a 22-year-old man</charseq>
+      </extent>
+      <head>
+			<charseq START="422" END="424">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="350.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="350.sgm-E10-1">
+      <extent>
+			<charseq START="430" END="448">a 30-year-old woman</charseq>
+      </extent>
+      <head>
+			<charseq START="444" END="448">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="350.sgm-E11" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="350.sgm-E11-1">
+      <extent>
+			<charseq START="458" END="465">handguns</charseq>
+      </extent>
+      <head>
+			<charseq START="458" END="465">handguns</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="350.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="350.sgm-E12-1">
+      <extent>
+			<charseq START="491" END="494">Both</charseq>
+      </extent>
+      <head>
+			<charseq START="491" END="494">Both</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="350.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="350.sgm-E13-1">
+      <extent>
+			<charseq START="525" END="550">another 30-year-old female</charseq>
+      </extent>
+      <head>
+			<charseq START="545" END="550">female</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="350.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="350.sgm-E14-1">
+      <extent>
+			<charseq START="556" END="573">an 11-year-old boy</charseq>
+      </extent>
+      <head>
+			<charseq START="571" END="573">boy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="350.sgm-E15" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="350.sgm-E15-1">
+      <extent>
+			<charseq START="599" END="610">the hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="603" END="610">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="350.sgm-R0" TYPE="PHYS">
+    <relation_argument REFID="350.sgm-E7" ROLE="Arg-1" />
+    <relation_argument REFID="350.sgm-E8" ROLE="Arg-2" />
+      <relation_mention ID="350.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="269" END="370">The Milwaukee Police Department says the incident started at a family gathering in northern Milwaukee.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="350.sgm-E7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="330" END="347">a family gathering</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="350.sgm-E8-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="352" END="369">northern Milwaukee</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="350.sgm-EV0" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="350.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="140" END="267">MILWAUKEE (AP) -- Milwaukee police are investigating a Saturday shooting that injured four people, including an 11-year-old boy.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="218" END="224">injured</charseq>
+      </anchor>
+      <event_mention_argument REFID="350.sgm-E4-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="226" END="236">four people</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="350.sgm-E5-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="249" END="266">an 11-year-old boy</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="350.sgm-EV1" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="350.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="269" END="370">The Milwaukee Police Department says the incident started at a family gathering in northern Milwaukee.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="339" END="347">gathering</charseq>
+      </anchor>
+      <event_mention_argument REFID="350.sgm-E7-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="330" END="347">a family gathering</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="350.sgm-E8-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="352" END="369">northern Milwaukee</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="350.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="350.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="372" END="489">Around 5 p.m. during the gathering, a 22-year-old man and a 30-year-old woman grabbed handguns and shot at each other.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="471" END="474">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="350.sgm-E11-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="458" END="465">handguns</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="350.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="350.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="491" END="574">Both were hit by gunfire, as were another 30-year-old female and an 11-year-old boy.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="501" END="503">hit</charseq>
+      </anchor>
+      <event_mention_argument REFID="350.sgm-E12-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="491" END="494">Both</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="350.sgm-EV4" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="350.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="576" END="645">All four were taken to the hospital for non-life threatening injuries.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="637" END="644">injuries</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

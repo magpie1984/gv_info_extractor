@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/431.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/431.sgm">
+  <entity ID="431.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="431.sgm-E0-1">
+      <extent>
+			<charseq START="165" END="171">one man</charseq>
+      </extent>
+      <head>
+			<charseq START="169" END="171">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="431.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="431.sgm-E1-1">
+      <extent>
+			<charseq START="199" END="204">police</charseq>
+      </extent>
+      <head>
+			<charseq START="199" END="204">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="431.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="431.sgm-E2-1">
+      <extent>
+			<charseq START="228" END="240">the suspect –</charseq>
+      </extent>
+      <head>
+			<charseq START="232" END="238">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="431.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="431.sgm-E3-1">
+      <extent>
+			<charseq START="289" END="294">police</charseq>
+      </extent>
+      <head>
+			<charseq START="289" END="294">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="431.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="431.sgm-E4-1">
+      <extent>
+			<charseq START="301" END="317">the 75th Precinct</charseq>
+      </extent>
+      <head>
+			<charseq START="310" END="317">Precinct</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="431.sgm-E5" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="431.sgm-E5-1">
+      <extent>
+			<charseq START="368" END="375">the park</charseq>
+      </extent>
+      <head>
+			<charseq START="372" END="375">park</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="431.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="431.sgm-E6-1">
+      <extent>
+			<charseq START="378" END="380">You</charseq>
+      </extent>
+      <head>
+			<charseq START="378" END="380">You</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="431.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="431.sgm-E7-1">
+      <extent>
+			<charseq START="483" END="493">all readers</charseq>
+      </extent>
+      <head>
+			<charseq START="487" END="493">readers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="431.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="431.sgm-E8-1">
+      <extent>
+			<charseq START="587" END="604">online subscribers</charseq>
+      </extent>
+      <head>
+			<charseq START="594" END="604">subscribers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="431.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="431.sgm-E9-1">
+      <extent>
+			<charseq START="700" END="710">all readers</charseq>
+      </extent>
+      <head>
+			<charseq START="704" END="710">readers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="431.sgm-E10" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="431.sgm-E10-1">
+      <extent>
+			<charseq START="724" END="734">our archive</charseq>
+      </extent>
+      <head>
+			<charseq START="724" END="726">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <event ID="431.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="431.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="100" END="264">After gunshots were heard inside of Linden Park Tuesday morning, one man was seriously injured and police are still hunting for the suspect – or suspects – involved.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="106" END="113">gunshots</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="431.sgm-EV1" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="431.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="100" END="264">After gunshots were heard inside of Linden Park Tuesday morning, one man was seriously injured and police are still hunting for the suspect – or suspects – involved.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="187" END="193">injured</charseq>
+      </anchor>
+      <event_mention_argument REFID="431.sgm-E0-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="165" END="171">one man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="431.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="431.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="266" END="376">At around 10: 30 a.m., police with the 75th Precinct responded to a call that six shots were fired at the park.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="359" END="363">fired</charseq>
+      </anchor>
+      <event_mention_argument REFID="431.sgm-E5-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="368" END="375">the park</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

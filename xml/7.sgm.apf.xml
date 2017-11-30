@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/7.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/7.sgm">
+  <entity ID="7.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E0-1">
+      <extent>
+			<charseq START="75" END="87">Atlantic City</charseq>
+      </extent>
+      <head>
+			<charseq START="75" END="87">Atlantic City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E1-1">
+      <extent>
+			<charseq START="90" END="92">Wyo</charseq>
+      </extent>
+      <head>
+			<charseq START="90" END="92">Wyo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E2-1">
+      <extent>
+			<charseq START="95" END="119">26-year-old Joe Henderson</charseq>
+      </extent>
+      <head>
+			<charseq START="107" END="119">Joe Henderson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E3-1">
+      <extent>
+			<charseq START="180" END="186">himself</charseq>
+      </extent>
+      <head>
+			<charseq START="180" END="186">himself</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E4" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E4-1">
+      <extent>
+			<charseq START="209" END="223">caliber handgun</charseq>
+      </extent>
+      <head>
+			<charseq START="217" END="223">handgun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E5-1">
+      <extent>
+			<charseq START="226" END="254">Undersheriff Ryan Lee reports</charseq>
+      </extent>
+      <head>
+			<charseq START="226" END="246">Undersheriff Ryan Lee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E6-1">
+      <extent>
+			<charseq START="257" END="263">The man</charseq>
+      </extent>
+      <head>
+			<charseq START="261" END="263">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E7-1">
+      <extent>
+			<charseq START="292" END="306">three other men</charseq>
+      </extent>
+      <head>
+			<charseq START="304" END="306">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E8" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E8-1">
+      <extent>
+			<charseq START="311" END="332">the Atlantic City area</charseq>
+      </extent>
+      <head>
+			<charseq START="315" END="327">Atlantic City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E9" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E9-1">
+      <extent>
+			<charseq START="311" END="332">the Atlantic City area</charseq>
+      </extent>
+      <head>
+			<charseq START="329" END="332">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E10-1">
+      <extent>
+			<charseq START="348" END="371">the victim and witnesses</charseq>
+      </extent>
+      <head>
+			<charseq START="352" END="357">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E11-1">
+      <extent>
+			<charseq START="348" END="371">the victim and witnesses</charseq>
+      </extent>
+      <head>
+			<charseq START="363" END="371">witnesses</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E12-1">
+      <extent>
+			<charseq START="374" END="388">the injured man</charseq>
+      </extent>
+      <head>
+			<charseq START="386" END="388">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E13" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E13-1">
+      <extent>
+			<charseq START="407" END="413">the gun</charseq>
+      </extent>
+      <head>
+			<charseq START="411" END="413">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E14" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E14-1">
+      <extent>
+			<charseq START="452" END="462">the vehicle</charseq>
+      </extent>
+      <head>
+			<charseq START="456" END="462">vehicle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E15-1">
+      <extent>
+			<charseq START="465" END="467">Lee</charseq>
+      </extent>
+      <head>
+			<charseq START="465" END="467">Lee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E16" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E16-1">
+      <extent>
+			<charseq START="493" END="502">The weapon</charseq>
+      </extent>
+      <head>
+			<charseq START="497" END="502">weapon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E17" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E17-1">
+      <extent>
+			<charseq START="519" END="525">a round</charseq>
+      </extent>
+      <head>
+			<charseq START="521" END="525">round</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E18-1">
+      <extent>
+			<charseq START="535" END="542">the mans</charseq>
+      </extent>
+      <head>
+			<charseq START="539" END="542">mans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E19-1">
+      <extent>
+			<charseq START="586" END="601">The mans friends</charseq>
+      </extent>
+      <head>
+			<charseq START="595" END="601">friends</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E20-1">
+      <extent>
+			<charseq START="617" END="622">Lander</charseq>
+      </extent>
+      <head>
+			<charseq START="617" END="622">Lander</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E21" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E21-1">
+      <extent>
+			<charseq START="679" END="706">the Fremont County Ambulance</charseq>
+      </extent>
+      <head>
+			<charseq START="683" END="706">Fremont County Ambulance</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E22-1">
+      <extent>
+			<charseq START="709" END="715">The man</charseq>
+      </extent>
+      <head>
+			<charseq START="713" END="715">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E23" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E23-1">
+      <extent>
+			<charseq START="730" END="753">Lander Regional Hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="746" END="753">Hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E24-1">
+      <extent>
+			<charseq START="773" END="774">he</charseq>
+      </extent>
+      <head>
+			<charseq START="773" END="774">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E25" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E25-1">
+      <extent>
+			<charseq START="799" END="814">another facility</charseq>
+      </extent>
+      <head>
+			<charseq START="807" END="814">facility</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="7.sgm-E26" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="7.sgm-E26-1">
+      <extent>
+			<charseq START="823" END="827">state</charseq>
+      </extent>
+      <head>
+			<charseq START="823" END="827">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="7.sgm-R0" TYPE="PHYS">
+    <relation_argument REFID="7.sgm-E7" ROLE="Arg-1" />
+    <relation_argument REFID="7.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="7.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="257" END="333">The man had been on an outing with three other men in the Atlantic City area.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="7.sgm-E7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="292" END="306">three other men</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="7.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="311" END="332">the Atlantic City area</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="7.sgm-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="7.sgm-E8" ROLE="Arg-1" />
+    <relation_argument REFID="7.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="7.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="257" END="333">The man had been on an outing with three other men in the Atlantic City area.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="7.sgm-E8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="311" END="332">the Atlantic City area</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="7.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="311" END="332">the Atlantic City area</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="7.sgm-R2" TYPE="PHYS">
+    <relation_argument REFID="7.sgm-E24" ROLE="Arg-1" />
+    <relation_argument REFID="7.sgm-E25" ROLE="Arg-2" />
+      <relation_mention ID="7.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="709" END="828">The man was taken to Lander Regional Hospital; reports indicate he was later airlifted to another facility out of state.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="7.sgm-E24-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="773" END="774">he</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="7.sgm-E25-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="799" END="814">another facility</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="7.sgm-R3" TYPE="PHYS">
+    <relation_argument REFID="7.sgm-E22" ROLE="Arg-1" />
+    <relation_argument REFID="7.sgm-E23" ROLE="Arg-2" />
+      <relation_mention ID="7.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="709" END="828">The man was taken to Lander Regional Hospital; reports indicate he was later airlifted to another facility out of state.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="7.sgm-E22-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="709" END="715">The man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="7.sgm-E23-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="730" END="753">Lander Regional Hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="7.sgm-EV0" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="7.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="95" END="207">26-year-old Joe Henderson was injured Saturday afternoon after accidentally shooting himself in the leg witha .40</charseq>
+      </extent>
+      <anchor>
+			<charseq START="125" END="131">injured</charseq>
+      </anchor>
+      <event_mention_argument REFID="7.sgm-E2-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="95" END="119">26-year-old Joe Henderson</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="7.sgm-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="7.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="586" END="707">The mans friends drove towards Lander and were eventually intercepted by Deputy Sheriffs and the Fremont County Ambulance.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="603" END="607">drove</charseq>
+      </anchor>
+      <event_mention_argument REFID="7.sgm-E19-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="586" END="601">The mans friends</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="7.sgm-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="7.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="709" END="828">The man was taken to Lander Regional Hospital; reports indicate he was later airlifted to another facility out of state.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="721" END="725">taken</charseq>
+      </anchor>
+      <event_mention_argument REFID="7.sgm-E22-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="709" END="715">The man</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="7.sgm-E23-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="730" END="753">Lander Regional Hospital</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="7.sgm-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="7.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="709" END="828">The man was taken to Lander Regional Hospital; reports indicate he was later airlifted to another facility out of state.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="786" END="794">airlifted</charseq>
+      </anchor>
+      <event_mention_argument REFID="7.sgm-E24-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="773" END="774">he</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="7.sgm-E25-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="799" END="814">another facility</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

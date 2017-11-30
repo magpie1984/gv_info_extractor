@@ -1,0 +1,535 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/296.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/296.sgm">
+  <entity ID="296.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E0-1">
+      <extent>
+			<charseq START="116" END="132">A 25-year-old man</charseq>
+      </extent>
+      <head>
+			<charseq START="130" END="132">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E1-1">
+      <extent>
+			<charseq START="178" END="185">Hartford</charseq>
+      </extent>
+      <head>
+			<charseq START="178" END="185">Hartford</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E2" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E2-1">
+      <extent>
+			<charseq START="196" END="203">the city</charseq>
+      </extent>
+      <head>
+			<charseq START="200" END="203">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E3-1">
+      <extent>
+			<charseq START="256" END="264">The mayor</charseq>
+      </extent>
+      <head>
+			<charseq START="260" END="264">mayor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E4" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E4-1">
+      <extent>
+			<charseq START="278" END="285">the city</charseq>
+      </extent>
+      <head>
+			<charseq START="282" END="285">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E5-1">
+      <extent>
+			<charseq START="324" END="329">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="324" END="329">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E6-1">
+      <extent>
+			<charseq START="336" END="339">they</charseq>
+      </extent>
+      <head>
+			<charseq START="336" END="339">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E7" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E7-1">
+      <extent>
+			<charseq START="374" END="390">Blue Hills Avenue</charseq>
+      </extent>
+      <head>
+			<charseq START="374" END="390">Blue Hills Avenue</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E8-1">
+      <extent>
+			<charseq START="440" END="455">a gunshot victim</charseq>
+      </extent>
+      <head>
+			<charseq START="450" END="455">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E9" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E9-1">
+      <extent>
+			<charseq START="472" END="506">Francis Hospital and Medical Center</charseq>
+      </extent>
+      <head>
+			<charseq START="472" END="506">Francis Hospital and Medical Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E10" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E10-1">
+      <extent>
+			<charseq START="511" END="523">a private car</charseq>
+      </extent>
+      <head>
+			<charseq START="521" END="523">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E11-1">
+      <extent>
+			<charseq START="526" END="531">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="526" END="531">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E12-1">
+      <extent>
+			<charseq START="538" END="551">Devon Mitchell</charseq>
+      </extent>
+      <head>
+			<charseq START="538" END="551">Devon Mitchell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E13" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E13-1">
+      <extent>
+			<charseq START="556" END="568">East Hartford</charseq>
+      </extent>
+      <head>
+			<charseq START="556" END="568">East Hartford</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E14-1">
+      <extent>
+			<charseq START="627" END="654">Hartford Mayor Pedro Segarra</charseq>
+      </extent>
+      <head>
+			<charseq START="636" END="640">Mayor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E15-1">
+      <extent>
+			<charseq START="627" END="654">Hartford Mayor Pedro Segarra</charseq>
+      </extent>
+      <head>
+			<charseq START="642" END="654">Pedro Segarra</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E16-1">
+      <extent>
+			<charseq START="663" END="672">Mitchell’s</charseq>
+      </extent>
+      <head>
+			<charseq START="663" END="672">Mitchell’s</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E17-1">
+      <extent>
+			<charseq START="709" END="714">police</charseq>
+      </extent>
+      <head>
+			<charseq START="709" END="714">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E18" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E18-1">
+      <extent>
+			<charseq START="722" END="747">state and federal partners</charseq>
+      </extent>
+      <head>
+			<charseq START="722" END="726">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E19-1">
+      <extent>
+			<charseq START="722" END="747">state and federal partners</charseq>
+      </extent>
+      <head>
+			<charseq START="740" END="747">partners</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E20-1">
+      <extent>
+			<charseq START="783" END="784">He</charseq>
+      </extent>
+      <head>
+			<charseq START="783" END="784">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E21-1">
+      <extent>
+			<charseq START="791" END="801">individuals</charseq>
+      </extent>
+      <head>
+			<charseq START="791" END="801">individuals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E22-1">
+      <extent>
+			<charseq START="848" END="864">community members</charseq>
+      </extent>
+      <head>
+			<charseq START="858" END="864">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="296.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="296.sgm-E23-1">
+      <extent>
+			<charseq START="879" END="893">to young people</charseq>
+      </extent>
+      <head>
+			<charseq START="888" END="893">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="296.sgm-R0" TYPE="ART">
+    <relation_argument REFID="296.sgm-E8" ROLE="Arg-1" />
+    <relation_argument REFID="296.sgm-E10" ROLE="Arg-2" />
+      <relation_mention ID="296.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="421" END="524">Shortly afterward, a gunshot victim arrived at St. Francis Hospital and Medical Center in a private car.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="296.sgm-E8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="440" END="455">a gunshot victim</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="296.sgm-E10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="511" END="523">a private car</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="296.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="296.sgm-E8" ROLE="Arg-1" />
+    <relation_argument REFID="296.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="296.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="421" END="524">Shortly afterward, a gunshot victim arrived at St. Francis Hospital and Medical Center in a private car.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="296.sgm-E8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="440" END="455">a gunshot victim</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="296.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="472" END="506">Francis Hospital and Medical Center</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="296.sgm-R2" TYPE="ORG-AFF">
+    <relation_argument REFID="296.sgm-E12" ROLE="Arg-1" />
+    <relation_argument REFID="296.sgm-E13" ROLE="Arg-2" />
+      <relation_mention ID="296.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="526" END="625">Police said Devon Mitchell of East Hartford died about two hours later from multiple gunshot wounds.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="296.sgm-E12-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="538" END="551">Devon Mitchell</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="296.sgm-E13-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="556" END="568">East Hartford</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="296.sgm-R3" TYPE="ORG-AFF">
+    <relation_argument REFID="296.sgm-E19" ROLE="Arg-1" />
+    <relation_argument REFID="296.sgm-E18" ROLE="Arg-2" />
+      <relation_mention ID="296.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="627" END="781">Hartford Mayor Pedro Segarra called Mitchell’s killing a “senseless act” and said police, with state and federal partners, are trying to stop new violence.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="296.sgm-E19-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="722" END="747">state and federal partners</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="296.sgm-E18-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="722" END="747">state and federal partners</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="296.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="296.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="105" END="186">HARTFORD – A 25-year-old man has died after a Saturday night shooting in Hartford.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="138" END="141">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="296.sgm-E0-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="116" END="132">A 25-year-old man</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="296.sgm-E1-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="178" END="185">Hartford</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="296.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="296.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="105" END="186">HARTFORD – A 25-year-old man has died after a Saturday night shooting in Hartford.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="166" END="173">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="296.sgm-E1-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="178" END="185">Hartford</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="296.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="296.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="189" END="254">It was the city’s 20th homicide this year after 19 in all of 2014.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="212" END="219">homicide</charseq>
+      </anchor>
+      <event_mention_argument REFID="296.sgm-E2-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="196" END="203">the city</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="296.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="296.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="256" END="322">The mayor said Sunday the city is working to prevent more violence.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="314" END="321">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="296.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="296.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="324" END="419">Police said they received calls about gunshots on Blue Hills Avenue just before 9 p.m. Saturday.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="362" END="369">gunshots</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="296.sgm-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="296.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="421" END="524">Shortly afterward, a gunshot victim arrived at St. Francis Hospital and Medical Center in a private car.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="457" END="463">arrived</charseq>
+      </anchor>
+      <event_mention_argument REFID="296.sgm-E8-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="440" END="455">a gunshot victim</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="296.sgm-E9-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="472" END="506">Francis Hospital and Medical Center</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="296.sgm-E10-1" ROLE="Vehicle" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="511" END="523">a private car</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="296.sgm-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="296.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="526" END="625">Police said Devon Mitchell of East Hartford died about two hours later from multiple gunshot wounds.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="570" END="573">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="296.sgm-E13-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="556" END="568">East Hartford</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="296.sgm-E12-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="538" END="551">Devon Mitchell</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="296.sgm-EV7" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="296.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="526" END="625">Police said Devon Mitchell of East Hartford died about two hours later from multiple gunshot wounds.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="619" END="624">wounds</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="296.sgm-EV8" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="296.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="627" END="781">Hartford Mayor Pedro Segarra called Mitchell’s killing a “senseless act” and said police, with state and federal partners, are trying to stop new violence.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="674" END="680">killing</charseq>
+      </anchor>
+      <event_mention_argument REFID="296.sgm-E16-1" ROLE="Agent" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="663" END="672">Mitchell’s</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="296.sgm-EV9" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="296.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="627" END="781">Hartford Mayor Pedro Segarra called Mitchell’s killing a “senseless act” and said police, with state and federal partners, are trying to stop new violence.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="773" END="780">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="296.sgm-EV10" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="296.sgm-EV10-1" p="1.000">
+      <extent>
+			<charseq START="783" END="894">He said individuals also have a responsibility to help and urged community members to reach out to young people.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="869" END="873">reach</charseq>
+      </anchor>
+      <event_mention_argument REFID="296.sgm-E21-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="791" END="801">individuals</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

@@ -1,0 +1,656 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/123.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/123.sgm">
+  <entity ID="123.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E0-1">
+      <extent>
+			<charseq START="289" END="320">St. Mary Parish Thursday evening</charseq>
+      </extent>
+      <head>
+			<charseq START="289" END="290">St</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E1-1">
+      <extent>
+			<charseq START="289" END="320">St. Mary Parish Thursday evening</charseq>
+      </extent>
+      <head>
+			<charseq START="293" END="303">Mary Parish</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E2-1">
+      <extent>
+			<charseq START="341" END="346">people</charseq>
+      </extent>
+      <head>
+			<charseq START="341" END="346">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E3" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E3-1">
+      <extent>
+			<charseq START="421" END="430">The St.Fri</charseq>
+      </extent>
+      <head>
+			<charseq START="425" END="430">St.Fri</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E4-1">
+      <extent>
+			<charseq START="511" END="516">New La</charseq>
+      </extent>
+      <head>
+			<charseq START="511" END="516">New La</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E5" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E5-1">
+      <extent>
+			<charseq START="621" END="631">BATON ROUGE</charseq>
+      </extent>
+      <head>
+			<charseq START="621" END="631">BATON ROUGE</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E6" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E6-1">
+      <extent>
+			<charseq START="634" END="635">AP</charseq>
+      </extent>
+      <head>
+			<charseq START="634" END="635">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E7-1">
+      <extent>
+			<charseq START="678" END="680">you</charseq>
+      </extent>
+      <head>
+			<charseq START="678" END="680">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E8-1">
+      <extent>
+			<charseq START="741" END="765">domestic violence victims</charseq>
+      </extent>
+      <head>
+			<charseq START="759" END="765">victims</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E9" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E9-1">
+      <extent>
+			<charseq START="907" END="916">Skate park</charseq>
+      </extent>
+      <head>
+			<charseq START="913" END="916">park</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E10-1">
+      <extent>
+			<charseq START="1006" END="1017">Stan Robison</charseq>
+      </extent>
+      <head>
+			<charseq START="1006" END="1017">Stan Robison</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E11-1">
+      <extent>
+			<charseq START="1020" END="1022">who</charseq>
+      </extent>
+      <head>
+			<charseq START="1020" END="1022">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E12-1">
+      <extent>
+			<charseq START="1031" END="1081">the St. Mary Parish Recreation District No. 3 board</charseq>
+      </extent>
+      <head>
+			<charseq START="1035" END="1036">St</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E13-1">
+      <extent>
+			<charseq START="1031" END="1081">the St. Mary Parish Recreation District No. 3 board</charseq>
+      </extent>
+      <head>
+			<charseq START="1039" END="1049">Mary Parish</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E14" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E14-1">
+      <extent>
+			<charseq START="1144" END="1147">park</charseq>
+      </extent>
+      <head>
+			<charseq START="1144" END="1147">park</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E15" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E15-1">
+      <extent>
+			<charseq START="1150" END="1157">The park</charseq>
+      </extent>
+      <head>
+			<charseq START="1154" END="1157">park</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E16-1">
+      <extent>
+			<charseq START="1187" END="1198">young people</charseq>
+      </extent>
+      <head>
+			<charseq START="1193" END="1198">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E17" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E17-1">
+      <extent>
+			<charseq START="1232" END="1237">school</charseq>
+      </extent>
+      <head>
+			<charseq START="1232" END="1237">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E18" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E18-1">
+      <extent>
+			<charseq START="1255" END="1295">The Daily Review/Bill Decker  BAYOU VISTA</charseq>
+      </extent>
+      <head>
+			<charseq START="1259" END="1282">Daily Review/Bill Decker</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E19" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E19-1">
+      <extent>
+			<charseq START="1546" END="1556">BATON ROUGE</charseq>
+      </extent>
+      <head>
+			<charseq START="1546" END="1556">BATON ROUGE</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E20" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E20-1">
+      <extent>
+			<charseq START="1559" END="1560">AP</charseq>
+      </extent>
+      <head>
+			<charseq START="1559" END="1560">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E21-1">
+      <extent>
+			<charseq START="1599" END="1612">a police radio</charseq>
+      </extent>
+      <head>
+			<charseq START="1601" END="1606">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E22" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E22-1">
+      <extent>
+			<charseq START="1656" END="1680">a Lafayette movie theater</charseq>
+      </extent>
+      <head>
+			<charseq START="1658" END="1666">Lafayette</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E23-1">
+      <extent>
+			<charseq START="1683" END="1693">The suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="1687" END="1693">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E24" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E24-1">
+      <extent>
+			<charseq START="1706" END="1718">an auditorium</charseq>
+      </extent>
+      <head>
+			<charseq START="1709" END="1718">auditorium</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E25-1">
+      <extent>
+			<charseq START="1737" END="1747">his gun.Fri</charseq>
+      </extent>
+      <head>
+			<charseq START="1737" END="1739">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E26" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E26-1">
+      <extent>
+			<charseq START="1828" END="1837">Open house</charseq>
+      </extent>
+      <head>
+			<charseq START="1833" END="1837">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E27-1">
+      <extent>
+			<charseq START="1843" END="1857">townhouse
+Woman</charseq>
+      </extent>
+      <head>
+			<charseq START="1853" END="1857">Woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E28-1">
+      <extent>
+			<charseq START="1880" END="1886">Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="1880" END="1886">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E29-1">
+      <extent>
+			<charseq START="1977" END="2011">St. Mary Parish Sheriff Mark Hebert</charseq>
+      </extent>
+      <head>
+			<charseq START="1981" END="1991">Mary Parish</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E30-1">
+      <extent>
+			<charseq START="1977" END="2011">St. Mary Parish Sheriff Mark Hebert</charseq>
+      </extent>
+      <head>
+			<charseq START="1993" END="1999">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E31-1">
+      <extent>
+			<charseq START="1977" END="2011">St. Mary Parish Sheriff Mark Hebert</charseq>
+      </extent>
+      <head>
+			<charseq START="2001" END="2011">Mark Hebert</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E32" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E32-1">
+      <extent>
+			<charseq START="2248" END="2265">A benefit car show</charseq>
+      </extent>
+      <head>
+			<charseq START="2258" END="2260">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E33-1">
+      <extent>
+			<charseq START="2323" END="2333">a local man</charseq>
+      </extent>
+      <head>
+			<charseq START="2331" END="2333">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E34" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E34-1">
+      <extent>
+			<charseq START="2346" END="2381">the Lafayette Grand Theatre shooting</charseq>
+      </extent>
+      <head>
+			<charseq START="2350" END="2358">Lafayette</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E35-1">
+      <extent>
+			<charseq START="2387" END="2397">another man</charseq>
+      </extent>
+      <head>
+			<charseq START="2395" END="2397">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E36-1">
+      <extent>
+			<charseq START="2642" END="2656">St. Mary Parish</charseq>
+      </extent>
+      <head>
+			<charseq START="2642" END="2643">St</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E37" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E37-1">
+      <extent>
+			<charseq START="2642" END="2656">St. Mary Parish</charseq>
+      </extent>
+      <head>
+			<charseq START="2646" END="2656">Mary Parish</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E38" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E38-1">
+      <extent>
+			<charseq START="2697" END="2706">some areas</charseq>
+      </extent>
+      <head>
+			<charseq START="2702" END="2706">areas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E39-1">
+      <extent>
+			<charseq START="2790" END="2813">Franklin police arrest 3</charseq>
+      </extent>
+      <head>
+			<charseq START="2790" END="2797">Franklin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="123.sgm-E40" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="123.sgm-E40-1">
+      <extent>
+			<charseq START="2790" END="2813">Franklin police arrest 3</charseq>
+      </extent>
+      <head>
+			<charseq START="2799" END="2804">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="123.sgm-R0" TYPE="PHYS">
+    <relation_argument REFID="123.sgm-E23" ROLE="Arg-1" />
+    <relation_argument REFID="123.sgm-E24" ROLE="Arg-2" />
+      <relation_mention ID="123.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="1567" END="1793">The urgent call went out across a police radio only minutes after gunfire erupted inside a Lafayette movie theater: The suspect was inside an auditorium and had reloaded his gun.Fri, 31 Jul 2015 18:03:09 +0000StMaryNow.com30132</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="123.sgm-E23-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1683" END="1693">The suspect</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="123.sgm-E24-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1706" END="1718">an auditorium</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="123.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="123.sgm-E33" ROLE="Arg-1" />
+    <relation_argument REFID="123.sgm-E34" ROLE="Arg-2" />
+      <relation_mention ID="123.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="2248" END="2501">A benefit car show and audio competition is set for Saturday in support of a local man injured in the Lafayette Grand Theatre shooting and another man with medical expenses.Fri, 31 Jul 2015 15:08:43 +0000Roger Stouff30119 at http://www.banner-tribune.com</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="123.sgm-E33-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2323" END="2333">a local man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="123.sgm-E34-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2346" END="2381">the Lafayette Grand Theatre shooting</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="123.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="123.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="264" END="419">Storms that came through St. Mary Parish Thursday evening caused hundreds of people to lose power due to trees falling on power lines and lightning strikes.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="412" END="418">strikes</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="123.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="123.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="621" END="872">BATON ROUGE (AP) ??? Sending ???revenge porn??? can land you behind bars, new housing protections are being extended to domestic violence victims and enforcement of sea turtle protection laws is tighteniFri, 31 Jul 2015 18:09:05 +0000StMaryNow.com30135</charseq>
+      </extent>
+      <anchor>
+			<charseq START="861" END="872">Now.com30135</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="123.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="123.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="1567" END="1793">The urgent call went out across a police radio only minutes after gunfire erupted inside a Lafayette movie theater: The suspect was inside an auditorium and had reloaded his gun.Fri, 31 Jul 2015 18:03:09 +0000StMaryNow.com30132</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1633" END="1639">gunfire</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="123.sgm-EV3" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="123.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="1828" END="1975">Open house for townhouse
+Woman faces cocaine charge
+Sheriff warns of telephone scam
+http://www.banner-tribune.com/local/sheriff-warns-telephone-scam</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1873" END="1878">charge</charseq>
+      </anchor>
+      <event_mention_argument REFID="123.sgm-E28-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1880" END="1886">Sheriff</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="123.sgm-EV4" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="123.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="2248" END="2501">A benefit car show and audio competition is set for Saturday in support of a local man injured in the Lafayette Grand Theatre shooting and another man with medical expenses.Fri, 31 Jul 2015 15:08:43 +0000Roger Stouff30119 at http://www.banner-tribune.com</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2335" END="2341">injured</charseq>
+      </anchor>
+      <event_mention_argument REFID="123.sgm-E33-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2323" END="2333">a local man</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="123.sgm-E34-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2346" END="2381">the Lafayette Grand Theatre shooting</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="123.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="123.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="2248" END="2501">A benefit car show and audio competition is set for Saturday in support of a local man injured in the Lafayette Grand Theatre shooting and another man with medical expenses.Fri, 31 Jul 2015 15:08:43 +0000Roger Stouff30119 at http://www.banner-tribune.com</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2374" END="2381">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="123.sgm-E34-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2346" END="2381">the Lafayette Grand Theatre shooting</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="123.sgm-E33-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2323" END="2333">a local man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="123.sgm-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="123.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="2608" END="2788">A storm system that moved through St. Mary Parish late Thursday evening wreaked havoc in some areas.Fri, 31 Jul 2015 15:08:16 +0000Roger Stouff30118 at http://www.banner-tribune.com</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2628" END="2632">moved</charseq>
+      </anchor>
+      <event_mention_argument REFID="123.sgm-E37-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2642" END="2656">St. Mary Parish</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="123.sgm-EV7" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="123.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="2790" END="2824">Franklin police arrest 3 in thefts
+</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2806" END="2811">arrest</charseq>
+      </anchor>
+      <event_mention_argument REFID="123.sgm-E39-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2790" END="2813">Franklin police arrest 3</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

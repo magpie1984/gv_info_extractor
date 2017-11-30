@@ -1,0 +1,1406 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/346.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/346.sgm">
+  <entity ID="346.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E0-1">
+      <extent>
+			<charseq START="168" END="173">TACOMA</charseq>
+      </extent>
+      <head>
+			<charseq START="168" END="173">TACOMA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E1-1">
+      <extent>
+			<charseq START="176" END="179">Wash</charseq>
+      </extent>
+      <head>
+			<charseq START="176" END="179">Wash</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E2-1">
+      <extent>
+			<charseq START="184" END="202">A 67-year-old woman</charseq>
+      </extent>
+      <head>
+			<charseq START="198" END="202">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E3-1">
+      <extent>
+			<charseq START="298" END="308">Donna Berto</charseq>
+      </extent>
+      <head>
+			<charseq START="298" END="308">Donna Berto</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E4-1">
+      <extent>
+			<charseq START="314" END="321">a friend</charseq>
+      </extent>
+      <head>
+			<charseq START="316" END="321">friend</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E5" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E5-1">
+      <extent>
+			<charseq START="343" END="368">the North Point Smoke Shop</charseq>
+      </extent>
+      <head>
+			<charseq START="347" END="368">North Point Smoke Shop</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E6-1">
+      <extent>
+			<charseq START="389" END="393">Berto</charseq>
+      </extent>
+      <head>
+			<charseq START="389" END="393">Berto</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E7-1">
+      <extent>
+			<charseq START="400" END="402">she</charseq>
+      </extent>
+      <head>
+			<charseq START="400" END="402">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E8-1">
+      <extent>
+			<charseq START="425" END="434">her friend</charseq>
+      </extent>
+      <head>
+			<charseq START="425" END="427">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E9-1">
+      <extent>
+			<charseq START="425" END="434">her friend</charseq>
+      </extent>
+      <head>
+			<charseq START="429" END="434">friend</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E10-1">
+      <extent>
+			<charseq START="453" END="455">she</charseq>
+      </extent>
+      <head>
+			<charseq START="453" END="455">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E11" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E11-1">
+      <extent>
+			<charseq START="476" END="482">the car</charseq>
+      </extent>
+      <head>
+			<charseq START="480" END="482">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E12-1">
+      <extent>
+			<charseq START="489" END="496">two dogs</charseq>
+      </extent>
+      <head>
+			<charseq START="493" END="496">dogs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E13-1">
+      <extent>
+			<charseq START="510" END="512">her</charseq>
+      </extent>
+      <head>
+			<charseq START="510" END="512">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E14-1">
+      <extent>
+			<charseq START="525" END="534">a sudden I</charseq>
+      </extent>
+      <head>
+			<charseq START="534" END="534">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E15-1">
+      <extent>
+			<charseq START="551" END="560">these dogs</charseq>
+      </extent>
+      <head>
+			<charseq START="557" END="560">dogs</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E16-1">
+      <extent>
+			<charseq START="578" END="579">me</charseq>
+      </extent>
+      <head>
+			<charseq START="578" END="579">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E17-1">
+      <extent>
+			<charseq START="586" END="589">they</charseq>
+      </extent>
+      <head>
+			<charseq START="586" END="589">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E18-1">
+      <extent>
+			<charseq START="602" END="603">me</charseq>
+      </extent>
+      <head>
+			<charseq START="602" END="603">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E19-1">
+      <extent>
+			<charseq START="614" END="615">me</charseq>
+      </extent>
+      <head>
+			<charseq START="614" END="615">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E20-1">
+      <extent>
+			<charseq START="633" END="637">Berto</charseq>
+      </extent>
+      <head>
+			<charseq START="633" END="637">Berto</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E21-1">
+      <extent>
+			<charseq START="646" END="650">Berto</charseq>
+      </extent>
+      <head>
+			<charseq START="646" END="650">Berto</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E22-1">
+      <extent>
+			<charseq START="657" END="659">she</charseq>
+      </extent>
+      <head>
+			<charseq START="657" END="659">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E23-1">
+      <extent>
+			<charseq START="687" END="690">them</charseq>
+      </extent>
+      <head>
+			<charseq START="687" END="690">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E24-1">
+      <extent>
+			<charseq START="693" END="701">Witnesses</charseq>
+      </extent>
+      <head>
+			<charseq START="693" END="701">Witnesses</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E25-1">
+      <extent>
+			<charseq START="826" END="826">I</charseq>
+      </extent>
+      <head>
+			<charseq START="826" END="826">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E26-1">
+      <extent>
+			<charseq START="848" END="848">I</charseq>
+      </extent>
+      <head>
+			<charseq START="848" END="848">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E27-1">
+      <extent>
+			<charseq START="901" END="905">Berto</charseq>
+      </extent>
+      <head>
+			<charseq START="901" END="905">Berto</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E28-1">
+      <extent>
+			<charseq START="914" END="914">I</charseq>
+      </extent>
+      <head>
+			<charseq START="914" END="914">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E29-1">
+      <extent>
+			<charseq START="942" END="943">me</charseq>
+      </extent>
+      <head>
+			<charseq START="942" END="943">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E30-1">
+      <extent>
+			<charseq START="1032" END="1042">Four people</charseq>
+      </extent>
+      <head>
+			<charseq START="1037" END="1042">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E31" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E31-1">
+      <extent>
+			<charseq START="1056" END="1069">a nearby store</charseq>
+      </extent>
+      <head>
+			<charseq START="1065" END="1069">store</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E32-1">
+      <extent>
+			<charseq START="1113" END="1117">Berto</charseq>
+      </extent>
+      <head>
+			<charseq START="1113" END="1117">Berto</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E33-1">
+      <extent>
+			<charseq START="1120" END="1129">one person</charseq>
+      </extent>
+      <head>
+			<charseq START="1124" END="1129">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E34-1">
+      <extent>
+			<charseq START="1184" END="1191">a person</charseq>
+      </extent>
+      <head>
+			<charseq START="1186" END="1191">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E35" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E35-1">
+      <extent>
+			<charseq START="1201" END="1205">a gun</charseq>
+      </extent>
+      <head>
+			<charseq START="1203" END="1205">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E36-1">
+      <extent>
+			<charseq START="1303" END="1307">All I</charseq>
+      </extent>
+      <head>
+			<charseq START="1307" END="1307">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E37" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E37-1">
+      <extent>
+			<charseq START="1326" END="1328">you</charseq>
+      </extent>
+      <head>
+			<charseq START="1326" END="1328">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E38-1">
+      <extent>
+			<charseq START="1363" END="1368">myself</charseq>
+      </extent>
+      <head>
+			<charseq START="1363" END="1368">myself</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E39-1">
+      <extent>
+			<charseq START="1372" END="1376">Berto</charseq>
+      </extent>
+      <head>
+			<charseq START="1372" END="1376">Berto</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E40" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E40-1">
+      <extent>
+			<charseq START="1399" END="1410">God somebody</charseq>
+      </extent>
+      <head>
+			<charseq START="1399" END="1401">God</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E41" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E41-1">
+      <extent>
+			<charseq START="1399" END="1410">God somebody</charseq>
+      </extent>
+      <head>
+			<charseq START="1403" END="1410">somebody</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E42-1">
+      <extent>
+			<charseq START="1455" END="1456">me</charseq>
+      </extent>
+      <head>
+			<charseq START="1455" END="1456">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E43" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E43-1">
+      <extent>
+			<charseq START="1465" END="1468">they</charseq>
+      </extent>
+      <head>
+			<charseq START="1465" END="1468">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E44" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E44-1">
+      <extent>
+			<charseq START="1493" END="1494">me</charseq>
+      </extent>
+      <head>
+			<charseq START="1493" END="1494">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E45" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E45-1">
+      <extent>
+			<charseq START="1497" END="1499">you</charseq>
+      </extent>
+      <head>
+			<charseq START="1497" END="1499">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E46" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E46-1">
+      <extent>
+			<charseq START="1509" END="1514">Medics</charseq>
+      </extent>
+      <head>
+			<charseq START="1509" END="1514">Medics</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E47" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E47-1">
+      <extent>
+			<charseq START="1528" END="1532">Berto</charseq>
+      </extent>
+      <head>
+			<charseq START="1528" END="1532">Berto</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E48" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E48-1">
+      <extent>
+			<charseq START="1537" END="1559">Tacoma General Hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="1552" END="1559">Hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E49" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E49-1">
+      <extent>
+			<charseq START="1562" END="1564">She</charseq>
+      </extent>
+      <head>
+			<charseq START="1562" END="1564">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E50" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E50-1">
+      <extent>
+			<charseq START="1592" END="1599">her face</charseq>
+      </extent>
+      <head>
+			<charseq START="1592" END="1594">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E51" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E51-1">
+      <extent>
+			<charseq START="1637" END="1641">Berto</charseq>
+      </extent>
+      <head>
+			<charseq START="1637" END="1641">Berto</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E52" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E52-1">
+      <extent>
+			<charseq START="1642" END="1661">&apos;s son Michael Stath</charseq>
+      </extent>
+      <head>
+			<charseq START="1645" END="1647">son</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E53" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E53-1">
+      <extent>
+			<charseq START="1642" END="1661">&apos;s son Michael Stath</charseq>
+      </extent>
+      <head>
+			<charseq START="1649" END="1661">Michael Stath</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E54" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E54-1">
+      <extent>
+			<charseq START="1699" END="1700">He</charseq>
+      </extent>
+      <head>
+			<charseq START="1699" END="1700">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E55" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E55-1">
+      <extent>
+			<charseq START="1713" END="1722">the owners</charseq>
+      </extent>
+      <head>
+			<charseq START="1717" END="1722">owners</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E56" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E56-1">
+      <extent>
+			<charseq START="1750" END="1756">Whoever</charseq>
+      </extent>
+      <head>
+			<charseq START="1750" END="1756">Whoever</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E57" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E57-1">
+      <extent>
+			<charseq START="1788" END="1793">people</charseq>
+      </extent>
+      <head>
+			<charseq START="1788" END="1793">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E58" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E58-1">
+      <extent>
+			<charseq START="1825" END="1833">the owner</charseq>
+      </extent>
+      <head>
+			<charseq START="1829" END="1833">owner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E59" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E59-1">
+      <extent>
+			<charseq START="1841" END="1845">Stath</charseq>
+      </extent>
+      <head>
+			<charseq START="1841" END="1845">Stath</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E60" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E60-1">
+      <extent>
+			<charseq START="1852" END="1860">KOMO News</charseq>
+      </extent>
+      <head>
+			<charseq START="1852" END="1860">KOMO News</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E61" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E61-1">
+      <extent>
+			<charseq START="1864" END="1868">Berto</charseq>
+      </extent>
+      <head>
+			<charseq START="1864" END="1868">Berto</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E62" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E62-1">
+      <extent>
+			<charseq START="1871" END="1873">who</charseq>
+      </extent>
+      <head>
+			<charseq START="1871" END="1873">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E63" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E63-1">
+      <extent>
+			<charseq START="1906" END="1913">her body</charseq>
+      </extent>
+      <head>
+			<charseq START="1906" END="1908">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E64" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E64-1">
+      <extent>
+			<charseq START="1906" END="1913">her body</charseq>
+      </extent>
+      <head>
+			<charseq START="1910" END="1913">body</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E65" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E65-1">
+      <extent>
+			<charseq START="1958" END="1958">I</charseq>
+      </extent>
+      <head>
+			<charseq START="1958" END="1958">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E66" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E66-1">
+      <extent>
+			<charseq START="2005" END="2005">I</charseq>
+      </extent>
+      <head>
+			<charseq START="2005" END="2005">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E67" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E67-1">
+      <extent>
+			<charseq START="2030" END="2032">you</charseq>
+      </extent>
+      <head>
+			<charseq START="2030" END="2032">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E68" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E68-1">
+      <extent>
+			<charseq START="2070" END="2072">you</charseq>
+      </extent>
+      <head>
+			<charseq START="2070" END="2072">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E69" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E69-1">
+      <extent>
+			<charseq START="2081" END="2083">she</charseq>
+      </extent>
+      <head>
+			<charseq START="2081" END="2083">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E70" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E70-1">
+      <extent>
+			<charseq START="2092" END="2101">What Berto</charseq>
+      </extent>
+      <head>
+			<charseq START="2097" END="2101">Berto</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E71" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E71-1">
+      <extent>
+			<charseq START="2124" END="2126">she</charseq>
+      </extent>
+      <head>
+			<charseq START="2124" END="2126">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E72" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E72-1">
+      <extent>
+			<charseq START="2169" END="2169">I</charseq>
+      </extent>
+      <head>
+			<charseq START="2169" END="2169">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E73" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E73-1">
+      <extent>
+			<charseq START="2186" END="2188">God</charseq>
+      </extent>
+      <head>
+			<charseq START="2186" END="2188">God</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E74" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E74-1">
+      <extent>
+			<charseq START="2199" END="2200">me</charseq>
+      </extent>
+      <head>
+			<charseq START="2199" END="2200">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E75" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E75-1">
+      <extent>
+			<charseq START="2224" END="2226">she</charseq>
+      </extent>
+      <head>
+			<charseq START="2224" END="2226">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E76" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E76-1">
+      <extent>
+			<charseq START="2235" END="2236">He</charseq>
+      </extent>
+      <head>
+			<charseq START="2235" END="2236">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E77" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E77-1">
+      <extent>
+			<charseq START="2250" END="2251">me</charseq>
+      </extent>
+      <head>
+			<charseq START="2250" END="2251">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E78" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E78-1">
+      <extent>
+			<charseq START="2261" END="2266">myself</charseq>
+      </extent>
+      <head>
+			<charseq START="2261" END="2266">myself</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E79" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E79-1">
+      <extent>
+			<charseq START="2271" END="2292">Puyallup Tribal Police</charseq>
+      </extent>
+      <head>
+			<charseq START="2287" END="2292">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E80" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E80-1">
+      <extent>
+			<charseq START="2299" END="2312">KOMO News they</charseq>
+      </extent>
+      <head>
+			<charseq START="2299" END="2312">KOMO News they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E81" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E81-1">
+      <extent>
+			<charseq START="2361" END="2366">people</charseq>
+      </extent>
+      <head>
+			<charseq START="2361" END="2366">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E82" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E82-1">
+      <extent>
+			<charseq START="2371" END="2386">the neighborhood</charseq>
+      </extent>
+      <head>
+			<charseq START="2375" END="2386">neighborhood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E83" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E83-1">
+      <extent>
+			<charseq START="2417" END="2426">the owners</charseq>
+      </extent>
+      <head>
+			<charseq START="2421" END="2426">owners</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E84" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E84-1">
+      <extent>
+			<charseq START="2483" END="2492">John Wimer</charseq>
+      </extent>
+      <head>
+			<charseq START="2483" END="2492">John Wimer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E85" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E85-1">
+      <extent>
+			<charseq START="2499" END="2520">Puyallup Tribal Police</charseq>
+      </extent>
+      <head>
+			<charseq START="2499" END="2506">Puyallup</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E86" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E86-1">
+      <extent>
+			<charseq START="2499" END="2520">Puyallup Tribal Police</charseq>
+      </extent>
+      <head>
+			<charseq START="2515" END="2520">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E87" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E87-1">
+      <extent>
+			<charseq START="2529" END="2534">Anyone</charseq>
+      </extent>
+      <head>
+			<charseq START="2529" END="2534">Anyone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="346.sgm-E88" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="346.sgm-E88-1">
+      <extent>
+			<charseq START="2570" END="2575">police</charseq>
+      </extent>
+      <head>
+			<charseq START="2570" END="2575">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="346.sgm-R0" TYPE="PART-WHOLE">
+    <relation_argument REFID="346.sgm-E0" ROLE="Arg-1" />
+    <relation_argument REFID="346.sgm-E1" ROLE="Arg-2" />
+      <relation_mention ID="346.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="168" END="295">TACOMA, Wash. - A 67-year-old woman suffered severe injuries after being attacked by two dogs in a parking lot Friday afternoon.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="346.sgm-E0-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="168" END="173">TACOMA</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="346.sgm-E1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="176" END="179">Wash</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="346.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="346.sgm-E4" ROLE="Arg-1" />
+    <relation_argument REFID="346.sgm-E5" ROLE="Arg-2" />
+      <relation_mention ID="346.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="298" END="387">Donna Berto and a friend had just arrived at the North Point Smoke Shop on 29th Street NE.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="346.sgm-E4-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="314" END="321">a friend</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="346.sgm-E5-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="343" END="368">the North Point Smoke Shop</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="346.sgm-R2" TYPE="PHYS">
+    <relation_argument REFID="346.sgm-E3" ROLE="Arg-1" />
+    <relation_argument REFID="346.sgm-E5" ROLE="Arg-2" />
+      <relation_mention ID="346.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="298" END="387">Donna Berto and a friend had just arrived at the North Point Smoke Shop on 29th Street NE.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="346.sgm-E3-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="298" END="308">Donna Berto</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="346.sgm-E5-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="343" END="368">the North Point Smoke Shop</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="346.sgm-R3" TYPE="PER-SOC">
+    <relation_argument REFID="346.sgm-E8" ROLE="Arg-1" />
+    <relation_argument REFID="346.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="346.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="389" END="513">Berto says she wanted a Coke, so as her friend entered to shop, she was getting out of the car when two dogs ran towards her.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="346.sgm-E8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="425" END="434">her friend</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="346.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="425" END="434">her friend</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="346.sgm-R4" TYPE="PHYS">
+    <relation_argument REFID="346.sgm-E30" ROLE="Arg-1" />
+    <relation_argument REFID="346.sgm-E31" ROLE="Arg-2" />
+      <relation_mention ID="346.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="1032" END="1143">Four people from inside a nearby store ran out to try and help pull the dogs off Berto; one person also was bit.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="346.sgm-E30-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1032" END="1042">Four people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="346.sgm-E31-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1056" END="1069">a nearby store</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="346.sgm-R5" TYPE="PHYS">
+    <relation_argument REFID="346.sgm-E47" ROLE="Arg-1" />
+    <relation_argument REFID="346.sgm-E48" ROLE="Arg-2" />
+      <relation_mention ID="346.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="1509" END="1560">Medics transported Berto to Tacoma General Hospital.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="346.sgm-E47-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1528" END="1532">Berto</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="346.sgm-E48-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1537" END="1559">Tacoma General Hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="346.sgm-R6" TYPE="PER-SOC">
+    <relation_argument REFID="346.sgm-E51" ROLE="Arg-1" />
+    <relation_argument REFID="346.sgm-E52" ROLE="Arg-2" />
+      <relation_mention ID="346.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="1637" END="1697">Berto&apos;s son Michael Stath wants the dogs found, and put down.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="346.sgm-E51-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1637" END="1641">Berto</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="346.sgm-E52-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1642" END="1661">&apos;s son Michael Stath</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="346.sgm-R7" TYPE="PHYS">
+    <relation_argument REFID="346.sgm-E81" ROLE="Arg-1" />
+    <relation_argument REFID="346.sgm-E82" ROLE="Arg-2" />
+      <relation_mention ID="346.sgm-R7-1">
+      <ldc_extent>
+			<charseq START="2271" END="2387">Puyallup Tribal Police told KOMO News they are looking for the dogs, and have interviewed people in the neighborhood.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="346.sgm-E81-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2361" END="2366">people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="346.sgm-E82-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2371" END="2386">the neighborhood</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="346.sgm-EV0" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="346.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="168" END="295">TACOMA, Wash. - A 67-year-old woman suffered severe injuries after being attacked by two dogs in a parking lot Friday afternoon.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="220" END="227">injuries</charseq>
+      </anchor>
+      <event_mention_argument REFID="346.sgm-E2-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="184" END="202">A 67-year-old woman</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="346.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="346.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="168" END="295">TACOMA, Wash. - A 67-year-old woman suffered severe injuries after being attacked by two dogs in a parking lot Friday afternoon.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="241" END="248">attacked</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="346.sgm-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="346.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="298" END="387">Donna Berto and a friend had just arrived at the North Point Smoke Shop on 29th Street NE.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="332" END="338">arrived</charseq>
+      </anchor>
+      <event_mention_argument REFID="346.sgm-E4-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="314" END="321">a friend</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="346.sgm-E3-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="298" END="308">Donna Berto</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="346.sgm-E5-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="343" END="368">the North Point Smoke Shop</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="346.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="346.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="693" END="790">Witnesses report seeing the two dogs being shooed away from the bar next door prior to the attack.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="784" END="789">attack</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="346.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="346.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="948" END="1030">Parking lot surveillance cameras captured images of the animals, and of the attack.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1024" END="1029">attack</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="346.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="346.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="1145" END="1248">The attack finally came to an end when a person grabbed a gun and starting firing to scare off the dogs.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1149" END="1154">attack</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="346.sgm-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="346.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="1145" END="1248">The attack finally came to an end when a person grabbed a gun and starting firing to scare off the dogs.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1220" END="1225">firing</charseq>
+      </anchor>
+      <event_mention_argument REFID="346.sgm-E35-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1201" END="1205">a gun</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="346.sgm-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="346.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="1384" END="1506">&quot;And hoping to God somebody was gonna pull one of these animals off of me before they just totally destroyed me, you know.&quot;</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1483" END="1491">destroyed</charseq>
+      </anchor>
+      <event_mention_argument REFID="346.sgm-E43-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1465" END="1468">they</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="346.sgm-E44-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1493" END="1494">me</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="346.sgm-EV8" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="346.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="1509" END="1560">Medics transported Berto to Tacoma General Hospital.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1516" END="1526">transported</charseq>
+      </anchor>
+      <event_mention_argument REFID="346.sgm-E47-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1528" END="1532">Berto</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="346.sgm-E48-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1537" END="1559">Tacoma General Hospital</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="346.sgm-EV9" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="346.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="1562" END="1634">She suffered severe wounds to her face, back of the head, arms, and legs.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1582" END="1587">wounds</charseq>
+      </anchor>
+      <event_mention_argument REFID="346.sgm-E49-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1562" END="1564">She</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="346.sgm-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="346.sgm-EV10-1" p="1.000">
+      <extent>
+			<charseq START="1749" END="1861">&quot;Whoever&apos;s got two pit bulls attacking people, something needs to happen to the owner too,&quot; Stath told KOMO News.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1778" END="1786">attacking</charseq>
+      </anchor>
+      <event_mention_argument REFID="346.sgm-E57-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1788" END="1793">people</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="346.sgm-EV11" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="346.sgm-EV11-1" p="1.000">
+      <extent>
+			<charseq START="2389" END="2526">While it is unclear whether the owners will face charges, the dogs would have to be put down, John Wimer with Puyallup Tribal Police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2438" END="2444">charges</charseq>
+      </anchor>
+      <event_mention_argument REFID="346.sgm-E83-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2417" END="2426">the owners</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

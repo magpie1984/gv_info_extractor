@@ -1,0 +1,497 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/273.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/273.sgm">
+  <entity ID="273.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E0-1">
+      <extent>
+			<charseq START="98" END="127">Eight law enforcement officers</charseq>
+      </extent>
+      <head>
+			<charseq START="120" END="127">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E1-1">
+      <extent>
+			<charseq START="184" END="200">a 45-year-old man</charseq>
+      </extent>
+      <head>
+			<charseq START="198" END="200">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E2" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E2-1">
+      <extent>
+			<charseq START="212" END="222">a car chase</charseq>
+      </extent>
+      <head>
+			<charseq START="214" END="216">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E3" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E3-1">
+      <extent>
+			<charseq START="275" END="293">Woodlawn Ranch Road</charseq>
+      </extent>
+      <head>
+			<charseq START="290" END="293">Road</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E4" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E4-1">
+      <extent>
+			<charseq START="300" END="309">Highway 56</charseq>
+      </extent>
+      <head>
+			<charseq START="300" END="306">Highway</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E5-1">
+      <extent>
+			<charseq START="312" END="333">Louisiana State Police</charseq>
+      </extent>
+      <head>
+			<charseq START="312" END="333">Louisiana State Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E6-1">
+      <extent>
+			<charseq START="339" END="352">a Jean Falgout</charseq>
+      </extent>
+      <head>
+			<charseq START="341" END="352">Jean Falgout</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E7-1">
+      <extent>
+			<charseq START="355" END="369">a theft suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="363" END="369">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E8-1">
+      <extent>
+			<charseq START="376" END="383">troopers</charseq>
+      </extent>
+      <head>
+			<charseq START="376" END="383">troopers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E9-1">
+      <extent>
+			<charseq START="386" END="397">Houma Police</charseq>
+      </extent>
+      <head>
+			<charseq START="386" END="397">Houma Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E10" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E10-1">
+      <extent>
+			<charseq START="403" END="427">Terrebonne Parish Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="403" END="419">Terrebonne Parish</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E11-1">
+      <extent>
+			<charseq START="403" END="427">Terrebonne Parish Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="421" END="427">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E12-1">
+      <extent>
+			<charseq START="428" END="438">&apos;s deputies</charseq>
+      </extent>
+      <head>
+			<charseq START="431" END="438">deputies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E13" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E13-1">
+      <extent>
+			<charseq START="459" END="483">a busy Houma neighborhood</charseq>
+      </extent>
+      <head>
+			<charseq START="466" END="470">Houma</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E14" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E14-1">
+      <extent>
+			<charseq START="459" END="483">a busy Houma neighborhood</charseq>
+      </extent>
+      <head>
+			<charseq START="472" END="483">neighborhood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E15-1">
+      <extent>
+			<charseq START="486" END="493">Officers</charseq>
+      </extent>
+      <head>
+			<charseq START="486" END="493">Officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E16-1">
+      <extent>
+			<charseq START="539" END="549">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="543" END="549">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E17" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E17-1">
+      <extent>
+			<charseq START="550" END="555">&apos;s car</charseq>
+      </extent>
+      <head>
+			<charseq START="553" END="555">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E18-1">
+      <extent>
+			<charseq START="558" END="565">Officers</charseq>
+      </extent>
+      <head>
+			<charseq START="558" END="565">Officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E19-1">
+      <extent>
+			<charseq START="571" END="577">Falgout</charseq>
+      </extent>
+      <head>
+			<charseq START="571" END="577">Falgout</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E20-1">
+      <extent>
+			<charseq START="595" END="605">his vehicle</charseq>
+      </extent>
+      <head>
+			<charseq START="595" END="597">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E21" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E21-1">
+      <extent>
+			<charseq START="595" END="605">his vehicle</charseq>
+      </extent>
+      <head>
+			<charseq START="599" END="605">vehicle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E22" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E22-1">
+      <extent>
+			<charseq START="619" END="623">a gun</charseq>
+      </extent>
+      <head>
+			<charseq START="621" END="623">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E23" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E23-1">
+      <extent>
+			<charseq START="628" END="631">them</charseq>
+      </extent>
+      <head>
+			<charseq START="628" END="631">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E24-1">
+      <extent>
+			<charseq START="634" END="652">Officers open fired</charseq>
+      </extent>
+      <head>
+			<charseq START="634" END="641">Officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E25-1">
+      <extent>
+			<charseq START="663" END="673">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="667" END="673">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E26" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E26-1">
+      <extent>
+			<charseq START="676" END="713">A Louisiana State Police investigation</charseq>
+      </extent>
+      <head>
+			<charseq START="678" END="699">Louisiana State Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E27-1">
+      <extent>
+			<charseq START="724" END="730">Falgout</charseq>
+      </extent>
+      <head>
+			<charseq START="724" END="730">Falgout</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E28" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E28-1">
+      <extent>
+			<charseq START="745" END="752">a BB gun</charseq>
+      </extent>
+      <head>
+			<charseq START="750" END="752">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="273.sgm-E29" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="273.sgm-E29-1">
+      <extent>
+			<charseq START="754" END="757">that</charseq>
+      </extent>
+      <head>
+			<charseq START="754" END="757">that</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="273.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="273.sgm-E11" ROLE="Arg-1" />
+    <relation_argument REFID="273.sgm-E10" ROLE="Arg-2" />
+      <relation_mention ID="273.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="312" END="484">Louisiana State Police say a Jean Falgout, a theft suspect, led troopers, Houma Police and Terrebonne Parish Sheriff&apos;s deputies on a chase through a busy Houma neighborhood.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="273.sgm-E11-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="403" END="427">Terrebonne Parish Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="273.sgm-E10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="403" END="427">Terrebonne Parish Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="273.sgm-R1" TYPE="PER-SOC">
+    <relation_argument REFID="273.sgm-E11" ROLE="Arg-1" />
+    <relation_argument REFID="273.sgm-E12" ROLE="Arg-2" />
+      <relation_mention ID="273.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="312" END="484">Louisiana State Police say a Jean Falgout, a theft suspect, led troopers, Houma Police and Terrebonne Parish Sheriff&apos;s deputies on a chase through a busy Houma neighborhood.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="273.sgm-E11-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="403" END="427">Terrebonne Parish Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="273.sgm-E12-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="428" END="438">&apos;s deputies</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="273.sgm-R2" TYPE="ART">
+    <relation_argument REFID="273.sgm-E16" ROLE="Arg-1" />
+    <relation_argument REFID="273.sgm-E17" ROLE="Arg-2" />
+      <relation_mention ID="273.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="486" END="556">Officers put out a spike strip and were able to stop the suspect&apos;s car.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="273.sgm-E16-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="539" END="549">the suspect</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="273.sgm-E17-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="550" END="555">&apos;s car</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="273.sgm-R3" TYPE="ART">
+    <relation_argument REFID="273.sgm-E20" ROLE="Arg-1" />
+    <relation_argument REFID="273.sgm-E21" ROLE="Arg-2" />
+      <relation_mention ID="273.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="558" END="632">Officers say Falgout then got out of his vehicle and pointed a gun at them.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="273.sgm-E20-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="595" END="605">his vehicle</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="273.sgm-E21-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="595" END="605">his vehicle</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="273.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="273.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="98" END="233">Eight law enforcement officers have been placed on administrative leave after killing a 45-year-old man following a car chase on Monday.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="176" END="182">killing</charseq>
+      </anchor>
+      <event_mention_argument REFID="273.sgm-E1-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="184" END="200">a 45-year-old man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="273.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="273.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="235" END="310">The shooting happened Monday evening on Woodlawn Ranch Road near Highway 56.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="239" END="246">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="273.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="273.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="634" END="674">Officers open fired, killing the suspect.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="648" END="652">fired</charseq>
+      </anchor>
+      <event_mention_argument REFID="273.sgm-E24-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="634" END="652">Officers open fired</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="273.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="273.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="634" END="674">Officers open fired, killing the suspect.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="655" END="661">killing</charseq>
+      </anchor>
+      <event_mention_argument REFID="273.sgm-E25-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="663" END="673">the suspect</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

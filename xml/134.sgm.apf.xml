@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/134.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/134.sgm">
+  <entity ID="134.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E0-1">
+      <extent>
+			<charseq START="96" END="110">NORTH ARLINGTON</charseq>
+      </extent>
+      <head>
+			<charseq START="96" END="110">NORTH ARLINGTON</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E1-1">
+      <extent>
+			<charseq START="118" END="122">A man</charseq>
+      </extent>
+      <head>
+			<charseq START="120" END="122">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E2" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E2-1">
+      <extent>
+			<charseq START="173" END="205">the??Riverview Gardens apartments</charseq>
+      </extent>
+      <head>
+			<charseq START="188" END="194">Gardens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E3" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E3-1">
+      <extent>
+			<charseq START="173" END="205">the??Riverview Gardens apartments</charseq>
+      </extent>
+      <head>
+			<charseq START="196" END="205">apartments</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E4-1">
+      <extent>
+			<charseq START="217" END="226">Ridge Road</charseq>
+      </extent>
+      <head>
+			<charseq START="217" END="226">Ridge Road</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E5-1">
+      <extent>
+			<charseq START="237" END="255">Belleville Turnpike</charseq>
+      </extent>
+      <head>
+			<charseq START="237" END="255">Belleville Turnpike</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E6" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E6-1">
+      <extent>
+			<charseq START="266" END="308">North Arlington Chief of Police??John Hearn</charseq>
+      </extent>
+      <head>
+			<charseq START="266" END="308">North Arlington Chief of Police??John Hearn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E7-1">
+      <extent>
+			<charseq START="369" END="373">Hearn</charseq>
+      </extent>
+      <head>
+			<charseq START="369" END="373">Hearn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E8" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E8-1">
+      <extent>
+			<charseq START="380" END="387">the NAPD</charseq>
+      </extent>
+      <head>
+			<charseq START="384" END="387">NAPD</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E9-1">
+      <extent>
+			<charseq START="419" END="424">police</charseq>
+      </extent>
+      <head>
+			<charseq START="419" END="424">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E10-1">
+      <extent>
+			<charseq START="436" END="439">they</charseq>
+      </extent>
+      <head>
+			<charseq START="436" END="439">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E11-1">
+      <extent>
+			<charseq START="446" END="449">they</charseq>
+      </extent>
+      <head>
+			<charseq START="446" END="449">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E12-1">
+      <extent>
+			<charseq START="456" END="464">??the man</charseq>
+      </extent>
+      <head>
+			<charseq START="462" END="464">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E13" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E13-1">
+      <extent>
+			<charseq START="473" END="484">an apartment</charseq>
+      </extent>
+      <head>
+			<charseq START="476" END="484">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E14-1">
+      <extent>
+			<charseq START="522" END="526">Hearn</charseq>
+      </extent>
+      <head>
+			<charseq START="522" END="526">Hearn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E15-1">
+      <extent>
+			<charseq START="629" END="636">Officers</charseq>
+      </extent>
+      <head>
+			<charseq START="629" END="636">Officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E16-1">
+      <extent>
+			<charseq START="638" END="642">?also</charseq>
+      </extent>
+      <head>
+			<charseq START="638" END="642">?also</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E17" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E17-1">
+      <extent>
+			<charseq START="650" END="662">a 9mm handgun</charseq>
+      </extent>
+      <head>
+			<charseq START="656" END="662">handgun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E18-1">
+      <extent>
+			<charseq START="670" END="679">the victim</charseq>
+      </extent>
+      <head>
+			<charseq START="674" END="679">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E19-1">
+      <extent>
+			<charseq START="682" END="686">Hearn</charseq>
+      </extent>
+      <head>
+			<charseq START="682" END="686">Hearn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E20-1">
+      <extent>
+			<charseq START="724" END="733">The victim</charseq>
+      </extent>
+      <head>
+			<charseq START="728" END="733">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E21-1">
+      <extent>
+			<charseq START="736" END="745">whose name</charseq>
+      </extent>
+      <head>
+			<charseq START="736" END="740">whose</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E22-1">
+      <extent>
+			<charseq START="786" END="809">??to University Hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="791" END="809">University Hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E23-1">
+      <extent>
+			<charseq START="811" END="818">??Newark</charseq>
+      </extent>
+      <head>
+			<charseq START="811" END="818">??Newark</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E24-1">
+      <extent>
+			<charseq START="827" END="828">he</charseq>
+      </extent>
+      <head>
+			<charseq START="827" END="828">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E25-1">
+      <extent>
+			<charseq START="884" END="888">Hearn</charseq>
+      </extent>
+      <head>
+			<charseq START="884" END="888">Hearn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="134.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="134.sgm-E26-1">
+      <extent>
+			<charseq START="925" END="931">??Hearn</charseq>
+      </extent>
+      <head>
+			<charseq START="927" END="931">Hearn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="134.sgm-R0" TYPE="PHYS">
+    <relation_argument REFID="134.sgm-E12" ROLE="Arg-1" />
+    <relation_argument REFID="134.sgm-E13" ROLE="Arg-2" />
+      <relation_mention ID="134.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="414" END="520">When police??arrived, they said they found??the man inside an apartment??with a gunshot wound to the??head.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="134.sgm-E12-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="456" END="464">??the man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="134.sgm-E13-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="473" END="484">an apartment</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="134.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="134.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="118" END="333">A man has died from a self-inflicted??gunshot wound at the??Riverview Gardens apartments??just off Ridge Road and??the Belleville Turnpike, acting??North Arlington Chief of Police??John Hearn said in a news??release.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="128" END="131">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="134.sgm-E1-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="118" END="122">A man</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="134.sgm-E3-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="173" END="205">the??Riverview Gardens apartments</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="134.sgm-EV1" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="134.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="335" END="412">At 11:46 p.m., Thursday, July??9, Hearn said the NAPD got a??shots-fired call.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="408" END="411">call</charseq>
+      </anchor>
+      <event_mention_argument REFID="134.sgm-E8-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="380" END="387">the NAPD</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="134.sgm-EV2" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="134.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="414" END="520">When police??arrived, they said they found??the man inside an apartment??with a gunshot wound to the??head.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="502" END="506">wound</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="134.sgm-EV3" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="134.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="522" END="627">Hearn said the wound appeared??to be self-inflicted and??that there was apparently no??foul play involved.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="537" END="541">wound</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="134.sgm-EV4" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="134.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="694" END="722">There were no other injuries.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="714" END="721">injuries</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="134.sgm-EV5" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="134.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="724" END="894">The victim, whose name has??not been released, was transported??to University Hospital,??Newark, where he was pronounced??dead at 12:36 a.m.,??Friday, July 10, Hearn said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="834" END="843">pronounced</charseq>
+      </anchor>
+      <event_mention_argument REFID="134.sgm-E24-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="827" END="828">he</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

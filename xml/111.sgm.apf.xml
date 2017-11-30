@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/111.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/111.sgm">
+  <entity ID="111.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="111.sgm-E0-1">
+      <extent>
+			<charseq START="179" END="184">Alaska</charseq>
+      </extent>
+      <head>
+			<charseq START="179" END="184">Alaska</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="111.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="111.sgm-E1-1">
+      <extent>
+			<charseq START="286" END="291">Alaska</charseq>
+      </extent>
+      <head>
+			<charseq START="286" END="291">Alaska</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="111.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="111.sgm-E2-1">
+      <extent>
+			<charseq START="357" END="358">We</charseq>
+      </extent>
+      <head>
+			<charseq START="357" END="358">We</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="111.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="111.sgm-E3-1">
+      <extent>
+			<charseq START="373" END="401">a role&apos;
+Wildfire smoke forces</charseq>
+      </extent>
+      <head>
+			<charseq START="396" END="401">forces</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="111.sgm-E4" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="111.sgm-E4-1">
+      <extent>
+			<charseq START="403" END="415">Wasilla pilot</charseq>
+      </extent>
+      <head>
+			<charseq START="403" END="409">Wasilla</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="111.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="111.sgm-E5-1">
+      <extent>
+			<charseq START="403" END="415">Wasilla pilot</charseq>
+      </extent>
+      <head>
+			<charseq START="411" END="415">pilot</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="111.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="111.sgm-E6-1">
+      <extent>
+			<charseq START="446" END="473">Dalton Highway							
+Family</charseq>
+      </extent>
+      <head>
+			<charseq START="446" END="473">Dalton Highway							
+Family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="111.sgm-E7" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="111.sgm-E7-1">
+      <extent>
+			<charseq START="491" END="541">East Anchorage trailer fire							
+Kodiak community</charseq>
+      </extent>
+      <head>
+			<charseq START="526" END="531">Kodiak</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="111.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="111.sgm-E8-1">
+      <extent>
+			<charseq START="491" END="541">East Anchorage trailer fire							
+Kodiak community</charseq>
+      </extent>
+      <head>
+			<charseq START="533" END="541">community</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="111.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="111.sgm-E9-1">
+      <extent>
+			<charseq START="591" END="593">Man</charseq>
+      </extent>
+      <head>
+			<charseq START="591" END="593">Man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="111.sgm-E10" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="111.sgm-E10-1">
+      <extent>
+			<charseq START="605" END="624">Seward Highway crash</charseq>
+      </extent>
+      <head>
+			<charseq START="605" END="618">Seward Highway</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="111.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="111.sgm-E11-1">
+      <extent>
+			<charseq START="687" END="701">Anchorage woman</charseq>
+      </extent>
+      <head>
+			<charseq START="697" END="701">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="111.sgm-E12" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="111.sgm-E12-1">
+      <extent>
+			<charseq START="721" END="757">KTVA CBS 11 News							
+Appeals court</charseq>
+      </extent>
+      <head>
+			<charseq START="753" END="757">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="111.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="111.sgm-E13-1">
+      <extent>
+			<charseq START="781" END="785">woman</charseq>
+      </extent>
+      <head>
+			<charseq START="781" END="785">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="111.sgm-E14" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="111.sgm-E14-1">
+      <extent>
+			<charseq START="790" END="817">hot sauce case							
+UPDATE</charseq>
+      </extent>
+      <head>
+			<charseq START="812" END="817">UPDATE</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="111.sgm-E15" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="111.sgm-E15-1">
+      <extent>
+			<charseq START="839" END="858">Alpenglow Elementary</charseq>
+      </extent>
+      <head>
+			<charseq START="839" END="858">Alpenglow Elementary</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="111.sgm-R0" TYPE="GEN-AFF">
+    <relation_argument REFID="111.sgm-E5" ROLE="Arg-1" />
+    <relation_argument REFID="111.sgm-E4" ROLE="Arg-2" />
+      <relation_mention ID="111.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="257" END="880">Web Extra: An inside look at Alaska&apos;s renewable island
+2nd annual &apos;Stop the Violence&apos; block party: &apos;We all can play a role&apos;
+Wildfire smoke forces Wasilla pilot to make emergency landing on Dalton Highway							
+Family displaced after East Anchorage trailer fire							
+Kodiak community digs deeper into Alutiiq history							
+UPDATE: Man killed in Seward Highway crash identified							
+by KTVA CBS 11 News							
+UPDATE: Missing Anchorage woman located							
+by KTVA CBS 11 News							
+Appeals court affirms conviction of woman in hot sauce case							
+UPDATE: Playground fire at Alpenglow Elementary considered suspicious</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="111.sgm-E5-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="403" END="415">Wasilla pilot</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="111.sgm-E4-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="403" END="415">Wasilla pilot</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="111.sgm-R1" TYPE="ORG-AFF">
+    <relation_argument REFID="111.sgm-E5" ROLE="Arg-1" />
+    <relation_argument REFID="111.sgm-E14" ROLE="Arg-2" />
+      <relation_mention ID="111.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="257" END="880">Web Extra: An inside look at Alaska&apos;s renewable island
+2nd annual &apos;Stop the Violence&apos; block party: &apos;We all can play a role&apos;
+Wildfire smoke forces Wasilla pilot to make emergency landing on Dalton Highway							
+Family displaced after East Anchorage trailer fire							
+Kodiak community digs deeper into Alutiiq history							
+UPDATE: Man killed in Seward Highway crash identified							
+by KTVA CBS 11 News							
+UPDATE: Missing Anchorage woman located							
+by KTVA CBS 11 News							
+Appeals court affirms conviction of woman in hot sauce case							
+UPDATE: Playground fire at Alpenglow Elementary considered suspicious</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="111.sgm-E5-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="403" END="415">Wasilla pilot</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="111.sgm-E14-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="790" END="817">hot sauce case							
+UPDATE</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="111.sgm-EV0" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="111.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="257" END="881">Web Extra: An inside look at Alaska&apos;s renewable island
+2nd annual &apos;Stop the Violence&apos; block party: &apos;We all can play a role&apos;
+Wildfire smoke forces Wasilla pilot to make emergency landing on Dalton Highway							
+Family displaced after East Anchorage trailer fire							
+Kodiak community digs deeper into Alutiiq history							
+UPDATE: Man killed in Seward Highway crash identified							
+by KTVA CBS 11 News							
+UPDATE: Missing Anchorage woman located							
+by KTVA CBS 11 News							
+Appeals court affirms conviction of woman in hot sauce case							
+UPDATE: Playground fire at Alpenglow Elementary considered suspicious
+</charseq>
+      </extent>
+      <anchor>
+			<charseq START="475" END="483">displaced</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="111.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="111.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="257" END="881">Web Extra: An inside look at Alaska&apos;s renewable island
+2nd annual &apos;Stop the Violence&apos; block party: &apos;We all can play a role&apos;
+Wildfire smoke forces Wasilla pilot to make emergency landing on Dalton Highway							
+Family displaced after East Anchorage trailer fire							
+Kodiak community digs deeper into Alutiiq history							
+UPDATE: Man killed in Seward Highway crash identified							
+by KTVA CBS 11 News							
+UPDATE: Missing Anchorage woman located							
+by KTVA CBS 11 News							
+Appeals court affirms conviction of woman in hot sauce case							
+UPDATE: Playground fire at Alpenglow Elementary considered suspicious
+</charseq>
+      </extent>
+      <anchor>
+			<charseq START="595" END="600">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="111.sgm-E9-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="591" END="593">Man</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="111.sgm-E3-1" ROLE="Agent" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="373" END="401">a role&apos;
+Wildfire smoke forces</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="111.sgm-E2-1" ROLE="Agent" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="357" END="358">We</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="111.sgm-E10-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="605" END="624">Seward Highway crash</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="111.sgm-EV2" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="111.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="257" END="881">Web Extra: An inside look at Alaska&apos;s renewable island
+2nd annual &apos;Stop the Violence&apos; block party: &apos;We all can play a role&apos;
+Wildfire smoke forces Wasilla pilot to make emergency landing on Dalton Highway							
+Family displaced after East Anchorage trailer fire							
+Kodiak community digs deeper into Alutiiq history							
+UPDATE: Man killed in Seward Highway crash identified							
+by KTVA CBS 11 News							
+UPDATE: Missing Anchorage woman located							
+by KTVA CBS 11 News							
+Appeals court affirms conviction of woman in hot sauce case							
+UPDATE: Playground fire at Alpenglow Elementary considered suspicious
+</charseq>
+      </extent>
+      <anchor>
+			<charseq START="767" END="776">conviction</charseq>
+      </anchor>
+      <event_mention_argument REFID="111.sgm-E12-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="721" END="757">KTVA CBS 11 News							
+Appeals court</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="111.sgm-E11-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="687" END="701">Anchorage woman</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="111.sgm-E8-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="491" END="541">East Anchorage trailer fire							
+Kodiak community</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

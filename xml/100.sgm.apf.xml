@@ -1,0 +1,776 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/100.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/100.sgm">
+  <entity ID="100.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E0-1">
+      <extent>
+			<charseq START="84" END="89">MONROE</charseq>
+      </extent>
+      <head>
+			<charseq START="84" END="89">MONROE</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E1-1">
+      <extent>
+			<charseq START="92" END="93">La</charseq>
+      </extent>
+      <head>
+			<charseq START="92" END="93">La</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E2-1">
+      <extent>
+			<charseq START="128" END="129">we</charseq>
+      </extent>
+      <head>
+			<charseq START="128" END="129">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E3-1">
+      <extent>
+			<charseq START="179" END="182">They</charseq>
+      </extent>
+      <head>
+			<charseq START="179" END="182">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E4-1">
+      <extent>
+			<charseq START="238" END="241">They</charseq>
+      </extent>
+      <head>
+			<charseq START="238" END="241">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E5" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E5-1">
+      <extent>
+			<charseq START="268" END="277">the nation</charseq>
+      </extent>
+      <head>
+			<charseq START="272" END="277">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E6-1">
+      <extent>
+			<charseq START="280" END="290">Nine people</charseq>
+      </extent>
+      <head>
+			<charseq START="285" END="290">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E7" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E7-1">
+      <extent>
+			<charseq START="305" END="326">an East Brooklyn party</charseq>
+      </extent>
+      <head>
+			<charseq START="308" END="320">East Brooklyn</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E8-1">
+      <extent>
+			<charseq START="350" END="360">Four others</charseq>
+      </extent>
+      <head>
+			<charseq START="355" END="360">others</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E9" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E9-1">
+      <extent>
+			<charseq START="447" END="454">Savannah</charseq>
+      </extent>
+      <head>
+			<charseq START="447" END="454">Savannah</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E10" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E10-1">
+      <extent>
+			<charseq START="457" END="463">Georgia</charseq>
+      </extent>
+      <head>
+			<charseq START="457" END="463">Georgia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E11-1">
+      <extent>
+			<charseq START="466" END="480">five bystanders</charseq>
+      </extent>
+      <head>
+			<charseq START="471" END="480">bystanders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E12" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E12-1">
+      <extent>
+			<charseq START="563" END="579">the downtown area</charseq>
+      </extent>
+      <head>
+			<charseq START="576" END="579">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E13-1">
+      <extent>
+			<charseq START="582" END="587">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="582" END="587">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E14-1">
+      <extent>
+			<charseq START="593" END="608">the two suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="601" END="608">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E15" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E15-1">
+      <extent>
+			<charseq START="699" END="716">The flying bullets</charseq>
+      </extent>
+      <head>
+			<charseq START="710" END="716">bullets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E16-1">
+      <extent>
+			<charseq START="722" END="736">five bystanders</charseq>
+      </extent>
+      <head>
+			<charseq START="727" END="736">bystanders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E17-1">
+      <extent>
+			<charseq START="746" END="749">Many</charseq>
+      </extent>
+      <head>
+			<charseq START="746" END="749">Many</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E18-1">
+      <extent>
+			<charseq START="754" END="757">them</charseq>
+      </extent>
+      <head>
+			<charseq START="754" END="757">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E19-1">
+      <extent>
+			<charseq START="764" END="767">they</charseq>
+      </extent>
+      <head>
+			<charseq START="764" END="767">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E20-1">
+      <extent>
+			<charseq START="806" END="809">They</charseq>
+      </extent>
+      <head>
+			<charseq START="806" END="809">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E21" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E21-1">
+      <extent>
+			<charseq START="835" END="849">local hospitals</charseq>
+      </extent>
+      <head>
+			<charseq START="841" END="849">hospitals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E22-1">
+      <extent>
+			<charseq START="869" END="874">police</charseq>
+      </extent>
+      <head>
+			<charseq START="869" END="874">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E23" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E23-1">
+      <extent>
+			<charseq START="925" END="948">a Memphis police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="927" END="933">Memphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E24" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E24-1">
+      <extent>
+			<charseq START="925" END="948">a Memphis police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="935" END="940">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E25-1">
+      <extent>
+			<charseq START="925" END="948">a Memphis police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="942" END="948">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E26-1">
+      <extent>
+			<charseq START="1038" END="1043">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="1038" END="1043">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E27-1">
+      <extent>
+			<charseq START="1050" END="1058">a suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="1052" END="1058">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E28" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E28-1">
+      <extent>
+			<charseq START="1084" END="1115">the third Memphis police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="1094" END="1100">Memphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E29" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E29-1">
+      <extent>
+			<charseq START="1084" END="1115">the third Memphis police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="1102" END="1107">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E30-1">
+      <extent>
+			<charseq START="1084" END="1115">the third Memphis police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="1109" END="1115">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E31" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E31-1">
+      <extent>
+			<charseq START="1161" END="1187">the Memphis police director</charseq>
+      </extent>
+      <head>
+			<charseq START="1165" END="1171">Memphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E32" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E32-1">
+      <extent>
+			<charseq START="1161" END="1187">the Memphis police director</charseq>
+      </extent>
+      <head>
+			<charseq START="1173" END="1178">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="100.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="100.sgm-E33-1">
+      <extent>
+			<charseq START="1161" END="1187">the Memphis police director</charseq>
+      </extent>
+      <head>
+			<charseq START="1180" END="1187">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="100.sgm-R0" TYPE="PART-WHOLE">
+    <relation_argument REFID="100.sgm-E9" ROLE="Arg-1" />
+    <relation_argument REFID="100.sgm-E10" ROLE="Arg-2" />
+      <relation_mention ID="100.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="444" END="580">In Savannah, Georgia, five bystanders were injured in an early morning shooting near a popular shopping destination in the downtown area.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="100.sgm-E9-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="447" END="454">Savannah</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="100.sgm-E10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="457" END="463">Georgia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="100.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="100.sgm-E11" ROLE="Arg-1" />
+    <relation_argument REFID="100.sgm-E10" ROLE="Arg-2" />
+      <relation_mention ID="100.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="444" END="580">In Savannah, Georgia, five bystanders were injured in an early morning shooting near a popular shopping destination in the downtown area.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="100.sgm-E11-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="466" END="480">five bystanders</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="100.sgm-E10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="457" END="463">Georgia</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="100.sgm-R2" TYPE="PART-WHOLE">
+    <relation_argument REFID="100.sgm-E24" ROLE="Arg-1" />
+    <relation_argument REFID="100.sgm-E23" ROLE="Arg-2" />
+      <relation_mention ID="100.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="909" END="1002">Saturday night, a Memphis police officer was shot and killed, while conducting a traffic stop.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="100.sgm-E24-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="925" END="948">a Memphis police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="100.sgm-E23-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="925" END="948">a Memphis police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="100.sgm-R3" TYPE="ORG-AFF">
+    <relation_argument REFID="100.sgm-E25" ROLE="Arg-1" />
+    <relation_argument REFID="100.sgm-E24" ROLE="Arg-2" />
+      <relation_mention ID="100.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="909" END="1002">Saturday night, a Memphis police officer was shot and killed, while conducting a traffic stop.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="100.sgm-E25-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="925" END="948">a Memphis police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="100.sgm-E24-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="925" END="948">a Memphis police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="100.sgm-R4" TYPE="PART-WHOLE">
+    <relation_argument REFID="100.sgm-E32" ROLE="Arg-1" />
+    <relation_argument REFID="100.sgm-E31" ROLE="Arg-2" />
+      <relation_mention ID="100.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="1038" END="1188">Police have a suspect in custody, but this is the third Memphis police officer killed in the past four years, according to the Memphis police director.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="100.sgm-E32-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1161" END="1187">the Memphis police director</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="100.sgm-E31-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1161" END="1187">the Memphis police director</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="100.sgm-R5" TYPE="ORG-AFF">
+    <relation_argument REFID="100.sgm-E33" ROLE="Arg-1" />
+    <relation_argument REFID="100.sgm-E32" ROLE="Arg-2" />
+      <relation_mention ID="100.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="1038" END="1188">Police have a suspect in custody, but this is the third Memphis police officer killed in the past four years, according to the Memphis police director.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="100.sgm-E33-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1161" END="1187">the Memphis police director</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="100.sgm-E32-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1161" END="1187">the Memphis police director</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="100.sgm-R6" TYPE="PART-WHOLE">
+    <relation_argument REFID="100.sgm-E29" ROLE="Arg-1" />
+    <relation_argument REFID="100.sgm-E28" ROLE="Arg-2" />
+      <relation_mention ID="100.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="1038" END="1188">Police have a suspect in custody, but this is the third Memphis police officer killed in the past four years, according to the Memphis police director.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="100.sgm-E29-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1084" END="1115">the third Memphis police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="100.sgm-E28-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1084" END="1115">the third Memphis police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="100.sgm-R7" TYPE="ORG-AFF">
+    <relation_argument REFID="100.sgm-E30" ROLE="Arg-1" />
+    <relation_argument REFID="100.sgm-E29" ROLE="Arg-2" />
+      <relation_mention ID="100.sgm-R7-1">
+      <ldc_extent>
+			<charseq START="1038" END="1188">Police have a suspect in custody, but this is the third Memphis police officer killed in the past four years, according to the Memphis police director.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="100.sgm-E30-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1084" END="1115">the third Memphis police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="100.sgm-E29-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1084" END="1115">the third Memphis police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="100.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="100.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="84" END="177">MONROE, La. (KNOE 8 News) - It&apos;s a headline we&apos;re all used to seeing at this point- Shootings.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="168" END="176">Shootings</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="100.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="100.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="179" END="236">They&apos;ve happened locally, with Thursday&apos;s double homicide.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="228" END="235">homicide</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="100.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="100.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="280" END="348">Nine people were shot at an East Brooklyn party early Sunday morning.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="297" END="300">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="100.sgm-E6-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="280" END="290">Nine people</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="100.sgm-EV3" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="100.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="350" END="392">Four others were hurt with cuts and debris.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="367" END="370">hurt</charseq>
+      </anchor>
+      <event_mention_argument REFID="100.sgm-E8-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="350" END="360">Four others</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="100.sgm-EV4" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="100.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="394" END="441">All injuries are minor and not life threatening.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="398" END="405">injuries</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="100.sgm-EV5" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="100.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="444" END="580">In Savannah, Georgia, five bystanders were injured in an early morning shooting near a popular shopping destination in the downtown area.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="487" END="493">injured</charseq>
+      </anchor>
+      <event_mention_argument REFID="100.sgm-E11-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="466" END="480">five bystanders</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="100.sgm-E10-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="457" END="463">Georgia</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="100.sgm-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="100.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="582" END="697">Police say the two suspects got into an argument, which led to a shoving match, which then led to shots being fired.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="680" END="684">shots</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="100.sgm-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="100.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="582" END="697">Police say the two suspects got into an argument, which led to a shoving match, which then led to shots being fired.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="692" END="696">fired</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="100.sgm-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="100.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="699" END="744">The flying bullets hit five bystanders nearby.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="718" END="720">hit</charseq>
+      </anchor>
+      <event_mention_argument REFID="100.sgm-E15-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="699" END="716">The flying bullets</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="100.sgm-E16-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="722" END="736">five bystanders</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="100.sgm-EV9" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="100.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="746" END="804">Many of them said they didn&apos;t even know what was happening.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="786" END="789">what</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="100.sgm-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="100.sgm-EV10-1" p="1.000">
+      <extent>
+			<charseq START="852" END="907">Violence against police is happening more often as well.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="852" END="859">Violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="100.sgm-EV11" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="100.sgm-EV11-1" p="1.000">
+      <extent>
+			<charseq START="909" END="1002">Saturday night, a Memphis police officer was shot and killed, while conducting a traffic stop.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="954" END="957">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="100.sgm-E25-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="925" END="948">a Memphis police officer</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="100.sgm-EV12" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="100.sgm-EV12-1" p="1.000">
+      <extent>
+			<charseq START="909" END="1002">Saturday night, a Memphis police officer was shot and killed, while conducting a traffic stop.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="963" END="968">killed</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="100.sgm-EV13" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="100.sgm-EV13-1" p="1.000">
+      <extent>
+			<charseq START="1038" END="1188">Police have a suspect in custody, but this is the third Memphis police officer killed in the past four years, according to the Memphis police director.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1063" END="1069">custody</charseq>
+      </anchor>
+      <event_mention_argument REFID="100.sgm-E27-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1050" END="1058">a suspect</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="100.sgm-EV14" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="100.sgm-EV14-1" p="1.000">
+      <extent>
+			<charseq START="1038" END="1188">Police have a suspect in custody, but this is the third Memphis police officer killed in the past four years, according to the Memphis police director.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1117" END="1122">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="100.sgm-E30-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1084" END="1115">the third Memphis police officer</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="100.sgm-E28-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1084" END="1115">the third Memphis police officer</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="100.sgm-EV15" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="100.sgm-EV15-1" p="1.000">
+      <extent>
+			<charseq START="1275" END="1364">For examples of shootings covered locally and nationally, visit the related links section.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1291" END="1299">shootings</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

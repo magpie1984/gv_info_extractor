@@ -1,0 +1,1996 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/416.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/416.sgm">
+  <entity ID="416.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E0-1">
+      <extent>
+			<charseq START="139" END="162">A sexual assault suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="156" END="162">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E1" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E1-1">
+      <extent>
+			<charseq START="169" END="184">an assault rifle</charseq>
+      </extent>
+      <head>
+			<charseq START="180" END="184">rifle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E2" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E2-1">
+      <extent>
+			<charseq START="201" END="217">a police sergeant</charseq>
+      </extent>
+      <head>
+			<charseq START="203" END="208">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E3-1">
+      <extent>
+			<charseq START="201" END="217">a police sergeant</charseq>
+      </extent>
+      <head>
+			<charseq START="210" END="217">sergeant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E4" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E4-1">
+      <extent>
+			<charseq START="282" END="294">North Oakland</charseq>
+      </extent>
+      <head>
+			<charseq START="282" END="294">North Oakland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E5-1">
+      <extent>
+			<charseq START="297" END="307">authorities</charseq>
+      </extent>
+      <head>
+			<charseq START="297" END="307">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E6-1">
+      <extent>
+			<charseq START="316" END="327">The sergeant</charseq>
+      </extent>
+      <head>
+			<charseq START="320" END="327">sergeant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E7-1">
+      <extent>
+			<charseq START="330" END="339">whose name</charseq>
+      </extent>
+      <head>
+			<charseq START="330" END="334">whose</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E8" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E8-1">
+      <extent>
+			<charseq START="408" END="423">a local hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="416" END="423">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E9" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E9-1">
+      <extent>
+			<charseq START="426" END="476">Oakland Police Department spokeswoman Johnna Watson</charseq>
+      </extent>
+      <head>
+			<charseq START="426" END="450">Oakland Police Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E10-1">
+      <extent>
+			<charseq START="426" END="476">Oakland Police Department spokeswoman Johnna Watson</charseq>
+      </extent>
+      <head>
+			<charseq START="452" END="462">spokeswoman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E11-1">
+      <extent>
+			<charseq START="426" END="476">Oakland Police Department spokeswoman Johnna Watson</charseq>
+      </extent>
+      <head>
+			<charseq START="464" END="476">Johnna Watson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E12" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E12-1">
+      <extent>
+			<charseq START="531" END="536">a home</charseq>
+      </extent>
+      <head>
+			<charseq START="533" END="536">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E13" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E13-1">
+      <extent>
+			<charseq START="541" END="554">the 3800 block</charseq>
+      </extent>
+      <head>
+			<charseq START="550" END="554">block</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E14-1">
+      <extent>
+			<charseq START="559" END="584">Martin Luther King Jr. Way</charseq>
+      </extent>
+      <head>
+			<charseq START="559" END="584">Martin Luther King Jr. Way</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E15-1">
+      <extent>
+			<charseq START="587" END="589">she</charseq>
+      </extent>
+      <head>
+			<charseq START="587" END="589">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E16-1">
+      <extent>
+			<charseq START="598" END="603">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="598" END="603">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E17" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E17-1">
+      <extent>
+			<charseq START="613" END="620">the home</charseq>
+      </extent>
+      <head>
+			<charseq START="617" END="620">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E18-1">
+      <extent>
+			<charseq START="713" END="715">she</charseq>
+      </extent>
+      <head>
+			<charseq START="713" END="715">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E19-1">
+      <extent>
+			<charseq START="724" END="735">The sergeant</charseq>
+      </extent>
+      <head>
+			<charseq START="728" END="735">sergeant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E20-1">
+      <extent>
+			<charseq START="741" END="755">another officer</charseq>
+      </extent>
+      <head>
+			<charseq START="749" END="755">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E21" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E21-1">
+      <extent>
+			<charseq START="770" END="778">the house</charseq>
+      </extent>
+      <head>
+			<charseq START="774" END="778">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E22-1">
+      <extent>
+			<charseq START="785" END="789">a man</charseq>
+      </extent>
+      <head>
+			<charseq START="787" END="789">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E23-1">
+      <extent>
+			<charseq START="791" END="793">who</charseq>
+      </extent>
+      <head>
+			<charseq START="791" END="793">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E24" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E24-1">
+      <extent>
+			<charseq START="807" END="815">the house</charseq>
+      </extent>
+      <head>
+			<charseq START="811" END="815">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E25" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E25-1">
+      <extent>
+			<charseq START="822" END="837">an assault rifle</charseq>
+      </extent>
+      <head>
+			<charseq START="833" END="837">rifle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E26" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E26-1">
+      <extent>
+			<charseq START="879" END="901">Police Chief Sean Whent</charseq>
+      </extent>
+      <head>
+			<charseq START="879" END="884">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E27-1">
+      <extent>
+			<charseq START="879" END="901">Police Chief Sean Whent</charseq>
+      </extent>
+      <head>
+			<charseq START="886" END="890">Chief</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E28-1">
+      <extent>
+			<charseq START="879" END="901">Police Chief Sean Whent</charseq>
+      </extent>
+      <head>
+			<charseq START="892" END="901">Sean Whent</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E29" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E29-1">
+      <extent>
+			<charseq START="945" END="953">The rifle</charseq>
+      </extent>
+      <head>
+			<charseq START="949" END="953">rifle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E30-1">
+      <extent>
+			<charseq START="1015" END="1019">Whent</charseq>
+      </extent>
+      <head>
+			<charseq START="1015" END="1019">Whent</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E31-1">
+      <extent>
+			<charseq START="1027" END="1028">He</charseq>
+      </extent>
+      <head>
+			<charseq START="1027" END="1028">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E32-1">
+      <extent>
+			<charseq START="1069" END="1079">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="1073" END="1079">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E33-1">
+      <extent>
+			<charseq START="1085" END="1096">the officers</charseq>
+      </extent>
+      <head>
+			<charseq START="1089" END="1096">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E34-1">
+      <extent>
+			<charseq START="1125" END="1136">The sergeant</charseq>
+      </extent>
+      <head>
+			<charseq START="1129" END="1136">sergeant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E35-1">
+      <extent>
+			<charseq START="1142" END="1158">the other officer</charseq>
+      </extent>
+      <head>
+			<charseq START="1152" END="1158">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E36-1">
+      <extent>
+			<charseq START="1179" END="1206">their semi-automatic pistols</charseq>
+      </extent>
+      <head>
+			<charseq START="1179" END="1183">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E37" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E37-1">
+      <extent>
+			<charseq START="1179" END="1206">their semi-automatic pistols</charseq>
+      </extent>
+      <head>
+			<charseq START="1200" END="1206">pistols</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E38-1">
+      <extent>
+			<charseq START="1217" END="1223">the man</charseq>
+      </extent>
+      <head>
+			<charseq START="1221" END="1223">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E39-1">
+      <extent>
+			<charseq START="1226" END="1231">Watson</charseq>
+      </extent>
+      <head>
+			<charseq START="1226" END="1231">Watson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E40" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E40-1">
+      <extent>
+			<charseq START="1239" END="1250">The officers</charseq>
+      </extent>
+      <head>
+			<charseq START="1243" END="1250">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E41" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E41-1">
+      <extent>
+			<charseq START="1310" END="1315">police</charseq>
+      </extent>
+      <head>
+			<charseq START="1310" END="1315">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E42-1">
+      <extent>
+			<charseq START="1328" END="1334">the man</charseq>
+      </extent>
+      <head>
+			<charseq START="1332" END="1334">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E43" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E43-1">
+      <extent>
+			<charseq START="1340" END="1350">the officer</charseq>
+      </extent>
+      <head>
+			<charseq START="1344" END="1350">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E44" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E44-1">
+      <extent>
+			<charseq START="1366" END="1380">local hospitals</charseq>
+      </extent>
+      <head>
+			<charseq START="1372" END="1380">hospitals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E45" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E45-1">
+      <extent>
+			<charseq START="1389" END="1395">the man</charseq>
+      </extent>
+      <head>
+			<charseq START="1393" END="1395">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E46" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E46-1">
+      <extent>
+			<charseq START="1407" END="1416">his wounds</charseq>
+      </extent>
+      <head>
+			<charseq START="1407" END="1409">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E47" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E47-1">
+      <extent>
+			<charseq START="1430" END="1437">officers</charseq>
+      </extent>
+      <head>
+			<charseq START="1430" END="1437">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E48" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E48-1">
+      <extent>
+			<charseq START="1462" END="1487">Martin Luther King Jr. Way</charseq>
+      </extent>
+      <head>
+			<charseq START="1462" END="1483">Martin Luther King Jr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E49" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E49-1">
+      <extent>
+			<charseq START="1494" END="1505">Apgar Street</charseq>
+      </extent>
+      <head>
+			<charseq START="1494" END="1505">Apgar Street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E50" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E50-1">
+      <extent>
+			<charseq START="1521" END="1546">the MacArthur BART station</charseq>
+      </extent>
+      <head>
+			<charseq START="1525" END="1546">MacArthur BART station</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E51" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E51-1">
+      <extent>
+			<charseq START="1549" END="1556">The road</charseq>
+      </extent>
+      <head>
+			<charseq START="1553" END="1556">road</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E52" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E52-1">
+      <extent>
+			<charseq START="1577" END="1600">West MacArthur Boulevard</charseq>
+      </extent>
+      <head>
+			<charseq START="1577" END="1600">West MacArthur Boulevard</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E53" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E53-1">
+      <extent>
+			<charseq START="1693" END="1698">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="1693" END="1698">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E54" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E54-1">
+      <extent>
+			<charseq START="1710" END="1716">the man</charseq>
+      </extent>
+      <head>
+			<charseq START="1714" END="1716">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E55" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E55-1">
+      <extent>
+			<charseq START="1717" END="1724">&apos;s rifle</charseq>
+      </extent>
+      <head>
+			<charseq START="1720" END="1724">rifle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E56" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E56-1">
+      <extent>
+			<charseq START="1741" END="1745">Whent</charseq>
+      </extent>
+      <head>
+			<charseq START="1741" END="1745">Whent</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E57" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E57-1">
+      <extent>
+			<charseq START="1776" END="1786">the officer</charseq>
+      </extent>
+      <head>
+			<charseq START="1780" END="1786">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E58" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E58-1">
+      <extent>
+			<charseq START="1791" END="1802">the hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="1795" END="1802">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E59" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E59-1">
+      <extent>
+			<charseq START="1805" END="1809">Whent</charseq>
+      </extent>
+      <head>
+			<charseq START="1805" END="1809">Whent</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E60" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E60-1">
+      <extent>
+			<charseq START="1844" END="1854">the officer</charseq>
+      </extent>
+      <head>
+			<charseq START="1848" END="1854">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E61" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E61-1">
+      <extent>
+			<charseq START="1941" END="1942">He</charseq>
+      </extent>
+      <head>
+			<charseq START="1941" END="1942">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E62" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E62-1">
+      <extent>
+			<charseq START="1989" END="1990">He</charseq>
+      </extent>
+      <head>
+			<charseq START="1989" END="1990">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E63" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E63-1">
+      <extent>
+			<charseq START="2005" END="2024">the injured sergeant</charseq>
+      </extent>
+      <head>
+			<charseq START="2017" END="2024">sergeant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E64" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E64-1">
+      <extent>
+			<charseq START="2029" END="2045">the other officer</charseq>
+      </extent>
+      <head>
+			<charseq START="2039" END="2045">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E65" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E65-1">
+      <extent>
+			<charseq START="2047" END="2049">who</charseq>
+      </extent>
+      <head>
+			<charseq START="2047" END="2049">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E66" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E66-1">
+      <extent>
+			<charseq START="2056" END="2066">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="2060" END="2066">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E67" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E67-1">
+      <extent>
+			<charseq START="2073" END="2074">he</charseq>
+      </extent>
+      <head>
+			<charseq START="2073" END="2074">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E68" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E68-1">
+      <extent>
+			<charseq START="2081" END="2092">the sergeant</charseq>
+      </extent>
+      <head>
+			<charseq START="2085" END="2092">sergeant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E69" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E69-1">
+      <extent>
+			<charseq START="2097" END="2113">a 14-year veteran</charseq>
+      </extent>
+      <head>
+			<charseq START="2107" END="2113">veteran</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E70" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E70-1">
+      <extent>
+			<charseq START="2118" END="2131">the department</charseq>
+      </extent>
+      <head>
+			<charseq START="2122" END="2131">department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E71" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E71-1">
+      <extent>
+			<charseq START="2133" END="2135">who</charseq>
+      </extent>
+      <head>
+			<charseq START="2133" END="2135">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E72" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E72-1">
+      <extent>
+			<charseq START="2167" END="2174">sergeant</charseq>
+      </extent>
+      <head>
+			<charseq START="2167" END="2174">sergeant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E73" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E73-1">
+      <extent>
+			<charseq START="2180" END="2188">the other</charseq>
+      </extent>
+      <head>
+			<charseq START="2184" END="2188">other</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E74" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E74-1">
+      <extent>
+			<charseq START="2193" END="2202">an officer</charseq>
+      </extent>
+      <head>
+			<charseq START="2196" END="2202">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E75" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E75-1">
+      <extent>
+			<charseq START="2204" END="2206">who</charseq>
+      </extent>
+      <head>
+			<charseq START="2204" END="2206">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E76" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E76-1">
+      <extent>
+			<charseq START="2243" END="2249">The man</charseq>
+      </extent>
+      <head>
+			<charseq START="2247" END="2249">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E77" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E77-1">
+      <extent>
+			<charseq START="2251" END="2253">who</charseq>
+      </extent>
+      <head>
+			<charseq START="2251" END="2253">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E78" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E78-1">
+      <extent>
+			<charseq START="2261" END="2270">whose name</charseq>
+      </extent>
+      <head>
+			<charseq START="2261" END="2265">whose</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E79" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E79-1">
+      <extent>
+			<charseq START="2294" END="2323">a 49-year-old Oakland resident</charseq>
+      </extent>
+      <head>
+			<charseq START="2308" END="2314">Oakland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E80" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E80-1">
+      <extent>
+			<charseq START="2294" END="2323">a 49-year-old Oakland resident</charseq>
+      </extent>
+      <head>
+			<charseq START="2316" END="2323">resident</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E81" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E81-1">
+      <extent>
+			<charseq START="2326" END="2330">Whent</charseq>
+      </extent>
+      <head>
+			<charseq START="2326" END="2330">Whent</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E82" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E82-1">
+      <extent>
+			<charseq START="2338" END="2343">Watson</charseq>
+      </extent>
+      <head>
+			<charseq START="2338" END="2343">Watson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E83" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E83-1">
+      <extent>
+			<charseq START="2429" END="2433">Whent</charseq>
+      </extent>
+      <head>
+			<charseq START="2429" END="2433">Whent</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E84" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E84-1">
+      <extent>
+			<charseq START="2440" END="2452">&quot;our officers</charseq>
+      </extent>
+      <head>
+			<charseq START="2445" END="2452">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E85" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E85-1">
+      <extent>
+			<charseq START="2621" END="2631">police shot</charseq>
+      </extent>
+      <head>
+			<charseq START="2621" END="2626">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E86" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E86-1">
+      <extent>
+			<charseq START="2644" END="2656">Demouria Hogg</charseq>
+      </extent>
+      <head>
+			<charseq START="2644" END="2656">Demouria Hogg</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E87" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E87-1">
+      <extent>
+			<charseq START="2702" END="2703">he</charseq>
+      </extent>
+      <head>
+			<charseq START="2702" END="2703">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E88" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E88-1">
+      <extent>
+			<charseq START="2729" END="2738">the driver</charseq>
+      </extent>
+      <head>
+			<charseq START="2733" END="2738">driver</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E89" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E89-1">
+      <extent>
+			<charseq START="2750" END="2756">his car</charseq>
+      </extent>
+      <head>
+			<charseq START="2750" END="2752">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E90" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E90-1">
+      <extent>
+			<charseq START="2750" END="2756">his car</charseq>
+      </extent>
+      <head>
+			<charseq START="2754" END="2756">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E91" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E91-1">
+      <extent>
+			<charseq START="2763" END="2774">a loaded gun</charseq>
+      </extent>
+      <head>
+			<charseq START="2772" END="2774">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E92" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E92-1">
+      <extent>
+			<charseq START="2781" END="2792">Lake Merritt</charseq>
+      </extent>
+      <head>
+			<charseq START="2781" END="2792">Lake Merritt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E93" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E93-1">
+      <extent>
+			<charseq START="2823" END="2836">Oakland police</charseq>
+      </extent>
+      <head>
+			<charseq START="2823" END="2829">Oakland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E94" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E94-1">
+      <extent>
+			<charseq START="2823" END="2836">Oakland police</charseq>
+      </extent>
+      <head>
+			<charseq START="2831" END="2836">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E95" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E95-1">
+      <extent>
+			<charseq START="2904" END="2909">Watson</charseq>
+      </extent>
+      <head>
+			<charseq START="2904" END="2909">Watson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E96" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E96-1">
+      <extent>
+			<charseq START="3034" END="3047">the department</charseq>
+      </extent>
+      <head>
+			<charseq START="3038" END="3047">department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E97" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E97-1">
+      <extent>
+			<charseq START="3085" END="3120">the Alameda County District Attorney</charseq>
+      </extent>
+      <head>
+			<charseq START="3089" END="3102">Alameda County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E98" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E98-1">
+      <extent>
+			<charseq START="3085" END="3120">the Alameda County District Attorney</charseq>
+      </extent>
+      <head>
+			<charseq START="3113" END="3120">Attorney</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E99" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E99-1">
+      <extent>
+			<charseq START="3121" END="3129">&apos;s Office</charseq>
+      </extent>
+      <head>
+			<charseq START="3124" END="3129">Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E100" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E100-1">
+      <extent>
+			<charseq START="3132" END="3137">Anyone</charseq>
+      </extent>
+      <head>
+			<charseq START="3132" END="3137">Anyone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E101" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E101-1">
+      <extent>
+			<charseq START="3230" END="3233">Tips</charseq>
+      </extent>
+      <head>
+			<charseq START="3230" END="3233">Tips</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E102" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E102-1">
+      <extent>
+			<charseq START="3292" END="3306">your cell phone</charseq>
+      </extent>
+      <head>
+			<charseq START="3292" END="3295">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="416.sgm-E103" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="416.sgm-E103-1">
+      <extent>
+			<charseq START="3320" END="3327">your tip</charseq>
+      </extent>
+      <head>
+			<charseq START="3320" END="3323">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="416.sgm-R0" TYPE="ART">
+    <relation_argument REFID="416.sgm-E0" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E1" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="128" END="313">OAKLAND -- A sexual assault suspect with an assault rifle was killed and a police sergeant  was wounded in an exchange of gunfire early Monday morning in North Oakland, authorities said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E0-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="139" END="162">A sexual assault suspect</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="169" END="184">an assault rifle</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R1" TYPE="ORG-AFF">
+    <relation_argument REFID="416.sgm-E3" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E2" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="128" END="313">OAKLAND -- A sexual assault suspect with an assault rifle was killed and a police sergeant  was wounded in an exchange of gunfire early Monday morning in North Oakland, authorities said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E3-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="201" END="217">a police sergeant</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="201" END="217">a police sergeant</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R2" TYPE="ORG-AFF">
+    <relation_argument REFID="416.sgm-E10" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="316" END="482">The sergeant, whose name was not released, underwent surgery and was in stable condition at a local hospital, Oakland Police Department spokeswoman Johnna Watson said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E10-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="426" END="476">Oakland Police Department spokeswoman Johnna Watson</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="426" END="476">Oakland Police Department spokeswoman Johnna Watson</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R3" TYPE="PHYS">
+    <relation_argument REFID="416.sgm-E16" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E17" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="598" END="721">Police went to the home as part of a follow-up investigation into a sexual assault that was reported Sunday night, she said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E16-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="598" END="603">Police</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E17-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="613" END="620">the home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R4" TYPE="PHYS">
+    <relation_argument REFID="416.sgm-E23" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E24" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="724" END="943">The sergeant and another officer were outside the house when a man who came out of the house with an assault rifle and began shooting at them immediately, Police Chief Sean Whent said at a news conference Monday morning.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E23-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="791" END="793">who</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E24-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="807" END="815">the house</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R5" TYPE="PHYS">
+    <relation_argument REFID="416.sgm-E20" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E21" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="724" END="943">The sergeant and another officer were outside the house when a man who came out of the house with an assault rifle and began shooting at them immediately, Police Chief Sean Whent said at a news conference Monday morning.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E20-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="741" END="755">another officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E21-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="770" END="778">the house</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R6" TYPE="ORG-AFF">
+    <relation_argument REFID="416.sgm-E27" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E26" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="724" END="943">The sergeant and another officer were outside the house when a man who came out of the house with an assault rifle and began shooting at them immediately, Police Chief Sean Whent said at a news conference Monday morning.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E27-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="879" END="901">Police Chief Sean Whent</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E26-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="879" END="901">Police Chief Sean Whent</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R7" TYPE="ART">
+    <relation_argument REFID="416.sgm-E35" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E37" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R7-1">
+      <ldc_extent>
+			<charseq START="1125" END="1237">The sergeant and the other officer returned fire with their semi-automatic pistols, hitting the man, Watson said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E35-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1142" END="1158">the other officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E37-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1179" END="1206">their semi-automatic pistols</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R8" TYPE="PHYS">
+    <relation_argument REFID="416.sgm-E43" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E44" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R8-1">
+      <ldc_extent>
+			<charseq START="1323" END="1417">Both the man and the officer were taken to local hospitals, where the man died from his wounds.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E43-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1340" END="1350">the officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E44-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1366" END="1380">local hospitals</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R9" TYPE="PHYS">
+    <relation_argument REFID="416.sgm-E42" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E44" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R9-1">
+      <ldc_extent>
+			<charseq START="1323" END="1417">Both the man and the officer were taken to local hospitals, where the man died from his wounds.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E42-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1328" END="1334">the man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E44-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1366" END="1380">local hospitals</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R10" TYPE="ART">
+    <relation_argument REFID="416.sgm-E54" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E55" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R10-1">
+      <ldc_extent>
+			<charseq START="1693" END="1738">Police recovered the man&apos;s rifle at the scene.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E54-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1710" END="1716">the man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E55-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1717" END="1724">&apos;s rifle</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R11" TYPE="PHYS">
+    <relation_argument REFID="416.sgm-E57" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E58" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R11-1">
+      <ldc_extent>
+			<charseq START="1741" END="1803">Whent was on the scene and visited the officer at the hospital.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E57-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1776" END="1786">the officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E58-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1791" END="1802">the hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R12" TYPE="PHYS">
+    <relation_argument REFID="416.sgm-E56" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E58" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R12-1">
+      <ldc_extent>
+			<charseq START="1741" END="1803">Whent was on the scene and visited the officer at the hospital.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E56-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1741" END="1745">Whent</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E58-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1791" END="1802">the hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R13" TYPE="ORG-AFF">
+    <relation_argument REFID="416.sgm-E69" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E70" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R13-1">
+      <ldc_extent>
+			<charseq START="1989" END="2240">He did not name the injured sergeant or the other officer who shot the suspect, but he said the sergeant is a 14-year veteran of the department who had recently been promoted to sergeant and the other is an officer who has been on the force for a year.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E69-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2097" END="2113">a 14-year veteran</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E70-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2118" END="2131">the department</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R14" TYPE="GEN-AFF">
+    <relation_argument REFID="416.sgm-E80" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E79" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R14-1">
+      <ldc_extent>
+			<charseq START="2243" END="2336">The man who died, whose name was not released, was a 49-year-old Oakland resident, Whent said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E80-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2294" END="2323">a 49-year-old Oakland resident</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E79-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2294" END="2323">a 49-year-old Oakland resident</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R15" TYPE="ART">
+    <relation_argument REFID="416.sgm-E89" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E90" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R15-1">
+      <ldc_extent>
+			<charseq START="2585" END="2793">The shooting comes two months after police shot and killed Demouria Hogg, 30, in a confrontation about an hour after he was found passed out in the driver&apos;s seat of his car with a loaded gun near Lake Merritt.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E89-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2750" END="2756">his car</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E90-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2750" END="2756">his car</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R16" TYPE="ORG-AFF">
+    <relation_argument REFID="416.sgm-E94" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E93" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R16-1">
+      <ldc_extent>
+			<charseq START="2795" END="2900">That shooting on June 6 was Oakland police&apos;s first fatal officer-involved shooting in more than two years.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E94-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2823" END="2836">Oakland police</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E93-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2823" END="2836">Oakland police</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="416.sgm-R17" TYPE="ORG-AFF">
+    <relation_argument REFID="416.sgm-E98" ROLE="Arg-1" />
+    <relation_argument REFID="416.sgm-E99" ROLE="Arg-2" />
+      <relation_mention ID="416.sgm-R17-1">
+      <ldc_extent>
+			<charseq START="2904" END="3130">Watson said information involving Monday&apos;s shooting was still preliminary and that multiple investigations are being conducted by the department, with a concurrent investigation by the Alameda County District Attorney&apos;s Office.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="416.sgm-E98-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3085" END="3120">the Alameda County District Attorney</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="416.sgm-E99-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3121" END="3129">&apos;s Office</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="416.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="128" END="313">OAKLAND -- A sexual assault suspect with an assault rifle was killed and a police sergeant  was wounded in an exchange of gunfire early Monday morning in North Oakland, authorities said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="190" END="195">killed</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV1" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="128" END="313">OAKLAND -- A sexual assault suspect with an assault rifle was killed and a police sergeant  was wounded in an exchange of gunfire early Monday morning in North Oakland, authorities said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="224" END="230">wounded</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E3-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="201" END="217">a police sergeant</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="128" END="313">OAKLAND -- A sexual assault suspect with an assault rifle was killed and a police sergeant  was wounded in an exchange of gunfire early Monday morning in North Oakland, authorities said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="250" END="256">gunfire</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E3-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="201" END="217">a police sergeant</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="485" END="521">The shooting happened about 1:32 a.m.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="489" END="496">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="598" END="721">Police went to the home as part of a follow-up investigation into a sexual assault that was reported Sunday night, she said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="605" END="608">went</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E16-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="598" END="603">Police</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="416.sgm-E17-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="613" END="620">the home</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="598" END="721">Police went to the home as part of a follow-up investigation into a sexual assault that was reported Sunday night, she said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="673" END="679">assault</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E16-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="598" END="603">Police</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="724" END="943">The sergeant and another officer were outside the house when a man who came out of the house with an assault rifle and began shooting at them immediately, Police Chief Sean Whent said at a news conference Monday morning.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="795" END="798">came</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E23-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="791" END="793">who</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="416.sgm-E24-1" ROLE="Origin" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="807" END="815">the house</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="724" END="943">The sergeant and another officer were outside the house when a man who came out of the house with an assault rifle and began shooting at them immediately, Police Chief Sean Whent said at a news conference Monday morning.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="849" END="856">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E25-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="822" END="837">an assault rifle</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="1027" END="1123">He said there was no conversation between the suspect and the officers before the shooting began.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1109" END="1116">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV9" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="1125" END="1237">The sergeant and the other officer returned fire with their semi-automatic pistols, hitting the man, Watson said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1169" END="1172">fire</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E35-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1142" END="1158">the other officer</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="416.sgm-E37-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1179" END="1206">their semi-automatic pistols</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV10" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV10-1" p="1.000">
+      <extent>
+			<charseq START="1239" END="1321">The officers&apos; body cameras were activated at the time of the shooting, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1300" END="1307">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV11" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV11-1" p="1.000">
+      <extent>
+			<charseq START="1323" END="1417">Both the man and the officer were taken to local hospitals, where the man died from his wounds.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1397" END="1400">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E45-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1389" END="1395">the man</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="416.sgm-E44-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1366" END="1380">local hospitals</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV12" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV12-1" p="1.000">
+      <extent>
+			<charseq START="1323" END="1417">Both the man and the officer were taken to local hospitals, where the man died from his wounds.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1411" END="1416">wounds</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E46-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1407" END="1416">his wounds</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV13" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV13-1" p="1.000">
+      <extent>
+			<charseq START="1420" END="1547">Dozens of officers rushed to the scene on Martin Luther King Jr. Way near Apgar Street, not far from the MacArthur BART station.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1439" END="1444">rushed</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E47-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1430" END="1437">officers</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="416.sgm-E50-1" ROLE="Origin" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1521" END="1546">the MacArthur BART station</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV14" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV14-1" p="1.000">
+      <extent>
+			<charseq START="1741" END="1803">Whent was on the scene and visited the officer at the hospital.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1768" END="1774">visited</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E56-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1741" END="1745">Whent</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="416.sgm-E57-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1776" END="1786">the officer</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="416.sgm-E58-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1791" END="1802">the hospital</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV15" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV15-1" p="1.000">
+      <extent>
+			<charseq START="1805" END="1939">Whent said at the news conference that the officer has a &quot;significant&quot; gunshot wound, has had one surgery and is expected to have more.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1828" END="1837">conference</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E59-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1805" END="1809">Whent</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV16" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV16-1" p="1.000">
+      <extent>
+			<charseq START="1805" END="1939">Whent said at the news conference that the officer has a &quot;significant&quot; gunshot wound, has had one surgery and is expected to have more.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1884" END="1888">wound</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV17" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV17-1" p="1.000">
+      <extent>
+			<charseq START="1941" END="1987">He said there were multiple rounds of gunshots.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1979" END="1986">gunshots</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV18" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV18-1" p="1.000">
+      <extent>
+			<charseq START="1989" END="2240">He did not name the injured sergeant or the other officer who shot the suspect, but he said the sergeant is a 14-year veteran of the department who had recently been promoted to sergeant and the other is an officer who has been on the force for a year.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2051" END="2054">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E64-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2029" END="2045">the other officer</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="416.sgm-E66-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2056" END="2066">the suspect</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV19" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV19-1" p="1.000">
+      <extent>
+			<charseq START="2243" END="2336">The man who died, whose name was not released, was a 49-year-old Oakland resident, Whent said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2255" END="2258">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E76-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2243" END="2249">The man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV20" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV20-1" p="1.000">
+      <extent>
+			<charseq START="2338" END="2392">Watson would not provide details of the sexual assault.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2385" END="2391">assault</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV21" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV21-1" p="1.000">
+      <extent>
+			<charseq START="2585" END="2793">The shooting comes two months after police shot and killed Demouria Hogg, 30, in a confrontation about an hour after he was found passed out in the driver&apos;s seat of his car with a loaded gun near Lake Merritt.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2589" END="2596">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV22" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV22-1" p="1.000">
+      <extent>
+			<charseq START="2585" END="2793">The shooting comes two months after police shot and killed Demouria Hogg, 30, in a confrontation about an hour after he was found passed out in the driver&apos;s seat of his car with a loaded gun near Lake Merritt.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2628" END="2631">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E85-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2621" END="2631">police shot</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV23" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV23-1" p="1.000">
+      <extent>
+			<charseq START="2585" END="2793">The shooting comes two months after police shot and killed Demouria Hogg, 30, in a confrontation about an hour after he was found passed out in the driver&apos;s seat of his car with a loaded gun near Lake Merritt.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2637" END="2642">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E86-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2644" END="2656">Demouria Hogg</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV24" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV24-1" p="1.000">
+      <extent>
+			<charseq START="2795" END="2900">That shooting on June 6 was Oakland police&apos;s first fatal officer-involved shooting in more than two years.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2869" END="2876">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E93-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2823" END="2836">Oakland police</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV25" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV25-1" p="1.000">
+      <extent>
+			<charseq START="3132" END="3228">Anyone with information on the incident is asked to call the homicide department at 510-238-3821.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3193" END="3200">homicide</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="416.sgm-EV26" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="416.sgm-EV26-1" p="1.000">
+      <extent>
+			<charseq START="3230" END="3356">Tips can also be sent by texting TIP OAKLANDPD to 888777 from your cell phone followed by your tip, or by calling 855-847-7247.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3247" END="3250">sent</charseq>
+      </anchor>
+      <event_mention_argument REFID="416.sgm-E101-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3230" END="3233">Tips</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

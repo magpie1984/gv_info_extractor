@@ -1,0 +1,2612 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/244.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/244.sgm">
+  <entity ID="244.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E0-1">
+      <extent>
+			<charseq START="118" END="176">Colorado Gov. John Hickenlooper and Missouri Gov. Jay Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="118" END="125">Colorado</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E1-1">
+      <extent>
+			<charseq START="118" END="176">Colorado Gov. John Hickenlooper and Missouri Gov. Jay Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="127" END="130">Gov.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E2-1">
+      <extent>
+			<charseq START="118" END="176">Colorado Gov. John Hickenlooper and Missouri Gov. Jay Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="132" END="148">John Hickenlooper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E3-1">
+      <extent>
+			<charseq START="118" END="176">Colorado Gov. John Hickenlooper and Missouri Gov. Jay Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="163" END="166">Gov.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E4-1">
+      <extent>
+			<charseq START="118" END="176">Colorado Gov. John Hickenlooper and Missouri Gov. Jay Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="168" END="176">Jay Nixon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E5-1">
+      <extent>
+			<charseq START="185" END="198">their thoughts</charseq>
+      </extent>
+      <head>
+			<charseq START="185" END="189">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E6" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E6-1">
+      <extent>
+			<charseq START="203" END="207">Aspen</charseq>
+      </extent>
+      <head>
+			<charseq START="203" END="207">Aspen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E7-1">
+      <extent>
+			<charseq START="263" END="272">their time</charseq>
+      </extent>
+      <head>
+			<charseq START="263" END="267">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E8-1">
+      <extent>
+			<charseq START="287" END="291">Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="287" END="291">Nixon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E9-1">
+      <extent>
+			<charseq START="336" END="346">a black man</charseq>
+      </extent>
+      <head>
+			<charseq START="344" END="346">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E10" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E10-1">
+      <extent>
+			<charseq START="351" END="372">a white police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="359" END="364">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E11-1">
+      <extent>
+			<charseq START="351" END="372">a white police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="366" END="372">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E12" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E12-1">
+      <extent>
+			<charseq START="377" END="384">Ferguson</charseq>
+      </extent>
+      <head>
+			<charseq START="377" END="384">Ferguson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E13" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E13-1">
+      <extent>
+			<charseq START="387" END="394">Missouri</charseq>
+      </extent>
+      <head>
+			<charseq START="387" END="394">Missouri</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E14-1">
+      <extent>
+			<charseq START="416" END="417">he</charseq>
+      </extent>
+      <head>
+			<charseq START="416" END="417">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E15" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E15-1">
+      <extent>
+			<charseq START="469" END="484">a police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="471" END="476">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E16-1">
+      <extent>
+			<charseq START="469" END="484">a police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="478" END="484">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E17-1">
+      <extent>
+			<charseq START="514" END="515">he</charseq>
+      </extent>
+      <head>
+			<charseq START="514" END="515">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E18-1">
+      <extent>
+			<charseq START="569" END="580">Hickenlooper</charseq>
+      </extent>
+      <head>
+			<charseq START="569" END="580">Hickenlooper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E19-1">
+      <extent>
+			<charseq START="587" END="588">he</charseq>
+      </extent>
+      <head>
+			<charseq START="587" END="588">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E20-1">
+      <extent>
+			<charseq START="640" END="645">people</charseq>
+      </extent>
+      <head>
+			<charseq START="640" END="645">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E21" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E21-1">
+      <extent>
+			<charseq START="658" END="661">guns</charseq>
+      </extent>
+      <head>
+			<charseq START="658" END="661">guns</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E22-1">
+      <extent>
+			<charseq START="671" END="672">he</charseq>
+      </extent>
+      <head>
+			<charseq START="671" END="672">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E23" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E23-1">
+      <extent>
+			<charseq START="710" END="721">some weapons</charseq>
+      </extent>
+      <head>
+			<charseq START="715" END="721">weapons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E24" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E24-1">
+      <extent>
+			<charseq START="763" END="782">Colorado legislators</charseq>
+      </extent>
+      <head>
+			<charseq START="763" END="770">Colorado</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E25-1">
+      <extent>
+			<charseq START="763" END="782">Colorado legislators</charseq>
+      </extent>
+      <head>
+			<charseq START="772" END="782">legislators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E26" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E26-1">
+      <extent>
+			<charseq START="797" END="812">tougher gun laws</charseq>
+      </extent>
+      <head>
+			<charseq START="805" END="807">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E27-1">
+      <extent>
+			<charseq START="820" END="835">the James Holmes</charseq>
+      </extent>
+      <head>
+			<charseq START="824" END="835">James Holmes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E28" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E28-1">
+      <extent>
+			<charseq START="861" END="866">Aurora</charseq>
+      </extent>
+      <head>
+			<charseq START="861" END="866">Aurora</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E29-1">
+      <extent>
+			<charseq START="879" END="885">The men</charseq>
+      </extent>
+      <head>
+			<charseq START="883" END="885">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E30-1">
+      <extent>
+			<charseq START="894" END="907">their thoughts</charseq>
+      </extent>
+      <head>
+			<charseq START="894" END="898">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E31-1">
+      <extent>
+			<charseq START="961" END="980">Democratic Governors</charseq>
+      </extent>
+      <head>
+			<charseq START="972" END="980">Governors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E32" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E32-1">
+      <extent>
+			<charseq START="986" END="1010">Aspen Institute President</charseq>
+      </extent>
+      <head>
+			<charseq START="986" END="1000">Aspen Institute</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E33-1">
+      <extent>
+			<charseq START="986" END="1010">Aspen Institute President</charseq>
+      </extent>
+      <head>
+			<charseq START="1002" END="1010">President</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E34-1">
+      <extent>
+			<charseq START="1016" END="1034">CEO Walter Isaacson</charseq>
+      </extent>
+      <head>
+			<charseq START="1016" END="1018">CEO</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E35-1">
+      <extent>
+			<charseq START="1016" END="1034">CEO Walter Isaacson</charseq>
+      </extent>
+      <head>
+			<charseq START="1020" END="1034">Walter Isaacson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E36-1">
+      <extent>
+			<charseq START="1056" END="1076">a near-capacity crowd</charseq>
+      </extent>
+      <head>
+			<charseq START="1072" END="1076">crowd</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E37" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E37-1">
+      <extent>
+			<charseq START="1081" END="1102">the Greenwald Pavilion</charseq>
+      </extent>
+      <head>
+			<charseq START="1085" END="1102">Greenwald Pavilion</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E38-1">
+      <extent>
+			<charseq START="1105" END="1112">Isaacson</charseq>
+      </extent>
+      <head>
+			<charseq START="1105" END="1112">Isaacson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E39-1">
+      <extent>
+			<charseq START="1126" END="1132">a panel</charseq>
+      </extent>
+      <head>
+			<charseq START="1128" END="1132">panel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E40" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E40-1">
+      <extent>
+			<charseq START="1137" END="1156">Republican governors</charseq>
+      </extent>
+      <head>
+			<charseq START="1148" END="1156">governors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E41" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E41-1">
+      <extent>
+			<charseq START="1171" END="1175">Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="1171" END="1175">Nixon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E42-1">
+      <extent>
+			<charseq START="1182" END="1190">his state</charseq>
+      </extent>
+      <head>
+			<charseq START="1182" END="1184">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E43" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E43-1">
+      <extent>
+			<charseq START="1182" END="1190">his state</charseq>
+      </extent>
+      <head>
+			<charseq START="1186" END="1190">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E44" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E44-1">
+      <extent>
+			<charseq START="1226" END="1254">new police training standards</charseq>
+      </extent>
+      <head>
+			<charseq START="1230" END="1235">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E45" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E45-1">
+      <extent>
+			<charseq START="1314" END="1321">Isaacson</charseq>
+      </extent>
+      <head>
+			<charseq START="1314" END="1321">Isaacson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E46" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E46-1">
+      <extent>
+			<charseq START="1380" END="1394">police officers</charseq>
+      </extent>
+      <head>
+			<charseq START="1380" END="1385">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E47" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E47-1">
+      <extent>
+			<charseq START="1380" END="1394">police officers</charseq>
+      </extent>
+      <head>
+			<charseq START="1387" END="1394">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E48" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E48-1">
+      <extent>
+			<charseq START="1405" END="1406">we</charseq>
+      </extent>
+      <head>
+			<charseq START="1405" END="1406">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E49" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E49-1">
+      <extent>
+			<charseq START="1426" END="1428">CNN</charseq>
+      </extent>
+      <head>
+			<charseq START="1426" END="1428">CNN</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E50" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E50-1">
+      <extent>
+			<charseq START="1453" END="1453">I</charseq>
+      </extent>
+      <head>
+			<charseq START="1453" END="1453">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E51" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E51-1">
+      <extent>
+			<charseq START="1465" END="1469">Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="1465" END="1469">Nixon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E52" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E52-1">
+      <extent>
+			<charseq START="1487" END="1488">He</charseq>
+      </extent>
+      <head>
+			<charseq START="1487" END="1488">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E53" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E53-1">
+      <extent>
+			<charseq START="1512" END="1526">the Legislature</charseq>
+      </extent>
+      <head>
+			<charseq START="1516" END="1526">Legislature</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E54" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E54-1">
+      <extent>
+			<charseq START="1565" END="1566">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1565" END="1566">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E55" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E55-1">
+      <extent>
+			<charseq START="1708" END="1712">Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="1708" END="1712">Nixon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E56" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E56-1">
+      <extent>
+			<charseq START="1722" END="1729">Isaacson</charseq>
+      </extent>
+      <head>
+			<charseq START="1722" END="1729">Isaacson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E57" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E57-1">
+      <extent>
+			<charseq START="1739" END="1743">Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="1739" END="1743">Nixon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E58" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E58-1">
+      <extent>
+			<charseq START="1758" END="1759">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1758" END="1759">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E59" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E59-1">
+      <extent>
+			<charseq START="1785" END="1803">police interactions</charseq>
+      </extent>
+      <head>
+			<charseq START="1785" END="1790">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E60" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E60-1">
+      <extent>
+			<charseq START="1810" END="1817">citizens</charseq>
+      </extent>
+      <head>
+			<charseq START="1810" END="1817">citizens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E61" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E61-1">
+      <extent>
+			<charseq START="1826" END="1835">the nation</charseq>
+      </extent>
+      <head>
+			<charseq START="1830" END="1835">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E62" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E62-1">
+      <extent>
+			<charseq START="1888" END="1902">police behavior</charseq>
+      </extent>
+      <head>
+			<charseq START="1888" END="1893">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E63" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E63-1">
+      <extent>
+			<charseq START="1910" END="1914">Where</charseq>
+      </extent>
+      <head>
+			<charseq START="1910" END="1914">Where</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E64" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E64-1">
+      <extent>
+			<charseq START="1916" END="1928">jurisdictions</charseq>
+      </extent>
+      <head>
+			<charseq START="1916" END="1928">jurisdictions</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E65" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E65-1">
+      <extent>
+			<charseq START="2031" END="2035">Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="2031" END="2035">Nixon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E66" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E66-1">
+      <extent>
+			<charseq START="2104" END="2112">everybody</charseq>
+      </extent>
+      <head>
+			<charseq START="2104" END="2112">everybody</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E67" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E67-1">
+      <extent>
+			<charseq START="2165" END="2167">you</charseq>
+      </extent>
+      <head>
+			<charseq START="2165" END="2167">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E68" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E68-1">
+      <extent>
+			<charseq START="2243" END="2244">we</charseq>
+      </extent>
+      <head>
+			<charseq START="2243" END="2244">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E69" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E69-1">
+      <extent>
+			<charseq START="2283" END="2290">everyone</charseq>
+      </extent>
+      <head>
+			<charseq START="2283" END="2290">everyone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E70" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E70-1">
+      <extent>
+			<charseq START="2295" END="2322">a public figure and everyone</charseq>
+      </extent>
+      <head>
+			<charseq START="2315" END="2322">everyone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E71" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E71-1">
+      <extent>
+			<charseq START="2327" END="2336">a reporter</charseq>
+      </extent>
+      <head>
+			<charseq START="2329" END="2336">reporter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E72" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E72-1">
+      <extent>
+			<charseq START="2351" END="2352">me</charseq>
+      </extent>
+      <head>
+			<charseq START="2351" END="2352">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E73" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E73-1">
+      <extent>
+			<charseq START="2358" END="2359">we</charseq>
+      </extent>
+      <head>
+			<charseq START="2358" END="2359">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E74" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E74-1">
+      <extent>
+			<charseq START="2388" END="2395">Ferguson</charseq>
+      </extent>
+      <head>
+			<charseq START="2388" END="2395">Ferguson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E75" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E75-1">
+      <extent>
+			<charseq START="2398" END="2399">we</charseq>
+      </extent>
+      <head>
+			<charseq START="2398" END="2399">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E76" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E76-1">
+      <extent>
+			<charseq START="2442" END="2447">anyone</charseq>
+      </extent>
+      <head>
+			<charseq START="2442" END="2447">anyone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E77" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E77-1">
+      <extent>
+			<charseq START="2565" END="2565">I</charseq>
+      </extent>
+      <head>
+			<charseq START="2565" END="2565">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E78" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E78-1">
+      <extent>
+			<charseq START="2608" END="2612">Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="2608" END="2612">Nixon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E79" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E79-1">
+      <extent>
+			<charseq START="2620" END="2621">He</charseq>
+      </extent>
+      <head>
+			<charseq START="2620" END="2621">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E80" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E80-1">
+      <extent>
+			<charseq START="2652" END="2662">many people</charseq>
+      </extent>
+      <head>
+			<charseq START="2657" END="2662">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E81" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E81-1">
+      <extent>
+			<charseq START="2692" END="2696">Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="2692" END="2696">Nixon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E82" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E82-1">
+      <extent>
+			<charseq START="2703" END="2704">he</charseq>
+      </extent>
+      <head>
+			<charseq START="2703" END="2704">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E83" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E83-1">
+      <extent>
+			<charseq START="2781" END="2798">the St. Louis area</charseq>
+      </extent>
+      <head>
+			<charseq START="2785" END="2793">St. Louis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E84" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E84-1">
+      <extent>
+			<charseq START="2781" END="2798">the St. Louis area</charseq>
+      </extent>
+      <head>
+			<charseq START="2795" END="2798">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E85" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E85-1">
+      <extent>
+			<charseq START="2833" END="2853">the Ferguson shooting</charseq>
+      </extent>
+      <head>
+			<charseq START="2837" END="2844">Ferguson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E86" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E86-1">
+      <extent>
+			<charseq START="2906" END="2911">people</charseq>
+      </extent>
+      <head>
+			<charseq START="2906" END="2911">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E87" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E87-1">
+      <extent>
+			<charseq START="3025" END="3029">Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="3025" END="3029">Nixon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E88" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E88-1">
+      <extent>
+			<charseq START="3039" END="3040">He</charseq>
+      </extent>
+      <head>
+			<charseq START="3039" END="3040">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E89" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E89-1">
+      <extent>
+			<charseq START="3047" END="3048">he</charseq>
+      </extent>
+      <head>
+			<charseq START="3047" END="3048">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E90" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E90-1">
+      <extent>
+			<charseq START="3070" END="3077">Ferguson</charseq>
+      </extent>
+      <head>
+			<charseq START="3070" END="3077">Ferguson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E91" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E91-1">
+      <extent>
+			<charseq START="3179" END="3183">there</charseq>
+      </extent>
+      <head>
+			<charseq START="3179" END="3183">there</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E92" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E92-1">
+      <extent>
+			<charseq START="3186" END="3214">A special Ferguson Commission</charseq>
+      </extent>
+      <head>
+			<charseq START="3196" END="3203">Ferguson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E93" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E93-1">
+      <extent>
+			<charseq START="3186" END="3214">A special Ferguson Commission</charseq>
+      </extent>
+      <head>
+			<charseq START="3205" END="3214">Commission</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E94" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E94-1">
+      <extent>
+			<charseq START="3306" END="3313">Ferguson</charseq>
+      </extent>
+      <head>
+			<charseq START="3306" END="3313">Ferguson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E95" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E95-1">
+      <extent>
+			<charseq START="3331" END="3335">areas</charseq>
+      </extent>
+      <head>
+			<charseq START="3331" END="3335">areas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E96" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E96-1">
+      <extent>
+			<charseq START="3340" END="3348">St. Louis</charseq>
+      </extent>
+      <head>
+			<charseq START="3340" END="3348">St. Louis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E97" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E97-1">
+      <extent>
+			<charseq START="3351" END="3368">Missouri residents</charseq>
+      </extent>
+      <head>
+			<charseq START="3360" END="3368">residents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E98" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E98-1">
+      <extent>
+			<charseq START="3425" END="3470">the television cameras and newspaper reporters</charseq>
+      </extent>
+      <head>
+			<charseq START="3452" END="3460">newspaper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E99" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E99-1">
+      <extent>
+			<charseq START="3425" END="3470">the television cameras and newspaper reporters</charseq>
+      </extent>
+      <head>
+			<charseq START="3462" END="3470">reporters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E100" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E100-1">
+      <extent>
+			<charseq START="3482" END="3486">Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="3482" END="3486">Nixon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E101" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E101-1">
+      <extent>
+			<charseq START="3519" END="3526">my state</charseq>
+      </extent>
+      <head>
+			<charseq START="3519" END="3520">my</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E102" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E102-1">
+      <extent>
+			<charseq START="3519" END="3526">my state</charseq>
+      </extent>
+      <head>
+			<charseq START="3522" END="3526">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E103" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E103-1">
+      <extent>
+			<charseq START="3578" END="3579">we</charseq>
+      </extent>
+      <head>
+			<charseq START="3578" END="3579">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E104" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E104-1">
+      <extent>
+			<charseq START="3589" END="3600">this country</charseq>
+      </extent>
+      <head>
+			<charseq START="3594" END="3600">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E105" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E105-1">
+      <extent>
+			<charseq START="3612" END="3617">police</charseq>
+      </extent>
+      <head>
+			<charseq START="3612" END="3617">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E106" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E106-1">
+      <extent>
+			<charseq START="3620" END="3623">kids</charseq>
+      </extent>
+      <head>
+			<charseq START="3620" END="3623">kids</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E107" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E107-1">
+      <extent>
+			<charseq START="3668" END="3669">he</charseq>
+      </extent>
+      <head>
+			<charseq START="3668" END="3669">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E108" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E108-1">
+      <extent>
+			<charseq START="3677" END="3689">???As someone</charseq>
+      </extent>
+      <head>
+			<charseq START="3683" END="3689">someone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E109" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E109-1">
+      <extent>
+			<charseq START="3777" END="3783">my life</charseq>
+      </extent>
+      <head>
+			<charseq START="3777" END="3778">my</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E110" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E110-1">
+      <extent>
+			<charseq START="3819" END="3826">Isaacson</charseq>
+      </extent>
+      <head>
+			<charseq START="3819" END="3826">Isaacson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E111" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E111-1">
+      <extent>
+			<charseq START="3845" END="3856">Hickenlooper</charseq>
+      </extent>
+      <head>
+			<charseq START="3845" END="3856">Hickenlooper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E112" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E112-1">
+      <extent>
+			<charseq START="3859" END="3860">he</charseq>
+      </extent>
+      <head>
+			<charseq START="3859" END="3860">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E113" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E113-1">
+      <extent>
+			<charseq START="3873" END="3880">Colorado</charseq>
+      </extent>
+      <head>
+			<charseq START="3873" END="3880">Colorado</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E114" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E114-1">
+      <extent>
+			<charseq START="3889" END="3904">tougher gun laws</charseq>
+      </extent>
+      <head>
+			<charseq START="3897" END="3899">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E115" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E115-1">
+      <extent>
+			<charseq START="3912" END="3917">Holmes</charseq>
+      </extent>
+      <head>
+			<charseq START="3912" END="3917">Holmes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E116" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E116-1">
+      <extent>
+			<charseq START="3926" END="3934">12 people</charseq>
+      </extent>
+      <head>
+			<charseq START="3929" END="3934">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E117" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E117-1">
+      <extent>
+			<charseq START="3954" END="3968">a movie theater</charseq>
+      </extent>
+      <head>
+			<charseq START="3962" END="3968">theater</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E118" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E118-1">
+      <extent>
+			<charseq START="3979" END="3980">He</charseq>
+      </extent>
+      <head>
+			<charseq START="3979" END="3980">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E119" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E119-1">
+      <extent>
+			<charseq START="3991" END="4000">the nation</charseq>
+      </extent>
+      <head>
+			<charseq START="3995" END="4000">nation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E120" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E120-1">
+      <extent>
+			<charseq START="4023" END="4044">?common-sense gun laws</charseq>
+      </extent>
+      <head>
+			<charseq START="4037" END="4039">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E121" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E121-1">
+      <extent>
+			<charseq START="4079" END="4090">Hickenlooper</charseq>
+      </extent>
+      <head>
+			<charseq START="4079" END="4090">Hickenlooper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E122" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E122-1">
+      <extent>
+			<charseq START="4097" END="4098">he</charseq>
+      </extent>
+      <head>
+			<charseq START="4097" END="4098">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E123" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E123-1">
+      <extent>
+			<charseq START="4150" END="4159">gun buyers</charseq>
+      </extent>
+      <head>
+			<charseq START="4150" END="4152">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E124" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E124-1">
+      <extent>
+			<charseq START="4150" END="4159">gun buyers</charseq>
+      </extent>
+      <head>
+			<charseq START="4154" END="4159">buyers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E125" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E125-1">
+      <extent>
+			<charseq START="4166" END="4185">conservative critics</charseq>
+      </extent>
+      <head>
+			<charseq START="4179" END="4185">critics</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E126" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E126-1">
+      <extent>
+			<charseq START="4333" END="4340">Colorado</charseq>
+      </extent>
+      <head>
+			<charseq START="4333" END="4340">Colorado</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E127" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E127-1">
+      <extent>
+			<charseq START="4351" END="4358">his team</charseq>
+      </extent>
+      <head>
+			<charseq START="4351" END="4353">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E128" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E128-1">
+      <extent>
+			<charseq START="4351" END="4358">his team</charseq>
+      </extent>
+      <head>
+			<charseq START="4355" END="4358">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E129" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E129-1">
+      <extent>
+			<charseq START="4398" END="4403">states</charseq>
+      </extent>
+      <head>
+			<charseq START="4398" END="4403">states</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E130" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E130-1">
+      <extent>
+			<charseq START="4405" END="4408">that</charseq>
+      </extent>
+      <head>
+			<charseq START="4405" END="4408">that</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E131" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E131-1">
+      <extent>
+			<charseq START="4450" END="4453">They</charseq>
+      </extent>
+      <head>
+			<charseq START="4450" END="4453">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E132" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E132-1">
+      <extent>
+			<charseq START="4494" END="4506">gun purchases</charseq>
+      </extent>
+      <head>
+			<charseq START="4494" END="4496">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E133" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E133-1">
+      <extent>
+			<charseq START="4511" END="4519">38 people</charseq>
+      </extent>
+      <head>
+			<charseq START="4514" END="4519">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E134" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E134-1">
+      <extent>
+			<charseq START="4521" END="4523">who</charseq>
+      </extent>
+      <head>
+			<charseq START="4521" END="4523">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E135" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E135-1">
+      <extent>
+			<charseq START="4551" END="4562">1,400 people</charseq>
+      </extent>
+      <head>
+			<charseq START="4557" END="4562">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E136" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E136-1">
+      <extent>
+			<charseq START="4564" END="4566">who</charseq>
+      </extent>
+      <head>
+			<charseq START="4564" END="4566">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E137" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E137-1">
+      <extent>
+			<charseq START="4595" END="4597">620</charseq>
+      </extent>
+      <head>
+			<charseq START="4595" END="4597">620</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E138" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E138-1">
+      <extent>
+			<charseq START="4599" END="4601">who</charseq>
+      </extent>
+      <head>
+			<charseq START="4599" END="4601">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E139" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E139-1">
+      <extent>
+			<charseq START="4659" END="4661">you</charseq>
+      </extent>
+      <head>
+			<charseq START="4659" END="4661">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E140" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E140-1">
+      <extent>
+			<charseq START="4682" END="4687">crooks</charseq>
+      </extent>
+      <head>
+			<charseq START="4682" END="4687">crooks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E141" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E141-1">
+      <extent>
+			<charseq START="4698" END="4715">stupid, 420 people</charseq>
+      </extent>
+      <head>
+			<charseq START="4710" END="4715">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E142" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E142-1">
+      <extent>
+			<charseq START="4722" END="4725">they</charseq>
+      </extent>
+      <head>
+			<charseq START="4722" END="4725">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E143" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E143-1">
+      <extent>
+			<charseq START="4743" END="4751">their gun</charseq>
+      </extent>
+      <head>
+			<charseq START="4743" END="4747">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E144" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E144-1">
+      <extent>
+			<charseq START="4743" END="4751">their gun</charseq>
+      </extent>
+      <head>
+			<charseq START="4749" END="4751">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E145" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E145-1">
+      <extent>
+			<charseq START="4754" END="4755">we</charseq>
+      </extent>
+      <head>
+			<charseq START="4754" END="4755">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E146" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E146-1">
+      <extent>
+			<charseq START="4766" END="4769">them</charseq>
+      </extent>
+      <head>
+			<charseq START="4766" END="4769">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E147" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E147-1">
+      <extent>
+			<charseq START="4824" END="4828">Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="4824" END="4828">Nixon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E148" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E148-1">
+      <extent>
+			<charseq START="4883" END="4890">the U.S.</charseq>
+      </extent>
+      <head>
+			<charseq START="4887" END="4890">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E149" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E149-1">
+      <extent>
+			<charseq START="4909" END="4916">Missouri</charseq>
+      </extent>
+      <head>
+			<charseq START="4909" END="4916">Missouri</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E150" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E150-1">
+      <extent>
+			<charseq START="4973" END="4981">31 people</charseq>
+      </extent>
+      <head>
+			<charseq START="4976" END="4981">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E151" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E151-1">
+      <extent>
+			<charseq START="5006" END="5029">law enforcement agencies</charseq>
+      </extent>
+      <head>
+			<charseq START="5022" END="5029">agencies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E152" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E152-1">
+      <extent>
+			<charseq START="5035" END="5056">mental-health agencies</charseq>
+      </extent>
+      <head>
+			<charseq START="5049" END="5056">agencies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E153" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E153-1">
+      <extent>
+			<charseq START="5097" END="5104">somebody</charseq>
+      </extent>
+      <head>
+			<charseq START="5097" END="5104">somebody</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E154" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E154-1">
+      <extent>
+			<charseq START="5138" END="5145">somebody</charseq>
+      </extent>
+      <head>
+			<charseq START="5138" END="5145">somebody</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E155" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E155-1">
+      <extent>
+			<charseq START="5163" END="5177">those 31 people</charseq>
+      </extent>
+      <head>
+			<charseq START="5172" END="5177">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E156" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E156-1">
+      <extent>
+			<charseq START="5201" END="5206">police</charseq>
+      </extent>
+      <head>
+			<charseq START="5201" END="5206">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E157" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E157-1">
+      <extent>
+			<charseq START="5212" END="5213">we</charseq>
+      </extent>
+      <head>
+			<charseq START="5212" END="5213">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E158" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E158-1">
+      <extent>
+			<charseq START="5267" END="5268">he</charseq>
+      </extent>
+      <head>
+			<charseq START="5267" END="5268">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E159" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E159-1">
+      <extent>
+			<charseq START="5278" END="5282">Nixon</charseq>
+      </extent>
+      <head>
+			<charseq START="5278" END="5282">Nixon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E160" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E160-1">
+      <extent>
+			<charseq START="5303" END="5304">he</charseq>
+      </extent>
+      <head>
+			<charseq START="5303" END="5304">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E161" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E161-1">
+      <extent>
+			<charseq START="5315" END="5316">We</charseq>
+      </extent>
+      <head>
+			<charseq START="5315" END="5316">We</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E162" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E162-1">
+      <extent>
+			<charseq START="5381" END="5388">gun laws</charseq>
+      </extent>
+      <head>
+			<charseq START="5381" END="5383">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="244.sgm-E163" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="244.sgm-E163-1">
+      <extent>
+			<charseq START="5466" END="5477">this country</charseq>
+      </extent>
+      <head>
+			<charseq START="5471" END="5477">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="244.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="244.sgm-E1" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E0" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="118" END="283">Colorado Gov. John Hickenlooper and Missouri Gov. Jay Nixon shared their thoughts in Aspen on Saturday on shooting tragedies that have dominated their time in office.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E1-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="118" END="176">Colorado Gov. John Hickenlooper and Missouri Gov. Jay Nixon</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E0-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="118" END="176">Colorado Gov. John Hickenlooper and Missouri Gov. Jay Nixon</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="244.sgm-E2" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E6" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="118" END="283">Colorado Gov. John Hickenlooper and Missouri Gov. Jay Nixon shared their thoughts in Aspen on Saturday on shooting tragedies that have dominated their time in office.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E2-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="118" END="176">Colorado Gov. John Hickenlooper and Missouri Gov. Jay Nixon</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E6-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="203" END="207">Aspen</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R2" TYPE="PHYS">
+    <relation_argument REFID="244.sgm-E4" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E6" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="118" END="283">Colorado Gov. John Hickenlooper and Missouri Gov. Jay Nixon shared their thoughts in Aspen on Saturday on shooting tragedies that have dominated their time in office.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E4-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="118" END="176">Colorado Gov. John Hickenlooper and Missouri Gov. Jay Nixon</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E6-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="203" END="207">Aspen</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R3" TYPE="ORG-AFF">
+    <relation_argument REFID="244.sgm-E11" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E10" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="287" END="565">Nixon said that in wake of the fatal shooting of a black man by a white police officer in Ferguson, Missouri, nearly a year ago, he would support legislation making it mandatory for a police officer to carry a body camera, but he doesn???t think that gets at underlying problems.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E11-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="351" END="372">a white police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="351" END="372">a white police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R4" TYPE="PHYS">
+    <relation_argument REFID="244.sgm-E11" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E12" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="287" END="565">Nixon said that in wake of the fatal shooting of a black man by a white police officer in Ferguson, Missouri, nearly a year ago, he would support legislation making it mandatory for a police officer to carry a body camera, but he doesn???t think that gets at underlying problems.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E11-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="351" END="372">a white police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E12-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="377" END="384">Ferguson</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R5" TYPE="PART-WHOLE">
+    <relation_argument REFID="244.sgm-E12" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E13" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="287" END="565">Nixon said that in wake of the fatal shooting of a black man by a white police officer in Ferguson, Missouri, nearly a year ago, he would support legislation making it mandatory for a police officer to carry a body camera, but he doesn???t think that gets at underlying problems.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E12-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="377" END="384">Ferguson</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E13-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="387" END="394">Missouri</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R6" TYPE="ORG-AFF">
+    <relation_argument REFID="244.sgm-E16" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E15" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="287" END="565">Nixon said that in wake of the fatal shooting of a black man by a white police officer in Ferguson, Missouri, nearly a year ago, he would support legislation making it mandatory for a police officer to carry a body camera, but he doesn???t think that gets at underlying problems.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E16-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="469" END="484">a police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E15-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="469" END="484">a police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R7" TYPE="GEN-AFF">
+    <relation_argument REFID="244.sgm-E25" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E24" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R7-1">
+      <ldc_extent>
+			<charseq START="763" END="875">Colorado legislators battled over tougher gun laws after the James Holmes??? theater shootings in Aurora in 2012.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E25-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="763" END="782">Colorado legislators</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E24-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="763" END="782">Colorado legislators</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R8" TYPE="PHYS">
+    <relation_argument REFID="244.sgm-E35" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E37" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R8-1">
+      <ldc_extent>
+			<charseq START="879" END="1103">The men shared their thoughts during a presentation called ???A Conversation With Democratic Governors.??? Aspen Institute President and CEO Walter Isaacson moderated it before a near-capacity crowd at the Greenwald Pavilion.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E35-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1016" END="1034">CEO Walter Isaacson</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E37-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1081" END="1102">the Greenwald Pavilion</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R9" TYPE="ORG-AFF">
+    <relation_argument REFID="244.sgm-E33" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E32" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R9-1">
+      <ldc_extent>
+			<charseq START="879" END="1103">The men shared their thoughts during a presentation called ???A Conversation With Democratic Governors.??? Aspen Institute President and CEO Walter Isaacson moderated it before a near-capacity crowd at the Greenwald Pavilion.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E33-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="986" END="1010">Aspen Institute President</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E32-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="986" END="1010">Aspen Institute President</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R10" TYPE="GEN-AFF">
+    <relation_argument REFID="244.sgm-E42" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E43" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R10-1">
+      <ldc_extent>
+			<charseq START="1171" END="1255">Nixon said his state will announce plans next week for new police training standards.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E42-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1182" END="1190">his state</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E43-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1182" END="1190">his state</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R11" TYPE="ORG-AFF">
+    <relation_argument REFID="244.sgm-E47" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E46" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R11-1">
+      <ldc_extent>
+			<charseq START="1314" END="1395">Isaacson asked if the new standards will require body cameras for police officers.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E47-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1380" END="1394">police officers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E46-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1380" END="1394">police officers</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R12" TYPE="PART-WHOLE">
+    <relation_argument REFID="244.sgm-E83" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E84" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R12-1">
+      <ldc_extent>
+			<charseq START="2620" END="2799">He predicted it won???t free as many people as it will ???lock up.??? 
+ Nixon said he is looking at longer-term solutions to race, education and other issues in the St. Louis area.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E83-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2781" END="2798">the St. Louis area</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E84-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2781" END="2798">the St. Louis area</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R13" TYPE="ORG-AFF">
+    <relation_argument REFID="244.sgm-E92" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E93" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R13-1">
+      <ldc_extent>
+			<charseq START="3186" END="3349">A special Ferguson Commission is working on 100 Points of Action designed to improve conditions that led to tensions in Ferguson and surrounding areas in St. Louis.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E92-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3186" END="3214">A special Ferguson Commission</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E93-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3186" END="3214">A special Ferguson Commission</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R14" TYPE="PART-WHOLE">
+    <relation_argument REFID="244.sgm-E95" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E96" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R14-1">
+      <ldc_extent>
+			<charseq START="3186" END="3349">A special Ferguson Commission is working on 100 Points of Action designed to improve conditions that led to tensions in Ferguson and surrounding areas in St. Louis.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E95-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3331" END="3335">areas</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E96-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3340" END="3348">St. Louis</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R15" TYPE="ORG-AFF">
+    <relation_argument REFID="244.sgm-E99" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E98" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R15-1">
+      <ldc_extent>
+			<charseq START="3351" END="3492">Missouri residents continued to work to make relations better even though the television cameras and newspaper reporters departed, Nixon said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E99-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3425" END="3470">the television cameras and newspaper reporters</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E98-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3425" END="3470">the television cameras and newspaper reporters</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R16" TYPE="GEN-AFF">
+    <relation_argument REFID="244.sgm-E101" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E102" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R16-1">
+      <ldc_extent>
+			<charseq START="3496" END="3675">???I???m very proud of my state for not being scared on the most difficult issues we have in this country ??? cops, police, kids, race, education, poverty, health care,??? he said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E101-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3519" END="3526">my state</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E102-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3519" END="3526">my state</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="244.sgm-R17" TYPE="PHYS">
+    <relation_argument REFID="244.sgm-E116" ROLE="Arg-1" />
+    <relation_argument REFID="244.sgm-E117" ROLE="Arg-2" />
+      <relation_mention ID="244.sgm-R17-1">
+      <ldc_extent>
+			<charseq START="3814" END="3977">When Isaacson moved on to quiz Hickenlooper, he noted that Colorado passed tougher gun laws after Holmes killed 12 people and wounded 70 in a movie theater in 2012.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="244.sgm-E116-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3926" END="3934">12 people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="244.sgm-E117-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3954" END="3968">a movie theater</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="244.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="287" END="565">Nixon said that in wake of the fatal shooting of a black man by a white police officer in Ferguson, Missouri, nearly a year ago, he would support legislation making it mandatory for a police officer to carry a body camera, but he doesn???t think that gets at underlying problems.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="318" END="322">fatal</charseq>
+      </anchor>
+      <event_mention_argument REFID="244.sgm-E9-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="336" END="346">a black man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="287" END="565">Nixon said that in wake of the fatal shooting of a black man by a white police officer in Ferguson, Missouri, nearly a year ago, he would support legislation making it mandatory for a police officer to carry a body camera, but he doesn???t think that gets at underlying problems.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="324" END="331">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="244.sgm-E9-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="336" END="346">a black man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="763" END="875">Colorado legislators battled over tougher gun laws after the James Holmes??? theater shootings in Aurora in 2012.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="848" END="856">shootings</charseq>
+      </anchor>
+      <event_mention_argument REFID="244.sgm-E28-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="861" END="866">Aurora</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV3" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="1907" END="2041">???Where jurisdictions have had body cameras, the prosecution rates and the convictions rates have shot up dramatically,??? Nixon said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1983" END="1993">convictions</charseq>
+      </anchor>
+      <event_mention_argument REFID="244.sgm-E64-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1916" END="1928">jurisdictions</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="1907" END="2041">???Where jurisdictions have had body cameras, the prosecution rates and the convictions rates have shot up dramatically,??? Nixon said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2006" END="2009">shot</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV5" TYPE="Conflict" SUBTYPE="Demonstrate" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="2801" END="2942">The protests and dialogue after the Ferguson shooting has improved communication and boosted chances for people working together on solutions.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2805" END="2812">protests</charseq>
+      </anchor>
+      <event_mention_argument REFID="244.sgm-E86-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2906" END="2911">people</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="3814" END="3977">When Isaacson moved on to quiz Hickenlooper, he noted that Colorado passed tougher gun laws after Holmes killed 12 people and wounded 70 in a movie theater in 2012.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3828" END="3832">moved</charseq>
+      </anchor>
+      <event_mention_argument REFID="244.sgm-E110-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3819" END="3826">Isaacson</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV7" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="3814" END="3977">When Isaacson moved on to quiz Hickenlooper, he noted that Colorado passed tougher gun laws after Holmes killed 12 people and wounded 70 in a movie theater in 2012.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3919" END="3924">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="244.sgm-E115-1" ROLE="Agent" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3912" END="3917">Holmes</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="244.sgm-E116-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3926" END="3934">12 people</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="244.sgm-E117-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3954" END="3968">a movie theater</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV8" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="3814" END="3977">When Isaacson moved on to quiz Hickenlooper, he noted that Colorado passed tougher gun laws after Holmes killed 12 people and wounded 70 in a movie theater in 2012.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3940" END="3946">wounded</charseq>
+      </anchor>
+      <event_mention_argument REFID="244.sgm-E117-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3954" END="3968">a movie theater</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV9" TYPE="Personnel" SUBTYPE="Elect" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="4079" END="4296">Hickenlooper said he is a proponent of universal background checks for gun buyers, but conservative critics in elected office contend that ???crooks aren???t stupid ??? they???re not going to get a background check.???</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4190" END="4196">elected</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV10" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV10-1" p="1.000">
+      <extent>
+			<charseq START="4300" END="4448">During the heat of the debate in Colorado in 2013, his team went back and checked statistics from states that had background checks in place in 2012.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4360" END="4363">went</charseq>
+      </anchor>
+      <event_mention_argument REFID="244.sgm-E128-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4351" END="4358">his team</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV11" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV11-1" p="1.000">
+      <extent>
+			<charseq START="4450" END="4958">They found that background checks prevented gun purchases by 38 people who had homicide convictions, 1,400 people who were convicted of robbery, 620 who had outstanding restraining orders and, ???just in case you don???t think that crooks are that stupid, 420 people when they came to pick up their gun, we arrested them for an outstanding warrant for a violent crime.??? 
+ Nixon said that after the rash of mass-murder shootings in the U.S. in recent years, Missouri took a different approach to the problem.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4498" END="4506">purchases</charseq>
+      </anchor>
+      <event_mention_argument REFID="244.sgm-E132-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4494" END="4506">gun purchases</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="244.sgm-E133-1" ROLE="Agent" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4511" END="4519">38 people</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV12" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV12-1" p="1.000">
+      <extent>
+			<charseq START="4450" END="4958">They found that background checks prevented gun purchases by 38 people who had homicide convictions, 1,400 people who were convicted of robbery, 620 who had outstanding restraining orders and, ???just in case you don???t think that crooks are that stupid, 420 people when they came to pick up their gun, we arrested them for an outstanding warrant for a violent crime.??? 
+ Nixon said that after the rash of mass-murder shootings in the U.S. in recent years, Missouri took a different approach to the problem.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4529" END="4536">homicide</charseq>
+      </anchor>
+      <event_mention_argument REFID="244.sgm-E133-1" ROLE="Agent" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4511" END="4519">38 people</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV13" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV13-1" p="1.000">
+      <extent>
+			<charseq START="4450" END="4958">They found that background checks prevented gun purchases by 38 people who had homicide convictions, 1,400 people who were convicted of robbery, 620 who had outstanding restraining orders and, ???just in case you don???t think that crooks are that stupid, 420 people when they came to pick up their gun, we arrested them for an outstanding warrant for a violent crime.??? 
+ Nixon said that after the rash of mass-murder shootings in the U.S. in recent years, Missouri took a different approach to the problem.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4538" END="4548">convictions</charseq>
+      </anchor>
+      <event_mention_argument REFID="244.sgm-E133-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4511" END="4519">38 people</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV14" TYPE="Justice" SUBTYPE="Convict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV14-1" p="1.000">
+      <extent>
+			<charseq START="4450" END="4958">They found that background checks prevented gun purchases by 38 people who had homicide convictions, 1,400 people who were convicted of robbery, 620 who had outstanding restraining orders and, ???just in case you don???t think that crooks are that stupid, 420 people when they came to pick up their gun, we arrested them for an outstanding warrant for a violent crime.??? 
+ Nixon said that after the rash of mass-murder shootings in the U.S. in recent years, Missouri took a different approach to the problem.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4573" END="4581">convicted</charseq>
+      </anchor>
+      <event_mention_argument REFID="244.sgm-E135-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4551" END="4562">1,400 people</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV15" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV15-1" p="1.000">
+      <extent>
+			<charseq START="4450" END="4958">They found that background checks prevented gun purchases by 38 people who had homicide convictions, 1,400 people who were convicted of robbery, 620 who had outstanding restraining orders and, ???just in case you don???t think that crooks are that stupid, 420 people when they came to pick up their gun, we arrested them for an outstanding warrant for a violent crime.??? 
+ Nixon said that after the rash of mass-murder shootings in the U.S. in recent years, Missouri took a different approach to the problem.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4757" END="4764">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="244.sgm-E146-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4766" END="4769">them</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV16" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV16-1" p="1.000">
+      <extent>
+			<charseq START="4960" END="5057">It appointed 31 people to be liaisons between law enforcement agencies and mental-health agencies.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4963" END="4971">appointed</charseq>
+      </anchor>
+      <event_mention_argument REFID="244.sgm-E150-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4973" END="4981">31 people</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV17" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV17-1" p="1.000">
+      <extent>
+			<charseq START="5061" END="5274">???In the first year that there was somebody for a cop to call and a way for somebody to get service, those 31 people had 12,000 calls from police and we made 7,500 referrals for mental-health services,??? he said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="5190" END="5194">calls</charseq>
+      </anchor>
+      <event_mention_argument REFID="244.sgm-E155-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="5163" END="5177">those 31 people</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="244.sgm-E156-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="5201" END="5206">police</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="244.sgm-EV18" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="244.sgm-EV18-1" p="1.000">
+      <extent>
+			<charseq START="5278" END="5481">Nixon drew applause when he said, ???We should not let the disengagement and the inability to agree on gun laws be an excuse not to move forward on significant mental issues that exist in this country.???</charseq>
+      </extent>
+      <anchor>
+			<charseq START="5410" END="5413">move</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

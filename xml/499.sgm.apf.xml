@@ -1,0 +1,964 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/499.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/499.sgm">
+  <entity ID="499.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E0-1">
+      <extent>
+			<charseq START="274" END="289">Clarkdale police</charseq>
+      </extent>
+      <head>
+			<charseq START="284" END="289">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E1-1">
+      <extent>
+			<charseq START="331" END="358">the Centerville neighborhood</charseq>
+      </extent>
+      <head>
+			<charseq START="335" END="345">Centerville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E2" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E2-1">
+      <extent>
+			<charseq START="331" END="358">the Centerville neighborhood</charseq>
+      </extent>
+      <head>
+			<charseq START="347" END="358">neighborhood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E3" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E3-1">
+      <extent>
+			<charseq START="365" END="379">State Route 89A</charseq>
+      </extent>
+      <head>
+			<charseq START="365" END="369">State</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E4" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E4-1">
+      <extent>
+			<charseq START="395" END="429">Clarkdale Police Chief Randy Taylor</charseq>
+      </extent>
+      <head>
+			<charseq START="405" END="410">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E5-1">
+      <extent>
+			<charseq START="395" END="429">Clarkdale Police Chief Randy Taylor</charseq>
+      </extent>
+      <head>
+			<charseq START="412" END="416">Chief</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E6-1">
+      <extent>
+			<charseq START="395" END="429">Clarkdale Police Chief Randy Taylor</charseq>
+      </extent>
+      <head>
+			<charseq START="418" END="429">Randy Taylor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E7-1">
+      <extent>
+			<charseq START="437" END="442">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="437" END="442">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E8-1">
+      <extent>
+			<charseq START="520" END="525">police</charseq>
+      </extent>
+      <head>
+			<charseq START="520" END="525">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E9-1">
+      <extent>
+			<charseq START="536" END="539">they</charseq>
+      </extent>
+      <head>
+			<charseq START="536" END="539">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E10-1">
+      <extent>
+			<charseq START="547" END="563">the female victim</charseq>
+      </extent>
+      <head>
+			<charseq START="558" END="563">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E11-1">
+      <extent>
+			<charseq START="582" END="587">Taylor</charseq>
+      </extent>
+      <head>
+			<charseq START="582" END="587">Taylor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E12-1">
+      <extent>
+			<charseq START="595" END="603">The woman</charseq>
+      </extent>
+      <head>
+			<charseq START="599" END="603">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E13-1">
+      <extent>
+			<charseq START="636" END="649">a male suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="643" END="649">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E14-1">
+      <extent>
+			<charseq START="655" END="660">Taylor</charseq>
+      </extent>
+      <head>
+			<charseq START="655" END="660">Taylor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E15-1">
+      <extent>
+			<charseq START="667" END="672">no one</charseq>
+      </extent>
+      <head>
+			<charseq START="667" END="672">no one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E16" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E16-1">
+      <extent>
+			<charseq START="694" END="700">the gun</charseq>
+      </extent>
+      <head>
+			<charseq START="698" END="700">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E17" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E17-1">
+      <extent>
+			<charseq START="702" END="705">that</charseq>
+      </extent>
+      <head>
+			<charseq START="702" END="705">that</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E18-1">
+      <extent>
+			<charseq START="724" END="734">The suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="728" END="734">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E19-1">
+      <extent>
+			<charseq START="750" END="755">a male</charseq>
+      </extent>
+      <head>
+			<charseq START="752" END="755">male</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E20-1">
+      <extent>
+			<charseq START="760" END="772">his early 30s</charseq>
+      </extent>
+      <head>
+			<charseq START="760" END="762">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E21" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E21-1">
+      <extent>
+			<charseq START="792" END="799">the home</charseq>
+      </extent>
+      <head>
+			<charseq START="796" END="799">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E22-1">
+      <extent>
+			<charseq START="806" END="811">police</charseq>
+      </extent>
+      <head>
+			<charseq START="806" END="811">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E23-1">
+      <extent>
+			<charseq START="822" END="827">Taylor</charseq>
+      </extent>
+      <head>
+			<charseq START="822" END="827">Taylor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E24-1">
+      <extent>
+			<charseq START="891" END="892">He</charseq>
+      </extent>
+      <head>
+			<charseq START="891" END="892">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E25-1">
+      <extent>
+			<charseq START="905" END="911">himself</charseq>
+      </extent>
+      <head>
+			<charseq START="905" END="911">himself</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E26" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E26-1">
+      <extent>
+			<charseq START="920" END="927">the home</charseq>
+      </extent>
+      <head>
+			<charseq START="924" END="927">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E27-1">
+      <extent>
+			<charseq START="934" END="945">two children</charseq>
+      </extent>
+      <head>
+			<charseq START="938" END="945">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E28-1">
+      <extent>
+			<charseq START="947" END="954">” Taylor</charseq>
+      </extent>
+      <head>
+			<charseq START="949" END="954">Taylor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E29-1">
+      <extent>
+			<charseq START="962" END="973">The children</charseq>
+      </extent>
+      <head>
+			<charseq START="966" END="973">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E30" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E30-1">
+      <extent>
+			<charseq START="1014" END="1038">Clarkdale Police officers</charseq>
+      </extent>
+      <head>
+			<charseq START="1024" END="1029">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E31-1">
+      <extent>
+			<charseq START="1014" END="1038">Clarkdale Police officers</charseq>
+      </extent>
+      <head>
+			<charseq START="1031" END="1038">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E32-1">
+      <extent>
+			<charseq START="1099" END="1104">Taylor</charseq>
+      </extent>
+      <head>
+			<charseq START="1099" END="1104">Taylor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E33-1">
+      <extent>
+			<charseq START="1111" END="1114">they</charseq>
+      </extent>
+      <head>
+			<charseq START="1111" END="1114">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E34" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E34-1">
+      <extent>
+			<charseq START="1144" END="1178">the Verde Valley Regional SWAT team</charseq>
+      </extent>
+      <head>
+			<charseq START="1148" END="1178">Verde Valley Regional SWAT team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E35-1">
+      <extent>
+			<charseq START="1181" END="1193">The SWAT team</charseq>
+      </extent>
+      <head>
+			<charseq START="1190" END="1193">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E36-1">
+      <extent>
+			<charseq START="1231" END="1242">a negotiator</charseq>
+      </extent>
+      <head>
+			<charseq START="1233" END="1242">negotiator</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E37" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E37-1">
+      <extent>
+			<charseq START="1263" END="1273">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="1267" END="1273">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E38-1">
+      <extent>
+			<charseq START="1276" END="1281">Taylor</charseq>
+      </extent>
+      <head>
+			<charseq START="1276" END="1281">Taylor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E39-1">
+      <extent>
+			<charseq START="1334" END="1338">“They</charseq>
+      </extent>
+      <head>
+			<charseq START="1334" END="1338">“They</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E40" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E40-1">
+      <extent>
+			<charseq START="1357" END="1368">the children</charseq>
+      </extent>
+      <head>
+			<charseq START="1361" END="1368">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E41" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E41-1">
+      <extent>
+			<charseq START="1377" END="1385">the house</charseq>
+      </extent>
+      <head>
+			<charseq START="1381" END="1385">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E42-1">
+      <extent>
+			<charseq START="1387" END="1394">” Taylor</charseq>
+      </extent>
+      <head>
+			<charseq START="1389" END="1394">Taylor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E43" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E43-1">
+      <extent>
+			<charseq START="1402" END="1407">Taylor</charseq>
+      </extent>
+      <head>
+			<charseq START="1402" END="1407">Taylor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E44" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E44-1">
+      <extent>
+			<charseq START="1431" END="1443">the SWAT team</charseq>
+      </extent>
+      <head>
+			<charseq START="1435" END="1438">SWAT</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E45" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E45-1">
+      <extent>
+			<charseq START="1431" END="1443">the SWAT team</charseq>
+      </extent>
+      <head>
+			<charseq START="1440" END="1443">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E46" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E46-1">
+      <extent>
+			<charseq START="1484" END="1494">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="1488" END="1494">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E47" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E47-1">
+      <extent>
+			<charseq START="1497" END="1504">The team</charseq>
+      </extent>
+      <head>
+			<charseq START="1501" END="1504">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E48" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E48-1">
+      <extent>
+			<charseq START="1541" END="1546">Taylor</charseq>
+      </extent>
+      <head>
+			<charseq START="1541" END="1546">Taylor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E49" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E49-1">
+      <extent>
+			<charseq START="1575" END="1585">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="1579" END="1585">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E50" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E50-1">
+      <extent>
+			<charseq START="1629" END="1634">Taylor</charseq>
+      </extent>
+      <head>
+			<charseq START="1629" END="1634">Taylor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E51" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E51-1">
+      <extent>
+			<charseq START="1641" END="1651">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="1645" END="1651">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E52" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E52-1">
+      <extent>
+			<charseq START="1660" END="1686">Verde Valley Medical Center</charseq>
+      </extent>
+      <head>
+			<charseq START="1660" END="1686">Verde Valley Medical Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E53" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E53-1">
+      <extent>
+			<charseq START="1690" END="1695">Taylor</charseq>
+      </extent>
+      <head>
+			<charseq START="1690" END="1695">Taylor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="499.sgm-E54" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="499.sgm-E54-1">
+      <extent>
+			<charseq START="1723" END="1733">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="1727" END="1733">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="499.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="499.sgm-E5" ROLE="Arg-1" />
+    <relation_argument REFID="499.sgm-E4" ROLE="Arg-2" />
+      <relation_mention ID="499.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="274" END="435">Clarkdale police responded to a report of shots fired in the Centerville neighborhood near State Route 89A at 8:50 a.m., Clarkdale Police Chief Randy Taylor said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="499.sgm-E5-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="395" END="429">Clarkdale Police Chief Randy Taylor</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="499.sgm-E4-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="395" END="429">Clarkdale Police Chief Randy Taylor</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="499.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="499.sgm-E18" ROLE="Arg-1" />
+    <relation_argument REFID="499.sgm-E21" ROLE="Arg-2" />
+      <relation_mention ID="499.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="724" END="833">The suspect, described as a male in his early 30s, was still inside the home when police arrived, Taylor said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="499.sgm-E18-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="724" END="734">The suspect</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="499.sgm-E21-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="792" END="799">the home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="499.sgm-R2" TYPE="PHYS">
+    <relation_argument REFID="499.sgm-E19" ROLE="Arg-1" />
+    <relation_argument REFID="499.sgm-E21" ROLE="Arg-2" />
+      <relation_mention ID="499.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="724" END="833">The suspect, described as a male in his early 30s, was still inside the home when police arrived, Taylor said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="499.sgm-E19-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="750" END="755">a male</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="499.sgm-E21-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="792" END="799">the home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="499.sgm-R3" TYPE="PHYS">
+    <relation_argument REFID="499.sgm-E24" ROLE="Arg-1" />
+    <relation_argument REFID="499.sgm-E26" ROLE="Arg-2" />
+      <relation_mention ID="499.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="890" END="960">“He barricaded himself inside the home with two children,” Taylor said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="499.sgm-E24-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="891" END="892">He</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="499.sgm-E26-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="920" END="927">the home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="499.sgm-R4" TYPE="ORG-AFF">
+    <relation_argument REFID="499.sgm-E31" ROLE="Arg-1" />
+    <relation_argument REFID="499.sgm-E30" ROLE="Arg-2" />
+      <relation_mention ID="499.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="1009" END="1179">When Clarkdale Police officers realized that the incident had become a hostage situation, Taylor said they requested the assistance of the Verde Valley Regional SWAT team.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="499.sgm-E31-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1014" END="1038">Clarkdale Police officers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="499.sgm-E30-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1014" END="1038">Clarkdale Police officers</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="499.sgm-R5" TYPE="PHYS">
+    <relation_argument REFID="499.sgm-E40" ROLE="Arg-1" />
+    <relation_argument REFID="499.sgm-E41" ROLE="Arg-2" />
+      <relation_mention ID="499.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="1334" END="1400">“They were able to get the children out of the house,” Taylor said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="499.sgm-E40-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1357" END="1368">the children</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="499.sgm-E41-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1377" END="1385">the house</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="499.sgm-R6" TYPE="PHYS">
+    <relation_argument REFID="499.sgm-E51" ROLE="Arg-1" />
+    <relation_argument REFID="499.sgm-E52" ROLE="Arg-2" />
+      <relation_mention ID="499.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="1602" END="1687">As of Wednesday afternoon, Taylor said the suspect was at Verde Valley Medical Center.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="499.sgm-E51-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1641" END="1651">the suspect</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="499.sgm-E52-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1660" END="1686">Verde Valley Medical Center</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="499.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="499.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="274" END="435">Clarkdale police responded to a report of shots fired in the Centerville neighborhood near State Route 89A at 8:50 a.m., Clarkdale Police Chief Randy Taylor said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="316" END="320">shots</charseq>
+      </anchor>
+      <event_mention_argument REFID="499.sgm-E2-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="331" END="358">the Centerville neighborhood</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="499.sgm-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="499.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="515" END="593">When police arrived, they found the female victim out in the yard, Taylor said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="527" END="533">arrived</charseq>
+      </anchor>
+      <event_mention_argument REFID="499.sgm-E8-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="520" END="525">police</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="499.sgm-EV2" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="499.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="595" END="721">The woman had been reportedly injured by a male suspect but Taylor said no one had been injured by the gun that had been fired.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="625" END="631">injured</charseq>
+      </anchor>
+      <event_mention_argument REFID="499.sgm-E12-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="595" END="603">The woman</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="499.sgm-E13-1" ROLE="Agent" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="636" END="649">a male suspect</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="499.sgm-EV3" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="499.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="595" END="721">The woman had been reportedly injured by a male suspect but Taylor said no one had been injured by the gun that had been fired.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="683" END="689">injured</charseq>
+      </anchor>
+      <event_mention_argument REFID="499.sgm-E15-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="667" END="672">no one</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="499.sgm-E16-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="694" END="700">the gun</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="499.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="499.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="595" END="721">The woman had been reportedly injured by a male suspect but Taylor said no one had been injured by the gun that had been fired.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="716" END="720">fired</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="499.sgm-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="499.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="724" END="833">The suspect, described as a male in his early 30s, was still inside the home when police arrived, Taylor said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="813" END="819">arrived</charseq>
+      </anchor>
+      <event_mention_argument REFID="499.sgm-E21-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="792" END="799">the home</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="499.sgm-E18-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="724" END="734">The suspect</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="499.sgm-EV6" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="499.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="1276" END="1331">Taylor said that at first, negotiations were going well.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1303" END="1314">negotiations</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="499.sgm-EV7" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="499.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="1334" END="1400">“They were able to get the children out of the house,” Taylor said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1353" END="1355">get</charseq>
+      </anchor>
+      <event_mention_argument REFID="499.sgm-E39-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1334" END="1338">“They</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="499.sgm-E40-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1357" END="1368">the children</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="499.sgm-E41-1" ROLE="Origin" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1377" END="1385">the house</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="499.sgm-EV8" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="499.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="1497" END="1599">The team went in to the home around 3 p.m., Taylor said, and was able to take the suspect into custody.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1592" END="1598">custody</charseq>
+      </anchor>
+      <event_mention_argument REFID="499.sgm-E49-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1575" END="1585">the suspect</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="499.sgm-EV9" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="499.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="1690" END="1816">Taylor said that charges against the suspect are pending but will include domestic violence, aggravated assault and kidnapping.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1707" END="1713">charges</charseq>
+      </anchor>
+      <event_mention_argument REFID="499.sgm-E54-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1723" END="1733">the suspect</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

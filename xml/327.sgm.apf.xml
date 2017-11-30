@@ -1,0 +1,866 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/327.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/327.sgm">
+  <entity ID="327.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E0-1">
+      <extent>
+			<charseq START="129" END="142">Family members</charseq>
+      </extent>
+      <head>
+			<charseq START="129" END="134">Family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E1-1">
+      <extent>
+			<charseq START="129" END="142">Family members</charseq>
+      </extent>
+      <head>
+			<charseq START="136" END="142">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E2-1">
+      <extent>
+			<charseq START="148" END="160">Matthew Moore</charseq>
+      </extent>
+      <head>
+			<charseq START="148" END="160">Matthew Moore</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E3" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E3-1">
+      <extent>
+			<charseq START="165" END="173">Knoxville</charseq>
+      </extent>
+      <head>
+			<charseq START="165" END="173">Knoxville</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E4-1">
+      <extent>
+			<charseq START="189" END="200">his injuries</charseq>
+      </extent>
+      <head>
+			<charseq START="189" END="191">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E5" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E5-1">
+      <extent>
+			<charseq START="234" END="254">Athens Saturday night</charseq>
+      </extent>
+      <head>
+			<charseq START="234" END="239">Athens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E6-1">
+      <extent>
+			<charseq START="257" END="261">Moore</charseq>
+      </extent>
+      <head>
+			<charseq START="257" END="261">Moore</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E7-1">
+      <extent>
+			<charseq START="270" END="272">one</charseq>
+      </extent>
+      <head>
+			<charseq START="270" END="272">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E8-1">
+      <extent>
+			<charseq START="277" END="279">two</charseq>
+      </extent>
+      <head>
+			<charseq START="277" END="279">two</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E9-1">
+      <extent>
+			<charseq START="337" END="346">Cory Jones</charseq>
+      </extent>
+      <head>
+			<charseq START="337" END="346">Cory Jones</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E10" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E10-1">
+      <extent>
+			<charseq START="351" END="356">Athens</charseq>
+      </extent>
+      <head>
+			<charseq START="351" END="356">Athens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E11-1">
+      <extent>
+			<charseq START="359" END="361">who</charseq>
+      </extent>
+      <head>
+			<charseq START="359" END="361">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E12" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E12-1">
+      <extent>
+			<charseq START="394" END="405">the hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="398" END="405">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E13-1">
+      <extent>
+			<charseq START="433" END="445">Athens Police</charseq>
+      </extent>
+      <head>
+			<charseq START="433" END="445">Athens Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E14-1">
+      <extent>
+			<charseq START="448" END="453">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="448" END="453">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E15-1">
+      <extent>
+			<charseq START="459" END="472">a third victim</charseq>
+      </extent>
+      <head>
+			<charseq START="467" END="472">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E16-1">
+      <extent>
+			<charseq START="475" END="487">Timothy White</charseq>
+      </extent>
+      <head>
+			<charseq START="475" END="487">Timothy White</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E17" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E17-1">
+      <extent>
+			<charseq START="492" END="497">Athens</charseq>
+      </extent>
+      <head>
+			<charseq START="492" END="497">Athens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E18-1">
+      <extent>
+			<charseq START="517" END="524">Erlanger</charseq>
+      </extent>
+      <head>
+			<charseq START="517" END="524">Erlanger</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E19-1">
+      <extent>
+			<charseq START="583" END="590">suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="583" END="590">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E20-1">
+      <extent>
+			<charseq START="612" END="624">NewsChannel 9</charseq>
+      </extent>
+      <head>
+			<charseq START="612" END="622">NewsChannel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E21" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E21-1">
+      <extent>
+			<charseq START="664" END="669">a home</charseq>
+      </extent>
+      <head>
+			<charseq START="666" END="669">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E22-1">
+      <extent>
+			<charseq START="687" END="696">Cory Jones</charseq>
+      </extent>
+      <head>
+			<charseq START="687" END="696">Cory Jones</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E23-1">
+      <extent>
+			<charseq START="699" END="718">His landlord Sam Ray</charseq>
+      </extent>
+      <head>
+			<charseq START="699" END="701">His</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E24-1">
+      <extent>
+			<charseq START="699" END="718">His landlord Sam Ray</charseq>
+      </extent>
+      <head>
+			<charseq START="703" END="710">landlord</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E25-1">
+      <extent>
+			<charseq START="699" END="718">His landlord Sam Ray</charseq>
+      </extent>
+      <head>
+			<charseq START="712" END="718">Sam Ray</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E26-1">
+      <extent>
+			<charseq START="725" END="729">Jones</charseq>
+      </extent>
+      <head>
+			<charseq START="725" END="729">Jones</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E27-1">
+      <extent>
+			<charseq START="779" END="792">his girlfriend</charseq>
+      </extent>
+      <head>
+			<charseq START="779" END="781">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E28-1">
+      <extent>
+			<charseq START="779" END="792">his girlfriend</charseq>
+      </extent>
+      <head>
+			<charseq START="783" END="792">girlfriend</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E29-1">
+      <extent>
+			<charseq START="811" END="820">their jobs</charseq>
+      </extent>
+      <head>
+			<charseq START="811" END="815">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E30-1">
+      <extent>
+			<charseq START="823" END="826">they</charseq>
+      </extent>
+      <head>
+			<charseq START="823" END="826">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E31-1">
+      <extent>
+			<charseq START="843" END="861">their rent payments</charseq>
+      </extent>
+      <head>
+			<charseq START="843" END="847">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E32-1">
+      <extent>
+			<charseq START="910" END="910">I</charseq>
+      </extent>
+      <head>
+			<charseq START="910" END="910">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E33-1">
+      <extent>
+			<charseq START="933" END="935">him</charseq>
+      </extent>
+      <head>
+			<charseq START="933" END="935">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E34-1">
+      <extent>
+			<charseq START="938" END="939">He</charseq>
+      </extent>
+      <head>
+			<charseq START="938" END="939">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E35-1">
+      <extent>
+			<charseq START="945" END="958">a likeable guy</charseq>
+      </extent>
+      <head>
+			<charseq START="956" END="958">guy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E36-1">
+      <extent>
+			<charseq START="1006" END="1007">me</charseq>
+      </extent>
+      <head>
+			<charseq START="1006" END="1007">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E37" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E37-1">
+      <extent>
+			<charseq START="1014" END="1015">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1014" END="1015">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E38-1">
+      <extent>
+			<charseq START="1041" END="1042">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1041" END="1042">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E39-1">
+      <extent>
+			<charseq START="1069" END="1071">Ray</charseq>
+      </extent>
+      <head>
+			<charseq START="1069" END="1071">Ray</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E40" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E40-1">
+      <extent>
+			<charseq START="1078" END="1090">NewsChannel 9</charseq>
+      </extent>
+      <head>
+			<charseq START="1078" END="1088">NewsChannel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E41" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E41-1">
+      <extent>
+			<charseq START="1091" END="1101">.
+Neighbors</charseq>
+      </extent>
+      <head>
+			<charseq START="1093" END="1101">Neighbors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E42-1">
+      <extent>
+			<charseq START="1107" END="1110">they</charseq>
+      </extent>
+      <head>
+			<charseq START="1107" END="1110">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E43" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E43-1">
+      <extent>
+			<charseq START="1142" END="1146">Jones</charseq>
+      </extent>
+      <head>
+			<charseq START="1142" END="1146">Jones</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E44" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E44-1">
+      <extent>
+			<charseq START="1154" END="1155">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1154" END="1155">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E45" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E45-1">
+      <extent>
+			<charseq START="1212" END="1212">I</charseq>
+      </extent>
+      <head>
+			<charseq START="1212" END="1212">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E46" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E46-1">
+      <extent>
+			<charseq START="1227" END="1228">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1227" END="1228">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E47" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E47-1">
+      <extent>
+			<charseq START="1267" END="1268">me</charseq>
+      </extent>
+      <head>
+			<charseq START="1267" END="1268">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E48" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E48-1">
+      <extent>
+			<charseq START="1291" END="1302">one neighbor</charseq>
+      </extent>
+      <head>
+			<charseq START="1295" END="1302">neighbor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E49" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E49-1">
+      <extent>
+			<charseq START="1305" END="1316">The landlord</charseq>
+      </extent>
+      <head>
+			<charseq START="1309" END="1316">landlord</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E50" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E50-1">
+      <extent>
+			<charseq START="1368" END="1375">the home</charseq>
+      </extent>
+      <head>
+			<charseq START="1372" END="1375">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E51" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E51-1">
+      <extent>
+			<charseq START="1380" END="1392">investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="1380" END="1392">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E52" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E52-1">
+      <extent>
+			<charseq START="1446" END="1460">extract bullets</charseq>
+      </extent>
+      <head>
+			<charseq START="1454" END="1460">bullets</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E53" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E53-1">
+      <extent>
+			<charseq START="1531" END="1551">4 market bullet holes</charseq>
+      </extent>
+      <head>
+			<charseq START="1540" END="1545">bullet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E54" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E54-1">
+      <extent>
+			<charseq START="1572" END="1580">the house</charseq>
+      </extent>
+      <head>
+			<charseq START="1576" END="1580">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E55" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E55-1">
+      <extent>
+			<charseq START="1617" END="1623">the TBI</charseq>
+      </extent>
+      <head>
+			<charseq START="1621" END="1623">TBI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E56" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E56-1">
+      <extent>
+			<charseq START="1629" END="1656">the Athens Police Department</charseq>
+      </extent>
+      <head>
+			<charseq START="1633" END="1656">Athens Police Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="327.sgm-E57" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="327.sgm-E57-1">
+      <extent>
+			<charseq START="1698" END="1713">both departments</charseq>
+      </extent>
+      <head>
+			<charseq START="1703" END="1713">departments</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="327.sgm-R0" TYPE="PER-SOC">
+    <relation_argument REFID="327.sgm-E27" ROLE="Arg-1" />
+    <relation_argument REFID="327.sgm-E28" ROLE="Arg-2" />
+      <relation_mention ID="327.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="699" END="907">His landlord Sam Ray says Jones had been renting the unit for about a year with his girlfriend but after losing their jobs, they fell behind in their rent payments and received an eviction notice on July 21st.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="327.sgm-E27-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="779" END="792">his girlfriend</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="327.sgm-E28-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="779" END="792">his girlfriend</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="327.sgm-R1" TYPE="PER-SOC">
+    <relation_argument REFID="327.sgm-E23" ROLE="Arg-1" />
+    <relation_argument REFID="327.sgm-E25" ROLE="Arg-2" />
+      <relation_mention ID="327.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="699" END="907">His landlord Sam Ray says Jones had been renting the unit for about a year with his girlfriend but after losing their jobs, they fell behind in their rent payments and received an eviction notice on July 21st.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="327.sgm-E23-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="699" END="718">His landlord Sam Ray</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="327.sgm-E25-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="699" END="718">His landlord Sam Ray</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="327.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="327.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="129" END="255">Family members say Matthew Moore of Knoxville has died from his injuries in a shooting on Lime Street in Athens Saturday night.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="179" END="182">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="327.sgm-E3-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="165" END="173">Knoxville</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="327.sgm-E2-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="148" END="160">Matthew Moore</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="327.sgm-EV1" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="327.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="129" END="255">Family members say Matthew Moore of Knoxville has died from his injuries in a shooting on Lime Street in Athens Saturday night.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="193" END="200">injuries</charseq>
+      </anchor>
+      <event_mention_argument REFID="327.sgm-E4-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="189" END="200">his injuries</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="327.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="327.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="129" END="255">Family members say Matthew Moore of Knoxville has died from his injuries in a shooting on Lime Street in Athens Saturday night.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="207" END="214">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="327.sgm-E4-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="189" END="200">his injuries</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="327.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="327.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="257" END="446">Moore is now one of two to have passed away after the incident, the first being Cory Jones of Athens, who died shortly after arriving to the hospital on Saturday, according to Athens Police.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="363" END="366">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="327.sgm-E12-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="394" END="405">the hospital</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="327.sgm-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="327.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="257" END="446">Moore is now one of two to have passed away after the incident, the first being Cory Jones of Athens, who died shortly after arriving to the hospital on Saturday, according to Athens Police.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="382" END="389">arriving</charseq>
+      </anchor>
+      <event_mention_argument REFID="327.sgm-E12-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="394" END="405">the hospital</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="327.sgm-EV5" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="327.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="448" END="555">Police say a third victim, Timothy White of Athens, was airlifted to Erlanger suffering from gunshot wounds.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="504" END="512">airlifted</charseq>
+      </anchor>
+      <event_mention_argument REFID="327.sgm-E15-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="459" END="472">a third victim</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="327.sgm-EV6" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="327.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="448" END="555">Police say a third victim, Timothy White of Athens, was airlifted to Erlanger suffering from gunshot wounds.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="549" END="554">wounds</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="327.sgm-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="327.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="601" END="697">On Sunday, NewsChannel 9 learned that the shooting happened at a home being rented by Cory Jones.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="643" END="650">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="327.sgm-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="327.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="961" END="994">Sorry to see it go down like this.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="990" END="993">this</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

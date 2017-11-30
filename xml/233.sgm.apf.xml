@@ -1,0 +1,380 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/233.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/233.sgm">
+  <entity ID="233.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E0-1">
+      <extent>
+			<charseq START="151" END="159">Anchorage</charseq>
+      </extent>
+      <head>
+			<charseq START="151" END="159">Anchorage</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E1" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E1-1">
+      <extent>
+			<charseq START="162" END="163">AK</charseq>
+      </extent>
+      <head>
+			<charseq START="162" END="163">AK</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E2" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E2-1">
+      <extent>
+			<charseq START="167" END="197">An elementary school playground</charseq>
+      </extent>
+      <head>
+			<charseq START="181" END="186">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E3" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E3-1">
+      <extent>
+			<charseq START="202" END="212">Eagle River</charseq>
+      </extent>
+      <head>
+			<charseq START="202" END="212">Eagle River</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E4" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E4-1">
+      <extent>
+			<charseq START="319" END="347">the Anchorage Fire Department</charseq>
+      </extent>
+      <head>
+			<charseq START="323" END="347">Anchorage Fire Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E5" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E5-1">
+      <extent>
+			<charseq START="354" END="357">they</charseq>
+      </extent>
+      <head>
+			<charseq START="354" END="357">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E6" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E6-1">
+      <extent>
+			<charseq START="393" END="419">Alpenglow Elementary School</charseq>
+      </extent>
+      <head>
+			<charseq START="393" END="419">Alpenglow Elementary School</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E7-1">
+      <extent>
+			<charseq START="422" END="433">Firefighters</charseq>
+      </extent>
+      <head>
+			<charseq START="422" END="433">Firefighters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E8-1">
+      <extent>
+			<charseq START="439" END="442">they</charseq>
+      </extent>
+      <head>
+			<charseq START="439" END="442">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E9" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E9-1">
+      <extent>
+			<charseq START="455" END="464">the school</charseq>
+      </extent>
+      <head>
+			<charseq START="459" END="464">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E10" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E10-1">
+      <extent>
+			<charseq START="535" END="537">AFD</charseq>
+      </extent>
+      <head>
+			<charseq START="535" END="537">AFD</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E11" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E11-1">
+      <extent>
+			<charseq START="670" END="698">The Anchorage Fire Department</charseq>
+      </extent>
+      <head>
+			<charseq START="674" END="698">Anchorage Fire Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E12-1">
+      <extent>
+			<charseq START="714" END="723">the public</charseq>
+      </extent>
+      <head>
+			<charseq START="718" END="723">public</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E13" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E13-1">
+      <extent>
+			<charseq START="783" END="810">Coastal Television | AK News</charseq>
+      </extent>
+      <head>
+			<charseq START="783" END="800">Coastal Television</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E14" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E14-1">
+      <extent>
+			<charseq START="783" END="810">Coastal Television | AK News</charseq>
+      </extent>
+      <head>
+			<charseq START="802" END="810">| AK News</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E15" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E15-1">
+      <extent>
+			<charseq START="825" END="832">Sports |</charseq>
+      </extent>
+      <head>
+			<charseq START="825" END="832">Sports |</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E16" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E16-1">
+      <extent>
+			<charseq START="838" END="861">its affiliated companies</charseq>
+      </extent>
+      <head>
+			<charseq START="838" END="840">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E17" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E17-1">
+      <extent>
+			<charseq START="838" END="861">its affiliated companies</charseq>
+      </extent>
+      <head>
+			<charseq START="853" END="861">companies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E18-1">
+      <extent>
+			<charseq START="1002" END="1010">the users</charseq>
+      </extent>
+      <head>
+			<charseq START="1006" END="1010">users</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E19" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E19-1">
+      <extent>
+			<charseq START="1013" END="1014">We</charseq>
+      </extent>
+      <head>
+			<charseq START="1013" END="1014">We</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E20" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E20-1">
+      <extent>
+			<charseq START="1139" END="1170">our absolute and sole discretion</charseq>
+      </extent>
+      <head>
+			<charseq START="1139" END="1141">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E21" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E21-1">
+      <extent>
+			<charseq START="1203" END="1204">we</charseq>
+      </extent>
+      <head>
+			<charseq START="1203" END="1204">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="233.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="233.sgm-E22-1">
+      <extent>
+			<charseq START="1242" END="1257">any Public Forum</charseq>
+      </extent>
+      <head>
+			<charseq START="1246" END="1257">Public Forum</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="233.sgm-R0" TYPE="GEN-AFF">
+    <relation_argument REFID="233.sgm-E2" ROLE="Arg-1" />
+    <relation_argument REFID="233.sgm-E3" ROLE="Arg-2" />
+      <relation_mention ID="233.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="151" END="285">Anchorage, AK - An elementary school playground in Eagle River has been blocked off, after it appears it was intentionally set on fire.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="233.sgm-E2-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="167" END="197">An elementary school playground</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="233.sgm-E3-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="202" END="212">Eagle River</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="233.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="233.sgm-E8" ROLE="Arg-1" />
+    <relation_argument REFID="233.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="233.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="422" END="520">Firefighters say they arrived at the school to find a portion of the playground engulfed in flames.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="233.sgm-E8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="439" END="442">they</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="233.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="455" END="464">the school</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="233.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="233.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="151" END="285">Anchorage, AK - An elementary school playground in Eagle River has been blocked off, after it appears it was intentionally set on fire.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="281" END="284">fire</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="233.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="233.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="287" END="420">Just after 8:30 AM on Saturday, the Anchorage Fire Department says they responded to a suspicious fire at Alpenglow Elementary School.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="385" END="388">fire</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="233.sgm-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="233.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="422" END="520">Firefighters say they arrived at the school to find a portion of the playground engulfed in flames.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="444" END="450">arrived</charseq>
+      </anchor>
+      <event_mention_argument REFID="233.sgm-E8-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="439" END="442">they</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="233.sgm-E9-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="455" END="464">the school</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="233.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="233.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="522" END="668">According to AFD, the fire was quickly extinguished and no injuries were reported, however, the playground equipment did suffer significant damage.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="544" END="547">fire</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="233.sgm-EV4" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="233.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="522" END="668">According to AFD, the fire was quickly extinguished and no injuries were reported, however, the playground equipment did suffer significant damage.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="581" END="588">injuries</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

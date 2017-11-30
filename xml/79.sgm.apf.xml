@@ -1,0 +1,537 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/79.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/79.sgm">
+  <entity ID="79.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E0-1">
+      <extent>
+			<charseq START="106" END="117">CMPD officer</charseq>
+      </extent>
+      <head>
+			<charseq START="111" END="117">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E1-1">
+      <extent>
+			<charseq START="160" END="165">police</charseq>
+      </extent>
+      <head>
+			<charseq START="160" END="165">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E2" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E2-1">
+      <extent>
+			<charseq START="171" END="208">A Charlotte-Mecklenburg police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="195" END="200">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E3-1">
+      <extent>
+			<charseq START="171" END="208">A Charlotte-Mecklenburg police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="202" END="208">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E4-1">
+      <extent>
+			<charseq START="232" END="245">his patrol car</charseq>
+      </extent>
+      <head>
+			<charseq START="232" END="234">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E5" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E5-1">
+      <extent>
+			<charseq START="232" END="245">his patrol car</charseq>
+      </extent>
+      <head>
+			<charseq START="243" END="245">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E6-1">
+      <extent>
+			<charseq START="309" END="343">murder Charlotte-Mecklenburg Police</charseq>
+      </extent>
+      <head>
+			<charseq START="338" END="343">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E7-1">
+      <extent>
+			<charseq START="358" END="367">two people</charseq>
+      </extent>
+      <head>
+			<charseq START="362" END="367">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E8" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E8-1">
+      <extent>
+			<charseq START="454" END="466">federal court</charseq>
+      </extent>
+      <head>
+			<charseq START="462" END="466">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E9" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E9-1">
+      <extent>
+			<charseq START="472" END="494">church shooting suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="472" END="477">church</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E10-1">
+      <extent>
+			<charseq START="472" END="494">church shooting suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="488" END="494">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E11-1">
+      <extent>
+			<charseq START="496" END="515">A federal magistrate</charseq>
+      </extent>
+      <head>
+			<charseq START="506" END="515">magistrate</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E12-1">
+      <extent>
+			<charseq START="596" END="606">a white man</charseq>
+      </extent>
+      <head>
+			<charseq START="604" END="606">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E13-1">
+      <extent>
+			<charseq START="632" END="648">nine parishioners</charseq>
+      </extent>
+      <head>
+			<charseq START="637" END="648">parishioners</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E14" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E14-1">
+      <extent>
+			<charseq START="653" END="666">a black church</charseq>
+      </extent>
+      <head>
+			<charseq START="661" END="666">church</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E15" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E15-1">
+      <extent>
+			<charseq START="671" END="680">Charleston</charseq>
+      </extent>
+      <head>
+			<charseq START="671" END="680">Charleston</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E16" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E16-1">
+      <extent>
+			<charseq START="740" END="747">York Co.</charseq>
+      </extent>
+      <head>
+			<charseq START="740" END="747">York Co.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E17-1">
+      <extent>
+			<charseq START="774" END="802">single mother Monique Soloman</charseq>
+      </extent>
+      <head>
+			<charseq START="781" END="786">mother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E18-1">
+      <extent>
+			<charseq START="774" END="802">single mother Monique Soloman</charseq>
+      </extent>
+      <head>
+			<charseq START="788" END="802">Monique Soloman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E19-1">
+      <extent>
+			<charseq START="820" END="833">Her power bill</charseq>
+      </extent>
+      <head>
+			<charseq START="820" END="822">Her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E20-1">
+      <extent>
+			<charseq START="879" END="887">Her power</charseq>
+      </extent>
+      <head>
+			<charseq START="879" END="881">Her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E21" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E21-1">
+      <extent>
+			<charseq START="919" END="948">Former charter school employee</charseq>
+      </extent>
+      <head>
+			<charseq START="934" END="939">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E22-1">
+      <extent>
+			<charseq START="919" END="948">Former charter school employee</charseq>
+      </extent>
+      <head>
+			<charseq START="941" END="948">employee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E23-1">
+      <extent>
+			<charseq START="979" END="995">A former employee</charseq>
+      </extent>
+      <head>
+			<charseq START="988" END="995">employee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E24" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E24-1">
+      <extent>
+			<charseq START="1000" END="1023">Langtree Charter Academy</charseq>
+      </extent>
+      <head>
+			<charseq START="1000" END="1023">Langtree Charter Academy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="79.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="79.sgm-E25-1">
+      <extent>
+			<charseq START="1081" END="1087">a child</charseq>
+      </extent>
+      <head>
+			<charseq START="1083" END="1087">child</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="79.sgm-R0" TYPE="ART">
+    <relation_argument REFID="79.sgm-E4" ROLE="Arg-1" />
+    <relation_argument REFID="79.sgm-E5" ROLE="Arg-2" />
+      <relation_mention ID="79.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="106" END="428">CMPD officer charged with DWI after morning accident, police say A Charlotte-Mecklenburg police officer is accused of driving his patrol car drunk Friday morning. 
+    2 charged in NW Charlotte robbery, murder Charlotte-Mecklenburg Police have charged two people in connection with an armed robbery and murder in late-June.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="79.sgm-E4-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="232" END="245">his patrol car</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="79.sgm-E5-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="232" END="245">his patrol car</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="79.sgm-R1" TYPE="ORG-AFF">
+    <relation_argument REFID="79.sgm-E3" ROLE="Arg-1" />
+    <relation_argument REFID="79.sgm-E2" ROLE="Arg-2" />
+      <relation_mention ID="79.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="106" END="428">CMPD officer charged with DWI after morning accident, police say A Charlotte-Mecklenburg police officer is accused of driving his patrol car drunk Friday morning. 
+    2 charged in NW Charlotte robbery, murder Charlotte-Mecklenburg Police have charged two people in connection with an armed robbery and murder in late-June.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="79.sgm-E3-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="171" END="208">A Charlotte-Mecklenburg police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="79.sgm-E2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="171" END="208">A Charlotte-Mecklenburg police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="79.sgm-R2" TYPE="ORG-AFF">
+    <relation_argument REFID="79.sgm-E13" ROLE="Arg-1" />
+    <relation_argument REFID="79.sgm-E14" ROLE="Arg-2" />
+      <relation_mention ID="79.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="435" END="681">Not guilty plea in federal court for church shooting suspect A federal magistrate entered not guilty pleas on 33 federal charges, including for hate crimes, for a white man accused of gunning down nine parishioners at a black church in Charleston.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="79.sgm-E13-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="632" END="648">nine parishioners</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="79.sgm-E14-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="653" END="666">a black church</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="79.sgm-R3" TYPE="GEN-AFF">
+    <relation_argument REFID="79.sgm-E14" ROLE="Arg-1" />
+    <relation_argument REFID="79.sgm-E15" ROLE="Arg-2" />
+      <relation_mention ID="79.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="435" END="681">Not guilty plea in federal court for church shooting suspect A federal magistrate entered not guilty pleas on 33 federal charges, including for hate crimes, for a white man accused of gunning down nine parishioners at a black church in Charleston.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="79.sgm-E14-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="653" END="666">a black church</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="79.sgm-E15-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="671" END="680">Charleston</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="79.sgm-R4" TYPE="ORG-AFF">
+    <relation_argument REFID="79.sgm-E22" ROLE="Arg-1" />
+    <relation_argument REFID="79.sgm-E21" ROLE="Arg-2" />
+      <relation_mention ID="79.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="919" END="1088">Former charter school employee charged in child sex assault A former employee of Langtree Charter Academy was arrested on three counts of indecent liberties with a child.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="79.sgm-E22-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="919" END="948">Former charter school employee</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="79.sgm-E21-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="919" END="948">Former charter school employee</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="79.sgm-R5" TYPE="ORG-AFF">
+    <relation_argument REFID="79.sgm-E23" ROLE="Arg-1" />
+    <relation_argument REFID="79.sgm-E24" ROLE="Arg-2" />
+      <relation_mention ID="79.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="919" END="1088">Former charter school employee charged in child sex assault A former employee of Langtree Charter Academy was arrested on three counts of indecent liberties with a child.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="79.sgm-E23-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="979" END="995">A former employee</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="79.sgm-E24-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1000" END="1023">Langtree Charter Academy</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="79.sgm-EV0" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="79.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="106" END="428">CMPD officer charged with DWI after morning accident, police say A Charlotte-Mecklenburg police officer is accused of driving his patrol car drunk Friday morning. 
+    2 charged in NW Charlotte robbery, murder Charlotte-Mecklenburg Police have charged two people in connection with an armed robbery and murder in late-June.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="119" END="125">charged</charseq>
+      </anchor>
+      <event_mention_argument REFID="79.sgm-E0-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="106" END="117">CMPD officer</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="79.sgm-EV1" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="79.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="106" END="428">CMPD officer charged with DWI after morning accident, police say A Charlotte-Mecklenburg police officer is accused of driving his patrol car drunk Friday morning. 
+    2 charged in NW Charlotte robbery, murder Charlotte-Mecklenburg Police have charged two people in connection with an armed robbery and murder in late-June.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="276" END="282">charged</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="79.sgm-EV2" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="79.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="106" END="428">CMPD officer charged with DWI after morning accident, police say A Charlotte-Mecklenburg police officer is accused of driving his patrol car drunk Friday morning. 
+    2 charged in NW Charlotte robbery, murder Charlotte-Mecklenburg Police have charged two people in connection with an armed robbery and murder in late-June.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="350" END="356">charged</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="79.sgm-EV3" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="79.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="435" END="681">Not guilty plea in federal court for church shooting suspect A federal magistrate entered not guilty pleas on 33 federal charges, including for hate crimes, for a white man accused of gunning down nine parishioners at a black church in Charleston.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="556" END="562">charges</charseq>
+      </anchor>
+      <event_mention_argument REFID="79.sgm-E11-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="496" END="515">A federal magistrate</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="79.sgm-EV4" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="79.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="919" END="1088">Former charter school employee charged in child sex assault A former employee of Langtree Charter Academy was arrested on three counts of indecent liberties with a child.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="919" END="924">Former</charseq>
+      </anchor>
+      <event_mention_argument REFID="79.sgm-E21-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="919" END="948">Former charter school employee</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="79.sgm-E22-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="919" END="948">Former charter school employee</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="79.sgm-EV5" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="79.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="919" END="1088">Former charter school employee charged in child sex assault A former employee of Langtree Charter Academy was arrested on three counts of indecent liberties with a child.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="950" END="956">charged</charseq>
+      </anchor>
+      <event_mention_argument REFID="79.sgm-E22-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="919" END="948">Former charter school employee</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="79.sgm-EV6" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="79.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="919" END="1088">Former charter school employee charged in child sex assault A former employee of Langtree Charter Academy was arrested on three counts of indecent liberties with a child.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1029" END="1036">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="79.sgm-E22-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="919" END="948">Former charter school employee</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

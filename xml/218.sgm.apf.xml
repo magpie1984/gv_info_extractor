@@ -1,0 +1,964 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/218.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/218.sgm">
+  <entity ID="218.sgm-E0" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E0-1">
+      <extent>
+			<charseq START="146" END="169">A Memphis Police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="156" END="161">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E1-1">
+      <extent>
+			<charseq START="146" END="169">A Memphis Police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="163" END="169">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E2-1">
+      <extent>
+			<charseq START="239" END="266">Cottonwood and Perkins Roads</charseq>
+      </extent>
+      <head>
+			<charseq START="239" END="248">Cottonwood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E3-1">
+      <extent>
+			<charseq START="239" END="266">Cottonwood and Perkins Roads</charseq>
+      </extent>
+      <head>
+			<charseq START="254" END="260">Perkins</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E4" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E4-1">
+      <extent>
+			<charseq START="285" END="302">The police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="289" END="294">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E5-1">
+      <extent>
+			<charseq START="285" END="302">The police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="296" END="302">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E6-1">
+      <extent>
+			<charseq START="327" END="349">33-year-old Sean Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="339" END="349">Sean Bolton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E7-1">
+      <extent>
+			<charseq START="352" END="353">He</charseq>
+      </extent>
+      <head>
+			<charseq START="352" END="353">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E8" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E8-1">
+      <extent>
+			<charseq START="368" END="390">Regional Medical Center</charseq>
+      </extent>
+      <head>
+			<charseq START="368" END="390">Regional Medical Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E9-1">
+      <extent>
+			<charseq START="438" END="451">Officer Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="438" END="444">Officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E10-1">
+      <extent>
+			<charseq START="438" END="451">Officer Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="446" END="451">Bolton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E11" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E11-1">
+      <extent>
+			<charseq START="457" END="483">a U.S. Marine Corps veteran</charseq>
+      </extent>
+      <head>
+			<charseq START="459" END="462">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E12" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E12-1">
+      <extent>
+			<charseq START="457" END="483">a U.S. Marine Corps veteran</charseq>
+      </extent>
+      <head>
+			<charseq START="464" END="475">Marine Corps</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E13-1">
+      <extent>
+			<charseq START="457" END="483">a U.S. Marine Corps veteran</charseq>
+      </extent>
+      <head>
+			<charseq START="477" END="483">veteran</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E14-1">
+      <extent>
+			<charseq START="486" END="487">He</charseq>
+      </extent>
+      <head>
+			<charseq START="486" END="487">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E15" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E15-1">
+      <extent>
+			<charseq START="502" END="530">the Memphis Police Department</charseq>
+      </extent>
+      <head>
+			<charseq START="506" END="530">Memphis Police Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E16-1">
+      <extent>
+			<charseq START="549" END="562">Memphis Police</charseq>
+      </extent>
+      <head>
+			<charseq START="557" END="562">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E17-1">
+      <extent>
+			<charseq START="569" END="582">Officer Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="569" END="575">Officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E18-1">
+      <extent>
+			<charseq START="569" END="582">Officer Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="577" END="582">Bolton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E19-1">
+      <extent>
+			<charseq START="619" END="625">someone</charseq>
+      </extent>
+      <head>
+			<charseq START="619" END="625">someone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E20" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E20-1">
+      <extent>
+			<charseq START="634" END="644">the vehicle</charseq>
+      </extent>
+      <head>
+			<charseq START="638" END="644">vehicle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E21-1">
+      <extent>
+			<charseq START="651" END="653">him</charseq>
+      </extent>
+      <head>
+			<charseq START="651" END="653">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E22-1">
+      <extent>
+			<charseq START="656" END="661">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="656" END="661">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E23-1">
+      <extent>
+			<charseq START="696" END="704">a citizen</charseq>
+      </extent>
+      <head>
+			<charseq START="698" END="704">citizen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E24-1">
+      <extent>
+			<charseq START="707" END="709">who</charseq>
+      </extent>
+      <head>
+			<charseq START="707" END="709">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E25-1">
+      <extent>
+			<charseq START="716" END="729">Officer Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="716" END="729">Officer Bolton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E26-1">
+      <extent>
+			<charseq START="740" END="750">The suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="744" END="750">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E27-1">
+      <extent>
+			<charseq START="865" END="866">me</charseq>
+      </extent>
+      <head>
+			<charseq START="865" END="866">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E28-1">
+      <extent>
+			<charseq START="871" END="878">director</charseq>
+      </extent>
+      <head>
+			<charseq START="871" END="878">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E29-1">
+      <extent>
+			<charseq START="894" END="909">all the officers</charseq>
+      </extent>
+      <head>
+			<charseq START="902" END="909">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E30-1">
+      <extent>
+			<charseq START="927" END="928">me</charseq>
+      </extent>
+      <head>
+			<charseq START="927" END="928">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E31" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E31-1">
+      <extent>
+			<charseq START="934" END="941">the city</charseq>
+      </extent>
+      <head>
+			<charseq START="938" END="941">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E32-1">
+      <extent>
+			<charseq START="956" END="979">director Toney Armstrong</charseq>
+      </extent>
+      <head>
+			<charseq START="956" END="963">director</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E33-1">
+      <extent>
+			<charseq START="956" END="979">director Toney Armstrong</charseq>
+      </extent>
+      <head>
+			<charseq START="965" END="979">Toney Armstrong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E34" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E34-1">
+      <extent>
+			<charseq START="982" END="1014">Shelby County Mayor Mark Luttrell</charseq>
+      </extent>
+      <head>
+			<charseq START="982" END="994">Shelby County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E35-1">
+      <extent>
+			<charseq START="982" END="1014">Shelby County Mayor Mark Luttrell</charseq>
+      </extent>
+      <head>
+			<charseq START="996" END="1000">Mayor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E36-1">
+      <extent>
+			<charseq START="982" END="1014">Shelby County Mayor Mark Luttrell</charseq>
+      </extent>
+      <head>
+			<charseq START="1002" END="1014">Mark Luttrell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E37" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E37-1">
+      <extent>
+			<charseq START="1042" END="1057">His tragic death</charseq>
+      </extent>
+      <head>
+			<charseq START="1042" END="1044">His</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E38-1">
+      <extent>
+			<charseq START="1067" END="1068">us</charseq>
+      </extent>
+      <head>
+			<charseq START="1067" END="1068">us</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E39-1">
+      <extent>
+			<charseq START="1101" END="1105">those</charseq>
+      </extent>
+      <head>
+			<charseq START="1101" END="1105">those</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E40" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E40-1">
+      <extent>
+			<charseq START="1107" END="1109">who</charseq>
+      </extent>
+      <head>
+			<charseq START="1107" END="1109">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E41" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E41-1">
+      <extent>
+			<charseq START="1118" END="1128">our streets</charseq>
+      </extent>
+      <head>
+			<charseq START="1118" END="1120">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E42-1">
+      <extent>
+			<charseq START="1138" END="1139">us</charseq>
+      </extent>
+      <head>
+			<charseq START="1138" END="1139">us</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E43" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E43-1">
+      <extent>
+			<charseq START="1147" END="1148">We</charseq>
+      </extent>
+      <head>
+			<charseq START="1147" END="1148">We</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E44" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E44-1">
+      <extent>
+			<charseq START="1165" END="1167">him</charseq>
+      </extent>
+      <head>
+			<charseq START="1165" END="1167">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E45" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E45-1">
+      <extent>
+			<charseq START="1177" END="1179">God</charseq>
+      </extent>
+      <head>
+			<charseq START="1177" END="1179">God</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E46" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E46-1">
+      <extent>
+			<charseq START="1195" END="1218">his family and coworkers</charseq>
+      </extent>
+      <head>
+			<charseq START="1195" END="1197">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E47" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E47-1">
+      <extent>
+			<charseq START="1195" END="1218">his family and coworkers</charseq>
+      </extent>
+      <head>
+			<charseq START="1199" END="1204">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E48" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E48-1">
+      <extent>
+			<charseq START="1225" END="1253">the Memphis Police Department</charseq>
+      </extent>
+      <head>
+			<charseq START="1229" END="1253">Memphis Police Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E49" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E49-1">
+      <extent>
+			<charseq START="1258" END="1274">WMC Action News 5</charseq>
+      </extent>
+      <head>
+			<charseq START="1258" END="1272">WMC Action News</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E50" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E50-1">
+      <extent>
+			<charseq START="1282" END="1305">our thoughts and prayers</charseq>
+      </extent>
+      <head>
+			<charseq START="1282" END="1284">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E51" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E51-1">
+      <extent>
+			<charseq START="1310" END="1323">Officer Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="1310" END="1323">Officer Bolton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E52" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E52-1">
+      <extent>
+			<charseq START="1324" END="1332">&apos;s family</charseq>
+      </extent>
+      <head>
+			<charseq START="1327" END="1332">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="218.sgm-E53" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="218.sgm-E53-1">
+      <extent>
+			<charseq START="1338" END="1345">the MPD.</charseq>
+      </extent>
+      <head>
+			<charseq START="1342" END="1345">MPD.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="218.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="218.sgm-E1" ROLE="Arg-1" />
+    <relation_argument REFID="218.sgm-E0" ROLE="Arg-2" />
+      <relation_mention ID="218.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="146" END="220">A Memphis Police officer was killed after being shot during a traffic stop.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="218.sgm-E1-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="146" END="169">A Memphis Police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="218.sgm-E0-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="146" END="169">A Memphis Police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="218.sgm-R1" TYPE="ORG-AFF">
+    <relation_argument REFID="218.sgm-E5" ROLE="Arg-1" />
+    <relation_argument REFID="218.sgm-E4" ROLE="Arg-2" />
+      <relation_mention ID="218.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="285" END="350">The police officer has been identified as 33-year-old Sean Bolton.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="218.sgm-E5-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="285" END="302">The police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="218.sgm-E4-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="285" END="302">The police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="218.sgm-R2" TYPE="PHYS">
+    <relation_argument REFID="218.sgm-E7" ROLE="Arg-1" />
+    <relation_argument REFID="218.sgm-E8" ROLE="Arg-2" />
+      <relation_mention ID="218.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="352" END="436">He was taken to Regional Medical Center in critical condition, and later passed away.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="218.sgm-E7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="352" END="353">He</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="218.sgm-E8-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="368" END="390">Regional Medical Center</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="218.sgm-R3" TYPE="PART-WHOLE">
+    <relation_argument REFID="218.sgm-E12" ROLE="Arg-1" />
+    <relation_argument REFID="218.sgm-E11" ROLE="Arg-2" />
+      <relation_mention ID="218.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="438" END="484">Officer Bolton was a U.S. Marine Corps veteran.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="218.sgm-E12-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="457" END="483">a U.S. Marine Corps veteran</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="218.sgm-E11-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="457" END="483">a U.S. Marine Corps veteran</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="218.sgm-R4" TYPE="ORG-AFF">
+    <relation_argument REFID="218.sgm-E13" ROLE="Arg-1" />
+    <relation_argument REFID="218.sgm-E12" ROLE="Arg-2" />
+      <relation_mention ID="218.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="438" END="484">Officer Bolton was a U.S. Marine Corps veteran.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="218.sgm-E13-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="457" END="483">a U.S. Marine Corps veteran</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="218.sgm-E12-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="457" END="483">a U.S. Marine Corps veteran</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="218.sgm-R5" TYPE="ART">
+    <relation_argument REFID="218.sgm-E19" ROLE="Arg-1" />
+    <relation_argument REFID="218.sgm-E20" ROLE="Arg-2" />
+      <relation_mention ID="218.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="549" END="654">Memphis Police said Officer Bolton was conducting a traffic stop when someone inside the vehicle shot him.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="218.sgm-E19-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="619" END="625">someone</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="218.sgm-E20-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="634" END="644">the vehicle</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="218.sgm-R6" TYPE="ORG-AFF">
+    <relation_argument REFID="218.sgm-E35" ROLE="Arg-1" />
+    <relation_argument REFID="218.sgm-E34" ROLE="Arg-2" />
+      <relation_mention ID="218.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="982" END="1039">Shelby County Mayor Mark Luttrell also issued a statement.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="218.sgm-E35-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="982" END="1014">Shelby County Mayor Mark Luttrell</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="218.sgm-E34-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="982" END="1014">Shelby County Mayor Mark Luttrell</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="218.sgm-R7" TYPE="PER-SOC">
+    <relation_argument REFID="218.sgm-E46" ROLE="Arg-1" />
+    <relation_argument REFID="218.sgm-E47" ROLE="Arg-2" />
+      <relation_mention ID="218.sgm-R7-1">
+      <ldc_extent>
+			<charseq START="1147" END="1255">We pay tribute to him and ask God&apos;s comfort for his family and coworkers with the Memphis Police Department.&quot;</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="218.sgm-E46-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1195" END="1218">his family and coworkers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="218.sgm-E47-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1195" END="1218">his family and coworkers</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="218.sgm-R8" TYPE="PER-SOC">
+    <relation_argument REFID="218.sgm-E51" ROLE="Arg-1" />
+    <relation_argument REFID="218.sgm-E53" ROLE="Arg-2" />
+      <relation_mention ID="218.sgm-R8-1">
+      <ldc_extent>
+			<charseq START="1258" END="1345">WMC Action News 5 sends our thoughts and prayers to Officer Bolton&apos;s family and the MPD.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="218.sgm-E51-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1310" END="1323">Officer Bolton</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="218.sgm-E53-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1338" END="1345">the MPD.</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="218.sgm-R9" TYPE="PER-SOC">
+    <relation_argument REFID="218.sgm-E51" ROLE="Arg-1" />
+    <relation_argument REFID="218.sgm-E52" ROLE="Arg-2" />
+      <relation_mention ID="218.sgm-R9-1">
+      <ldc_extent>
+			<charseq START="1258" END="1345">WMC Action News 5 sends our thoughts and prayers to Officer Bolton&apos;s family and the MPD.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="218.sgm-E51-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1310" END="1323">Officer Bolton</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="218.sgm-E52-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1324" END="1332">&apos;s family</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="218.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="218.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="146" END="220">A Memphis Police officer was killed after being shot during a traffic stop.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="175" END="180">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="218.sgm-E1-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="146" END="169">A Memphis Police officer</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="218.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="218.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="146" END="220">A Memphis Police officer was killed after being shot during a traffic stop.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="194" END="197">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="218.sgm-E1-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="146" END="169">A Memphis Police officer</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="218.sgm-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="218.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="352" END="436">He was taken to Regional Medical Center in critical condition, and later passed away.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="359" END="363">taken</charseq>
+      </anchor>
+      <event_mention_argument REFID="218.sgm-E7-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="352" END="353">He</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="218.sgm-E8-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="368" END="390">Regional Medical Center</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="218.sgm-EV3" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="218.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="486" END="547">He was hired by the Memphis Police Department in October 2010.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="493" END="497">hired</charseq>
+      </anchor>
+      <event_mention_argument REFID="218.sgm-E14-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="486" END="487">He</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="218.sgm-E15-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="502" END="530">the Memphis Police Department</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="218.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="218.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="549" END="654">Memphis Police said Officer Bolton was conducting a traffic stop when someone inside the vehicle shot him.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="646" END="649">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="218.sgm-E20-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="634" END="644">the vehicle</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="218.sgm-E19-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="619" END="625">someone</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="218.sgm-E21-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="651" END="653">him</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="218.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="218.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="656" END="738">Police were notified of the shooting by a citizen, who used Officer Bolton&apos;s radio.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="684" END="691">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="218.sgm-E23-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="696" END="704">a citizen</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="218.sgm-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="218.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="1041" END="1145">&quot;His tragic death reminds us of the unselfish dedication of those who patrol our streets to keep us safe.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1053" END="1057">death</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

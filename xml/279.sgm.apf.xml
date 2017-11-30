@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/279.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/279.sgm">
+  <entity ID="279.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="279.sgm-E0-1">
+      <extent>
+			<charseq START="55" END="62">Officers</charseq>
+      </extent>
+      <head>
+			<charseq START="55" END="62">Officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="279.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="279.sgm-E1-1">
+      <extent>
+			<charseq START="116" END="141">&apos;s shooting
+Memphis Police</charseq>
+      </extent>
+      <head>
+			<charseq START="128" END="134">Memphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="279.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="279.sgm-E2-1">
+      <extent>
+			<charseq START="116" END="141">&apos;s shooting
+Memphis Police</charseq>
+      </extent>
+      <head>
+			<charseq START="136" END="141">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="279.sgm-E3" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="279.sgm-E3-1">
+      <extent>
+			<charseq START="163" END="172">apartments</charseq>
+      </extent>
+      <head>
+			<charseq START="163" END="172">apartments</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="279.sgm-E4" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="279.sgm-E4-1">
+      <extent>
+			<charseq START="177" END="193">Southeast Memphis</charseq>
+      </extent>
+      <head>
+			<charseq START="177" END="193">Southeast Memphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="279.sgm-E5" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="279.sgm-E5-1">
+      <extent>
+			<charseq START="196" END="200">where</charseq>
+      </extent>
+      <head>
+			<charseq START="196" END="200">where</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="279.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="279.sgm-E6-1">
+      <extent>
+			<charseq START="202" END="203">it</charseq>
+      </extent>
+      <head>
+			<charseq START="202" END="203">it</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="279.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="279.sgm-E7-1">
+      <extent>
+			<charseq START="222" END="225">they</charseq>
+      </extent>
+      <head>
+			<charseq START="222" END="225">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="279.sgm-R0" TYPE="PART-WHOLE">
+    <relation_argument REFID="279.sgm-E3" ROLE="Arg-1" />
+    <relation_argument REFID="279.sgm-E4" ROLE="Arg-2" />
+      <relation_mention ID="279.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="55" END="227">Officers have a person-of-interest in custody from last night&apos;s shooting
+Memphis Police are on the scene of apartments in Southeast Memphis, where it is believed that they …</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="279.sgm-E3-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="163" END="172">apartments</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="279.sgm-E4-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="177" END="193">Southeast Memphis</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="279.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="279.sgm-E6" ROLE="Arg-1" />
+    <relation_argument REFID="279.sgm-E5" ROLE="Arg-2" />
+      <relation_mention ID="279.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="55" END="227">Officers have a person-of-interest in custody from last night&apos;s shooting
+Memphis Police are on the scene of apartments in Southeast Memphis, where it is believed that they …</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="279.sgm-E6-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="202" END="203">it</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="279.sgm-E5-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="196" END="200">where</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="279.sgm-EV0" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="279.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="55" END="227">Officers have a person-of-interest in custody from last night&apos;s shooting
+Memphis Police are on the scene of apartments in Southeast Memphis, where it is believed that they …</charseq>
+      </extent>
+      <anchor>
+			<charseq START="93" END="99">custody</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

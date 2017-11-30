@@ -1,0 +1,494 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/184.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/184.sgm">
+  <entity ID="184.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E0-1">
+      <extent>
+			<charseq START="140" END="147">PUYALLUP</charseq>
+      </extent>
+      <head>
+			<charseq START="140" END="147">PUYALLUP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E1-1">
+      <extent>
+			<charseq START="150" END="153">Wash</charseq>
+      </extent>
+      <head>
+			<charseq START="150" END="153">Wash</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E2" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E2-1">
+      <extent>
+			<charseq START="163" END="187">The Pierce County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="167" END="179">Pierce County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E3-1">
+      <extent>
+			<charseq START="163" END="187">The Pierce County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="181" END="187">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E4" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E4-1">
+      <extent>
+			<charseq START="188" END="196">&apos;s Office</charseq>
+      </extent>
+      <head>
+			<charseq START="191" END="196">Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E5-1">
+      <extent>
+			<charseq START="203" END="224">a 31-year-old man shot</charseq>
+      </extent>
+      <head>
+			<charseq START="217" END="219">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E6-1">
+      <extent>
+			<charseq START="237" END="262">his 34-year-old girlfriend</charseq>
+      </extent>
+      <head>
+			<charseq START="237" END="239">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E7-1">
+      <extent>
+			<charseq START="237" END="262">his 34-year-old girlfriend</charseq>
+      </extent>
+      <head>
+			<charseq START="253" END="262">girlfriend</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E8-1">
+      <extent>
+			<charseq START="273" END="279">himself</charseq>
+      </extent>
+      <head>
+			<charseq START="273" END="279">himself</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E9-1">
+      <extent>
+			<charseq START="288" END="295">her home</charseq>
+      </extent>
+      <head>
+			<charseq START="288" END="290">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E10" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E10-1">
+      <extent>
+			<charseq START="288" END="295">her home</charseq>
+      </extent>
+      <head>
+			<charseq START="292" END="295">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E11-1">
+      <extent>
+			<charseq START="302" END="309">Puyallup</charseq>
+      </extent>
+      <head>
+			<charseq START="302" END="309">Puyallup</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E12" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E12-1">
+      <extent>
+			<charseq START="312" END="335">The News Tribune reports</charseq>
+      </extent>
+      <head>
+			<charseq START="316" END="327">News Tribune</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E13-1">
+      <extent>
+			<charseq START="365" END="374">the victim</charseq>
+      </extent>
+      <head>
+			<charseq START="369" END="374">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E14-1">
+      <extent>
+			<charseq START="375" END="404">&apos;s teenage daughter and sister</charseq>
+      </extent>
+      <head>
+			<charseq START="386" END="393">daughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E15-1">
+      <extent>
+			<charseq START="375" END="404">&apos;s teenage daughter and sister</charseq>
+      </extent>
+      <head>
+			<charseq START="399" END="404">sister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E16-1">
+      <extent>
+			<charseq START="447" END="459">Investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="447" END="459">Investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E17-1">
+      <extent>
+			<charseq START="466" END="474">the woman</charseq>
+      </extent>
+      <head>
+			<charseq START="470" END="474">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E18-1">
+      <extent>
+			<charseq START="503" END="509">the man</charseq>
+      </extent>
+      <head>
+			<charseq START="507" END="509">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E19-1">
+      <extent>
+			<charseq START="517" END="520">whom</charseq>
+      </extent>
+      <head>
+			<charseq START="517" END="520">whom</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E20-1">
+      <extent>
+			<charseq START="522" END="524">she</charseq>
+      </extent>
+      <head>
+			<charseq START="522" END="524">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E21-1">
+      <extent>
+			<charseq START="587" END="593">Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="587" END="593">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E22-1">
+      <extent>
+			<charseq START="594" END="615">&apos;s spokesman Ed Troyer</charseq>
+      </extent>
+      <head>
+			<charseq START="597" END="605">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E23-1">
+      <extent>
+			<charseq START="594" END="615">&apos;s spokesman Ed Troyer</charseq>
+      </extent>
+      <head>
+			<charseq START="607" END="615">Ed Troyer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="184.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="184.sgm-E24-1">
+      <extent>
+			<charseq START="686" END="694">neighbors</charseq>
+      </extent>
+      <head>
+			<charseq START="686" END="694">neighbors</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="184.sgm-R0" TYPE="PER-SOC">
+    <relation_argument REFID="184.sgm-E6" ROLE="Arg-1" />
+    <relation_argument REFID="184.sgm-E7" ROLE="Arg-2" />
+      <relation_mention ID="184.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="156" END="310">(AP) - The Pierce County Sheriff&apos;s Office says a 31-year-old man shot and killed his 34-year-old girlfriend and then himself inside her home near Puyallup.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="184.sgm-E6-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="237" END="262">his 34-year-old girlfriend</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="184.sgm-E7-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="237" END="262">his 34-year-old girlfriend</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="184.sgm-R1" TYPE="ORG-AFF">
+    <relation_argument REFID="184.sgm-E3" ROLE="Arg-1" />
+    <relation_argument REFID="184.sgm-E2" ROLE="Arg-2" />
+      <relation_mention ID="184.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="156" END="310">(AP) - The Pierce County Sheriff&apos;s Office says a 31-year-old man shot and killed his 34-year-old girlfriend and then himself inside her home near Puyallup.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="184.sgm-E3-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="163" END="187">The Pierce County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="184.sgm-E2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="163" END="187">The Pierce County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="184.sgm-R2" TYPE="PHYS">
+    <relation_argument REFID="184.sgm-E7" ROLE="Arg-1" />
+    <relation_argument REFID="184.sgm-E10" ROLE="Arg-2" />
+      <relation_mention ID="184.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="156" END="310">(AP) - The Pierce County Sheriff&apos;s Office says a 31-year-old man shot and killed his 34-year-old girlfriend and then himself inside her home near Puyallup.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="184.sgm-E7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="237" END="262">his 34-year-old girlfriend</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="184.sgm-E10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="288" END="295">her home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="184.sgm-R3" TYPE="ART">
+    <relation_argument REFID="184.sgm-E9" ROLE="Arg-1" />
+    <relation_argument REFID="184.sgm-E10" ROLE="Arg-2" />
+      <relation_mention ID="184.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="156" END="310">(AP) - The Pierce County Sheriff&apos;s Office says a 31-year-old man shot and killed his 34-year-old girlfriend and then himself inside her home near Puyallup.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="184.sgm-E9-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="288" END="295">her home</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="184.sgm-E10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="288" END="295">her home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="184.sgm-R4" TYPE="PER-SOC">
+    <relation_argument REFID="184.sgm-E13" ROLE="Arg-1" />
+    <relation_argument REFID="184.sgm-E14" ROLE="Arg-2" />
+      <relation_mention ID="184.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="312" END="437">The News Tribune reports (http://is.gd/MDGo2c ) that the victim&apos;s teenage daughter and sister found the bodies about 1:30 a.m.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="184.sgm-E13-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="365" END="374">the victim</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="184.sgm-E14-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="375" END="404">&apos;s teenage daughter and sister</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="184.sgm-R5" TYPE="PER-SOC">
+    <relation_argument REFID="184.sgm-E13" ROLE="Arg-1" />
+    <relation_argument REFID="184.sgm-E15" ROLE="Arg-2" />
+      <relation_mention ID="184.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="312" END="437">The News Tribune reports (http://is.gd/MDGo2c ) that the victim&apos;s teenage daughter and sister found the bodies about 1:30 a.m.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="184.sgm-E13-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="365" END="374">the victim</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="184.sgm-E15-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="375" END="404">&apos;s teenage daughter and sister</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="184.sgm-R6" TYPE="PER-SOC">
+    <relation_argument REFID="184.sgm-E21" ROLE="Arg-1" />
+    <relation_argument REFID="184.sgm-E22" ROLE="Arg-2" />
+      <relation_mention ID="184.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="587" END="718">Sheriff&apos;s spokesman Ed Troyer said the shooting likely happened late Saturday or early Sunday, but neighbors did not hear the shots.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="184.sgm-E21-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="587" END="593">Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="184.sgm-E22-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="594" END="615">&apos;s spokesman Ed Troyer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="184.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="184.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="156" END="310">(AP) - The Pierce County Sheriff&apos;s Office says a 31-year-old man shot and killed his 34-year-old girlfriend and then himself inside her home near Puyallup.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="221" END="224">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="184.sgm-E5-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="203" END="224">a 31-year-old man shot</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="184.sgm-E7-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="237" END="262">his 34-year-old girlfriend</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="184.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="184.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="156" END="310">(AP) - The Pierce County Sheriff&apos;s Office says a 31-year-old man shot and killed his 34-year-old girlfriend and then himself inside her home near Puyallup.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="230" END="235">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="184.sgm-E5-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="203" END="224">a 31-year-old man shot</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="184.sgm-E7-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="237" END="262">his 34-year-old girlfriend</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="184.sgm-E10-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="288" END="295">her home</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="184.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="184.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="587" END="718">Sheriff&apos;s spokesman Ed Troyer said the shooting likely happened late Saturday or early Sunday, but neighbors did not hear the shots.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="626" END="633">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

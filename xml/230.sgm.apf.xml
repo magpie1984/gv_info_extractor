@@ -1,0 +1,1735 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/230.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/230.sgm">
+  <entity ID="230.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E0-1">
+      <extent>
+			<charseq START="171" END="193">less than 100 residents</charseq>
+      </extent>
+      <head>
+			<charseq START="185" END="193">residents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E1-1">
+      <extent>
+			<charseq START="208" END="228">the Housing Authority</charseq>
+      </extent>
+      <head>
+			<charseq START="212" END="228">Housing Authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E2" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E2-1">
+      <extent>
+			<charseq START="233" END="240">the City</charseq>
+      </extent>
+      <head>
+			<charseq START="237" END="240">City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E3-1">
+      <extent>
+			<charseq START="245" END="252">Freeport</charseq>
+      </extent>
+      <head>
+			<charseq START="245" END="252">Freeport</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E4-1">
+      <extent>
+			<charseq START="400" END="434">any drug or other criminal activity</charseq>
+      </extent>
+      <head>
+			<charseq START="418" END="425">criminal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E5-1">
+      <extent>
+			<charseq START="531" END="539">the woman</charseq>
+      </extent>
+      <head>
+			<charseq START="535" END="539">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E6-1">
+      <extent>
+			<charseq START="541" END="570">whose Parkside Homes apartment</charseq>
+      </extent>
+      <head>
+			<charseq START="541" END="545">whose</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E7" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E7-1">
+      <extent>
+			<charseq START="541" END="570">whose Parkside Homes apartment</charseq>
+      </extent>
+      <head>
+			<charseq START="562" END="570">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E8-1">
+      <extent>
+			<charseq START="582" END="588">someone</charseq>
+      </extent>
+      <head>
+			<charseq START="582" END="588">someone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E9-1">
+      <extent>
+			<charseq START="603" END="619">a 22-year-old man</charseq>
+      </extent>
+      <head>
+			<charseq START="617" END="619">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E10-1">
+      <extent>
+			<charseq START="639" END="641">she</charseq>
+      </extent>
+      <head>
+			<charseq START="639" END="641">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E11-1">
+      <extent>
+			<charseq START="663" END="680">the unnamed tenant</charseq>
+      </extent>
+      <head>
+			<charseq START="675" END="680">tenant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E12-1">
+      <extent>
+			<charseq START="682" END="684">who</charseq>
+      </extent>
+      <head>
+			<charseq START="682" END="684">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E13-1">
+      <extent>
+			<charseq START="718" END="735">714 E. Crocker St.</charseq>
+      </extent>
+      <head>
+			<charseq START="718" END="735">714 E. Crocker St.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E14-1">
+      <extent>
+			<charseq START="854" END="885">housing authority Larry Williams</charseq>
+      </extent>
+      <head>
+			<charseq START="872" END="885">Larry Williams</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E15" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E15-1">
+      <extent>
+			<charseq START="915" END="949">a Freeport Police Department report</charseq>
+      </extent>
+      <head>
+			<charseq START="917" END="942">Freeport Police Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E16" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E16-1">
+      <extent>
+			<charseq START="1010" END="1050">Freeport Deputy Police Chief Matt Summers</charseq>
+      </extent>
+      <head>
+			<charseq START="1026" END="1031">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E17-1">
+      <extent>
+			<charseq START="1010" END="1050">Freeport Deputy Police Chief Matt Summers</charseq>
+      </extent>
+      <head>
+			<charseq START="1033" END="1037">Chief</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E18-1">
+      <extent>
+			<charseq START="1010" END="1050">Freeport Deputy Police Chief Matt Summers</charseq>
+      </extent>
+      <head>
+			<charseq START="1039" END="1050">Matt Summers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E19" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E19-1">
+      <extent>
+			<charseq START="1086" END="1098">the apartment</charseq>
+      </extent>
+      <head>
+			<charseq START="1090" END="1098">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E20-1">
+      <extent>
+			<charseq START="1104" END="1115">the resident</charseq>
+      </extent>
+      <head>
+			<charseq START="1108" END="1115">resident</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E21-1">
+      <extent>
+			<charseq START="1144" END="1151">Williams</charseq>
+      </extent>
+      <head>
+			<charseq START="1144" END="1151">Williams</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E22-1">
+      <extent>
+			<charseq START="1158" END="1169">her presence</charseq>
+      </extent>
+      <head>
+			<charseq START="1158" END="1160">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E23-1">
+      <extent>
+			<charseq START="1236" END="1246">your guests</charseq>
+      </extent>
+      <head>
+			<charseq START="1236" END="1239">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E24-1">
+      <extent>
+			<charseq START="1236" END="1246">your guests</charseq>
+      </extent>
+      <head>
+			<charseq START="1241" END="1246">guests</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E25-1">
+      <extent>
+			<charseq START="1250" END="1251">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1250" END="1251">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E26-1">
+      <extent>
+			<charseq START="1263" END="1265">you</charseq>
+      </extent>
+      <head>
+			<charseq START="1263" END="1265">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E27-1">
+      <extent>
+			<charseq START="1278" END="1279">me</charseq>
+      </extent>
+      <head>
+			<charseq START="1278" END="1279">me</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E28-1">
+      <extent>
+			<charseq START="1285" END="1287">you</charseq>
+      </extent>
+      <head>
+			<charseq START="1285" END="1287">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E29-1">
+      <extent>
+			<charseq START="1371" END="1371">I</charseq>
+      </extent>
+      <head>
+			<charseq START="1371" END="1371">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E30" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E30-1">
+      <extent>
+			<charseq START="1413" END="1427">Freeport police</charseq>
+      </extent>
+      <head>
+			<charseq START="1422" END="1427">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E31-1">
+      <extent>
+			<charseq START="1445" END="1455">the two men</charseq>
+      </extent>
+      <head>
+			<charseq START="1453" END="1455">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E32-1">
+      <extent>
+			<charseq START="1457" END="1460">they</charseq>
+      </extent>
+      <head>
+			<charseq START="1457" END="1460">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E33" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E33-1">
+      <extent>
+			<charseq START="1478" END="1490">the apartment</charseq>
+      </extent>
+      <head>
+			<charseq START="1482" END="1490">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E34-1">
+      <extent>
+			<charseq START="1497" END="1512">William L. Hines</charseq>
+      </extent>
+      <head>
+			<charseq START="1497" END="1512">William L. Hines</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E35-1">
+      <extent>
+			<charseq START="1550" END="1560">Authorities</charseq>
+      </extent>
+      <head>
+			<charseq START="1550" END="1560">Authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E36-1">
+      <extent>
+			<charseq START="1568" END="1585">Hines unresponsive</charseq>
+      </extent>
+      <head>
+			<charseq START="1568" END="1572">Hines</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E37" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E37-1">
+      <extent>
+			<charseq START="1592" END="1593">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1592" END="1593">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E38" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E38-1">
+      <extent>
+			<charseq START="1640" END="1660">FHN Memorial Hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="1640" END="1660">FHN Memorial Hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E39-1">
+      <extent>
+			<charseq START="1663" END="1664">He</charseq>
+      </extent>
+      <head>
+			<charseq START="1663" END="1664">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E40" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E40-1">
+      <extent>
+			<charseq START="1670" END="1679">the father</charseq>
+      </extent>
+      <head>
+			<charseq START="1674" END="1679">father</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E41" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E41-1">
+      <extent>
+			<charseq START="1684" END="1691">two boys</charseq>
+      </extent>
+      <head>
+			<charseq START="1688" END="1691">boys</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E42-1">
+      <extent>
+			<charseq START="1694" END="1698">Jayce</charseq>
+      </extent>
+      <head>
+			<charseq START="1694" END="1698">Jayce</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E43" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E43-1">
+      <extent>
+			<charseq START="1701" END="1701">4</charseq>
+      </extent>
+      <head>
+			<charseq START="1701" END="1701">4</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E44" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E44-1">
+      <extent>
+			<charseq START="1708" END="1713">Kayden</charseq>
+      </extent>
+      <head>
+			<charseq START="1708" END="1713">Kayden</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E45" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E45-1">
+      <extent>
+			<charseq START="1726" END="1736">Dawn Leamon</charseq>
+      </extent>
+      <head>
+			<charseq START="1731" END="1736">Leamon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E46" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E46-1">
+      <extent>
+			<charseq START="1739" END="1780">the Stephenson County chief deputy coroner</charseq>
+      </extent>
+      <head>
+			<charseq START="1743" END="1759">Stephenson County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E47" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E47-1">
+      <extent>
+			<charseq START="1739" END="1780">the Stephenson County chief deputy coroner</charseq>
+      </extent>
+      <head>
+			<charseq START="1774" END="1780">coroner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E48" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E48-1">
+      <extent>
+			<charseq START="1819" END="1823">Hines</charseq>
+      </extent>
+      <head>
+			<charseq START="1819" END="1823">Hines</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E49" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E49-1">
+      <extent>
+			<charseq START="1852" END="1853">He</charseq>
+      </extent>
+      <head>
+			<charseq START="1852" END="1853">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E50" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E50-1">
+      <extent>
+			<charseq START="1940" END="1945">Leamon</charseq>
+      </extent>
+      <head>
+			<charseq START="1940" END="1945">Leamon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E51" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E51-1">
+      <extent>
+			<charseq START="1984" END="1990">Summers</charseq>
+      </extent>
+      <head>
+			<charseq START="1984" END="1990">Summers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E52" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E52-1">
+      <extent>
+			<charseq START="1997" END="2010">police leaders</charseq>
+      </extent>
+      <head>
+			<charseq START="1997" END="2002">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E53" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E53-1">
+      <extent>
+			<charseq START="1997" END="2010">police leaders</charseq>
+      </extent>
+      <head>
+			<charseq START="2004" END="2010">leaders</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E54" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E54-1">
+      <extent>
+			<charseq START="2049" END="2063">the two persons</charseq>
+      </extent>
+      <head>
+			<charseq START="2057" END="2063">persons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E55" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E55-1">
+      <extent>
+			<charseq START="2119" END="2125">the men</charseq>
+      </extent>
+      <head>
+			<charseq START="2123" END="2125">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E56" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E56-1">
+      <extent>
+			<charseq START="2132" END="2137">police</charseq>
+      </extent>
+      <head>
+			<charseq START="2132" END="2137">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E57" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E57-1">
+      <extent>
+			<charseq START="2157" END="2160">them</charseq>
+      </extent>
+      <head>
+			<charseq START="2157" END="2160">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E58" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E58-1">
+      <extent>
+			<charseq START="2163" END="2165">“We</charseq>
+      </extent>
+      <head>
+			<charseq START="2163" END="2165">“We</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E59" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E59-1">
+      <extent>
+			<charseq START="2189" END="2192">town</charseq>
+      </extent>
+      <head>
+			<charseq START="2189" END="2192">town</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E60" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E60-1">
+      <extent>
+			<charseq START="2198" END="2201">them</charseq>
+      </extent>
+      <head>
+			<charseq START="2198" END="2201">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E61" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E61-1">
+      <extent>
+			<charseq START="2203" END="2211">” Summers</charseq>
+      </extent>
+      <head>
+			<charseq START="2205" END="2211">Summers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E62" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E62-1">
+      <extent>
+			<charseq START="2219" END="2221">“We</charseq>
+      </extent>
+      <head>
+			<charseq START="2219" END="2221">“We</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E63" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E63-1">
+      <extent>
+			<charseq START="2265" END="2266">we</charseq>
+      </extent>
+      <head>
+			<charseq START="2265" END="2266">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E64" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E64-1">
+      <extent>
+			<charseq START="2284" END="2291">Williams</charseq>
+      </extent>
+      <head>
+			<charseq START="2284" END="2291">Williams</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E65" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E65-1">
+      <extent>
+			<charseq START="2357" END="2364">the city</charseq>
+      </extent>
+      <head>
+			<charseq START="2361" END="2364">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E66" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E66-1">
+      <extent>
+			<charseq START="2365" END="2395">’s housing authority properties</charseq>
+      </extent>
+      <head>
+			<charseq START="2376" END="2384">authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E67" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E67-1">
+      <extent>
+			<charseq START="2416" END="2417">He</charseq>
+      </extent>
+      <head>
+			<charseq START="2416" END="2417">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E68" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E68-1">
+      <extent>
+			<charseq START="2451" END="2462">the resident</charseq>
+      </extent>
+      <head>
+			<charseq START="2455" END="2462">resident</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E69" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E69-1">
+      <extent>
+			<charseq START="2467" END="2479">the apartment</charseq>
+      </extent>
+      <head>
+			<charseq START="2471" END="2479">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E70" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E70-1">
+      <extent>
+			<charseq START="2481" END="2485">where</charseq>
+      </extent>
+      <head>
+			<charseq START="2481" END="2485">where</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E71" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E71-1">
+      <extent>
+			<charseq START="2538" END="2558">the housing authority</charseq>
+      </extent>
+      <head>
+			<charseq START="2550" END="2558">authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E72" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E72-1">
+      <extent>
+			<charseq START="2593" END="2600">Williams</charseq>
+      </extent>
+      <head>
+			<charseq START="2593" END="2600">Williams</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E73" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E73-1">
+      <extent>
+			<charseq START="2762" END="2786">the entire 446 apartments</charseq>
+      </extent>
+      <head>
+			<charseq START="2777" END="2786">apartments</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E74" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E74-1">
+      <extent>
+			<charseq START="2791" END="2807">several complexes</charseq>
+      </extent>
+      <head>
+			<charseq START="2799" END="2807">complexes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E75" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E75-1">
+      <extent>
+			<charseq START="2820" END="2827">the city</charseq>
+      </extent>
+      <head>
+			<charseq START="2824" END="2827">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E76" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E76-1">
+      <extent>
+			<charseq START="2830" END="2841">Most tenants</charseq>
+      </extent>
+      <head>
+			<charseq START="2835" END="2841">tenants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E77" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E77-1">
+      <extent>
+			<charseq START="2852" END="2890">the Stephenson County and Freeport area</charseq>
+      </extent>
+      <head>
+			<charseq START="2856" END="2890">Stephenson County and Freeport area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E78" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E78-1">
+      <extent>
+			<charseq START="2893" END="2910">Housing applicants</charseq>
+      </extent>
+      <head>
+			<charseq START="2893" END="2910">Housing applicants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E79" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E79-1">
+      <extent>
+			<charseq START="2974" END="2977">they</charseq>
+      </extent>
+      <head>
+			<charseq START="2974" END="2977">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E80" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E80-1">
+      <extent>
+			<charseq START="3000" END="3009">their name</charseq>
+      </extent>
+      <head>
+			<charseq START="3000" END="3004">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E81" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E81-1">
+      <extent>
+			<charseq START="3045" END="3048">They</charseq>
+      </extent>
+      <head>
+			<charseq START="3045" END="3048">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E82" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E82-1">
+      <extent>
+			<charseq START="3108" END="3115">Williams</charseq>
+      </extent>
+      <head>
+			<charseq START="3108" END="3115">Williams</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E83" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E83-1">
+      <extent>
+			<charseq START="3293" END="3312">her first apartments</charseq>
+      </extent>
+      <head>
+			<charseq START="3293" END="3295">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E84" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E84-1">
+      <extent>
+			<charseq START="3293" END="3312">her first apartments</charseq>
+      </extent>
+      <head>
+			<charseq START="3303" END="3312">apartments</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E85" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E85-1">
+      <extent>
+			<charseq START="3349" END="3352">home</charseq>
+      </extent>
+      <head>
+			<charseq START="3349" END="3352">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E86" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E86-1">
+      <extent>
+			<charseq START="3355" END="3362">Williams</charseq>
+      </extent>
+      <head>
+			<charseq START="3355" END="3362">Williams</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E87" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E87-1">
+      <extent>
+			<charseq START="3400" END="3401">we</charseq>
+      </extent>
+      <head>
+			<charseq START="3400" END="3401">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E88" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E88-1">
+      <extent>
+			<charseq START="3406" END="3430">such a reactive community</charseq>
+      </extent>
+      <head>
+			<charseq START="3422" END="3430">community</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E89" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E89-1">
+      <extent>
+			<charseq START="3444" END="3449">people</charseq>
+      </extent>
+      <head>
+			<charseq START="3444" END="3449">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E90" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E90-1">
+      <extent>
+			<charseq START="3454" END="3467">the Third Ward</charseq>
+      </extent>
+      <head>
+			<charseq START="3458" END="3467">Third Ward</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E91" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E91-1">
+      <extent>
+			<charseq START="3471" END="3475">Lewis</charseq>
+      </extent>
+      <head>
+			<charseq START="3471" END="3475">Lewis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E92" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E92-1">
+      <extent>
+			<charseq START="3586" END="3591">nobody</charseq>
+      </extent>
+      <head>
+			<charseq START="3586" END="3591">nobody</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E93" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E93-1">
+      <extent>
+			<charseq START="3617" END="3621">Lewis</charseq>
+      </extent>
+      <head>
+			<charseq START="3617" END="3621">Lewis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E94" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E94-1">
+      <extent>
+			<charseq START="3633" END="3634">he</charseq>
+      </extent>
+      <head>
+			<charseq START="3633" END="3634">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E95" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E95-1">
+      <extent>
+			<charseq START="3650" END="3664">police officers</charseq>
+      </extent>
+      <head>
+			<charseq START="3650" END="3655">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E96" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E96-1">
+      <extent>
+			<charseq START="3650" END="3664">police officers</charseq>
+      </extent>
+      <head>
+			<charseq START="3657" END="3664">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E97" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E97-1">
+      <extent>
+			<charseq START="3705" END="3710">police</charseq>
+      </extent>
+      <head>
+			<charseq START="3705" END="3710">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E98" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E98-1">
+      <extent>
+			<charseq START="3724" END="3742">the two individuals</charseq>
+      </extent>
+      <head>
+			<charseq START="3732" END="3742">individuals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E99" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E99-1">
+      <extent>
+			<charseq START="3794" END="3795">he</charseq>
+      </extent>
+      <head>
+			<charseq START="3794" END="3795">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E100" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E100-1">
+      <extent>
+			<charseq START="3802" END="3803">he</charseq>
+      </extent>
+      <head>
+			<charseq START="3802" END="3803">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E101" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E101-1">
+      <extent>
+			<charseq START="3811" END="3816">people</charseq>
+      </extent>
+      <head>
+			<charseq START="3811" END="3816">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E102" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E102-1">
+      <extent>
+			<charseq START="3848" END="3851">they</charseq>
+      </extent>
+      <head>
+			<charseq START="3848" END="3851">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E103" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E103-1">
+      <extent>
+			<charseq START="3868" END="3873">No one</charseq>
+      </extent>
+      <head>
+			<charseq START="3868" END="3873">No one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E104" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E104-1">
+      <extent>
+			<charseq START="3916" END="3920">Lewis</charseq>
+      </extent>
+      <head>
+			<charseq START="3916" END="3920">Lewis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E105" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E105-1">
+      <extent>
+			<charseq START="3932" END="3934">you</charseq>
+      </extent>
+      <head>
+			<charseq START="3932" END="3934">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E106" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E106-1">
+      <extent>
+			<charseq START="3972" END="3974">you</charseq>
+      </extent>
+      <head>
+			<charseq START="3972" END="3974">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E107" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E107-1">
+      <extent>
+			<charseq START="4017" END="4018">we</charseq>
+      </extent>
+      <head>
+			<charseq START="4017" END="4018">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E108" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E108-1">
+      <extent>
+			<charseq START="4025" END="4049">way too many young people</charseq>
+      </extent>
+      <head>
+			<charseq START="4044" END="4049">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E109" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E109-1">
+      <extent>
+			<charseq START="4054" END="4067">this community</charseq>
+      </extent>
+      <head>
+			<charseq START="4059" END="4067">community</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E110" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E110-1">
+      <extent>
+			<charseq START="4122" END="4144">less than 100 residents</charseq>
+      </extent>
+      <head>
+			<charseq START="4136" END="4144">residents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E111" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E111-1">
+      <extent>
+			<charseq START="4159" END="4179">the Housing Authority</charseq>
+      </extent>
+      <head>
+			<charseq START="4163" END="4179">Housing Authority</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E112" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E112-1">
+      <extent>
+			<charseq START="4184" END="4191">the City</charseq>
+      </extent>
+      <head>
+			<charseq START="4188" END="4191">City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E113" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E113-1">
+      <extent>
+			<charseq START="4196" END="4203">Freeport</charseq>
+      </extent>
+      <head>
+			<charseq START="4196" END="4203">Freeport</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="230.sgm-E114" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="230.sgm-E114-1">
+      <extent>
+			<charseq START="4351" END="4385">any drug or other criminal activity</charseq>
+      </extent>
+      <head>
+			<charseq START="4369" END="4376">criminal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="230.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="230.sgm-E17" ROLE="Arg-1" />
+    <relation_argument REFID="230.sgm-E16" ROLE="Arg-2" />
+      <relation_mention ID="230.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="1010" END="1210">Freeport Deputy Police Chief Matt Summers said the shooting happened inside the apartment but the resident was not there at the time; Williams said her presence didn&apos;t matter when it came to evictions.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="230.sgm-E17-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1010" END="1050">Freeport Deputy Police Chief Matt Summers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="230.sgm-E16-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1010" END="1050">Freeport Deputy Police Chief Matt Summers</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="230.sgm-R1" TYPE="ORG-AFF">
+    <relation_argument REFID="230.sgm-E36" ROLE="Arg-1" />
+    <relation_argument REFID="230.sgm-E38" ROLE="Arg-2" />
+      <relation_mention ID="230.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="1550" END="1661">Authorities found Hines unresponsive, and he was pronounced dead about two hours later at FHN Memorial Hospital.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="230.sgm-E36-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1568" END="1585">Hines unresponsive</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="230.sgm-E38-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1640" END="1660">FHN Memorial Hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="230.sgm-R2" TYPE="ORG-AFF">
+    <relation_argument REFID="230.sgm-E53" ROLE="Arg-1" />
+    <relation_argument REFID="230.sgm-E52" ROLE="Arg-2" />
+      <relation_mention ID="230.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="1984" END="2161">Summers said police leaders will consider releasing the names of the two persons of interest on Tuesday.No charges are pending against the men, but police want to talk with them.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="230.sgm-E53-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1997" END="2010">police leaders</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="230.sgm-E52-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1997" END="2010">police leaders</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="230.sgm-R3" TYPE="PART-WHOLE">
+    <relation_argument REFID="230.sgm-E73" ROLE="Arg-1" />
+    <relation_argument REFID="230.sgm-E74" ROLE="Arg-2" />
+      <relation_mention ID="230.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="2751" END="2828">That’s for the entire 446 apartments at several complexes throughout the city.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="230.sgm-E73-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2762" END="2786">the entire 446 apartments</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="230.sgm-E74-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2791" END="2807">several complexes</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="230.sgm-R4" TYPE="ART">
+    <relation_argument REFID="230.sgm-E83" ROLE="Arg-1" />
+    <relation_argument REFID="230.sgm-E84" ROLE="Arg-2" />
+      <relation_mention ID="230.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="3277" END="3368">This was one of her first apartments, if not the first, after living at home, Williams said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="230.sgm-E83-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3293" END="3312">her first apartments</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="230.sgm-E84-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3293" END="3312">her first apartments</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="230.sgm-R5" TYPE="PHYS">
+    <relation_argument REFID="230.sgm-E89" ROLE="Arg-1" />
+    <relation_argument REFID="230.sgm-E90" ROLE="Arg-2" />
+      <relation_mention ID="230.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="3371" END="3481">&quot;One of the problems is that we&apos;re such a reactive community, especially people in the Third Ward,&quot; Lewis said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="230.sgm-E89-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3444" END="3449">people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="230.sgm-E90-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3454" END="3467">the Third Ward</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="230.sgm-R6" TYPE="ORG-AFF">
+    <relation_argument REFID="230.sgm-E96" ROLE="Arg-1" />
+    <relation_argument REFID="230.sgm-E95" ROLE="Arg-2" />
+      <relation_mention ID="230.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="3617" END="3774">Lewis said that he&apos;s spoken with police officers since Thursday&apos;s shooting and believes police will locate the two individuals of interest in a timely manner.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="230.sgm-E96-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3650" END="3664">police officers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="230.sgm-E95-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3650" END="3664">police officers</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="230.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="476" END="629">2015 thus far: 34
+FREEPORT — An eviction notice awaits the woman whose Parkside Homes apartment was where someone fatally shot a 22-year-old man Thursday.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="598" END="601">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="230.sgm-E7-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="541" END="570">whose Parkside Homes apartment</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="230.sgm-E9-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="603" END="619">a 22-year-old man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="230.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="631" END="891">Whether she was present or not, the unnamed tenant who has resided less than a year at 714 E. Crocker St., unit 112, violated the Freeport housing authority’s zero tolerance policy pertaining to violence and drug activity, housing authority Larry Williams said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="826" END="833">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="230.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="893" END="1008">He’s just waiting for a Freeport Police Department report confirming that the shooting happened in the woman’s unit.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="971" END="978">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="230.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="1010" END="1210">Freeport Deputy Police Chief Matt Summers said the shooting happened inside the apartment but the resident was not there at the time; Williams said her presence didn&apos;t matter when it came to evictions.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1061" END="1068">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="230.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="1393" END="1548">As of this evening, Freeport police haven’t located the two men they believe were at the apartment when William L. Hines was shot around 5:30 p.m. Thursday.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1518" END="1521">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="230.sgm-E34-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1497" END="1512">William L. Hines</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="230.sgm-E31-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1445" END="1455">the two men</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="230.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="1550" END="1661">Authorities found Hines unresponsive, and he was pronounced dead about two hours later at FHN Memorial Hospital.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1610" END="1613">dead</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="230.sgm-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="1726" END="1850">Dawn Leamon, the Stephenson County chief deputy coroner, said autopsy results confirmed that Hines died from a gunshot wound.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1825" END="1828">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="230.sgm-E48-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1819" END="1823">Hines</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="230.sgm-EV7" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="1726" END="1850">Dawn Leamon, the Stephenson County chief deputy coroner, said autopsy results confirmed that Hines died from a gunshot wound.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1845" END="1849">wound</charseq>
+      </anchor>
+      <event_mention_argument REFID="230.sgm-E48-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1819" END="1823">Hines</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="230.sgm-EV8" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="1852" END="1937">He was pronounced dead at 7:20 p.m. Toxicology results are due within two weeks or so.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1870" END="1873">dead</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="230.sgm-EV9" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="1940" END="1981">Leamon would not release more information.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1957" END="1963">release</charseq>
+      </anchor>
+      <event_mention_argument REFID="230.sgm-E50-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1940" END="1945">Leamon</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="230.sgm-EV10" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV10-1" p="1.000">
+      <extent>
+			<charseq START="1984" END="2161">Summers said police leaders will consider releasing the names of the two persons of interest on Tuesday.No charges are pending against the men, but police want to talk with them.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2091" END="2097">charges</charseq>
+      </anchor>
+      <event_mention_argument REFID="230.sgm-E53-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1997" END="2010">police leaders</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="230.sgm-EV11" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV11-1" p="1.000">
+      <extent>
+			<charseq START="2284" END="2414">Williams said the fatal shooting is the worst crime that has happened on the city’s housing authority properties in about 25 years.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2302" END="2306">fatal</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="230.sgm-EV12" TYPE="Justice" SUBTYPE="Release-Parole" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV12-1" p="1.000">
+      <extent>
+			<charseq START="2416" END="2591">He declined to release the name of the resident of the apartment where the shooting happened, but described the processes the housing authority follows to avoid crime problems.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2431" END="2437">release</charseq>
+      </anchor>
+      <event_mention_argument REFID="230.sgm-E67-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2416" END="2417">He</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="230.sgm-EV13" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV13-1" p="1.000">
+      <extent>
+			<charseq START="2416" END="2591">He declined to release the name of the resident of the apartment where the shooting happened, but described the processes the housing authority follows to avoid crime problems.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2491" END="2498">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="230.sgm-EV14" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV14-1" p="1.000">
+      <extent>
+			<charseq START="3277" END="3368">This was one of her first apartments, if not the first, after living at home, Williams said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3277" END="3280">This</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="230.sgm-EV15" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV15-1" p="1.000">
+      <extent>
+			<charseq START="3483" END="3615">&quot;Any time something happens, then it&apos;s time to do something (to prevent violence), but in the interim, nobody wants to get on board.&quot;</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3555" END="3562">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="230.sgm-EV16" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="230.sgm-EV16-1" p="1.000">
+      <extent>
+			<charseq START="3617" END="3774">Lewis said that he&apos;s spoken with police officers since Thursday&apos;s shooting and believes police will locate the two individuals of interest in a timely manner.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3683" END="3690">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

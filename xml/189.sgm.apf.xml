@@ -1,0 +1,536 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/189.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/189.sgm">
+  <entity ID="189.sgm-E0" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E0-1">
+      <extent>
+			<charseq START="131" END="133">N.J</charseq>
+      </extent>
+      <head>
+			<charseq START="131" END="133">N.J</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E1-1">
+      <extent>
+			<charseq START="141" END="154">— State police</charseq>
+      </extent>
+      <head>
+			<charseq START="143" END="147">State</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E2" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E2-1">
+      <extent>
+			<charseq START="141" END="154">— State police</charseq>
+      </extent>
+      <head>
+			<charseq START="149" END="154">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E3-1">
+      <extent>
+			<charseq START="198" END="205">a person</charseq>
+      </extent>
+      <head>
+			<charseq START="200" END="205">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E4-1">
+      <extent>
+			<charseq START="220" END="238">shooting two people</charseq>
+      </extent>
+      <head>
+			<charseq START="233" END="238">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E5" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E5-1">
+      <extent>
+			<charseq START="269" END="286">central New Jersey</charseq>
+      </extent>
+      <head>
+			<charseq START="277" END="286">New Jersey</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E6" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E6-1">
+      <extent>
+			<charseq START="331" END="354">the PNC Bank Arts Center</charseq>
+      </extent>
+      <head>
+			<charseq START="335" END="354">PNC Bank Arts Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E7" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E7-1">
+      <extent>
+			<charseq START="359" END="365">Holmdel</charseq>
+      </extent>
+      <head>
+			<charseq START="359" END="365">Holmdel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E8-1">
+      <extent>
+			<charseq START="388" END="396">the crowd</charseq>
+      </extent>
+      <head>
+			<charseq START="392" END="396">crowd</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E9-1">
+      <extent>
+			<charseq START="418" END="437">Big Sean and J. Cole</charseq>
+      </extent>
+      <head>
+			<charseq START="422" END="425">Sean</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E10-1">
+      <extent>
+			<charseq START="418" END="437">Big Sean and J. Cole</charseq>
+      </extent>
+      <head>
+			<charseq START="431" END="437">J. Cole</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E11-1">
+      <extent>
+			<charseq START="440" END="472">Eighteen-year-old Omayma Bougdour</charseq>
+      </extent>
+      <head>
+			<charseq START="458" END="472">Omayma Bougdour</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E12" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E12-1">
+      <extent>
+			<charseq START="480" END="501">the Daily News gunfire</charseq>
+      </extent>
+      <head>
+			<charseq START="484" END="493">Daily News</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E13-1">
+      <extent>
+			<charseq START="557" END="559">She</charseq>
+      </extent>
+      <head>
+			<charseq START="557" END="559">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E14" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E14-1">
+      <extent>
+			<charseq START="611" END="622">State police</charseq>
+      </extent>
+      <head>
+			<charseq START="611" END="615">State</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E15" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E15-1">
+      <extent>
+			<charseq START="611" END="622">State police</charseq>
+      </extent>
+      <head>
+			<charseq START="617" END="622">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E16-1">
+      <extent>
+			<charseq START="628" END="638">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="632" END="638">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E17" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E17-1">
+      <extent>
+			<charseq START="650" END="661">nearby woods</charseq>
+      </extent>
+      <head>
+			<charseq START="657" END="661">woods</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E18-1">
+      <extent>
+			<charseq START="664" END="673">Two people</charseq>
+      </extent>
+      <head>
+			<charseq START="668" END="673">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E19" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E19-1">
+      <extent>
+			<charseq START="689" END="702">area hospitals</charseq>
+      </extent>
+      <head>
+			<charseq START="694" END="702">hospitals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E20-1">
+      <extent>
+			<charseq START="705" END="720">Their conditions</charseq>
+      </extent>
+      <head>
+			<charseq START="705" END="709">Their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E21" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E21-1">
+      <extent>
+			<charseq START="749" END="768">PNC Bank Arts Center</charseq>
+      </extent>
+      <head>
+			<charseq START="749" END="756">PNC Bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E22" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E22-1">
+      <extent>
+			<charseq START="749" END="768">PNC Bank Arts Center</charseq>
+      </extent>
+      <head>
+			<charseq START="758" END="768">Arts Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E23-1">
+      <extent>
+			<charseq START="798" END="817">Big Sean and J. Cole</charseq>
+      </extent>
+      <head>
+			<charseq START="802" END="805">Sean</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E24-1">
+      <extent>
+			<charseq START="798" END="817">Big Sean and J. Cole</charseq>
+      </extent>
+      <head>
+			<charseq START="811" END="817">J. Cole</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E25-1">
+      <extent>
+			<charseq START="841" END="844">They</charseq>
+      </extent>
+      <head>
+			<charseq START="841" END="844">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E26" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E26-1">
+      <extent>
+			<charseq START="863" END="883">Madison Square Garden</charseq>
+      </extent>
+      <head>
+			<charseq START="863" END="883">Madison Square Garden</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="189.sgm-E27" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="189.sgm-E27-1">
+      <extent>
+			<charseq START="888" END="895">New York</charseq>
+      </extent>
+      <head>
+			<charseq START="888" END="895">New York</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="189.sgm-R0" TYPE="PART-WHOLE">
+    <relation_argument REFID="189.sgm-E2" ROLE="Arg-1" />
+    <relation_argument REFID="189.sgm-E1" ROLE="Arg-2" />
+      <relation_mention ID="189.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="122" END="287">HOLMDEL, N.J. (AP) — State police with K-9 dogs are searching the woods for a person suspected of shooting two people outside a hip-hop concert in central New Jersey.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="189.sgm-E2-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="141" END="154">— State police</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="189.sgm-E1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="141" END="154">— State police</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="189.sgm-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="189.sgm-E6" ROLE="Arg-1" />
+    <relation_argument REFID="189.sgm-E7" ROLE="Arg-2" />
+      <relation_mention ID="189.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="289" END="438">The shooting happened late Monday outside the PNC Bank Arts Center in Holmdel, causing panic among the crowd attending a show by Big Sean and J. Cole.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="189.sgm-E6-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="331" END="354">the PNC Bank Arts Center</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="189.sgm-E7-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="359" END="365">Holmdel</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="189.sgm-R2" TYPE="PART-WHOLE">
+    <relation_argument REFID="189.sgm-E15" ROLE="Arg-1" />
+    <relation_argument REFID="189.sgm-E14" ROLE="Arg-2" />
+      <relation_mention ID="189.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="611" END="662">State police say the suspect fled into nearby woods.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="189.sgm-E15-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="611" END="622">State police</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="189.sgm-E14-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="611" END="622">State police</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="189.sgm-R3" TYPE="PHYS">
+    <relation_argument REFID="189.sgm-E16" ROLE="Arg-1" />
+    <relation_argument REFID="189.sgm-E17" ROLE="Arg-2" />
+      <relation_mention ID="189.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="611" END="662">State police say the suspect fled into nearby woods.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="189.sgm-E16-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="628" END="638">the suspect</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="189.sgm-E17-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="650" END="661">nearby woods</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="189.sgm-R4" TYPE="PHYS">
+    <relation_argument REFID="189.sgm-E18" ROLE="Arg-1" />
+    <relation_argument REFID="189.sgm-E19" ROLE="Arg-2" />
+      <relation_mention ID="189.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="664" END="703">Two people were flown to area hospitals.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="189.sgm-E18-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="664" END="673">Two people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="189.sgm-E19-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="689" END="702">area hospitals</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="189.sgm-R5" TYPE="PART-WHOLE">
+    <relation_argument REFID="189.sgm-E26" ROLE="Arg-1" />
+    <relation_argument REFID="189.sgm-E27" ROLE="Arg-2" />
+      <relation_mention ID="189.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="841" END="907">They&apos;re to perform at Madison Square Garden in New York on Tuesday.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="189.sgm-E26-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="863" END="883">Madison Square Garden</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="189.sgm-E27-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="888" END="895">New York</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="189.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="189.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="289" END="438">The shooting happened late Monday outside the PNC Bank Arts Center in Holmdel, causing panic among the crowd attending a show by Big Sean and J. Cole.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="293" END="300">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="189.sgm-E6-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="331" END="354">the PNC Bank Arts Center</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="189.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="189.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="440" END="555">Eighteen-year-old Omayma Bougdour tells the Daily News gunfire began after an argument broke out in the parking lot.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="495" END="501">gunfire</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="189.sgm-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="189.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="611" END="662">State police say the suspect fled into nearby woods.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="640" END="643">fled</charseq>
+      </anchor>
+      <event_mention_argument REFID="189.sgm-E16-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="628" END="638">the suspect</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="189.sgm-E17-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="650" END="661">nearby woods</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="189.sgm-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="189.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="664" END="703">Two people were flown to area hospitals.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="680" END="684">flown</charseq>
+      </anchor>
+      <event_mention_argument REFID="189.sgm-E18-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="664" END="673">Two people</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="189.sgm-E19-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="689" END="702">area hospitals</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="189.sgm-EV4" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="189.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="798" END="839">Big Sean and J. Cole are touring together.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="823" END="829">touring</charseq>
+      </anchor>
+      <event_mention_argument REFID="189.sgm-E24-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="798" END="817">Big Sean and J. Cole</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

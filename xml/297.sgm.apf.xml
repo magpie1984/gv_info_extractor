@@ -1,0 +1,320 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/297.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/297.sgm">
+  <entity ID="297.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E0-1">
+      <extent>
+			<charseq START="80" END="90">BLOOMINGTON</charseq>
+      </extent>
+      <head>
+			<charseq START="80" END="90">BLOOMINGTON</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E1-1">
+      <extent>
+			<charseq START="93" END="94">IL</charseq>
+      </extent>
+      <head>
+			<charseq START="93" END="94">IL</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E2-1">
+      <extent>
+			<charseq START="132" END="155">a 23-year-old white male</charseq>
+      </extent>
+      <head>
+			<charseq START="152" END="155">male</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E3" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E3-1">
+      <extent>
+			<charseq START="164" END="169">police</charseq>
+      </extent>
+      <head>
+			<charseq START="164" END="169">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E4-1">
+      <extent>
+			<charseq START="181" END="182">he</charseq>
+      </extent>
+      <head>
+			<charseq START="181" END="182">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E5-1">
+      <extent>
+			<charseq START="189" END="195">himself</charseq>
+      </extent>
+      <head>
+			<charseq START="189" END="195">himself</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E6-1">
+      <extent>
+			<charseq START="232" END="247">his Glock pistol</charseq>
+      </extent>
+      <head>
+			<charseq START="232" END="234">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E7-1">
+      <extent>
+			<charseq START="262" END="269">Officers</charseq>
+      </extent>
+      <head>
+			<charseq START="262" END="269">Officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E8" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E8-1">
+      <extent>
+			<charseq START="277" END="286">the bullet</charseq>
+      </extent>
+      <head>
+			<charseq START="281" END="286">bullet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E9-1">
+      <extent>
+			<charseq START="317" END="323">the man</charseq>
+      </extent>
+      <head>
+			<charseq START="321" END="323">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E10" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E10-1">
+      <extent>
+			<charseq START="324" END="335">&apos;s apartment</charseq>
+      </extent>
+      <head>
+			<charseq START="327" END="335">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E11-1">
+      <extent>
+			<charseq START="351" END="371">Bloomington police Lt</charseq>
+      </extent>
+      <head>
+			<charseq START="351" END="371">Bloomington police Lt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E12-1">
+      <extent>
+			<charseq START="374" END="386">Steve Kellams</charseq>
+      </extent>
+      <head>
+			<charseq START="374" END="386">Steve Kellams</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E13-1">
+      <extent>
+			<charseq START="389" END="395">The man</charseq>
+      </extent>
+      <head>
+			<charseq START="393" END="395">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E14" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E14-1">
+      <extent>
+			<charseq START="410" END="421">the hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="414" END="421">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E15-1">
+      <extent>
+			<charseq START="453" END="473">his left index finger</charseq>
+      </extent>
+      <head>
+			<charseq START="453" END="455">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E16-1">
+      <extent>
+			<charseq START="476" END="481">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="476" END="481">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="297.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="297.sgm-E17-1">
+      <extent>
+			<charseq START="487" END="493">the man</charseq>
+      </extent>
+      <head>
+			<charseq START="491" END="493">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="297.sgm-R0" TYPE="ART">
+    <relation_argument REFID="297.sgm-E9" ROLE="Arg-1" />
+    <relation_argument REFID="297.sgm-E10" ROLE="Arg-2" />
+      <relation_mention ID="297.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="262" END="387">Officers found the bullet lodged in a ceiling joist of the man&apos;s apartment, according to Bloomington police Lt. Steve Kellams.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="297.sgm-E9-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="317" END="323">the man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="297.sgm-E10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="324" END="335">&apos;s apartment</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="297.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="297.sgm-E13" ROLE="Arg-1" />
+    <relation_argument REFID="297.sgm-E14" ROLE="Arg-2" />
+      <relation_mention ID="297.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="389" END="474">The man was taken to the hospital for treatment to an injury to his left index finger.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="297.sgm-E13-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="389" END="395">The man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="297.sgm-E14-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="410" END="421">the hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="297.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="297.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="80" END="260">BLOOMINGTON, IL - On Thursday evening, September 5, a 23-year-old white male called police to report he shot himself once in the finger while unloading his Glock pistol to clean it.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="184" END="187">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="297.sgm-E4-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="181" END="182">he</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="297.sgm-E5-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="189" END="195">himself</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="297.sgm-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="297.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="389" END="474">The man was taken to the hospital for treatment to an injury to his left index finger.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="401" END="405">taken</charseq>
+      </anchor>
+      <event_mention_argument REFID="297.sgm-E13-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="389" END="395">The man</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="297.sgm-E14-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="410" END="421">the hospital</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="297.sgm-EV2" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="297.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="389" END="474">The man was taken to the hospital for treatment to an injury to his left index finger.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="443" END="448">injury</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="297.sgm-EV3" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="297.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="476" END="538">Police say the man appeared inebriated at the time of the call.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="534" END="537">call</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/57.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/57.sgm">
+  <entity ID="57.sgm-E0" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="57.sgm-E0-1">
+      <extent>
+			<charseq START="113" END="127">Richmond Police</charseq>
+      </extent>
+      <head>
+			<charseq START="122" END="127">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="57.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="57.sgm-E1-1">
+      <extent>
+			<charseq START="145" END="152">suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="145" END="152">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="57.sgm-E2" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="57.sgm-E2-1">
+      <extent>
+			<charseq START="174" END="180">the Fan</charseq>
+      </extent>
+      <head>
+			<charseq START="178" END="180">Fan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="57.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="57.sgm-E3-1">
+      <extent>
+			<charseq START="225" END="232">Robinson</charseq>
+      </extent>
+      <head>
+			<charseq START="225" END="232">Robinson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="57.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="57.sgm-E4-1">
+      <extent>
+			<charseq START="238" END="246">West Cary</charseq>
+      </extent>
+      <head>
+			<charseq START="238" END="246">West Cary</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="57.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="57.sgm-E5-1">
+      <extent>
+			<charseq START="249" END="258">The victim</charseq>
+      </extent>
+      <head>
+			<charseq START="253" END="258">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="57.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="57.sgm-E6-1">
+      <extent>
+			<charseq START="301" END="302">He</charseq>
+      </extent>
+      <head>
+			<charseq START="301" END="302">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="57.sgm-E7" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="57.sgm-E7-1">
+      <extent>
+			<charseq START="317" END="334">VCU Medical Center</charseq>
+      </extent>
+      <head>
+			<charseq START="329" END="334">Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="57.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="57.sgm-E8-1">
+      <extent>
+			<charseq START="364" END="373">The victim</charseq>
+      </extent>
+      <head>
+			<charseq START="368" END="373">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="57.sgm-E9" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="57.sgm-E9-1">
+      <extent>
+			<charseq START="380" END="388">a vehicle</charseq>
+      </extent>
+      <head>
+			<charseq START="382" END="388">vehicle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="57.sgm-E10" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="57.sgm-E10-1">
+      <extent>
+			<charseq START="400" END="402">him</charseq>
+      </extent>
+      <head>
+			<charseq START="400" END="402">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="57.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="57.sgm-E11-1">
+      <extent>
+			<charseq START="421" END="426">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="421" END="426">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="57.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="57.sgm-E12-1">
+      <extent>
+			<charseq START="440" END="460">a suspect description</charseq>
+      </extent>
+      <head>
+			<charseq START="442" END="448">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="57.sgm-R0" TYPE="PHYS">
+    <relation_argument REFID="57.sgm-E6" ROLE="Arg-1" />
+    <relation_argument REFID="57.sgm-E7" ROLE="Arg-2" />
+      <relation_mention ID="57.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="301" END="362">He was taken to VCU Medical Center and is expected to be okay.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="57.sgm-E6-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="301" END="302">He</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="57.sgm-E7-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="317" END="334">VCU Medical Center</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="57.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="57.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="113" END="181">Richmond Police are looking for suspects after a shooting in the Fan.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="162" END="169">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="57.sgm-E2-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="174" END="180">the Fan</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="57.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="57.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="183" END="247">The shooting happened around 3:15 a.m. on Robinson and West Cary.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="187" END="194">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="57.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="57.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="249" END="299">The victim was shot in the leg while riding a bike.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="264" END="267">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="57.sgm-E5-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="249" END="258">The victim</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="57.sgm-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="57.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="301" END="362">He was taken to VCU Medical Center and is expected to be okay.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="308" END="312">taken</charseq>
+      </anchor>
+      <event_mention_argument REFID="57.sgm-E6-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="301" END="302">He</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="57.sgm-E7-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="317" END="334">VCU Medical Center</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="57.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="57.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="364" END="419">The victim says a vehicle ran up on him and opened fire.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="415" END="418">fire</charseq>
+      </anchor>
+      <event_mention_argument REFID="57.sgm-E9-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="380" END="388">a vehicle</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

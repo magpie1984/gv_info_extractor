@@ -1,0 +1,480 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/453.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/453.sgm">
+  <entity ID="453.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E0-1">
+      <extent>
+			<charseq START="57" END="102">Deschutes County District Attorney John Hummel</charseq>
+      </extent>
+      <head>
+			<charseq START="57" END="72">Deschutes County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E1-1">
+      <extent>
+			<charseq START="57" END="102">Deschutes County District Attorney John Hummel</charseq>
+      </extent>
+      <head>
+			<charseq START="83" END="90">Attorney</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E2-1">
+      <extent>
+			<charseq START="57" END="102">Deschutes County District Attorney John Hummel</charseq>
+      </extent>
+      <head>
+			<charseq START="92" END="102">John Hummel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E3-1">
+      <extent>
+			<charseq START="115" END="121">a judge</charseq>
+      </extent>
+      <head>
+			<charseq START="117" END="121">judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E4-1">
+      <extent>
+			<charseq START="167" END="181">Daniel Norquist</charseq>
+      </extent>
+      <head>
+			<charseq START="167" END="181">Daniel Norquist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E5-1">
+      <extent>
+			<charseq START="216" END="227">his landlord</charseq>
+      </extent>
+      <head>
+			<charseq START="216" END="218">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E6-1">
+      <extent>
+			<charseq START="216" END="227">his landlord</charseq>
+      </extent>
+      <head>
+			<charseq START="220" END="227">landlord</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E7-1">
+      <extent>
+			<charseq START="230" END="242">Andrew Cordes</charseq>
+      </extent>
+      <head>
+			<charseq START="230" END="242">Andrew Cordes</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E8-1">
+      <extent>
+			<charseq START="248" END="272">his northeast Bend duplex</charseq>
+      </extent>
+      <head>
+			<charseq START="248" END="250">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E9" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E9-1">
+      <extent>
+			<charseq START="275" END="278">Here</charseq>
+      </extent>
+      <head>
+			<charseq START="275" END="278">Here</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E10" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E10-1">
+      <extent>
+			<charseq START="297" END="305">the state</charseq>
+      </extent>
+      <head>
+			<charseq START="301" END="305">state</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E11" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E11-1">
+      <extent>
+			<charseq START="308" END="309">we</charseq>
+      </extent>
+      <head>
+			<charseq START="308" END="309">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E12" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E12-1">
+      <extent>
+			<charseq START="351" END="356">Oregon</charseq>
+      </extent>
+      <head>
+			<charseq START="351" END="356">Oregon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E13-1">
+      <extent>
+			<charseq START="374" END="375">we</charseq>
+      </extent>
+      <head>
+			<charseq START="374" END="375">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E14-1">
+      <extent>
+			<charseq START="473" END="482">Smith Rock</charseq>
+      </extent>
+      <head>
+			<charseq START="473" END="482">Smith Rock</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E15" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E15-1">
+      <extent>
+			<charseq START="491" END="516">Painted Hills, Crater Lake</charseq>
+      </extent>
+      <head>
+			<charseq START="491" END="516">Painted Hills, Crater Lake</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E16" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E16-1">
+      <extent>
+			<charseq START="525" END="556">Columbia River Gorge, Mount Hood</charseq>
+      </extent>
+      <head>
+			<charseq START="525" END="556">Columbia River Gorge, Mount Hood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E17" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E17-1">
+      <extent>
+			<charseq START="559" END="574">the Oregon Coast</charseq>
+      </extent>
+      <head>
+			<charseq START="563" END="574">Oregon Coast</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E18" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E18-1">
+      <extent>
+			<charseq START="581" END="592">the Wallowas</charseq>
+      </extent>
+      <head>
+			<charseq START="585" END="592">Wallowas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E19" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E19-1">
+      <extent>
+			<charseq START="614" END="620">our Gas</charseq>
+      </extent>
+      <head>
+			<charseq START="614" END="616">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E20" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E20-1">
+      <extent>
+			<charseq START="671" END="699">the Wildhorse Resort &amp; Casino</charseq>
+      </extent>
+      <head>
+			<charseq START="675" END="690">Wildhorse Resort</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E21" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E21-1">
+      <extent>
+			<charseq START="671" END="699">the Wildhorse Resort &amp; Casino</charseq>
+      </extent>
+      <head>
+			<charseq START="694" END="699">Casino</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E22" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E22-1">
+      <extent>
+			<charseq START="704" END="712">Pendleton</charseq>
+      </extent>
+      <head>
+			<charseq START="704" END="712">Pendleton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E23" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E23-1">
+      <extent>
+			<charseq START="735" END="747">Klamath Falls</charseq>
+      </extent>
+      <head>
+			<charseq START="735" END="747">Klamath Falls</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E24" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E24-1">
+      <extent>
+			<charseq START="753" END="778">Wildlife Safari in Winston</charseq>
+      </extent>
+      <head>
+			<charseq START="753" END="778">Wildlife Safari in Winston</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E25-1">
+      <extent>
+			<charseq START="853" END="854">we</charseq>
+      </extent>
+      <head>
+			<charseq START="853" END="854">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E26" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E26-1">
+      <extent>
+			<charseq START="892" END="912">News, Daily Headlines</charseq>
+      </extent>
+      <head>
+			<charseq START="892" END="912">News, Daily Headlines</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E27-1">
+      <extent>
+			<charseq START="977" END="979">you</charseq>
+      </extent>
+      <head>
+			<charseq START="977" END="979">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E28-1">
+      <extent>
+			<charseq START="986" END="988">you</charseq>
+      </extent>
+      <head>
+			<charseq START="986" END="988">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E29-1">
+      <extent>
+			<charseq START="1052" END="1054">you</charseq>
+      </extent>
+      <head>
+			<charseq START="1052" END="1054">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E30-1">
+      <extent>
+			<charseq START="1061" END="1063">you</charseq>
+      </extent>
+      <head>
+			<charseq START="1061" END="1063">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E31-1">
+      <extent>
+			<charseq START="1080" END="1091">your profile</charseq>
+      </extent>
+      <head>
+			<charseq START="1080" END="1083">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="453.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="453.sgm-E32-1">
+      <extent>
+			<charseq START="1171" END="1187">your registration</charseq>
+      </extent>
+      <head>
+			<charseq START="1171" END="1174">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="453.sgm-R0" TYPE="PER-SOC">
+    <relation_argument REFID="453.sgm-E5" ROLE="Arg-1" />
+    <relation_argument REFID="453.sgm-E6" ROLE="Arg-2" />
+      <relation_mention ID="453.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="54" END="273">At Deschutes County District Attorney John Hummel&apos;s request, a judge on Monday dismissed a murder charge against Daniel Norquist in the July 25 shooting death of his landlord, Andrew Cordes, at his northeast Bend duplex.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="453.sgm-E5-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="216" END="227">his landlord</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="453.sgm-E6-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="216" END="227">his landlord</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="453.sgm-R1" TYPE="GEN-AFF">
+    <relation_argument REFID="453.sgm-E20" ROLE="Arg-1" />
+    <relation_argument REFID="453.sgm-E22" ROLE="Arg-2" />
+      <relation_mention ID="453.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="595" END="779">??Be sure to enter our Gas Up &amp; Go contest to win great getaway packages to the Wildhorse Resort &amp; Casino in Pendleton, Running Y Resort in Klamath Falls and Wildlife Safari in Winston.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="453.sgm-E20-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="671" END="699">the Wildhorse Resort &amp; Casino</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="453.sgm-E22-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="704" END="712">Pendleton</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="453.sgm-EV0" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="453.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="54" END="273">At Deschutes County District Attorney John Hummel&apos;s request, a judge on Monday dismissed a murder charge against Daniel Norquist in the July 25 shooting death of his landlord, Andrew Cordes, at his northeast Bend duplex.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="133" END="141">dismissed</charseq>
+      </anchor>
+      <event_mention_argument REFID="453.sgm-E3-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="115" END="121">a judge</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="453.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="453.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="54" END="273">At Deschutes County District Attorney John Hummel&apos;s request, a judge on Monday dismissed a murder charge against Daniel Norquist in the July 25 shooting death of his landlord, Andrew Cordes, at his northeast Bend duplex.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="207" END="211">death</charseq>
+      </anchor>
+      <event_mention_argument REFID="453.sgm-E6-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="216" END="227">his landlord</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="453.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="453.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="409" END="466">So tune in to NewsChannel 21 throughout the month of July.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="423" END="433">NewsChannel</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

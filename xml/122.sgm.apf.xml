@@ -1,0 +1,1047 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/122.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/122.sgm">
+  <entity ID="122.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E0-1">
+      <extent>
+			<charseq START="182" END="188">Weather</charseq>
+      </extent>
+      <head>
+			<charseq START="182" END="188">Weather</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E1-1">
+      <extent>
+			<charseq START="191" END="196">Sports</charseq>
+      </extent>
+      <head>
+			<charseq START="191" END="196">Sports</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E2" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E2-1">
+      <extent>
+			<charseq START="212" END="342">/ Superior WI / Northland                                           |                North West Wisconsin              
+ Iron River</charseq>
+      </extent>
+      <head>
+			<charseq START="228" END="236">Northland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E3-1">
+      <extent>
+			<charseq START="212" END="342">/ Superior WI / Northland                                           |                North West Wisconsin              
+ Iron River</charseq>
+      </extent>
+      <head>
+			<charseq START="280" END="342">|                North West Wisconsin              
+ Iron River</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E4" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E4-1">
+      <extent>
+			<charseq START="345" END="346">WI</charseq>
+      </extent>
+      <head>
+			<charseq START="345" END="346">WI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E5" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E5-1">
+      <extent>
+			<charseq START="349" END="358">NNCNOW.com</charseq>
+      </extent>
+      <head>
+			<charseq START="349" END="358">NNCNOW.com</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E6-1">
+      <extent>
+			<charseq START="364" END="375">Three people</charseq>
+      </extent>
+      <head>
+			<charseq START="370" END="375">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E7" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E7-1">
+      <extent>
+			<charseq START="391" END="402">the hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="395" END="402">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E8" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E8-1">
+      <extent>
+			<charseq START="435" END="460">Wayside Road in Iron River</charseq>
+      </extent>
+      <head>
+			<charseq START="435" END="460">Wayside Road in Iron River</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E9" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E9-1">
+      <extent>
+			<charseq START="496" END="497">WI</charseq>
+      </extent>
+      <head>
+			<charseq START="496" END="497">WI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E10" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E10-1">
+      <extent>
+			<charseq START="500" END="509">NNCNOW.com</charseq>
+      </extent>
+      <head>
+			<charseq START="500" END="509">NNCNOW.com</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E11-1">
+      <extent>
+			<charseq START="515" END="528">The two people</charseq>
+      </extent>
+      <head>
+			<charseq START="523" END="528">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E12-1">
+      <extent>
+			<charseq START="561" END="578">Drummond Wisconsin</charseq>
+      </extent>
+      <head>
+			<charseq START="561" END="578">Drummond Wisconsin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E13" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E13-1">
+      <extent>
+			<charseq START="604" END="610">Ashland</charseq>
+      </extent>
+      <head>
+			<charseq START="604" END="610">Ashland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E14" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E14-1">
+      <extent>
+			<charseq START="613" END="614">WI</charseq>
+      </extent>
+      <head>
+			<charseq START="613" END="614">WI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E15" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E15-1">
+      <extent>
+			<charseq START="617" END="626">NNCNOW.com</charseq>
+      </extent>
+      <head>
+			<charseq START="617" END="626">NNCNOW.com</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E16-1">
+      <extent>
+			<charseq START="632" END="638">A group</charseq>
+      </extent>
+      <head>
+			<charseq START="634" END="638">group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E17" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E17-1">
+      <extent>
+			<charseq START="643" END="676">concerned Bayfield County citizens</charseq>
+      </extent>
+      <head>
+			<charseq START="653" END="667">Bayfield County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E18" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E18-1">
+      <extent>
+			<charseq START="643" END="676">concerned Bayfield County citizens</charseq>
+      </extent>
+      <head>
+			<charseq START="669" END="676">citizens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E19-1">
+      <extent>
+			<charseq START="840" END="848">her stern</charseq>
+      </extent>
+      <head>
+			<charseq START="840" END="842">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E20" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E20-1">
+      <extent>
+			<charseq START="851" END="864">The University</charseq>
+      </extent>
+      <head>
+			<charseq START="855" END="864">University</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E21" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E21-1">
+      <extent>
+			<charseq START="869" END="877">Wisconsin</charseq>
+      </extent>
+      <head>
+			<charseq START="869" END="877">Wisconsin</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E22" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E22-1">
+      <extent>
+			<charseq START="880" END="887">Superior</charseq>
+      </extent>
+      <head>
+			<charseq START="880" END="887">Superior</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E23-1">
+      <extent>
+			<charseq START="913" END="925">Dave Anderson</charseq>
+      </extent>
+      <head>
+			<charseq START="913" END="925">Dave Anderson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E24" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E24-1">
+      <extent>
+			<charseq START="933" END="934">us</charseq>
+      </extent>
+      <head>
+			<charseq START="933" END="934">us</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E25-1">
+      <extent>
+			<charseq START="951" END="962">the LL Smith</charseq>
+      </extent>
+      <head>
+			<charseq START="955" END="962">LL Smith</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E26-1">
+      <extent>
+			<charseq START="965" END="970">Junior</charseq>
+      </extent>
+      <head>
+			<charseq START="965" END="970">Junior</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E27-1">
+      <extent>
+			<charseq START="975" END="981">Spooner</charseq>
+      </extent>
+      <head>
+			<charseq START="975" END="981">Spooner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E28" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E28-1">
+      <extent>
+			<charseq START="984" END="985">WI</charseq>
+      </extent>
+      <head>
+			<charseq START="984" END="985">WI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E29" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E29-1">
+      <extent>
+			<charseq START="988" END="997">NNCNOW.com</charseq>
+      </extent>
+      <head>
+			<charseq START="988" END="997">NNCNOW.com</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E30" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E30-1">
+      <extent>
+			<charseq START="1003" END="1022">A 47-year-old Minong</charseq>
+      </extent>
+      <head>
+			<charseq START="1017" END="1022">Minong</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E31" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E31-1">
+      <extent>
+			<charseq START="1025" END="1028">Wis.</charseq>
+      </extent>
+      <head>
+			<charseq START="1025" END="1028">Wis.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E32-1">
+      <extent>
+			<charseq START="1031" END="1033">man</charseq>
+      </extent>
+      <head>
+			<charseq START="1031" END="1033">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E33-1">
+      <extent>
+			<charseq START="1051" END="1066">his pickup truck</charseq>
+      </extent>
+      <head>
+			<charseq START="1051" END="1053">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E34" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E34-1">
+      <extent>
+			<charseq START="1051" END="1066">his pickup truck</charseq>
+      </extent>
+      <head>
+			<charseq START="1062" END="1066">truck</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E35-1">
+      <extent>
+			<charseq START="1101" END="1107">Spooner</charseq>
+      </extent>
+      <head>
+			<charseq START="1101" END="1107">Spooner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E36" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E36-1">
+      <extent>
+			<charseq START="1117" END="1125">Rice Lake</charseq>
+      </extent>
+      <head>
+			<charseq START="1122" END="1125">Lake</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E37" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E37-1">
+      <extent>
+			<charseq START="1128" END="1129">WI</charseq>
+      </extent>
+      <head>
+			<charseq START="1128" END="1129">WI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E38" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E38-1">
+      <extent>
+			<charseq START="1132" END="1141">NNCNOW.com</charseq>
+      </extent>
+      <head>
+			<charseq START="1132" END="1141">NNCNOW.com</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E39-1">
+      <extent>
+			<charseq START="1147" END="1163">A 20-year-old man</charseq>
+      </extent>
+      <head>
+			<charseq START="1161" END="1163">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E40" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E40-1">
+      <extent>
+			<charseq START="1196" END="1209">federal prison</charseq>
+      </extent>
+      <head>
+			<charseq START="1204" END="1209">prison</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E41" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E41-1">
+      <extent>
+			<charseq START="1215" END="1228">bank robberies</charseq>
+      </extent>
+      <head>
+			<charseq START="1215" END="1218">bank</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E42" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E42-1">
+      <extent>
+			<charseq START="1293" END="1332">Red Cliff Band of Lake Superior Chippewa</charseq>
+      </extent>
+      <head>
+			<charseq START="1293" END="1332">Red Cliff Band of Lake Superior Chippewa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E43" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E43-1">
+      <extent>
+			<charseq START="1351" END="1371">Native American youth</charseq>
+      </extent>
+      <head>
+			<charseq START="1358" END="1365">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E44" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E44-1">
+      <extent>
+			<charseq START="1351" END="1371">Native American youth</charseq>
+      </extent>
+      <head>
+			<charseq START="1367" END="1371">youth</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E45" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E45-1">
+      <extent>
+			<charseq START="1454" END="1482">Two Native American comedians</charseq>
+      </extent>
+      <head>
+			<charseq START="1465" END="1472">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E46" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E46-1">
+      <extent>
+			<charseq START="1454" END="1482">Two Native American comedians</charseq>
+      </extent>
+      <head>
+			<charseq START="1474" END="1482">comedians</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E47" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E47-1">
+      <extent>
+			<charseq START="1495" END="1497">you</charseq>
+      </extent>
+      <head>
+			<charseq START="1495" END="1497">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E48" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E48-1">
+      <extent>
+			<charseq START="1512" END="1537">their Kickstarter campaign</charseq>
+      </extent>
+      <head>
+			<charseq START="1512" END="1516">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E49" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E49-1">
+      <extent>
+			<charseq START="1512" END="1537">their Kickstarter campaign</charseq>
+      </extent>
+      <head>
+			<charseq START="1518" END="1528">Kickstarter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E50" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E50-1">
+      <extent>
+			<charseq START="1547" END="1550">them</charseq>
+      </extent>
+      <head>
+			<charseq START="1547" END="1550">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E51" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E51-1">
+      <extent>
+			<charseq START="1588" END="1589">WI</charseq>
+      </extent>
+      <head>
+			<charseq START="1588" END="1589">WI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E52" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E52-1">
+      <extent>
+			<charseq START="1592" END="1601">NNCNOW.com</charseq>
+      </extent>
+      <head>
+			<charseq START="1592" END="1601">NNCNOW.com</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E53" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E53-1">
+      <extent>
+			<charseq START="1660" END="1682">a Wisconsin Marine shot</charseq>
+      </extent>
+      <head>
+			<charseq START="1662" END="1677">Wisconsin Marine</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E54" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E54-1">
+      <extent>
+			<charseq START="1698" END="1716">a military facility</charseq>
+      </extent>
+      <head>
+			<charseq START="1700" END="1707">military</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E55" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E55-1">
+      <extent>
+			<charseq START="1698" END="1716">a military facility</charseq>
+      </extent>
+      <head>
+			<charseq START="1709" END="1716">facility</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E56" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E56-1">
+      <extent>
+			<charseq START="1721" END="1729">Tennessee</charseq>
+      </extent>
+      <head>
+			<charseq START="1721" END="1729">Tennessee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E57" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E57-1">
+      <extent>
+			<charseq START="1744" END="1751">Superior</charseq>
+      </extent>
+      <head>
+			<charseq START="1744" END="1751">Superior</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E58" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E58-1">
+      <extent>
+			<charseq START="1754" END="1755">WI</charseq>
+      </extent>
+      <head>
+			<charseq START="1754" END="1755">WI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="122.sgm-E59" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="122.sgm-E59-1">
+      <extent>
+			<charseq START="1758" END="1767">NNCNOW.com</charseq>
+      </extent>
+      <head>
+			<charseq START="1758" END="1767">NNCNOW.com</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="122.sgm-R0" TYPE="PHYS">
+    <relation_argument REFID="122.sgm-E6" ROLE="Arg-1" />
+    <relation_argument REFID="122.sgm-E7" ROLE="Arg-2" />
+      <relation_mention ID="122.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="361" END="482">-- Three people were taken to the hospital after a two-vehicle crash near Wayside Road in Iron River early this afternoon.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="122.sgm-E6-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="364" END="375">Three people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="122.sgm-E7-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="391" END="402">the hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="122.sgm-R1" TYPE="GEN-AFF">
+    <relation_argument REFID="122.sgm-E18" ROLE="Arg-1" />
+    <relation_argument REFID="122.sgm-E17" ROLE="Arg-2" />
+      <relation_mention ID="122.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="629" END="733">-- A group of concerned Bayfield County citizens is causing a literal stink about a proposed feeding lot.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="122.sgm-E18-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="643" END="676">concerned Bayfield County citizens</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="122.sgm-E17-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="643" END="676">concerned Bayfield County citizens</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="122.sgm-R2" TYPE="GEN-AFF">
+    <relation_argument REFID="122.sgm-E20" ROLE="Arg-1" />
+    <relation_argument REFID="122.sgm-E22" ROLE="Arg-2" />
+      <relation_mention ID="122.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="851" END="911">The University of Wisconsin, Superior has one up for auction.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="122.sgm-E20-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="851" END="864">The University</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="122.sgm-E22-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="880" END="887">Superior</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="122.sgm-R3" TYPE="PHYS">
+    <relation_argument REFID="122.sgm-E32" ROLE="Arg-1" />
+    <relation_argument REFID="122.sgm-E30" ROLE="Arg-2" />
+      <relation_mention ID="122.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="1000" END="1113">-- A 47-year-old Minong, Wis., man was killed when his pickup truck rolled over Wednesday morning in Spooner, Wis.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="122.sgm-E32-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1031" END="1033">man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="122.sgm-E30-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1003" END="1022">A 47-year-old Minong</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="122.sgm-R4" TYPE="ART">
+    <relation_argument REFID="122.sgm-E33" ROLE="Arg-1" />
+    <relation_argument REFID="122.sgm-E34" ROLE="Arg-2" />
+      <relation_mention ID="122.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="1000" END="1113">-- A 47-year-old Minong, Wis., man was killed when his pickup truck rolled over Wednesday morning in Spooner, Wis.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="122.sgm-E33-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1051" END="1066">his pickup truck</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="122.sgm-E34-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1051" END="1066">his pickup truck</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="122.sgm-R5" TYPE="PART-WHOLE">
+    <relation_argument REFID="122.sgm-E36" ROLE="Arg-1" />
+    <relation_argument REFID="122.sgm-E37" ROLE="Arg-2" />
+      <relation_mention ID="122.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="1117" END="1142">Rice Lake, WI (NNCNOW.com)</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="122.sgm-E36-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1117" END="1125">Rice Lake</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="122.sgm-E37-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1128" END="1129">WI</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="122.sgm-R6" TYPE="PHYS">
+    <relation_argument REFID="122.sgm-E39" ROLE="Arg-1" />
+    <relation_argument REFID="122.sgm-E40" ROLE="Arg-2" />
+      <relation_mention ID="122.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="1144" END="1229">-- A 20-year-old man will spend nearly ten years in federal prison for bank robberies.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="122.sgm-E39-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1147" END="1163">A 20-year-old man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="122.sgm-E40-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1196" END="1209">federal prison</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="122.sgm-R7" TYPE="GEN-AFF">
+    <relation_argument REFID="122.sgm-E44" ROLE="Arg-1" />
+    <relation_argument REFID="122.sgm-E43" ROLE="Arg-2" />
+      <relation_mention ID="122.sgm-R7-1">
+      <ldc_extent>
+			<charseq START="1257" END="1423">-- A film in the making, set on the Red Cliff Band of Lake Superior Chippewa, aims to empower Native American youth with an anti-bullying message and Native superhero.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="122.sgm-E44-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1351" END="1371">Native American youth</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="122.sgm-E43-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1351" END="1371">Native American youth</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="122.sgm-R8" TYPE="GEN-AFF">
+    <relation_argument REFID="122.sgm-E46" ROLE="Arg-1" />
+    <relation_argument REFID="122.sgm-E45" ROLE="Arg-2" />
+      <relation_mention ID="122.sgm-R8-1">
+      <ldc_extent>
+			<charseq START="1451" END="1572">-- Two Native American comedians are asking you to donate to their Kickstarter campaign to help them create a documentary.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="122.sgm-E46-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1454" END="1482">Two Native American comedians</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="122.sgm-E45-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1454" END="1482">Two Native American comedians</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="122.sgm-R9" TYPE="ART">
+    <relation_argument REFID="122.sgm-E54" ROLE="Arg-1" />
+    <relation_argument REFID="122.sgm-E55" ROLE="Arg-2" />
+      <relation_mention ID="122.sgm-R9-1">
+      <ldc_extent>
+			<charseq START="1604" END="1740">-- The visitation and funeral will be held Saturday for a Wisconsin Marine shot and killed at a military facility in Tennessee last week.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="122.sgm-E54-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1698" END="1716">a military facility</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="122.sgm-E55-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1698" END="1716">a military facility</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="122.sgm-R10" TYPE="PART-WHOLE">
+    <relation_argument REFID="122.sgm-E55" ROLE="Arg-1" />
+    <relation_argument REFID="122.sgm-E56" ROLE="Arg-2" />
+      <relation_mention ID="122.sgm-R10-1">
+      <ldc_extent>
+			<charseq START="1604" END="1740">-- The visitation and funeral will be held Saturday for a Wisconsin Marine shot and killed at a military facility in Tennessee last week.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="122.sgm-E55-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1698" END="1716">a military facility</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="122.sgm-E56-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1721" END="1729">Tennessee</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="122.sgm-R11" TYPE="PART-WHOLE">
+    <relation_argument REFID="122.sgm-E57" ROLE="Arg-1" />
+    <relation_argument REFID="122.sgm-E58" ROLE="Arg-2" />
+      <relation_mention ID="122.sgm-R11-1">
+      <ldc_extent>
+			<charseq START="1744" END="1768">Superior, WI (NNCNOW.com)</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="122.sgm-E57-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1744" END="1751">Superior</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="122.sgm-E58-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1754" END="1755">WI</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="122.sgm-EV0" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="122.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="361" END="482">-- Three people were taken to the hospital after a two-vehicle crash near Wayside Road in Iron River early this afternoon.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="382" END="386">taken</charseq>
+      </anchor>
+      <event_mention_argument REFID="122.sgm-E6-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="364" END="375">Three people</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="122.sgm-E7-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="391" END="402">the hospital</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="122.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="122.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="1000" END="1113">-- A 47-year-old Minong, Wis., man was killed when his pickup truck rolled over Wednesday morning in Spooner, Wis.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1039" END="1044">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="122.sgm-E32-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1031" END="1033">man</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="122.sgm-E30-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1003" END="1022">A 47-year-old Minong</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="122.sgm-EV2" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="122.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="1451" END="1572">-- Two Native American comedians are asking you to donate to their Kickstarter campaign to help them create a documentary.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1502" END="1507">donate</charseq>
+      </anchor>
+      <event_mention_argument REFID="122.sgm-E47-1" ROLE="Giver" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1495" END="1497">you</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="122.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="122.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="1604" END="1740">-- The visitation and funeral will be held Saturday for a Wisconsin Marine shot and killed at a military facility in Tennessee last week.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1679" END="1682">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="122.sgm-E53-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1660" END="1682">a Wisconsin Marine shot</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="122.sgm-E55-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1698" END="1716">a military facility</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="122.sgm-EV4" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="122.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="1604" END="1740">-- The visitation and funeral will be held Saturday for a Wisconsin Marine shot and killed at a military facility in Tennessee last week.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1688" END="1693">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="122.sgm-E55-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1698" END="1716">a military facility</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

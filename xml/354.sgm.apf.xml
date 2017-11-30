@@ -1,0 +1,1650 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/354.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/354.sgm">
+  <entity ID="354.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E0-1">
+      <extent>
+			<charseq START="252" END="262">the country</charseq>
+      </extent>
+      <head>
+			<charseq START="256" END="262">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E1-1">
+      <extent>
+			<charseq START="283" END="286">Eric</charseq>
+      </extent>
+      <head>
+			<charseq START="283" END="286">Eric</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E2-1">
+      <extent>
+			<charseq START="292" END="305">Doris Ferguson</charseq>
+      </extent>
+      <head>
+			<charseq START="292" END="305">Doris Ferguson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E3-1">
+      <extent>
+			<charseq START="335" END="344">their home</charseq>
+      </extent>
+      <head>
+			<charseq START="335" END="339">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E4" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E4-1">
+      <extent>
+			<charseq START="335" END="344">their home</charseq>
+      </extent>
+      <head>
+			<charseq START="341" END="344">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E5-1">
+      <extent>
+			<charseq START="350" END="367">Foster Mill Circle</charseq>
+      </extent>
+      <head>
+			<charseq START="350" END="367">Foster Mill Circle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E6-1">
+      <extent>
+			<charseq START="390" END="398">a suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="392" END="398">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E7" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E7-1">
+      <extent>
+			<charseq START="464" END="489">Spartanburg County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="464" END="481">Spartanburg County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E8-1">
+      <extent>
+			<charseq START="464" END="489">Spartanburg County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="483" END="489">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E9" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E9-1">
+      <extent>
+			<charseq START="490" END="536">&apos;s Office senior investigator Brandon Letterman</charseq>
+      </extent>
+      <head>
+			<charseq START="493" END="498">Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E10-1">
+      <extent>
+			<charseq START="490" END="536">&apos;s Office senior investigator Brandon Letterman</charseq>
+      </extent>
+      <head>
+			<charseq START="507" END="518">investigator</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E11-1">
+      <extent>
+			<charseq START="490" END="536">&apos;s Office senior investigator Brandon Letterman</charseq>
+      </extent>
+      <head>
+			<charseq START="520" END="536">Brandon Letterman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E12-1">
+      <extent>
+			<charseq START="539" END="541">who</charseq>
+      </extent>
+      <head>
+			<charseq START="539" END="541">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E13-1">
+      <extent>
+			<charseq START="573" END="587">A family member</charseq>
+      </extent>
+      <head>
+			<charseq START="575" END="580">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E14-1">
+      <extent>
+			<charseq START="573" END="587">A family member</charseq>
+      </extent>
+      <head>
+			<charseq START="582" END="587">member</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E15-1">
+      <extent>
+			<charseq START="593" END="600">a person</charseq>
+      </extent>
+      <head>
+			<charseq START="595" END="600">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E16-1">
+      <extent>
+			<charseq START="658" END="668">the Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="662" END="668">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E17" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E17-1">
+      <extent>
+			<charseq START="669" END="677">&apos;s Office</charseq>
+      </extent>
+      <head>
+			<charseq START="672" END="677">Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E18" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E18-1">
+      <extent>
+			<charseq START="703" END="710">in court</charseq>
+      </extent>
+      <head>
+			<charseq START="706" END="710">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E19-1">
+      <extent>
+			<charseq START="713" END="721">Letterman</charseq>
+      </extent>
+      <head>
+			<charseq START="713" END="721">Letterman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E20-1">
+      <extent>
+			<charseq START="729" END="730">He</charseq>
+      </extent>
+      <head>
+			<charseq START="729" END="730">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E21" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E21-1">
+      <extent>
+			<charseq START="815" END="839">the 7th Circuit Solicitor</charseq>
+      </extent>
+      <head>
+			<charseq START="819" END="839">7th Circuit Solicitor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E22-1">
+      <extent>
+			<charseq START="840" END="848">&apos;s Office</charseq>
+      </extent>
+      <head>
+			<charseq START="843" END="848">Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E23-1">
+      <extent>
+			<charseq START="851" END="861">The Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="855" END="861">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E24" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E24-1">
+      <extent>
+			<charseq START="862" END="870">&apos;s Office</charseq>
+      </extent>
+      <head>
+			<charseq START="865" END="870">Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E25-1">
+      <extent>
+			<charseq START="935" END="943">Letterman</charseq>
+      </extent>
+      <head>
+			<charseq START="935" END="943">Letterman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E26-1">
+      <extent>
+			<charseq START="994" END="1006">investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="994" END="1006">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E27-1">
+      <extent>
+			<charseq START="1108" END="1120">Kelly Siegler</charseq>
+      </extent>
+      <head>
+			<charseq START="1108" END="1120">Kelly Siegler</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E28" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E28-1">
+      <extent>
+			<charseq START="1123" END="1148">a retired Texas prosecutor</charseq>
+      </extent>
+      <head>
+			<charseq START="1133" END="1137">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E29-1">
+      <extent>
+			<charseq START="1123" END="1148">a retired Texas prosecutor</charseq>
+      </extent>
+      <head>
+			<charseq START="1139" END="1148">prosecutor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E30-1">
+      <extent>
+			<charseq START="1151" END="1165">Yolanda McClary</charseq>
+      </extent>
+      <head>
+			<charseq START="1151" END="1165">Yolanda McClary</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E31" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E31-1">
+      <extent>
+			<charseq START="1168" END="1216">a retired Las Vegas police forensics investigator</charseq>
+      </extent>
+      <head>
+			<charseq START="1178" END="1186">Las Vegas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E32-1">
+      <extent>
+			<charseq START="1168" END="1216">a retired Las Vegas police forensics investigator</charseq>
+      </extent>
+      <head>
+			<charseq START="1188" END="1193">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E33-1">
+      <extent>
+			<charseq START="1168" END="1216">a retired Las Vegas police forensics investigator</charseq>
+      </extent>
+      <head>
+			<charseq START="1205" END="1216">investigator</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E34-1">
+      <extent>
+			<charseq START="1223" END="1232">Alan Brown</charseq>
+      </extent>
+      <head>
+			<charseq START="1223" END="1232">Alan Brown</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E35-1">
+      <extent>
+			<charseq START="1235" END="1262">a retired homicide detective</charseq>
+      </extent>
+      <head>
+			<charseq START="1254" END="1262">detective</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E36" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E36-1">
+      <extent>
+			<charseq START="1269" END="1297">the Houston Police Department</charseq>
+      </extent>
+      <head>
+			<charseq START="1273" END="1297">Houston Police Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E37" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E37-1">
+      <extent>
+			<charseq START="1300" END="1313">The team combs</charseq>
+      </extent>
+      <head>
+			<charseq START="1304" END="1307">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E38-1">
+      <extent>
+			<charseq START="1365" END="1373">Letterman</charseq>
+      </extent>
+      <head>
+			<charseq START="1365" END="1373">Letterman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E39-1">
+      <extent>
+			<charseq START="1431" END="1432">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1431" END="1432">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E40" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E40-1">
+      <extent>
+			<charseq START="1460" END="1463">they</charseq>
+      </extent>
+      <head>
+			<charseq START="1460" END="1463">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E41" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E41-1">
+      <extent>
+			<charseq START="1479" END="1481">you</charseq>
+      </extent>
+      <head>
+			<charseq START="1479" END="1481">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E42-1">
+      <extent>
+			<charseq START="1488" END="1499">their wealth</charseq>
+      </extent>
+      <head>
+			<charseq START="1488" END="1492">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E43" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E43-1">
+      <extent>
+			<charseq START="1549" END="1559">” Letterman</charseq>
+      </extent>
+      <head>
+			<charseq START="1551" END="1559">Letterman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E44" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E44-1">
+      <extent>
+			<charseq START="1582" END="1590">our heads</charseq>
+      </extent>
+      <head>
+			<charseq START="1582" END="1584">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E45" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E45-1">
+      <extent>
+			<charseq START="1651" END="1663">The Fergusons</charseq>
+      </extent>
+      <head>
+			<charseq START="1655" END="1663">Fergusons</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E46" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E46-1">
+      <extent>
+			<charseq START="1676" END="1682">Florida</charseq>
+      </extent>
+      <head>
+			<charseq START="1676" END="1682">Florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E47" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E47-1">
+      <extent>
+			<charseq START="1687" END="1693">Pauline</charseq>
+      </extent>
+      <head>
+			<charseq START="1687" END="1693">Pauline</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E48" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E48-1">
+      <extent>
+			<charseq START="1702" END="1705">they</charseq>
+      </extent>
+      <head>
+			<charseq START="1702" END="1705">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E49" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E49-1">
+      <extent>
+			<charseq START="1738" END="1748">their lives</charseq>
+      </extent>
+      <head>
+			<charseq START="1738" END="1742">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E50" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E50-1">
+      <extent>
+			<charseq START="1760" END="1768">Letterman</charseq>
+      </extent>
+      <head>
+			<charseq START="1760" END="1768">Letterman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E51" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E51-1">
+      <extent>
+			<charseq START="1776" END="1779">They</charseq>
+      </extent>
+      <head>
+			<charseq START="1776" END="1779">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E52" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E52-1">
+      <extent>
+			<charseq START="1786" END="1800">both found shot</charseq>
+      </extent>
+      <head>
+			<charseq START="1786" END="1789">both</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E53" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E53-1">
+      <extent>
+			<charseq START="1815" END="1818">Most</charseq>
+      </extent>
+      <head>
+			<charseq START="1815" END="1818">Most</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E54" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E54-1">
+      <extent>
+			<charseq START="1823" END="1842">their family members</charseq>
+      </extent>
+      <head>
+			<charseq START="1823" END="1827">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E55" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E55-1">
+      <extent>
+			<charseq START="1823" END="1842">their family members</charseq>
+      </extent>
+      <head>
+			<charseq START="1829" END="1834">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E56" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E56-1">
+      <extent>
+			<charseq START="1823" END="1842">their family members</charseq>
+      </extent>
+      <head>
+			<charseq START="1836" END="1842">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E57" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E57-1">
+      <extent>
+			<charseq START="1853" END="1868">Florida and Ohio</charseq>
+      </extent>
+      <head>
+			<charseq START="1853" END="1859">Florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E58" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E58-1">
+      <extent>
+			<charseq START="1853" END="1868">Florida and Ohio</charseq>
+      </extent>
+      <head>
+			<charseq START="1865" END="1868">Ohio</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E59" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E59-1">
+      <extent>
+			<charseq START="1874" END="1881">the team</charseq>
+      </extent>
+      <head>
+			<charseq START="1878" END="1881">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E60" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E60-1">
+      <extent>
+			<charseq START="1886" END="1898">investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="1886" END="1898">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E61" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E61-1">
+      <extent>
+			<charseq START="1956" END="1970">About 20 people</charseq>
+      </extent>
+      <head>
+			<charseq START="1965" END="1970">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E62" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E62-1">
+      <extent>
+			<charseq START="1997" END="2004">the team</charseq>
+      </extent>
+      <head>
+			<charseq START="2001" END="2004">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E63" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E63-1">
+      <extent>
+			<charseq START="2023" END="2040">Spartanburg County</charseq>
+      </extent>
+      <head>
+			<charseq START="2023" END="2040">Spartanburg County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E64" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E64-1">
+      <extent>
+			<charseq START="2070" END="2101">Spartanburg Sheriff Chuck Wright</charseq>
+      </extent>
+      <head>
+			<charseq START="2070" END="2080">Spartanburg</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E65" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E65-1">
+      <extent>
+			<charseq START="2070" END="2101">Spartanburg Sheriff Chuck Wright</charseq>
+      </extent>
+      <head>
+			<charseq START="2082" END="2088">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E66" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E66-1">
+      <extent>
+			<charseq START="2070" END="2101">Spartanburg Sheriff Chuck Wright</charseq>
+      </extent>
+      <head>
+			<charseq START="2090" END="2101">Chuck Wright</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E67" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E67-1">
+      <extent>
+			<charseq START="2214" END="2226">Investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="2214" END="2226">Investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E68" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E68-1">
+      <extent>
+			<charseq START="2237" END="2248">the families</charseq>
+      </extent>
+      <head>
+			<charseq START="2241" END="2248">families</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E69" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E69-1">
+      <extent>
+			<charseq START="2253" END="2259">victims</charseq>
+      </extent>
+      <head>
+			<charseq START="2253" END="2259">victims</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E70" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E70-1">
+      <extent>
+			<charseq START="2300" END="2301">he</charseq>
+      </extent>
+      <head>
+			<charseq START="2300" END="2301">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E71" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E71-1">
+      <extent>
+			<charseq START="2309" END="2312">“You</charseq>
+      </extent>
+      <head>
+			<charseq START="2309" END="2312">“You</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E72" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E72-1">
+      <extent>
+			<charseq START="2321" END="2334">two dead folks</charseq>
+      </extent>
+      <head>
+			<charseq START="2330" END="2334">folks</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E73" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E73-1">
+      <extent>
+			<charseq START="2340" END="2345">no one</charseq>
+      </extent>
+      <head>
+			<charseq START="2343" END="2345">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E74" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E74-1">
+      <extent>
+			<charseq START="2353" END="2355">who</charseq>
+      </extent>
+      <head>
+			<charseq START="2353" END="2355">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E75" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E75-1">
+      <extent>
+			<charseq START="2364" END="2371">” Wright</charseq>
+      </extent>
+      <head>
+			<charseq START="2366" END="2371">Wright</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E76" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E76-1">
+      <extent>
+			<charseq START="2402" END="2404">you</charseq>
+      </extent>
+      <head>
+			<charseq START="2402" END="2404">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E77" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E77-1">
+      <extent>
+			<charseq START="2411" END="2416">people</charseq>
+      </extent>
+      <head>
+			<charseq START="2411" END="2416">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E78" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E78-1">
+      <extent>
+			<charseq START="2434" END="2444">the country</charseq>
+      </extent>
+      <head>
+			<charseq START="2438" END="2444">country</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E79" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E79-1">
+      <extent>
+			<charseq START="2446" END="2448">who</charseq>
+      </extent>
+      <head>
+			<charseq START="2446" END="2448">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E80" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E80-1">
+      <extent>
+			<charseq START="2466" END="2467">we</charseq>
+      </extent>
+      <head>
+			<charseq START="2466" END="2467">we</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E81" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E81-1">
+      <extent>
+			<charseq START="2481" END="2484">they</charseq>
+      </extent>
+      <head>
+			<charseq START="2481" END="2484">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E82" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E82-1">
+      <extent>
+			<charseq START="2495" END="2496">us</charseq>
+      </extent>
+      <head>
+			<charseq START="2495" END="2496">us</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E83" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E83-1">
+      <extent>
+			<charseq START="2501" END="2507">Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="2501" END="2507">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E84" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E84-1">
+      <extent>
+			<charseq START="2508" END="2549">&apos;s Office senior investigator William Gary</charseq>
+      </extent>
+      <head>
+			<charseq START="2511" END="2516">Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E85" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E85-1">
+      <extent>
+			<charseq START="2508" END="2549">&apos;s Office senior investigator William Gary</charseq>
+      </extent>
+      <head>
+			<charseq START="2525" END="2536">investigator</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E86" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E86-1">
+      <extent>
+			<charseq START="2508" END="2549">&apos;s Office senior investigator William Gary</charseq>
+      </extent>
+      <head>
+			<charseq START="2538" END="2549">William Gary</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E87" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E87-1">
+      <extent>
+			<charseq START="2594" END="2604">The TV crew</charseq>
+      </extent>
+      <head>
+			<charseq START="2601" END="2604">crew</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E88" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E88-1">
+      <extent>
+			<charseq START="2655" END="2661">Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="2655" END="2661">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E89" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E89-1">
+      <extent>
+			<charseq START="2662" END="2683">&apos;s Office spokesman Lt</charseq>
+      </extent>
+      <head>
+			<charseq START="2665" END="2670">Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E90" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E90-1">
+      <extent>
+			<charseq START="2662" END="2683">&apos;s Office spokesman Lt</charseq>
+      </extent>
+      <head>
+			<charseq START="2672" END="2680">spokesman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E91" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E91-1">
+      <extent>
+			<charseq START="2686" END="2695">Kevin Bobo</charseq>
+      </extent>
+      <head>
+			<charseq START="2686" END="2695">Kevin Bobo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E92" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E92-1">
+      <extent>
+			<charseq START="2770" END="2811">Pauline BY DANIEL J. GROSS  
+Kelly Siegler</charseq>
+      </extent>
+      <head>
+			<charseq START="2770" END="2779">Pauline BY</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E93" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E93-1">
+      <extent>
+			<charseq START="2770" END="2811">Pauline BY DANIEL J. GROSS  
+Kelly Siegler</charseq>
+      </extent>
+      <head>
+			<charseq START="2781" END="2786">DANIEL</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E94" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E94-1">
+      <extent>
+			<charseq START="2770" END="2811">Pauline BY DANIEL J. GROSS  
+Kelly Siegler</charseq>
+      </extent>
+      <head>
+			<charseq START="2788" END="2811">J. GROSS  
+Kelly Siegler</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E95" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E95-1">
+      <extent>
+			<charseq START="2817" END="2826">Alan Brown</charseq>
+      </extent>
+      <head>
+			<charseq START="2817" END="2826">Alan Brown</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E96" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E96-1">
+      <extent>
+			<charseq START="2898" END="2923">Spartanburg County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="2898" END="2915">Spartanburg County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E97" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E97-1">
+      <extent>
+			<charseq START="2898" END="2923">Spartanburg County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="2917" END="2923">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="354.sgm-E98" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="354.sgm-E98-1">
+      <extent>
+			<charseq START="2924" END="2942">&apos;s Office Senior...</charseq>
+      </extent>
+      <head>
+			<charseq START="2927" END="2942">Office Senior...</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="354.sgm-R0" TYPE="ART">
+    <relation_argument REFID="354.sgm-E3" ROLE="Arg-1" />
+    <relation_argument REFID="354.sgm-E4" ROLE="Arg-2" />
+      <relation_mention ID="354.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="265" END="368">On Feb. 28, 1987, Eric and Doris Ferguson were found shot to death in their home off Foster Mill Circle.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="354.sgm-E3-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="335" END="344">their home</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="354.sgm-E4-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="335" END="344">their home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="354.sgm-R1" TYPE="ORG-AFF">
+    <relation_argument REFID="354.sgm-E8" ROLE="Arg-1" />
+    <relation_argument REFID="354.sgm-E7" ROLE="Arg-2" />
+      <relation_mention ID="354.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="370" END="571">Despite identifying a suspect at the time, there was never enough evidence to prosecute, said Spartanburg County Sheriff&apos;s Office senior investigator Brandon Letterman, who will be featured on the show.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="354.sgm-E8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="464" END="489">Spartanburg County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="354.sgm-E7-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="464" END="489">Spartanburg County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="354.sgm-R2" TYPE="ORG-AFF">
+    <relation_argument REFID="354.sgm-E10" ROLE="Arg-1" />
+    <relation_argument REFID="354.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="354.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="370" END="571">Despite identifying a suspect at the time, there was never enough evidence to prosecute, said Spartanburg County Sheriff&apos;s Office senior investigator Brandon Letterman, who will be featured on the show.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="354.sgm-E10-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="490" END="536">&apos;s Office senior investigator Brandon Letterman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="354.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="490" END="536">&apos;s Office senior investigator Brandon Letterman</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="354.sgm-R3" TYPE="ORG-AFF">
+    <relation_argument REFID="354.sgm-E16" ROLE="Arg-1" />
+    <relation_argument REFID="354.sgm-E17" ROLE="Arg-2" />
+      <relation_mention ID="354.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="573" END="678">A family member was a person of interest in the killings of the couple, according to the Sheriff&apos;s Office.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="354.sgm-E16-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="658" END="668">the Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="354.sgm-E17-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="669" END="677">&apos;s Office</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="354.sgm-R4" TYPE="ORG-AFF">
+    <relation_argument REFID="354.sgm-E22" ROLE="Arg-1" />
+    <relation_argument REFID="354.sgm-E21" ROLE="Arg-2" />
+      <relation_mention ID="354.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="729" END="849">He said any new findings based on the casework with “Cold Justice” will be brought to the 7th Circuit Solicitor&apos;s Office.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="354.sgm-E22-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="840" END="848">&apos;s Office</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="354.sgm-E21-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="815" END="839">the 7th Circuit Solicitor</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="354.sgm-R5" TYPE="ORG-AFF">
+    <relation_argument REFID="354.sgm-E23" ROLE="Arg-1" />
+    <relation_argument REFID="354.sgm-E24" ROLE="Arg-2" />
+      <relation_mention ID="354.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="851" END="949">The Sheriff&apos;s Office first applied to the “Cold Justice” show more than a year ago, Letterman said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="354.sgm-E23-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="851" END="861">The Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="354.sgm-E24-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="862" END="870">&apos;s Office</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="354.sgm-R6" TYPE="ORG-AFF">
+    <relation_argument REFID="354.sgm-E35" ROLE="Arg-1" />
+    <relation_argument REFID="354.sgm-E36" ROLE="Arg-2" />
+      <relation_mention ID="354.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="1083" END="1298">The show&apos;s cast features Kelly Siegler, a retired Texas prosecutor; Yolanda McClary, a retired Las Vegas police forensics investigator; and Alan Brown, a retired homicide detective from the Houston Police Department.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="354.sgm-E35-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1235" END="1262">a retired homicide detective</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="354.sgm-E36-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1269" END="1297">the Houston Police Department</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="354.sgm-R7" TYPE="ORG-AFF">
+    <relation_argument REFID="354.sgm-E29" ROLE="Arg-1" />
+    <relation_argument REFID="354.sgm-E28" ROLE="Arg-2" />
+      <relation_mention ID="354.sgm-R7-1">
+      <ldc_extent>
+			<charseq START="1083" END="1298">The show&apos;s cast features Kelly Siegler, a retired Texas prosecutor; Yolanda McClary, a retired Las Vegas police forensics investigator; and Alan Brown, a retired homicide detective from the Houston Police Department.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="354.sgm-E29-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1123" END="1148">a retired Texas prosecutor</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="354.sgm-E28-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1123" END="1148">a retired Texas prosecutor</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="354.sgm-R8" TYPE="PER-SOC">
+    <relation_argument REFID="354.sgm-E54" ROLE="Arg-1" />
+    <relation_argument REFID="354.sgm-E56" ROLE="Arg-2" />
+      <relation_mention ID="354.sgm-R8-1">
+      <ldc_extent>
+			<charseq START="1815" END="1954">Most of their family members are from Florida and Ohio, so the team of investigators had to travel to conduct interviews and rebuild a case.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="354.sgm-E54-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1823" END="1842">their family members</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="354.sgm-E56-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1823" END="1842">their family members</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="354.sgm-R9" TYPE="ORG-AFF">
+    <relation_argument REFID="354.sgm-E60" ROLE="Arg-1" />
+    <relation_argument REFID="354.sgm-E59" ROLE="Arg-2" />
+      <relation_mention ID="354.sgm-R9-1">
+      <ldc_extent>
+			<charseq START="1815" END="1954">Most of their family members are from Florida and Ohio, so the team of investigators had to travel to conduct interviews and rebuild a case.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="354.sgm-E60-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1886" END="1898">investigators</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="354.sgm-E59-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1874" END="1881">the team</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="354.sgm-R10" TYPE="ORG-AFF">
+    <relation_argument REFID="354.sgm-E65" ROLE="Arg-1" />
+    <relation_argument REFID="354.sgm-E64" ROLE="Arg-2" />
+      <relation_mention ID="354.sgm-R10-1">
+      <ldc_extent>
+			<charseq START="2070" END="2212">Spartanburg Sheriff Chuck Wright said the “Cold Justice” program is a great way to get exposure for an unsolved case that needs more attention.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="354.sgm-E65-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2070" END="2101">Spartanburg Sheriff Chuck Wright</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="354.sgm-E64-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2070" END="2101">Spartanburg Sheriff Chuck Wright</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="354.sgm-R11" TYPE="PER-SOC">
+    <relation_argument REFID="354.sgm-E68" ROLE="Arg-1" />
+    <relation_argument REFID="354.sgm-E69" ROLE="Arg-2" />
+      <relation_mention ID="354.sgm-R11-1">
+      <ldc_extent>
+			<charseq START="2214" END="2307">Investigators work for the families of victims, so any added resources are a benefit, he said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="354.sgm-E68-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2237" END="2248">the families</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="354.sgm-E69-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2253" END="2259">victims</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="354.sgm-R12" TYPE="ORG-AFF">
+    <relation_argument REFID="354.sgm-E85" ROLE="Arg-1" />
+    <relation_argument REFID="354.sgm-E84" ROLE="Arg-2" />
+      <relation_mention ID="354.sgm-R12-1">
+      <ldc_extent>
+			<charseq START="2501" END="2592">Sheriff&apos;s Office senior investigator William Gary also will be featured on Friday&apos;s episode.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="354.sgm-E85-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2508" END="2549">&apos;s Office senior investigator William Gary</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="354.sgm-E84-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2508" END="2549">&apos;s Office senior investigator William Gary</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="354.sgm-R13" TYPE="ORG-AFF">
+    <relation_argument REFID="354.sgm-E90" ROLE="Arg-1" />
+    <relation_argument REFID="354.sgm-E89" ROLE="Arg-2" />
+      <relation_mention ID="354.sgm-R13-1">
+      <ldc_extent>
+			<charseq START="2594" END="2701">The TV crew filmed the “Off the Beaten Path” episode in May, Sheriff&apos;s Office spokesman Lt. Kevin Bobo said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="354.sgm-E90-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2662" END="2683">&apos;s Office spokesman Lt</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="354.sgm-E89-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2662" END="2683">&apos;s Office spokesman Lt</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="354.sgm-R14" TYPE="ORG-AFF">
+    <relation_argument REFID="354.sgm-E97" ROLE="Arg-1" />
+    <relation_argument REFID="354.sgm-E96" ROLE="Arg-2" />
+      <relation_mention ID="354.sgm-R14-1">
+      <ldc_extent>
+			<charseq START="2703" END="2942">Television&apos;s &apos;Cold Justice&apos; to feature unsolved double homicide in Pauline BY DANIEL J. GROSS  
+Kelly Siegler and Alan Brown discuss the case, create a timeline and go over all the evidence with Spartanburg County Sheriff&apos;s Office Senior...</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="354.sgm-E97-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2898" END="2923">Spartanburg County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="354.sgm-E96-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2898" END="2923">Spartanburg County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="354.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="354.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="265" END="368">On Feb. 28, 1987, Eric and Doris Ferguson were found shot to death in their home off Foster Mill Circle.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="318" END="321">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="354.sgm-E2-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="292" END="305">Doris Ferguson</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="354.sgm-E4-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="335" END="344">their home</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="354.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="354.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="265" END="368">On Feb. 28, 1987, Eric and Doris Ferguson were found shot to death in their home off Foster Mill Circle.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="326" END="330">death</charseq>
+      </anchor>
+      <event_mention_argument REFID="354.sgm-E4-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="335" END="344">their home</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="354.sgm-EV2" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="354.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="370" END="571">Despite identifying a suspect at the time, there was never enough evidence to prosecute, said Spartanburg County Sheriff&apos;s Office senior investigator Brandon Letterman, who will be featured on the show.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="448" END="456">prosecute</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="354.sgm-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="354.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="729" END="849">He said any new findings based on the casework with “Cold Justice” will be brought to the 7th Circuit Solicitor&apos;s Office.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="804" END="810">brought</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="354.sgm-EV4" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="354.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="1083" END="1298">The show&apos;s cast features Kelly Siegler, a retired Texas prosecutor; Yolanda McClary, a retired Las Vegas police forensics investigator; and Alan Brown, a retired homicide detective from the Houston Police Department.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1125" END="1131">retired</charseq>
+      </anchor>
+      <event_mention_argument REFID="354.sgm-E28-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1123" END="1148">a retired Texas prosecutor</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="354.sgm-E29-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1123" END="1148">a retired Texas prosecutor</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="354.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="354.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="1083" END="1298">The show&apos;s cast features Kelly Siegler, a retired Texas prosecutor; Yolanda McClary, a retired Las Vegas police forensics investigator; and Alan Brown, a retired homicide detective from the Houston Police Department.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1245" END="1252">homicide</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="354.sgm-EV6" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="354.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="1651" END="1774">The Fergusons moved from Florida to Pauline, where they wanted to live out the rest of their lives together, Letterman said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1665" END="1669">moved</charseq>
+      </anchor>
+      <event_mention_argument REFID="354.sgm-E45-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1651" END="1663">The Fergusons</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="354.sgm-E46-1" ROLE="Origin" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1676" END="1682">Florida</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="354.sgm-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="354.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="1776" END="1813">They were both found shot in the face.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1797" END="1800">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="354.sgm-E52-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1786" END="1800">both found shot</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="354.sgm-EV8" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="354.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="1815" END="1954">Most of their family members are from Florida and Ohio, so the team of investigators had to travel to conduct interviews and rebuild a case.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1907" END="1912">travel</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="354.sgm-EV9" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="354.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="2043" END="2068">No arrests have been made.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2046" END="2052">arrests</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="354.sgm-EV10" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="354.sgm-EV10-1" p="1.000">
+      <extent>
+			<charseq START="2309" END="2377">“You&apos;ve got two dead folks and no one knows who did it,” Wright said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2325" END="2328">dead</charseq>
+      </anchor>
+      <event_mention_argument REFID="354.sgm-E72-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2321" END="2334">two dead folks</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="354.sgm-EV11" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="354.sgm-EV11-1" p="1.000">
+      <extent>
+			<charseq START="2703" END="2942">Television&apos;s &apos;Cold Justice&apos; to feature unsolved double homicide in Pauline BY DANIEL J. GROSS  
+Kelly Siegler and Alan Brown discuss the case, create a timeline and go over all the evidence with Spartanburg County Sheriff&apos;s Office Senior...</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2758" END="2765">homicide</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

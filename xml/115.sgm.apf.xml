@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/115.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/115.sgm">
+  <entity ID="115.sgm-E0" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="115.sgm-E0-1">
+      <extent>
+			<charseq START="131" END="143">IMPD officers</charseq>
+      </extent>
+      <head>
+			<charseq START="136" END="143">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="115.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="115.sgm-E1-1">
+      <extent>
+			<charseq START="192" END="199">the city</charseq>
+      </extent>
+      <head>
+			<charseq START="196" END="199">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="115.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="115.sgm-E2-1">
+      <extent>
+			<charseq START="216" END="223">Officers</charseq>
+      </extent>
+      <head>
+			<charseq START="216" END="223">Officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="115.sgm-E3" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="115.sgm-E3-1">
+      <extent>
+			<charseq START="303" END="314">East 24th St</charseq>
+      </extent>
+      <head>
+			<charseq START="303" END="314">East 24th St</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="115.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="115.sgm-E4-1">
+      <extent>
+			<charseq START="322" END="325">they</charseq>
+      </extent>
+      <head>
+			<charseq START="322" END="325">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="115.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="115.sgm-E5-1">
+      <extent>
+			<charseq START="345" END="352">officers</charseq>
+      </extent>
+      <head>
+			<charseq START="345" END="352">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="115.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="115.sgm-E6-1">
+      <extent>
+			<charseq START="360" END="367">a person</charseq>
+      </extent>
+      <head>
+			<charseq START="362" END="367">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="115.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="115.sgm-E7-1">
+      <extent>
+			<charseq START="378" END="387">The victim</charseq>
+      </extent>
+      <head>
+			<charseq START="382" END="387">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="115.sgm-E8" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="115.sgm-E8-1">
+      <extent>
+			<charseq START="413" END="424">the hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="417" END="424">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="115.sgm-E9" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="115.sgm-E9-1">
+      <extent>
+			<charseq START="488" END="496">our story</charseq>
+      </extent>
+      <head>
+			<charseq START="488" END="490">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="115.sgm-R0" TYPE="PHYS">
+    <relation_argument REFID="115.sgm-E7" ROLE="Arg-1" />
+    <relation_argument REFID="115.sgm-E8" ROLE="Arg-2" />
+      <relation_mention ID="115.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="378" END="452">The victim is being transported to the hospital and is awake and breathing.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="115.sgm-E7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="378" END="387">The victim</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="115.sgm-E8-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="413" END="424">the hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="115.sgm-EV0" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="115.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="118" END="214">3, 2015) ??? IMPD officers are investigating an early morning stabbing on the city???s east side.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="180" END="187">stabbing</charseq>
+      </anchor>
+      <event_mention_argument REFID="115.sgm-E1-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="192" END="199">the city</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="115.sgm-EV1" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="115.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="216" END="273">Officers responded to a call for help just after 2:30 a.m.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="240" END="243">call</charseq>
+      </anchor>
+      <event_mention_argument REFID="115.sgm-E2-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="216" END="223">Officers</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="115.sgm-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="115.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="317" END="376">When they arrived on scene, officers found a person stabbed.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="327" END="333">arrived</charseq>
+      </anchor>
+      <event_mention_argument REFID="115.sgm-E4-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="322" END="325">they</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="115.sgm-EV3" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="115.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="317" END="376">When they arrived on scene, officers found a person stabbed.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="369" END="375">stabbed</charseq>
+      </anchor>
+      <event_mention_argument REFID="115.sgm-E6-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="360" END="367">a person</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="115.sgm-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="115.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="378" END="452">The victim is being transported to the hospital and is awake and breathing.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="398" END="408">transported</charseq>
+      </anchor>
+      <event_mention_argument REFID="115.sgm-E7-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="378" END="387">The victim</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="115.sgm-E8-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="413" END="424">the hospital</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

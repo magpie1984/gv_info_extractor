@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/242.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/242.sgm">
+  <entity ID="242.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="242.sgm-E0-1">
+      <extent>
+			<charseq START="109" END="119">Authorities</charseq>
+      </extent>
+      <head>
+			<charseq START="109" END="119">Authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="242.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="242.sgm-E1-1">
+      <extent>
+			<charseq START="125" END="143">Officer Sean Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="125" END="131">Officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="242.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="242.sgm-E2-1">
+      <extent>
+			<charseq START="125" END="143">Officer Sean Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="133" END="143">Sean Bolton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="242.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="242.sgm-E3-1">
+      <extent>
+			<charseq START="156" END="157">he</charseq>
+      </extent>
+      <head>
+			<charseq START="156" END="157">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="242.sgm-E4" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="242.sgm-E4-1">
+      <extent>
+			<charseq START="193" END="214">Memphis Saturday night</charseq>
+      </extent>
+      <head>
+			<charseq START="193" END="199">Memphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="242.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="242.sgm-E5-1">
+      <extent>
+			<charseq START="217" END="227">Authorities</charseq>
+      </extent>
+      <head>
+			<charseq START="217" END="227">Authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="242.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="242.sgm-E6-1">
+      <extent>
+			<charseq START="233" END="251">Officer Sean Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="233" END="239">Officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="242.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="242.sgm-E7-1">
+      <extent>
+			<charseq START="233" END="251">Officer Sean Bolton</charseq>
+      </extent>
+      <head>
+			<charseq START="241" END="251">Sean Bolton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="242.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="242.sgm-E8-1">
+      <extent>
+			<charseq START="264" END="265">he</charseq>
+      </extent>
+      <head>
+			<charseq START="264" END="265">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="242.sgm-E9" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="242.sgm-E9-1">
+      <extent>
+			<charseq START="301" END="322">Memphis Saturday night</charseq>
+      </extent>
+      <head>
+			<charseq START="301" END="307">Memphis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <event ID="242.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="242.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="109" END="215">Authorities say Officer Sean Bolton died after he was shot during a traffic stop in Memphis Saturday night.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="145" END="148">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="242.sgm-E2-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="125" END="143">Officer Sean Bolton</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="242.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="242.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="109" END="215">Authorities say Officer Sean Bolton died after he was shot during a traffic stop in Memphis Saturday night.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="163" END="166">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="242.sgm-E3-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="156" END="157">he</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="242.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="242.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="217" END="323">Authorities say Officer Sean Bolton died after he was shot during a traffic stop in Memphis Saturday night.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="253" END="256">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="242.sgm-E7-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="233" END="251">Officer Sean Bolton</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="242.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="242.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="217" END="323">Authorities say Officer Sean Bolton died after he was shot during a traffic stop in Memphis Saturday night.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="271" END="274">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="242.sgm-E8-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="264" END="265">he</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

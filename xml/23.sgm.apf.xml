@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/23.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/23.sgm">
+  <entity ID="23.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="23.sgm-E0-1">
+      <extent>
+			<charseq START="126" END="135">LOUISVILLE</charseq>
+      </extent>
+      <head>
+			<charseq START="126" END="135">LOUISVILLE</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="23.sgm-E1" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="23.sgm-E1-1">
+      <extent>
+			<charseq START="138" END="139">KY</charseq>
+      </extent>
+      <head>
+			<charseq START="138" END="139">KY</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="23.sgm-E2" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="23.sgm-E2-1">
+      <extent>
+			<charseq START="142" END="145">WAVE</charseq>
+      </extent>
+      <head>
+			<charseq START="142" END="145">WAVE</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="23.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="23.sgm-E3-1">
+      <extent>
+			<charseq START="150" END="157">A person</charseq>
+      </extent>
+      <head>
+			<charseq START="152" END="157">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="23.sgm-E4" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="23.sgm-E4-1">
+      <extent>
+			<charseq START="182" END="201">Shawnee neighborhood</charseq>
+      </extent>
+      <head>
+			<charseq START="182" END="201">Shawnee neighborhood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="23.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="23.sgm-E5-1">
+      <extent>
+			<charseq START="204" END="213">The victim</charseq>
+      </extent>
+      <head>
+			<charseq START="208" END="213">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="23.sgm-E6" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="23.sgm-E6-1">
+      <extent>
+			<charseq START="228" END="239">the hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="232" END="239">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="23.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="23.sgm-E7-1">
+      <extent>
+			<charseq START="242" END="269">Their identity and condition</charseq>
+      </extent>
+      <head>
+			<charseq START="242" END="246">Their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="23.sgm-R0" TYPE="PHYS">
+    <relation_argument REFID="23.sgm-E5" ROLE="Arg-1" />
+    <relation_argument REFID="23.sgm-E6" ROLE="Arg-2" />
+      <relation_mention ID="23.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="204" END="240">The victim was taken to the hospital.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="23.sgm-E5-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="204" END="213">The victim</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="23.sgm-E6-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="228" END="239">the hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="23.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="23.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="126" END="202">LOUISVILLE, KY (WAVE) - A person was shot over night in Shawnee neighborhood.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="163" END="166">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="23.sgm-E4-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="182" END="201">Shawnee neighborhood</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

@@ -1,0 +1,436 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/249.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/249.sgm">
+  <entity ID="249.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E0-1">
+      <extent>
+			<charseq START="119" END="124">KY Man</charseq>
+      </extent>
+      <head>
+			<charseq START="122" END="124">Man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E1-1">
+      <extent>
+			<charseq START="193" END="213">Daughter  
+ D.C. Will</charseq>
+      </extent>
+      <head>
+			<charseq START="205" END="208">D.C.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E2" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E2-1">
+      <extent>
+			<charseq START="231" END="270">Us  
+ Malaysia Official:Debris ???Almost</charseq>
+      </extent>
+      <head>
+			<charseq START="231" END="232">Us</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E3-1">
+      <extent>
+			<charseq START="231" END="270">Us  
+ Malaysia Official:Debris ???Almost</charseq>
+      </extent>
+      <head>
+			<charseq START="237" END="260">Malaysia Official:Debris</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E4" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E4-1">
+      <extent>
+			<charseq START="290" END="310">A Boeing 777  
+ Group</charseq>
+      </extent>
+      <head>
+			<charseq START="292" END="310">Boeing 777  
+ Group</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E5" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E5-1">
+      <extent>
+			<charseq START="322" END="343">Gun Shop That Declared</charseq>
+      </extent>
+      <head>
+			<charseq START="322" END="343">Gun Shop That Declared</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E6" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E6-1">
+      <extent>
+			<charseq START="404" END="429">Trailer For Benghazi Movie</charseq>
+      </extent>
+      <head>
+			<charseq START="404" END="429">Trailer For Benghazi Movie</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E7-1">
+      <extent>
+			<charseq START="591" END="601">Fla. Family</charseq>
+      </extent>
+      <head>
+			<charseq START="596" END="601">Family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E8-1">
+      <extent>
+			<charseq START="628" END="651">1715 Shipwreck  
+ Family</charseq>
+      </extent>
+      <head>
+			<charseq START="646" END="651">Family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E9-1">
+      <extent>
+			<charseq START="654" END="673">Bobbi Kristina Brown</charseq>
+      </extent>
+      <head>
+			<charseq START="654" END="673">Bobbi Kristina Brown</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E10-1">
+      <extent>
+			<charseq START="699" END="701">Sam</charseq>
+      </extent>
+      <head>
+			<charseq START="699" END="701">Sam</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E11-1">
+      <extent>
+			<charseq START="706" END="728">Throat-Slashing Suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="722" END="728">Suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E12" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E12-1">
+      <extent>
+			<charseq START="742" END="752">The Theater</charseq>
+      </extent>
+      <head>
+			<charseq START="746" END="752">Theater</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E13-1">
+      <extent>
+			<charseq START="823" END="825">you</charseq>
+      </extent>
+      <head>
+			<charseq START="823" END="825">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E14-1">
+      <extent>
+			<charseq START="931" END="943">Your Car Safe</charseq>
+      </extent>
+      <head>
+			<charseq START="931" END="934">Your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E15" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E15-1">
+      <extent>
+			<charseq START="970" END="994">A Jeep Cherokee And Crash</charseq>
+      </extent>
+      <head>
+			<charseq START="977" END="984">Cherokee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E16" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E16-1">
+      <extent>
+			<charseq START="990" END="1025">Crash It Into A Ditch  
+ Cali Bridge</charseq>
+      </extent>
+      <head>
+			<charseq START="990" END="1025">Crash It Into A Ditch  
+ Cali Bridge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E17-1">
+      <extent>
+			<charseq START="1126" END="1146">Block Muslim Cemetary</charseq>
+      </extent>
+      <head>
+			<charseq START="1126" END="1146">Block Muslim Cemetary</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E18-1">
+      <extent>
+			<charseq START="1151" END="1187">&apos;Trans People Deserve Something Vital</charseq>
+      </extent>
+      <head>
+			<charseq START="1152" END="1171">Trans People Deserve</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E19-1">
+      <extent>
+			<charseq START="1190" END="1193">They</charseq>
+      </extent>
+      <head>
+			<charseq START="1190" END="1193">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E20-1">
+      <extent>
+			<charseq START="1203" END="1225">Your Respect&apos;  
+ Family</charseq>
+      </extent>
+      <head>
+			<charseq START="1203" END="1206">Your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E21-1">
+      <extent>
+			<charseq START="1203" END="1225">Your Respect&apos;  
+ Family</charseq>
+      </extent>
+      <head>
+			<charseq START="1220" END="1225">Family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E22-1">
+      <extent>
+			<charseq START="1250" END="1262">Bush 41 Falls</charseq>
+      </extent>
+      <head>
+			<charseq START="1250" END="1253">Bush</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E23-1">
+      <extent>
+			<charseq START="1299" END="1307">El Chapo?</charseq>
+      </extent>
+      <head>
+			<charseq START="1299" END="1307">El Chapo?</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E24-1">
+      <extent>
+			<charseq START="1343" END="1351">El Chapo?</charseq>
+      </extent>
+      <head>
+			<charseq START="1343" END="1351">El Chapo?</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E25-1">
+      <extent>
+			<charseq START="1400" END="1435">Complications  
+ Most American State</charseq>
+      </extent>
+      <head>
+			<charseq START="1422" END="1429">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E26" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E26-1">
+      <extent>
+			<charseq START="1400" END="1435">Complications  
+ Most American State</charseq>
+      </extent>
+      <head>
+			<charseq START="1431" END="1435">State</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="249.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="249.sgm-E27-1">
+      <extent>
+			<charseq START="1449" END="1452">Iowa</charseq>
+      </extent>
+      <head>
+			<charseq START="1449" END="1452">Iowa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <event ID="249.sgm-EV0" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="249.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="119" END="395">KY Man Arrested After Shooting Down $1,800 Drone Hovering Over Sunbathing Daughter  
+ D.C. Will Soon Be Beneath Us  
+ Malaysia Official:Debris ???Almost Certainly??? From A Boeing 777  
+ Group Sues Fla. Gun Shop That Declared ???Muslim Free Zone???  
+ &apos;A Coward And A Killer???</charseq>
+      </extent>
+      <anchor>
+			<charseq START="126" END="133">Arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="249.sgm-E0-1" ROLE="Agent" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="119" END="124">KY Man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="249.sgm-EV1" TYPE="Justice" SUBTYPE="Sue" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="249.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="119" END="395">KY Man Arrested After Shooting Down $1,800 Drone Hovering Over Sunbathing Daughter  
+ D.C. Will Soon Be Beneath Us  
+ Malaysia Official:Debris ???Almost Certainly??? From A Boeing 777  
+ Group Sues Fla. Gun Shop That Declared ???Muslim Free Zone???  
+ &apos;A Coward And A Killer???</charseq>
+      </extent>
+      <anchor>
+			<charseq START="312" END="315">Sues</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="249.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="249.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="119" END="395">KY Man Arrested After Shooting Down $1,800 Drone Hovering Over Sunbathing Daughter  
+ D.C. Will Soon Be Beneath Us  
+ Malaysia Official:Debris ???Almost Certainly??? From A Boeing 777  
+ Group Sues Fla. Gun Shop That Declared ???Muslim Free Zone???  
+ &apos;A Coward And A Killer???</charseq>
+      </extent>
+      <anchor>
+			<charseq START="387" END="392">Killer</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="249.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="249.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="591" END="944">Fla. Family Finds $1M Gold Haul From 1715 Shipwreck  
+ Family: Bobbi Kristina Brown Dies At 22  
+ ???Son of Sam??? Throat-Slashing Suspect Revealed  
+ The Theater: No Longer A Magical Refuge From Reality  
+ The Great D-Bate: How do you draw a Lowercase ???D????  
+ Report: 1 in 4 Urban Roads Damaged, Costing Drivers Up To $1K A Year  
+ Is Your Car Safe?</charseq>
+      </extent>
+      <anchor>
+			<charseq START="675" END="678">Dies</charseq>
+      </anchor>
+      <event_mention_argument REFID="249.sgm-E9-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="654" END="673">Bobbi Kristina Brown</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="249.sgm-EV4" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="249.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="1244" END="1436">After Bush 41 Falls, Brecks Neck Bone  
+ The Moment ???El Chapo??? Escaped  
+ $3.8 M Reward For ???El Chapo??? Arrest  
+ &apos;Scorecard??? Measures Surgeons By Complications  
+ Most American State?</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1355" END="1360">Arrest</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

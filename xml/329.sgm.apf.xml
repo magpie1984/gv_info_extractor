@@ -1,0 +1,558 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/329.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/329.sgm">
+  <entity ID="329.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E0-1">
+      <extent>
+			<charseq START="59" END="59">2</charseq>
+      </extent>
+      <head>
+			<charseq START="59" END="59">2</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E1-1">
+      <extent>
+			<charseq START="88" END="108">Lancaster fairgrounds</charseq>
+      </extent>
+      <head>
+			<charseq START="88" END="96">Lancaster</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E2" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E2-1">
+      <extent>
+			<charseq START="119" END="143">State Democratic chairman</charseq>
+      </extent>
+      <head>
+			<charseq START="119" END="123">State</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E3-1">
+      <extent>
+			<charseq START="119" END="143">State Democratic chairman</charseq>
+      </extent>
+      <head>
+			<charseq START="136" END="143">chairman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E4" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E4-1">
+      <extent>
+			<charseq START="150" END="156">GOP now</charseq>
+      </extent>
+      <head>
+			<charseq START="150" END="152">GOP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E5-1">
+      <extent>
+			<charseq START="193" END="217">voters 
+Scattered showers</charseq>
+      </extent>
+      <head>
+			<charseq START="193" END="198">voters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E6" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E6-1">
+      <extent>
+			<charseq START="219" END="238">possible Tuesday
+Car</charseq>
+      </extent>
+      <head>
+			<charseq START="236" END="238">Car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E7" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E7-1">
+      <extent>
+			<charseq START="251" END="276">Manchester storefront
+Fire</charseq>
+      </extent>
+      <head>
+			<charseq START="251" END="260">Manchester</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E8" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E8-1">
+      <extent>
+			<charseq START="284" END="306">two apartment buildings</charseq>
+      </extent>
+      <head>
+			<charseq START="288" END="296">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E9" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E9-1">
+      <extent>
+			<charseq START="284" END="306">two apartment buildings</charseq>
+      </extent>
+      <head>
+			<charseq START="298" END="306">buildings</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E10" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E10-1">
+      <extent>
+			<charseq START="311" END="325">Manchester
+Teen</charseq>
+      </extent>
+      <head>
+			<charseq START="311" END="320">Manchester</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E11-1">
+      <extent>
+			<charseq START="311" END="325">Manchester
+Teen</charseq>
+      </extent>
+      <head>
+			<charseq START="322" END="325">Teen</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E12-1">
+      <extent>
+			<charseq START="342" END="376">allegedly shooting New Ipswich girl</charseq>
+      </extent>
+      <head>
+			<charseq START="373" END="376">girl</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E13" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E13-1">
+      <extent>
+			<charseq START="383" END="403">BB gun
+Mansion Monday</charseq>
+      </extent>
+      <head>
+			<charseq START="386" END="388">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E14" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E14-1">
+      <extent>
+			<charseq START="406" END="429">Lakeside New London home</charseq>
+      </extent>
+      <head>
+			<charseq START="415" END="424">New London</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E15" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E15-1">
+      <extent>
+			<charseq START="406" END="429">Lakeside New London home</charseq>
+      </extent>
+      <head>
+			<charseq START="426" END="429">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E16-1">
+      <extent>
+			<charseq START="455" END="457">you</charseq>
+      </extent>
+      <head>
+			<charseq START="455" END="457">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E17-1">
+      <extent>
+			<charseq START="493" END="506">your knowledge</charseq>
+      </extent>
+      <head>
+			<charseq START="493" END="496">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E18-1">
+      <extent>
+			<charseq START="509" END="530">1970s Trivia
+20 things</charseq>
+      </extent>
+      <head>
+			<charseq START="515" END="520">Trivia</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E19-1">
+      <extent>
+			<charseq START="532" END="534">you</charseq>
+      </extent>
+      <head>
+			<charseq START="532" END="534">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E20-1">
+      <extent>
+			<charseq START="556" END="572">your child
+Images</charseq>
+      </extent>
+      <head>
+			<charseq START="556" END="559">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E21-1">
+      <extent>
+			<charseq START="575" END="619">Crews battle multi-alarm building fire
+Images</charseq>
+      </extent>
+      <head>
+			<charseq START="575" END="579">Crews</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E22" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E22-1">
+      <extent>
+			<charseq START="646" END="654">Lancaster</charseq>
+      </extent>
+      <head>
+			<charseq START="646" END="654">Lancaster</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E23-1">
+      <extent>
+			<charseq START="660" END="662">you</charseq>
+      </extent>
+      <head>
+			<charseq START="660" END="662">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E24-1">
+      <extent>
+			<charseq START="669" END="671">you</charseq>
+      </extent>
+      <head>
+			<charseq START="669" END="671">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E25-1">
+      <extent>
+			<charseq START="735" END="737">you</charseq>
+      </extent>
+      <head>
+			<charseq START="735" END="737">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E26-1">
+      <extent>
+			<charseq START="744" END="746">you</charseq>
+      </extent>
+      <head>
+			<charseq START="744" END="746">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E27-1">
+      <extent>
+			<charseq START="763" END="774">your profile</charseq>
+      </extent>
+      <head>
+			<charseq START="763" END="766">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E28-1">
+      <extent>
+			<charseq START="854" END="870">your registration</charseq>
+      </extent>
+      <head>
+			<charseq START="854" END="857">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="329.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="329.sgm-E29-1">
+      <extent>
+			<charseq START="966" END="968">you</charseq>
+      </extent>
+      <head>
+			<charseq START="966" END="968">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="329.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="329.sgm-E3" ROLE="Arg-1" />
+    <relation_argument REFID="329.sgm-E2" ROLE="Arg-2" />
+      <relation_mention ID="329.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="59" END="729">2 killed in tent collapse at Lancaster fairgrounds
+Updated: State Democratic chairman says GOP now dominated by ???low-information??? voters 
+Scattered showers possible Tuesday
+Car slams into Manchester storefront
+Fire burns two apartment buildings in Manchester
+Teen arrested after allegedly shooting New Ipswich girl with BB gun
+Mansion Monday: Lakeside New London home has 5 bedrooms
+10 foods you think are healthy but aren&apos;t
+Test your knowledge: 1970s Trivia
+20 things you should never say to your child
+Images: Crews battle multi-alarm building fire
+Images: Circus tent collapse in Lancaster
+Are you sure you would like to unsubscribe from all current subscriptions?</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="329.sgm-E3-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="119" END="143">State Democratic chairman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="329.sgm-E2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="119" END="143">State Democratic chairman</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="329.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="329.sgm-E5" ROLE="Arg-1" />
+    <relation_argument REFID="329.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="329.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="59" END="729">2 killed in tent collapse at Lancaster fairgrounds
+Updated: State Democratic chairman says GOP now dominated by ???low-information??? voters 
+Scattered showers possible Tuesday
+Car slams into Manchester storefront
+Fire burns two apartment buildings in Manchester
+Teen arrested after allegedly shooting New Ipswich girl with BB gun
+Mansion Monday: Lakeside New London home has 5 bedrooms
+10 foods you think are healthy but aren&apos;t
+Test your knowledge: 1970s Trivia
+20 things you should never say to your child
+Images: Crews battle multi-alarm building fire
+Images: Circus tent collapse in Lancaster
+Are you sure you would like to unsubscribe from all current subscriptions?</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="329.sgm-E5-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="193" END="217">voters 
+Scattered showers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="329.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="284" END="306">two apartment buildings</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="329.sgm-R2" TYPE="PART-WHOLE">
+    <relation_argument REFID="329.sgm-E9" ROLE="Arg-1" />
+    <relation_argument REFID="329.sgm-E10" ROLE="Arg-2" />
+      <relation_mention ID="329.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="59" END="729">2 killed in tent collapse at Lancaster fairgrounds
+Updated: State Democratic chairman says GOP now dominated by ???low-information??? voters 
+Scattered showers possible Tuesday
+Car slams into Manchester storefront
+Fire burns two apartment buildings in Manchester
+Teen arrested after allegedly shooting New Ipswich girl with BB gun
+Mansion Monday: Lakeside New London home has 5 bedrooms
+10 foods you think are healthy but aren&apos;t
+Test your knowledge: 1970s Trivia
+20 things you should never say to your child
+Images: Crews battle multi-alarm building fire
+Images: Circus tent collapse in Lancaster
+Are you sure you would like to unsubscribe from all current subscriptions?</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="329.sgm-E9-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="284" END="306">two apartment buildings</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="329.sgm-E10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="311" END="325">Manchester
+Teen</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="329.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="329.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="59" END="729">2 killed in tent collapse at Lancaster fairgrounds
+Updated: State Democratic chairman says GOP now dominated by ???low-information??? voters 
+Scattered showers possible Tuesday
+Car slams into Manchester storefront
+Fire burns two apartment buildings in Manchester
+Teen arrested after allegedly shooting New Ipswich girl with BB gun
+Mansion Monday: Lakeside New London home has 5 bedrooms
+10 foods you think are healthy but aren&apos;t
+Test your knowledge: 1970s Trivia
+20 things you should never say to your child
+Images: Crews battle multi-alarm building fire
+Images: Circus tent collapse in Lancaster
+Are you sure you would like to unsubscribe from all current subscriptions?</charseq>
+      </extent>
+      <anchor>
+			<charseq START="61" END="66">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="329.sgm-E0-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="59" END="59">2</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="329.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="329.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="59" END="729">2 killed in tent collapse at Lancaster fairgrounds
+Updated: State Democratic chairman says GOP now dominated by ???low-information??? voters 
+Scattered showers possible Tuesday
+Car slams into Manchester storefront
+Fire burns two apartment buildings in Manchester
+Teen arrested after allegedly shooting New Ipswich girl with BB gun
+Mansion Monday: Lakeside New London home has 5 bedrooms
+10 foods you think are healthy but aren&apos;t
+Test your knowledge: 1970s Trivia
+20 things you should never say to your child
+Images: Crews battle multi-alarm building fire
+Images: Circus tent collapse in Lancaster
+Are you sure you would like to unsubscribe from all current subscriptions?</charseq>
+      </extent>
+      <anchor>
+			<charseq START="273" END="276">Fire</charseq>
+      </anchor>
+      <event_mention_argument REFID="329.sgm-E7-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="251" END="276">Manchester storefront
+Fire</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="329.sgm-E9-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="284" END="306">two apartment buildings</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="329.sgm-EV2" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="329.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="59" END="729">2 killed in tent collapse at Lancaster fairgrounds
+Updated: State Democratic chairman says GOP now dominated by ???low-information??? voters 
+Scattered showers possible Tuesday
+Car slams into Manchester storefront
+Fire burns two apartment buildings in Manchester
+Teen arrested after allegedly shooting New Ipswich girl with BB gun
+Mansion Monday: Lakeside New London home has 5 bedrooms
+10 foods you think are healthy but aren&apos;t
+Test your knowledge: 1970s Trivia
+20 things you should never say to your child
+Images: Crews battle multi-alarm building fire
+Images: Circus tent collapse in Lancaster
+Are you sure you would like to unsubscribe from all current subscriptions?</charseq>
+      </extent>
+      <anchor>
+			<charseq START="327" END="334">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="329.sgm-E11-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="311" END="325">Manchester
+Teen</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

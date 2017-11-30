@@ -1,0 +1,514 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/409.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/409.sgm">
+  <entity ID="409.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E0-1">
+      <extent>
+			<charseq START="108" END="111">Girl</charseq>
+      </extent>
+      <head>
+			<charseq START="108" END="111">Girl</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E1-1">
+      <extent>
+			<charseq START="135" END="135">I</charseq>
+      </extent>
+      <head>
+			<charseq START="135" END="135">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E2-1">
+      <extent>
+			<charseq START="150" END="153">them</charseq>
+      </extent>
+      <head>
+			<charseq START="150" END="153">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E3-1">
+      <extent>
+			<charseq START="172" END="185">WAPT Home
+Girl</charseq>
+      </extent>
+      <head>
+			<charseq START="172" END="175">WAPT</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E4-1">
+      <extent>
+			<charseq START="172" END="185">WAPT Home
+Girl</charseq>
+      </extent>
+      <head>
+			<charseq START="177" END="185">Home
+Girl</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E5-1">
+      <extent>
+			<charseq START="209" END="209">I</charseq>
+      </extent>
+      <head>
+			<charseq START="209" END="209">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E6-1">
+      <extent>
+			<charseq START="224" END="227">them</charseq>
+      </extent>
+      <head>
+			<charseq START="224" END="227">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E7" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E7-1">
+      <extent>
+			<charseq START="260" END="286">the Mississippi Sports hall</charseq>
+      </extent>
+      <head>
+			<charseq START="264" END="286">Mississippi Sports hall</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E8" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E8-1">
+      <extent>
+			<charseq START="298" END="319">9-year-old New Ipswich</charseq>
+      </extent>
+      <head>
+			<charseq START="309" END="319">New Ipswich</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E9" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E9-1">
+      <extent>
+			<charseq START="322" END="334">New Hampshire</charseq>
+      </extent>
+      <head>
+			<charseq START="322" END="334">New Hampshire</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E10-1">
+      <extent>
+			<charseq START="337" END="340">girl</charseq>
+      </extent>
+      <head>
+			<charseq START="337" END="340">girl</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E11-1">
+      <extent>
+			<charseq START="401" END="407">her eye</charseq>
+      </extent>
+      <head>
+			<charseq START="401" END="403">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E12-1">
+      <extent>
+			<charseq START="490" END="499">HER FAMILY</charseq>
+      </extent>
+      <head>
+			<charseq START="494" END="499">FAMILY</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E13" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E13-1">
+      <extent>
+			<charseq START="519" END="525">BUT SHE</charseq>
+      </extent>
+      <head>
+			<charseq START="519" END="525">BUT SHE</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E14" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E14-1">
+      <extent>
+			<charseq START="526" END="550">&apos;S CLEARLY UNCOMFORTABLE.</charseq>
+      </extent>
+      <head>
+			<charseq START="529" END="550">CLEARLY UNCOMFORTABLE.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E15-1">
+      <extent>
+			<charseq START="574" END="576">WHO</charseq>
+      </extent>
+      <head>
+			<charseq START="574" END="576">WHO</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E16-1">
+      <extent>
+			<charseq START="595" END="595">I</charseq>
+      </extent>
+      <head>
+			<charseq START="595" END="595">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E17-1">
+      <extent>
+			<charseq START="618" END="618">I</charseq>
+      </extent>
+      <head>
+			<charseq START="618" END="618">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E18" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E18-1">
+      <extent>
+			<charseq START="746" END="759">A FRIEND&apos;S CAR</charseq>
+      </extent>
+      <head>
+			<charseq START="757" END="759">CAR</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E19-1">
+      <extent>
+			<charseq START="812" END="825">THE OTHER GIRL</charseq>
+      </extent>
+      <head>
+			<charseq START="822" END="825">GIRL</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E20-1">
+      <extent>
+			<charseq START="872" END="913">MY FIRST THOUGHT WAS MAYBE A ROCK. HEATHER</charseq>
+      </extent>
+      <head>
+			<charseq START="872" END="873">MY</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E21-1">
+      <extent>
+			<charseq START="981" END="982">HE</charseq>
+      </extent>
+      <head>
+			<charseq START="981" END="982">HE</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E22-1">
+      <extent>
+			<charseq START="1029" END="1030">HE</charseq>
+      </extent>
+      <head>
+			<charseq START="1029" END="1030">HE</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E23" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E23-1">
+      <extent>
+			<charseq START="1047" END="1057">HER PARENTS</charseq>
+      </extent>
+      <head>
+			<charseq START="1051" END="1057">PARENTS</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E24" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E24-1">
+      <extent>
+			<charseq START="1109" END="1135">THE BB WAS FINALLY REMOVED.</charseq>
+      </extent>
+      <head>
+			<charseq START="1113" END="1135">BB WAS FINALLY REMOVED.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E25-1">
+      <extent>
+			<charseq START="1157" END="1160">YES.</charseq>
+      </extent>
+      <head>
+			<charseq START="1157" END="1160">YES.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E26" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E26-1">
+      <extent>
+			<charseq START="1162" END="1165">THEY</charseq>
+      </extent>
+      <head>
+			<charseq START="1162" END="1165">THEY</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E27" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E27-1">
+      <extent>
+			<charseq START="1324" END="1334">NOW RESTING</charseq>
+      </extent>
+      <head>
+			<charseq START="1324" END="1334">NOW RESTING</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E28-1">
+      <extent>
+			<charseq START="1363" END="1363">I</charseq>
+      </extent>
+      <head>
+			<charseq START="1363" END="1363">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E29-1">
+      <extent>
+			<charseq START="1441" END="1467">WANT THE PERSON RESPONSIBLE</charseq>
+      </extent>
+      <head>
+			<charseq START="1450" END="1455">PERSON</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E30-1">
+      <extent>
+			<charseq START="1489" END="1498">THE PERSON</charseq>
+      </extent>
+      <head>
+			<charseq START="1493" END="1498">PERSON</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E31-1">
+      <extent>
+			<charseq START="1500" END="1502">WHO</charseq>
+      </extent>
+      <head>
+			<charseq START="1500" END="1502">WHO</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="409.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="409.sgm-E32-1">
+      <extent>
+			<charseq START="1528" END="1528">I</charseq>
+      </extent>
+      <head>
+			<charseq START="1528" END="1528">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="409.sgm-R0" TYPE="PART-WHOLE">
+    <relation_argument REFID="409.sgm-E8" ROLE="Arg-1" />
+    <relation_argument REFID="409.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="409.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="108" END="408">Girl shot with BB in eye: &apos;I will forgive them&apos; | Local News  - WAPT Home
+Girl shot with BB in eye: &apos;I will forgive them&apos;
+Favre headlines 2015 class of the Mississippi Sports hall of fame
+A 9-year-old New Ipswich, New Hampshire, girl is recovering after undergoing surgery to remove a BB from her eye.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="409.sgm-E8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="298" END="319">9-year-old New Ipswich</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="409.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="322" END="334">New Hampshire</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="409.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="409.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="108" END="408">Girl shot with BB in eye: &apos;I will forgive them&apos; | Local News  - WAPT Home
+Girl shot with BB in eye: &apos;I will forgive them&apos;
+Favre headlines 2015 class of the Mississippi Sports hall of fame
+A 9-year-old New Ipswich, New Hampshire, girl is recovering after undergoing surgery to remove a BB from her eye.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="113" END="116">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="409.sgm-E0-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="108" END="111">Girl</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="409.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="409.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="108" END="408">Girl shot with BB in eye: &apos;I will forgive them&apos; | Local News  - WAPT Home
+Girl shot with BB in eye: &apos;I will forgive them&apos;
+Favre headlines 2015 class of the Mississippi Sports hall of fame
+A 9-year-old New Ipswich, New Hampshire, girl is recovering after undergoing surgery to remove a BB from her eye.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="187" END="190">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="409.sgm-E4-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="172" END="185">WAPT Home
+Girl</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="409.sgm-EV2" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="409.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="643" END="728">HEATHER: THIS IS TESSA A DAY AFTER UNDERGOING SURGERY TO REMOVE DB FROM UNDER HER EYE.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="707" END="708">DB</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="409.sgm-EV3" TYPE="Justice" SUBTYPE="Trial-Hearing" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="409.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="812" END="870">THE OTHER GIRL HEARD HER SCREAM IN PAIN AND COVER HER EYES.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="837" END="842">SCREAM</charseq>
+      </anchor>
+      <event_mention_argument REFID="409.sgm-E19-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="812" END="825">THE OTHER GIRL</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="409.sgm-EV4" TYPE="Personnel" SUBTYPE="Start-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="409.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="872" END="997">MY FIRST THOUGHT WAS MAYBE A ROCK. HEATHER: HER PEDIATRICIAN THOUGHT MAYBE SHE HAD ONLY BEEN GREAT, BUT THEN HE TOOK AN X-RAY.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="984" END="987">TOOK</charseq>
+      </anchor>
+      <event_mention_argument REFID="409.sgm-E21-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="981" END="982">HE</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="409.sgm-EV5" TYPE="Contact" SUBTYPE="Meet" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="409.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="1408" END="1484">HEATHER: BOTH SHE AND HER MOTHER WANT THE PERSON RESPONSIBLE TO COME FORWARD.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1477" END="1484">FORWARD.</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

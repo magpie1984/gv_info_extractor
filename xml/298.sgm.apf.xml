@@ -1,0 +1,410 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/298.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/298.sgm">
+  <entity ID="298.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E0-1">
+      <extent>
+			<charseq START="114" END="117">Home</charseq>
+      </extent>
+      <head>
+			<charseq START="114" END="117">Home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E1-1">
+      <extent>
+			<charseq START="121" END="137">Headlinesen-usMon</charseq>
+      </extent>
+      <head>
+			<charseq START="121" END="137">Headlinesen-usMon</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E2-1">
+      <extent>
+			<charseq START="197" END="218">Rapides Parish Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="197" END="218">Rapides Parish Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E3" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E3-1">
+      <extent>
+			<charseq START="298" END="324">bicycle vs vehicle accident</charseq>
+      </extent>
+      <head>
+			<charseq START="309" END="315">vehicle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E4" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E4-1">
+      <extent>
+			<charseq START="329" END="371">Horsehoe Drive in Alexandria
+Kaiser Carlile</charseq>
+      </extent>
+      <head>
+			<charseq START="329" END="371">Horsehoe Drive in Alexandria
+Kaiser Carlile</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E5-1">
+      <extent>
+			<charseq START="374" END="393">a 9 year old bat boy</charseq>
+      </extent>
+      <head>
+			<charseq START="391" END="393">boy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E6-1">
+      <extent>
+			<charseq START="521" END="540">A 9-year-old bat boy</charseq>
+      </extent>
+      <head>
+			<charseq START="538" END="540">boy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E7" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E7-1">
+      <extent>
+			<charseq START="595" END="611">a baseball player</charseq>
+      </extent>
+      <head>
+			<charseq START="597" END="604">baseball</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E8-1">
+      <extent>
+			<charseq START="595" END="611">a baseball player</charseq>
+      </extent>
+      <head>
+			<charseq START="606" END="611">player</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E9" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E9-1">
+      <extent>
+			<charseq START="637" END="642">Kansas</charseq>
+      </extent>
+      <head>
+			<charseq START="637" END="642">Kansas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E10-1">
+      <extent>
+			<charseq START="645" END="660">his team saidMon</charseq>
+      </extent>
+      <head>
+			<charseq START="645" END="647">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E11" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E11-1">
+      <extent>
+			<charseq START="777" END="806">Food Bank of Central Louisiana</charseq>
+      </extent>
+      <head>
+			<charseq START="777" END="806">Food Bank of Central Louisiana</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E12" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E12-1">
+      <extent>
+			<charseq START="817" END="853">$17,900 Walmart Foundation grant
+5 La</charseq>
+      </extent>
+      <head>
+			<charseq START="825" END="842">Walmart Foundation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E13-1">
+      <extent>
+			<charseq START="817" END="853">$17,900 Walmart Foundation grant
+5 La</charseq>
+      </extent>
+      <head>
+			<charseq START="852" END="853">La</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E14" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E14-1">
+      <extent>
+			<charseq START="856" END="867">universities</charseq>
+      </extent>
+      <head>
+			<charseq START="856" END="867">universities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E15-1">
+      <extent>
+			<charseq START="873" END="978">$20M manufacturing research grant
+http://www.kalb.com/home/headlines/5-La-universities-320508812.html 5 La</charseq>
+      </extent>
+      <head>
+			<charseq START="977" END="978">La</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E16" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E16-1">
+      <extent>
+			<charseq START="981" END="992">universities</charseq>
+      </extent>
+      <head>
+			<charseq START="981" END="992">universities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E17-1">
+      <extent>
+			<charseq START="1147" END="1169">Healthy Learning Center</charseq>
+      </extent>
+      <head>
+			<charseq START="1155" END="1169">Learning Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E18-1">
+      <extent>
+			<charseq START="1201" END="1248">Christus St. Frances Cabrini Hospital
+The Latest</charseq>
+      </extent>
+      <head>
+			<charseq START="1201" END="1211">Christus St</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E19-1">
+      <extent>
+			<charseq START="1201" END="1248">Christus St. Frances Cabrini Hospital
+The Latest</charseq>
+      </extent>
+      <head>
+			<charseq START="1214" END="1237">Frances Cabrini Hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E20-1">
+      <extent>
+			<charseq START="1251" END="1264">Fatal shooting</charseq>
+      </extent>
+      <head>
+			<charseq START="1251" END="1255">Fatal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E21" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E21-1">
+      <extent>
+			<charseq START="1274" END="1332">Mississippi courthouse
+New Terrebonne Parish Animal Shelter</charseq>
+      </extent>
+      <head>
+			<charseq START="1274" END="1284">Mississippi</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E22" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E22-1">
+      <extent>
+			<charseq START="1274" END="1332">Mississippi courthouse
+New Terrebonne Parish Animal Shelter</charseq>
+      </extent>
+      <head>
+			<charseq START="1286" END="1295">courthouse</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E23-1">
+      <extent>
+			<charseq START="1274" END="1332">Mississippi courthouse
+New Terrebonne Parish Animal Shelter</charseq>
+      </extent>
+      <head>
+			<charseq START="1297" END="1332">New Terrebonne Parish Animal Shelter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E24" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E24-1">
+      <extent>
+			<charseq START="1353" END="1375">2016
+New Orleans police</charseq>
+      </extent>
+      <head>
+			<charseq START="1358" END="1368">New Orleans</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E25-1">
+      <extent>
+			<charseq START="1353" END="1375">2016
+New Orleans police</charseq>
+      </extent>
+      <head>
+			<charseq START="1370" END="1375">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="298.sgm-E26" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="298.sgm-E26-1">
+      <extent>
+			<charseq START="1404" END="1416">Interstate 10</charseq>
+      </extent>
+      <head>
+			<charseq START="1404" END="1413">Interstate</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="298.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="298.sgm-E25" ROLE="Arg-1" />
+    <relation_argument REFID="298.sgm-E24" ROLE="Arg-2" />
+      <relation_mention ID="298.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="1147" END="1469">Healthy Learning Center focused on diabetes coming to Christus St. Frances Cabrini Hospital
+The Latest: Fatal shooting outside Mississippi courthouse
+New Terrebonne Parish Animal Shelter to be completed in 2016
+New Orleans police investigate fatal crash on Interstate 10
+The heat continues, another front in the long-range?</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="298.sgm-E25-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1353" END="1375">2016
+New Orleans police</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="298.sgm-E24-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1353" END="1375">2016
+New Orleans police</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="298.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="298.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="94" END="519">RSS Feed for KALB - Home - Headlinesen-usMon, 03 Aug 2015 21:36:00 GMT2015-08-03T21:36:00Zen-us
+Grant, Rapides Parish Sheriff???s Offices requesting public???s help locating subject
+Broken chain leads to bicycle vs vehicle accident on Horsehoe Drive in Alexandria
+Kaiser Carlile, a 9 year old bat boy, dies after being struck in the head with a bat by accident
+http://www.kalb.com/home/headlines/Kaiser-Carlile--320518262.html</charseq>
+      </extent>
+      <anchor>
+			<charseq START="396" END="399">dies</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="298.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="298.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="521" END="771">A 9-year-old bat boy died Sunday evening after getting hit in the head as a baseball player took practice swings in Kansas, his team saidMon, 03 Aug 2015 20:38:39 GMThttp://www.kalb.com/home/headlines/Kaiser-Carlile--320518262.html2015-08-03T20:38:39Z</charseq>
+      </extent>
+      <anchor>
+			<charseq START="542" END="545">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="298.sgm-E6-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="521" END="540">A 9-year-old bat boy</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="298.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="298.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="1147" END="1469">Healthy Learning Center focused on diabetes coming to Christus St. Frances Cabrini Hospital
+The Latest: Fatal shooting outside Mississippi courthouse
+New Terrebonne Parish Animal Shelter to be completed in 2016
+New Orleans police investigate fatal crash on Interstate 10
+The heat continues, another front in the long-range?</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1389" END="1393">fatal</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

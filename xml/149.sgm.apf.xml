@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/149.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/149.sgm">
+  <entity ID="149.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E0-1">
+      <extent>
+			<charseq START="95" END="102">Gun­fire</charseq>
+      </extent>
+      <head>
+			<charseq START="95" END="102">Gun­fire</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E1-1">
+      <extent>
+			<charseq START="125" END="142">two North­east men</charseq>
+      </extent>
+      <head>
+			<charseq START="140" END="142">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E2-1">
+      <extent>
+			<charseq START="216" END="222">po­lice</charseq>
+      </extent>
+      <head>
+			<charseq START="216" END="222">po­lice</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E3-1">
+      <extent>
+			<charseq START="230" END="243">Jo­vanni Ouolo</charseq>
+      </extent>
+      <head>
+			<charseq START="230" END="243">Jo­vanni Ouolo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E4-1">
+      <extent>
+			<charseq START="271" END="279">Belden St</charseq>
+      </extent>
+      <head>
+			<charseq START="271" END="279">Belden St</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E5-1">
+      <extent>
+			<charseq START="329" END="330">N.</charseq>
+      </extent>
+      <head>
+			<charseq START="329" END="330">N.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E6-1">
+      <extent>
+			<charseq START="332" END="340">Howard St</charseq>
+      </extent>
+      <head>
+			<charseq START="332" END="340">Howard St</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E7-1">
+      <extent>
+			<charseq START="412" END="414">him</charseq>
+      </extent>
+      <head>
+			<charseq START="412" END="414">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E8" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E8-1">
+      <extent>
+			<charseq START="419" END="447">Temple Uni­versity Hos­pit­al</charseq>
+      </extent>
+      <head>
+			<charseq START="419" END="447">Temple Uni­versity Hos­pit­al</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E9" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E9-1">
+      <extent>
+			<charseq START="450" END="454">where</charseq>
+      </extent>
+      <head>
+			<charseq START="450" END="454">where</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E10-1">
+      <extent>
+			<charseq START="456" END="457">he</charseq>
+      </extent>
+      <head>
+			<charseq START="456" END="457">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E11-1">
+      <extent>
+			<charseq START="516" END="520">Ouolo</charseq>
+      </extent>
+      <head>
+			<charseq START="516" END="520">Ouolo</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E12-1">
+      <extent>
+			<charseq START="686" END="695">Marsden St</charseq>
+      </extent>
+      <head>
+			<charseq START="686" END="695">Marsden St</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E13-1">
+      <extent>
+			<charseq START="715" END="718">they</charseq>
+      </extent>
+      <head>
+			<charseq START="715" END="718">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E14-1">
+      <extent>
+			<charseq START="726" END="738">Ty­shan Jones</charseq>
+      </extent>
+      <head>
+			<charseq START="726" END="738">Ty­shan Jones</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E15-1">
+      <extent>
+			<charseq START="766" END="772">Marsden</charseq>
+      </extent>
+      <head>
+			<charseq START="766" END="772">Marsden</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E16" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E16-1">
+      <extent>
+			<charseq START="785" END="794">the street</charseq>
+      </extent>
+      <head>
+			<charseq START="789" END="794">street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E17-1">
+      <extent>
+			<charseq START="839" END="840">He</charseq>
+      </extent>
+      <head>
+			<charseq START="839" END="840">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E18-1">
+      <extent>
+			<charseq START="881" END="894">au­thor­it­ies</charseq>
+      </extent>
+      <head>
+			<charseq START="881" END="894">au­thor­it­ies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E19-1">
+      <extent>
+			<charseq START="902" END="921">a second wounded man</charseq>
+      </extent>
+      <head>
+			<charseq START="919" END="921">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E20" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E20-1">
+      <extent>
+			<charseq START="931" END="937">a house</charseq>
+      </extent>
+      <head>
+			<charseq START="933" END="937">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E21" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E21-1">
+      <extent>
+			<charseq START="942" END="955">the 4600 block</charseq>
+      </extent>
+      <head>
+			<charseq START="951" END="955">block</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E22-1">
+      <extent>
+			<charseq START="960" END="969">Un­ruh Ave</charseq>
+      </extent>
+      <head>
+			<charseq START="960" END="969">Un­ruh Ave</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E23-1">
+      <extent>
+			<charseq START="972" END="997">The 28-year-old had wounds</charseq>
+      </extent>
+      <head>
+			<charseq START="976" END="986">28-year-old</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E24-1">
+      <extent>
+			<charseq START="1040" END="1042">him</charseq>
+      </extent>
+      <head>
+			<charseq START="1040" END="1042">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E25" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E25-1">
+      <extent>
+			<charseq START="1047" END="1083">Aria Health’s Tor­res­dale hos­pit­al</charseq>
+      </extent>
+      <head>
+			<charseq START="1047" END="1072">Aria Health’s Tor­res­dale</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="149.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="149.sgm-E26-1">
+      <extent>
+			<charseq START="1112" END="1119">His name</charseq>
+      </extent>
+      <head>
+			<charseq START="1112" END="1114">His</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="149.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="149.sgm-E7" ROLE="Arg-1" />
+    <relation_argument REFID="149.sgm-E8" ROLE="Arg-2" />
+      <relation_mention ID="149.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="394" END="598">Para­med­ics took him to Temple Uni­versity Hos­pit­al, where he was pro­nounced dead at 11:46 p.m.
+Po­lice be­lieve that Ouolo was in­volved in an ar­gu­ment, but there are no sus­pects or de­scrip­tions.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="149.sgm-E7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="412" END="414">him</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="149.sgm-E8-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="419" END="447">Temple Uni­versity Hos­pit­al</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="149.sgm-R1" TYPE="ART">
+    <relation_argument REFID="149.sgm-E22" ROLE="Arg-1" />
+    <relation_argument REFID="149.sgm-E21" ROLE="Arg-2" />
+      <relation_mention ID="149.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="861" END="970">A short time later, au­thor­it­ies found a second wounded man in­side a house on the 4600 block of Un­ruh Ave.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="149.sgm-E22-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="960" END="969">Un­ruh Ave</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="149.sgm-E21-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="942" END="955">the 4600 block</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="149.sgm-EV0" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="149.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="332" END="392">Howard St. with gun­shot wounds of the head, chest and torso.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="357" END="362">wounds</charseq>
+      </anchor>
+      <event_mention_argument REFID="149.sgm-E6-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="332" END="340">Howard St</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="149.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="149.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="394" END="598">Para­med­ics took him to Temple Uni­versity Hos­pit­al, where he was pro­nounced dead at 11:46 p.m.
+Po­lice be­lieve that Ouolo was in­volved in an ar­gu­ment, but there are no sus­pects or de­scrip­tions.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="475" END="478">dead</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="149.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="149.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="839" END="859">He died at the scene.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="842" END="845">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="149.sgm-E17-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="839" END="840">He</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="149.sgm-EV3" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="149.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="972" END="1025">The 28-year-old had wounds of the right side and back.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="992" END="997">wounds</charseq>
+      </anchor>
+      <event_mention_argument REFID="149.sgm-E23-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="972" END="997">The 28-year-old had wounds</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

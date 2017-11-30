@@ -1,0 +1,461 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/281.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/281.sgm">
+  <entity ID="281.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E0-1">
+      <extent>
+			<charseq START="87" END="93">Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="87" END="93">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E1" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E1-1">
+      <extent>
+			<charseq START="94" END="102">&apos;s office</charseq>
+      </extent>
+      <head>
+			<charseq START="97" END="102">office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E2-1">
+      <extent>
+			<charseq START="115" END="118">girl</charseq>
+      </extent>
+      <head>
+			<charseq START="115" END="118">girl</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E3-1">
+      <extent>
+			<charseq START="120" END="122">who</charseq>
+      </extent>
+      <head>
+			<charseq START="120" END="122">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E4-1">
+      <extent>
+			<charseq START="135" END="164">Clermont Co. camp pond
+Coroner</charseq>
+      </extent>
+      <head>
+			<charseq START="135" END="164">Clermont Co. camp pond
+Coroner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E5" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E5-1">
+      <extent>
+			<charseq START="165" END="173">&apos;s office</charseq>
+      </extent>
+      <head>
+			<charseq START="168" END="173">office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E6-1">
+      <extent>
+			<charseq START="198" END="207">Sam DuBose</charseq>
+      </extent>
+      <head>
+			<charseq START="198" END="207">Sam DuBose</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E7" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E7-1">
+      <extent>
+			<charseq START="208" END="233">&apos;s gin bottle
+Giant crater</charseq>
+      </extent>
+      <head>
+			<charseq START="222" END="226">Giant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E8" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E8-1">
+      <extent>
+			<charseq START="253" END="296">lightning strikes underground fuel tank
+ACLU</charseq>
+      </extent>
+      <head>
+			<charseq START="293" END="296">ACLU</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E9-1">
+      <extent>
+			<charseq START="303" END="329">Kenton Co. resource officer</charseq>
+      </extent>
+      <head>
+			<charseq START="303" END="312">Kenton Co.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E10-1">
+      <extent>
+			<charseq START="303" END="329">Kenton Co. resource officer</charseq>
+      </extent>
+      <head>
+			<charseq START="323" END="329">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E11-1">
+      <extent>
+			<charseq START="336" END="343">children</charseq>
+      </extent>
+      <head>
+			<charseq START="336" END="343">children</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E12-1">
+      <extent>
+			<charseq START="395" END="415">Tri-State Thursday
+Ky</charseq>
+      </extent>
+      <head>
+			<charseq START="414" END="415">Ky</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E13-1">
+      <extent>
+			<charseq START="418" END="420">man</charseq>
+      </extent>
+      <head>
+			<charseq START="418" END="420">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E14" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E14-1">
+      <extent>
+			<charseq START="445" END="459">police killings</charseq>
+      </extent>
+      <head>
+			<charseq START="445" END="450">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E15-1">
+      <extent>
+			<charseq START="524" END="551">Warren County
+Bunbury lineup</charseq>
+      </extent>
+      <head>
+			<charseq START="524" END="544">Warren County
+Bunbury</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E16-1">
+      <extent>
+			<charseq START="566" END="572">Suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="566" END="572">Suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E17-1">
+      <extent>
+			<charseq START="681" END="683">you</charseq>
+      </extent>
+      <head>
+			<charseq START="681" END="683">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E18-1">
+      <extent>
+			<charseq START="719" END="732">your knowledge</charseq>
+      </extent>
+      <head>
+			<charseq START="719" END="722">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E19-1">
+      <extent>
+			<charseq START="798" END="800">you</charseq>
+      </extent>
+      <head>
+			<charseq START="798" END="800">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E20-1">
+      <extent>
+			<charseq START="807" END="809">you</charseq>
+      </extent>
+      <head>
+			<charseq START="807" END="809">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E21-1">
+      <extent>
+			<charseq START="873" END="875">you</charseq>
+      </extent>
+      <head>
+			<charseq START="873" END="875">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E22-1">
+      <extent>
+			<charseq START="882" END="884">you</charseq>
+      </extent>
+      <head>
+			<charseq START="882" END="884">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E23-1">
+      <extent>
+			<charseq START="901" END="912">your profile</charseq>
+      </extent>
+      <head>
+			<charseq START="901" END="904">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E24-1">
+      <extent>
+			<charseq START="992" END="1008">your registration</charseq>
+      </extent>
+      <head>
+			<charseq START="992" END="995">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="281.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="281.sgm-E25-1">
+      <extent>
+			<charseq START="1104" END="1106">you</charseq>
+      </extent>
+      <head>
+			<charseq START="1104" END="1106">you</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="281.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="281.sgm-E0" ROLE="Arg-1" />
+    <relation_argument REFID="281.sgm-E1" ROLE="Arg-2" />
+      <relation_mention ID="281.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="87" END="416">Sheriff&apos;s office identifies girl who drowned in Clermont Co. camp pond
+Coroner&apos;s office identifies contents in Sam DuBose&apos;s gin bottle
+Giant crater left behind after lightning strikes underground fuel tank
+ACLU sues Kenton Co. resource officer over children&apos;s shackling
+Round of showers, storms to return to Tri-State Thursday
+Ky.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="281.sgm-E0-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="87" END="93">Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="281.sgm-E1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="94" END="102">&apos;s office</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="281.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="281.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="87" END="416">Sheriff&apos;s office identifies girl who drowned in Clermont Co. camp pond
+Coroner&apos;s office identifies contents in Sam DuBose&apos;s gin bottle
+Giant crater left behind after lightning strikes underground fuel tank
+ACLU sues Kenton Co. resource officer over children&apos;s shackling
+Round of showers, storms to return to Tri-State Thursday
+Ky.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="124" END="130">drowned</charseq>
+      </anchor>
+      <event_mention_argument REFID="281.sgm-E2-1" ROLE="Agent" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="115" END="118">girl</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="281.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="281.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="87" END="416">Sheriff&apos;s office identifies girl who drowned in Clermont Co. camp pond
+Coroner&apos;s office identifies contents in Sam DuBose&apos;s gin bottle
+Giant crater left behind after lightning strikes underground fuel tank
+ACLU sues Kenton Co. resource officer over children&apos;s shackling
+Round of showers, storms to return to Tri-State Thursday
+Ky.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="263" END="269">strikes</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="281.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="281.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="418" END="867">man accused of calling for police killings on Craigslist
+Deputies arrest 3, seize $150k worth of drugs in Warren County
+Bunbury lineup 2014
+Photos: Suspect arrested after terrorism threats
+Images: Lightning strike hits underground fuel tank in Fairfield
+10 foods you think are healthy but aren&apos;t
+Test your knowledge: 1970s Trivia
+Images: Severe weather pictures from August 3
+Are you sure you would like to unsubscribe from all current subscriptions?</charseq>
+      </extent>
+      <anchor>
+			<charseq START="452" END="459">killings</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="281.sgm-EV3" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="281.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="418" END="867">man accused of calling for police killings on Craigslist
+Deputies arrest 3, seize $150k worth of drugs in Warren County
+Bunbury lineup 2014
+Photos: Suspect arrested after terrorism threats
+Images: Lightning strike hits underground fuel tank in Fairfield
+10 foods you think are healthy but aren&apos;t
+Test your knowledge: 1970s Trivia
+Images: Severe weather pictures from August 3
+Are you sure you would like to unsubscribe from all current subscriptions?</charseq>
+      </extent>
+      <anchor>
+			<charseq START="484" END="489">arrest</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="281.sgm-EV4" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="281.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="418" END="867">man accused of calling for police killings on Craigslist
+Deputies arrest 3, seize $150k worth of drugs in Warren County
+Bunbury lineup 2014
+Photos: Suspect arrested after terrorism threats
+Images: Lightning strike hits underground fuel tank in Fairfield
+10 foods you think are healthy but aren&apos;t
+Test your knowledge: 1970s Trivia
+Images: Severe weather pictures from August 3
+Are you sure you would like to unsubscribe from all current subscriptions?</charseq>
+      </extent>
+      <anchor>
+			<charseq START="574" END="581">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="281.sgm-E16-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="566" END="572">Suspect</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="281.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="281.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="418" END="867">man accused of calling for police killings on Craigslist
+Deputies arrest 3, seize $150k worth of drugs in Warren County
+Bunbury lineup 2014
+Photos: Suspect arrested after terrorism threats
+Images: Lightning strike hits underground fuel tank in Fairfield
+10 foods you think are healthy but aren&apos;t
+Test your knowledge: 1970s Trivia
+Images: Severe weather pictures from August 3
+Are you sure you would like to unsubscribe from all current subscriptions?</charseq>
+      </extent>
+      <anchor>
+			<charseq START="625" END="630">strike</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

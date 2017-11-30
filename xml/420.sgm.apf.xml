@@ -1,0 +1,525 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/420.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/420.sgm">
+  <entity ID="420.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E0-1">
+      <extent>
+			<charseq START="64" END="71">RICHMOND</charseq>
+      </extent>
+      <head>
+			<charseq START="64" END="71">RICHMOND</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E1-1">
+      <extent>
+			<charseq START="76" END="89">A Hopewell man</charseq>
+      </extent>
+      <head>
+			<charseq START="87" END="89">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E2" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E2-1">
+      <extent>
+			<charseq START="134" END="141">Richmond</charseq>
+      </extent>
+      <head>
+			<charseq START="134" END="141">Richmond</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E3" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E3-1">
+      <extent>
+			<charseq START="173" END="187">police officers</charseq>
+      </extent>
+      <head>
+			<charseq START="173" END="178">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E4-1">
+      <extent>
+			<charseq START="173" END="187">police officers</charseq>
+      </extent>
+      <head>
+			<charseq START="180" END="187">officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E5-1">
+      <extent>
+			<charseq START="224" END="247">Coalter and Redd streets</charseq>
+      </extent>
+      <head>
+			<charseq START="224" END="230">Coalter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E6-1">
+      <extent>
+			<charseq START="224" END="247">Coalter and Redd streets</charseq>
+      </extent>
+      <head>
+			<charseq START="236" END="239">Redd</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E7" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E7-1">
+      <extent>
+			<charseq START="265" END="288">a motor vehicle accident</charseq>
+      </extent>
+      <head>
+			<charseq START="273" END="279">vehicle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E8-1">
+      <extent>
+			<charseq START="297" END="301">units</charseq>
+      </extent>
+      <head>
+			<charseq START="297" END="301">units</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E9" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E9-1">
+      <extent>
+			<charseq START="373" END="389">the same location</charseq>
+      </extent>
+      <head>
+			<charseq START="382" END="389">location</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E10-1">
+      <extent>
+			<charseq START="394" END="401">Officers</charseq>
+      </extent>
+      <head>
+			<charseq START="394" END="401">Officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E11-1">
+      <extent>
+			<charseq START="409" END="418">the victim</charseq>
+      </extent>
+      <head>
+			<charseq START="413" END="418">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E12-1">
+      <extent>
+			<charseq START="421" END="434">Davie L. Young</charseq>
+      </extent>
+      <head>
+			<charseq START="421" END="434">Davie L. Young</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E13-1">
+      <extent>
+			<charseq START="444" END="451">Hopewell</charseq>
+      </extent>
+      <head>
+			<charseq START="444" END="451">Hopewell</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E14" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E14-1">
+      <extent>
+			<charseq START="499" END="528">the Richmond Police Department</charseq>
+      </extent>
+      <head>
+			<charseq START="503" END="528">Richmond Police Department</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E15-1">
+      <extent>
+			<charseq START="531" END="535">Young</charseq>
+      </extent>
+      <head>
+			<charseq START="531" END="535">Young</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E16" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E16-1">
+      <extent>
+			<charseq START="550" END="565">a local hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="558" END="565">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E17" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E17-1">
+      <extent>
+			<charseq START="567" END="571">where</charseq>
+      </extent>
+      <head>
+			<charseq START="567" END="571">where</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E18-1">
+      <extent>
+			<charseq START="573" END="574">he</charseq>
+      </extent>
+      <head>
+			<charseq START="573" END="574">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E19-1">
+      <extent>
+			<charseq START="595" END="606">his injuries</charseq>
+      </extent>
+      <head>
+			<charseq START="595" END="597">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E20" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E20-1">
+      <extent>
+			<charseq START="703" END="713">Mosby Court</charseq>
+      </extent>
+      <head>
+			<charseq START="703" END="713">Mosby Court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E21-1">
+      <extent>
+			<charseq START="716" END="725">The victim</charseq>
+      </extent>
+      <head>
+			<charseq START="720" END="725">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E22-1">
+      <extent>
+			<charseq START="774" END="784">several men</charseq>
+      </extent>
+      <head>
+			<charseq START="782" END="784">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E23-1">
+      <extent>
+			<charseq START="786" END="788">who</charseq>
+      </extent>
+      <head>
+			<charseq START="786" END="788">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E24-1">
+      <extent>
+			<charseq START="808" END="810">him</charseq>
+      </extent>
+      <head>
+			<charseq START="808" END="810">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E25-1">
+      <extent>
+			<charseq START="813" END="817">Young</charseq>
+      </extent>
+      <head>
+			<charseq START="813" END="817">Young</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E26-1">
+      <extent>
+			<charseq START="835" END="842">his SUV,</charseq>
+      </extent>
+      <head>
+			<charseq START="835" END="837">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E27-1">
+      <extent>
+			<charseq START="850" END="851">he</charseq>
+      </extent>
+      <head>
+			<charseq START="850" END="851">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E28-1">
+      <extent>
+			<charseq START="935" END="940">Anyone</charseq>
+      </extent>
+      <head>
+			<charseq START="935" END="940">Anyone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E29-1">
+      <extent>
+			<charseq START="992" END="1032">Major Crimes Detective Christopher Foultz</charseq>
+      </extent>
+      <head>
+			<charseq START="1005" END="1013">Detective</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E30-1">
+      <extent>
+			<charseq START="992" END="1032">Major Crimes Detective Christopher Foultz</charseq>
+      </extent>
+      <head>
+			<charseq START="1015" END="1032">Christopher Foultz</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E31-1">
+      <extent>
+			<charseq START="1083" END="1090">Citizens</charseq>
+      </extent>
+      <head>
+			<charseq START="1083" END="1090">Citizens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="420.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="420.sgm-E32-1">
+      <extent>
+			<charseq START="1170" END="1177">your tip</charseq>
+      </extent>
+      <head>
+			<charseq START="1170" END="1173">your</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="420.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="420.sgm-E4" ROLE="Arg-1" />
+    <relation_argument REFID="420.sgm-E3" ROLE="Arg-2" />
+      <relation_mention ID="420.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="145" END="289">At approximately 7:17 p.m., police officers were called to the intersection of Coalter and Redd streets in reference to a motor vehicle accident.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="420.sgm-E4-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="173" END="187">police officers</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="420.sgm-E3-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="173" END="187">police officers</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="420.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="420.sgm-E15" ROLE="Arg-1" />
+    <relation_argument REFID="420.sgm-E16" ROLE="Arg-2" />
+      <relation_mention ID="420.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="531" END="607">Young was taken to a local hospital where he later succumbed to his injuries.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="420.sgm-E15-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="531" END="535">Young</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="420.sgm-E16-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="550" END="565">a local hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="420.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="420.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="64" END="142">RICHMOND ?? A Hopewell man was killed in a shooting Friday evening in Richmond.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="95" END="100">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="420.sgm-E1-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="76" END="89">A Hopewell man</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="420.sgm-E2-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="134" END="141">Richmond</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="420.sgm-EV1" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="420.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="291" END="390">While units were responding, additional 911 calls came in reporting a shooting at the same location.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="335" END="339">calls</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="420.sgm-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="420.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="531" END="607">Young was taken to a local hospital where he later succumbed to his injuries.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="541" END="545">taken</charseq>
+      </anchor>
+      <event_mention_argument REFID="420.sgm-E15-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="531" END="535">Young</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="420.sgm-E16-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="550" END="565">a local hospital</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="420.sgm-EV3" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="420.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="531" END="607">Young was taken to a local hospital where he later succumbed to his injuries.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="599" END="606">injuries</charseq>
+      </anchor>
+      <event_mention_argument REFID="420.sgm-E19-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="595" END="606">his injuries</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="420.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="420.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="716" END="811">The victim was reportedly involved in an altercation with several men who began shooting at him.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="796" END="803">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="420.sgm-E22-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="774" END="784">several men</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="420.sgm-E24-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="808" END="810">him</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

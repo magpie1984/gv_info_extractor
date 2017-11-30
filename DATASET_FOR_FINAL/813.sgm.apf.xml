@@ -1,0 +1,478 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/813.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/813.sgm">
+  <entity ID="813.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E0-1">
+      <extent>
+			<charseq START="125" END="131">AUGUSTA</charseq>
+      </extent>
+      <head>
+			<charseq START="125" END="131">AUGUSTA</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E1-1">
+      <extent>
+			<charseq START="134" END="140">Maine —</charseq>
+      </extent>
+      <head>
+			<charseq START="134" END="138">Maine</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E2" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E2-1">
+      <extent>
+			<charseq START="142" END="152">A Maine man</charseq>
+      </extent>
+      <head>
+			<charseq START="144" END="148">Maine</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E3-1">
+      <extent>
+			<charseq START="142" END="152">A Maine man</charseq>
+      </extent>
+      <head>
+			<charseq START="150" END="152">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E4-1">
+      <extent>
+			<charseq START="209" END="213">a man</charseq>
+      </extent>
+      <head>
+			<charseq START="211" END="213">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E5-1">
+      <extent>
+			<charseq START="265" END="271">A judge</charseq>
+      </extent>
+      <head>
+			<charseq START="267" END="271">judge</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E6-1">
+      <extent>
+			<charseq START="283" END="313">32-year-old Paul Nicholas Coyne</charseq>
+      </extent>
+      <head>
+			<charseq START="295" END="307">Paul Nicholas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E7-1">
+      <extent>
+			<charseq START="309" END="325">Coyne of Winthrop</charseq>
+      </extent>
+      <head>
+			<charseq START="309" END="325">Coyne of Winthrop</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E8-1">
+      <extent>
+			<charseq START="341" END="342">He</charseq>
+      </extent>
+      <head>
+			<charseq START="341" END="342">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E9" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E9-1">
+      <extent>
+			<charseq START="426" END="445">The Kennebec Journal</charseq>
+      </extent>
+      <head>
+			<charseq START="430" END="445">Kennebec Journal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E10-1">
+      <extent>
+			<charseq START="500" END="504">Coyne</charseq>
+      </extent>
+      <head>
+			<charseq START="500" END="504">Coyne</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E11-1">
+      <extent>
+			<charseq START="505" END="515">&apos;s attorney</charseq>
+      </extent>
+      <head>
+			<charseq START="508" END="515">attorney</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E12-1">
+      <extent>
+			<charseq START="522" END="539">victim Josh Belyea</charseq>
+      </extent>
+      <head>
+			<charseq START="522" END="527">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E13-1">
+      <extent>
+			<charseq START="522" END="539">victim Josh Belyea</charseq>
+      </extent>
+      <head>
+			<charseq START="529" END="539">Josh Belyea</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E14-1">
+      <extent>
+			<charseq START="568" END="572">Coyne</charseq>
+      </extent>
+      <head>
+			<charseq START="568" END="572">Coyne</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E15-1">
+      <extent>
+			<charseq START="644" END="649">Belyea</charseq>
+      </extent>
+      <head>
+			<charseq START="644" END="649">Belyea</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E16-1">
+      <extent>
+			<charseq START="672" END="678">The men</charseq>
+      </extent>
+      <head>
+			<charseq START="676" END="678">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E17-1">
+      <extent>
+			<charseq START="765" END="771">a woman</charseq>
+      </extent>
+      <head>
+			<charseq START="767" END="771">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E18" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E18-1">
+      <extent>
+			<charseq START="772" END="783">&apos;s apartment</charseq>
+      </extent>
+      <head>
+			<charseq START="775" END="783">apartment</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E19" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E19-1">
+      <extent>
+			<charseq START="788" END="795">Gardiner</charseq>
+      </extent>
+      <head>
+			<charseq START="788" END="795">Gardiner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E20-1">
+      <extent>
+			<charseq START="798" END="802">Coyne</charseq>
+      </extent>
+      <head>
+			<charseq START="798" END="802">Coyne</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E21" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E21-1">
+      <extent>
+			<charseq START="906" END="921">Kennebec Journal</charseq>
+      </extent>
+      <head>
+			<charseq START="906" END="921">Kennebec Journal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E22" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E22-1">
+      <extent>
+			<charseq START="970" END="989">The Associated Press</charseq>
+      </extent>
+      <head>
+			<charseq START="974" END="989">Associated Press</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E23-1">
+      <extent>
+			<charseq START="1169" END="1175">readers</charseq>
+      </extent>
+      <head>
+			<charseq START="1169" END="1175">readers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E24-1">
+      <extent>
+			<charseq START="1236" END="1269">the appropriate editor or reporter</charseq>
+      </extent>
+      <head>
+			<charseq START="1252" END="1257">editor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="813.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="813.sgm-E25-1">
+      <extent>
+			<charseq START="1236" END="1269">the appropriate editor or reporter</charseq>
+      </extent>
+      <head>
+			<charseq START="1262" END="1269">reporter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="813.sgm-R0" TYPE="PART-WHOLE">
+    <relation_argument REFID="813.sgm-E0" ROLE="Arg-1" />
+    <relation_argument REFID="813.sgm-E1" ROLE="Arg-2" />
+      <relation_mention ID="813.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="125" END="263">AUGUSTA, Maine — A Maine man will spend 10 years in jail for inadvertently shooting a man in the leg during an evening of dinner and games.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="813.sgm-E0-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="125" END="131">AUGUSTA</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="813.sgm-E1-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="134" END="140">Maine —</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="813.sgm-R1" TYPE="GEN-AFF">
+    <relation_argument REFID="813.sgm-E3" ROLE="Arg-1" />
+    <relation_argument REFID="813.sgm-E2" ROLE="Arg-2" />
+      <relation_mention ID="813.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="125" END="263">AUGUSTA, Maine — A Maine man will spend 10 years in jail for inadvertently shooting a man in the leg during an evening of dinner and games.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="813.sgm-E3-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="142" END="152">A Maine man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="813.sgm-E2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="142" END="152">A Maine man</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="813.sgm-R2" TYPE="PER-SOC">
+    <relation_argument REFID="813.sgm-E10" ROLE="Arg-1" />
+    <relation_argument REFID="813.sgm-E11" ROLE="Arg-2" />
+      <relation_mention ID="813.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="471" END="610">reports a sentencing memo by Coyne&apos;s attorney says victim Josh Belyea tried to grab a firearm in Coyne&apos;s hand, which resulted in a struggle.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="813.sgm-E10-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="500" END="504">Coyne</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="813.sgm-E11-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="505" END="515">&apos;s attorney</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="813.sgm-R3" TYPE="ART">
+    <relation_argument REFID="813.sgm-E17" ROLE="Arg-1" />
+    <relation_argument REFID="813.sgm-E18" ROLE="Arg-2" />
+      <relation_mention ID="813.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="672" END="796">The men had become embroiled in a fight at the end of a night of dinner, drinks and games at a woman&apos;s apartment in Gardiner.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="813.sgm-E17-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="765" END="771">a woman</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="813.sgm-E18-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="772" END="783">&apos;s apartment</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="813.sgm-R4" TYPE="PART-WHOLE">
+    <relation_argument REFID="813.sgm-E18" ROLE="Arg-1" />
+    <relation_argument REFID="813.sgm-E19" ROLE="Arg-2" />
+      <relation_mention ID="813.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="672" END="796">The men had become embroiled in a fight at the end of a night of dinner, drinks and games at a woman&apos;s apartment in Gardiner.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="813.sgm-E18-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="772" END="783">&apos;s apartment</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="813.sgm-E19-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="788" END="795">Gardiner</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="813.sgm-EV0" TYPE="Justice" SUBTYPE="Sentence" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="813.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="265" END="339">A judge sentenced 32-year-old Paul Nicholas Coyne of Winthrop on Wednesday.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="273" END="281">sentenced</charseq>
+      </anchor>
+      <event_mention_argument REFID="813.sgm-E5-1" ROLE="Adjudicator" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="265" END="271">A judge</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="813.sgm-E7-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="309" END="325">Coyne of Winthrop</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="813.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="813.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="341" END="424">He pleaded guilty to aggravated assault and illegal possession of a firearm in June.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="373" END="379">assault</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="813.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="813.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="612" END="670">The firearm then discharged and Belyea was shot in the leg.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="655" END="658">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="813.sgm-E15-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="644" END="649">Belyea</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="813.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="813.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="672" END="796">The men had become embroiled in a fight at the end of a night of dinner, drinks and games at a woman&apos;s apartment in Gardiner.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="706" END="710">fight</charseq>
+      </anchor>
+      <event_mention_argument REFID="813.sgm-E18-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="772" END="783">&apos;s apartment</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="813.sgm-E19-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="788" END="795">Gardiner</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

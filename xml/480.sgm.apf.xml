@@ -1,0 +1,3496 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/480.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/480.sgm">
+  <entity ID="480.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E0-1">
+      <extent>
+			<charseq START="82" END="98">SCU investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="86" END="98">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E1-1">
+      <extent>
+			<charseq START="197" END="210">Woodvale Drive</charseq>
+      </extent>
+      <head>
+			<charseq START="197" END="210">Woodvale Drive</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E2" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E2-1">
+      <extent>
+			<charseq START="216" END="219">Azle</charseq>
+      </extent>
+      <head>
+			<charseq START="216" END="219">Azle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E3" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E3-1">
+      <extent>
+			<charseq START="222" END="234">Parker County</charseq>
+      </extent>
+      <head>
+			<charseq START="222" END="234">Parker County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E4" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E4-1">
+      <extent>
+			<charseq START="238" END="296">Weatherford-Parker County Fugitive Apprehension Strike Team</charseq>
+      </extent>
+      <head>
+			<charseq START="238" END="262">Weatherford-Parker County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E5-1">
+      <extent>
+			<charseq START="238" END="296">Weatherford-Parker County Fugitive Apprehension Strike Team</charseq>
+      </extent>
+      <head>
+			<charseq START="264" END="271">Fugitive</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E6" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E6-1">
+      <extent>
+			<charseq START="238" END="296">Weatherford-Parker County Fugitive Apprehension Strike Team</charseq>
+      </extent>
+      <head>
+			<charseq START="293" END="296">Team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E7-1">
+      <extent>
+			<charseq START="305" END="311">members</charseq>
+      </extent>
+      <head>
+			<charseq START="305" END="311">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E8-1">
+      <extent>
+			<charseq START="325" END="340">a suspect Monday</charseq>
+      </extent>
+      <head>
+			<charseq START="327" END="333">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E9-1">
+      <extent>
+			<charseq START="357" END="359">who</charseq>
+      </extent>
+      <head>
+			<charseq START="357" END="359">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E10" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E10-1">
+      <extent>
+			<charseq START="376" END="412">Hood County law enforcement officials</charseq>
+      </extent>
+      <head>
+			<charseq START="376" END="386">Hood County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E11-1">
+      <extent>
+			<charseq START="376" END="412">Hood County law enforcement officials</charseq>
+      </extent>
+      <head>
+			<charseq START="404" END="412">officials</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E12-1">
+      <extent>
+			<charseq START="423" END="426">them</charseq>
+      </extent>
+      <head>
+			<charseq START="423" END="426">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E13-1">
+      <extent>
+			<charseq START="502" END="518">a male and female</charseq>
+      </extent>
+      <head>
+			<charseq START="504" END="507">male</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E14-1">
+      <extent>
+			<charseq START="502" END="518">a male and female</charseq>
+      </extent>
+      <head>
+			<charseq START="513" END="518">female</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E15-1">
+      <extent>
+			<charseq START="531" END="541">authorities</charseq>
+      </extent>
+      <head>
+			<charseq START="531" END="541">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E16" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E16-1">
+      <extent>
+			<charseq START="546" END="561">a stolen vehicle</charseq>
+      </extent>
+      <head>
+			<charseq START="555" END="561">vehicle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E17" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E17-1">
+      <extent>
+			<charseq START="575" END="604">Parker County Monday afternoon</charseq>
+      </extent>
+      <head>
+			<charseq START="575" END="587">Parker County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E18" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E18-1">
+      <extent>
+			<charseq START="611" END="630">Brazos River Estates</charseq>
+      </extent>
+      <head>
+			<charseq START="611" END="622">Brazos River</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E19" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E19-1">
+      <extent>
+			<charseq START="635" END="646">Tin Top Road</charseq>
+      </extent>
+      <head>
+			<charseq START="643" END="646">Road</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E20" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E20-1">
+      <extent>
+			<charseq START="650" END="670">Parker County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="650" END="662">Parker County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E21-1">
+      <extent>
+			<charseq START="650" END="670">Parker County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="664" END="670">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E22" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E22-1">
+      <extent>
+			<charseq START="676" END="706">Criminal Investigation Division</charseq>
+      </extent>
+      <head>
+			<charseq START="699" END="706">Division</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E23-1">
+      <extent>
+			<charseq START="772" END="783">three people</charseq>
+      </extent>
+      <head>
+			<charseq START="778" END="783">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E24" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E24-1">
+      <extent>
+			<charseq START="807" END="840">Parker County Sheriff Larry Fowler</charseq>
+      </extent>
+      <head>
+			<charseq START="807" END="819">Parker County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E25-1">
+      <extent>
+			<charseq START="807" END="840">Parker County Sheriff Larry Fowler</charseq>
+      </extent>
+      <head>
+			<charseq START="821" END="827">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E26-1">
+      <extent>
+			<charseq START="807" END="840">Parker County Sheriff Larry Fowler</charseq>
+      </extent>
+      <head>
+			<charseq START="829" END="840">Larry Fowler</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E27-1">
+      <extent>
+			<charseq START="876" END="894">Azle hospital staff</charseq>
+      </extent>
+      <head>
+			<charseq START="890" END="894">staff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E28-1">
+      <extent>
+			<charseq START="926" END="939">Eleven victims</charseq>
+      </extent>
+      <head>
+			<charseq START="933" END="939">victims</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E29-1">
+      <extent>
+			<charseq START="963" END="977">their furniture</charseq>
+      </extent>
+      <head>
+			<charseq START="963" END="967">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E30-1">
+      <extent>
+			<charseq START="984" END="995">the suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="988" END="995">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E31-1">
+      <extent>
+			<charseq START="1012" END="1032">Alyssa and Steven Lee</charseq>
+      </extent>
+      <head>
+			<charseq START="1012" END="1017">Alyssa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E32-1">
+      <extent>
+			<charseq START="1012" END="1032">Alyssa and Steven Lee</charseq>
+      </extent>
+      <head>
+			<charseq START="1023" END="1032">Steven Lee</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E33-1">
+      <extent>
+			<charseq START="1035" END="1037">who</charseq>
+      </extent>
+      <head>
+			<charseq START="1035" END="1037">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E34-1">
+      <extent>
+			<charseq START="1065" END="1075">the victims</charseq>
+      </extent>
+      <head>
+			<charseq START="1069" END="1075">victims</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E35-1">
+      <extent>
+			<charseq START="1088" END="1102">their furniture</charseq>
+      </extent>
+      <head>
+			<charseq START="1088" END="1092">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E36-1">
+      <extent>
+			<charseq START="1155" END="1158">them</charseq>
+      </extent>
+      <head>
+			<charseq START="1155" END="1158">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E37" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E37-1">
+      <extent>
+			<charseq START="1179" END="1193">Gregory J. Long</charseq>
+      </extent>
+      <head>
+			<charseq START="1179" END="1193">Gregory J. Long</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E38" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E38-1">
+      <extent>
+			<charseq START="1206" END="1230">the Parker County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="1210" END="1222">Parker County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E39-1">
+      <extent>
+			<charseq START="1206" END="1230">the Parker County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="1224" END="1230">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E40" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E40-1">
+      <extent>
+			<charseq START="1332" END="1344">Ottawa County</charseq>
+      </extent>
+      <head>
+			<charseq START="1332" END="1344">Ottawa County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E41" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E41-1">
+      <extent>
+			<charseq START="1347" END="1350">Okla</charseq>
+      </extent>
+      <head>
+			<charseq START="1347" END="1350">Okla</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E42" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E42-1">
+      <extent>
+			<charseq START="1373" END="1423">the Parker County Fugitive Apprehension Strike Team</charseq>
+      </extent>
+      <head>
+			<charseq START="1377" END="1423">Parker County Fugitive Apprehension Strike Team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E43" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E43-1">
+      <extent>
+			<charseq START="1446" END="1470">the United States Marshal</charseq>
+      </extent>
+      <head>
+			<charseq START="1450" END="1462">United States</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E44" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E44-1">
+      <extent>
+			<charseq START="1446" END="1470">the United States Marshal</charseq>
+      </extent>
+      <head>
+			<charseq START="1464" END="1470">Marshal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E45" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E45-1">
+      <extent>
+			<charseq START="1537" END="1553">an elderly person</charseq>
+      </extent>
+      <head>
+			<charseq START="1548" END="1553">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E46" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E46-1">
+      <extent>
+			<charseq START="1558" END="1570">Parker County</charseq>
+      </extent>
+      <head>
+			<charseq START="1558" END="1570">Parker County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E47" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E47-1">
+      <extent>
+			<charseq START="1603" END="1615">investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="1603" END="1615">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E48" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E48-1">
+      <extent>
+			<charseq START="1628" END="1631">Long</charseq>
+      </extent>
+      <head>
+			<charseq START="1628" END="1631">Long</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E49" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E49-1">
+      <extent>
+			<charseq START="1687" END="1696">his arrest</charseq>
+      </extent>
+      <head>
+			<charseq START="1687" END="1689">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E50" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E50-1">
+      <extent>
+			<charseq START="1729" END="1733">Texas</charseq>
+      </extent>
+      <head>
+			<charseq START="1729" END="1733">Texas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E51" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E51-1">
+      <extent>
+			<charseq START="1757" END="1760">Long</charseq>
+      </extent>
+      <head>
+			<charseq START="1757" END="1760">Long</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E52" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E52-1">
+      <extent>
+			<charseq START="1783" END="1797">Iowa and Kansas</charseq>
+      </extent>
+      <head>
+			<charseq START="1783" END="1786">Iowa</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E53" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E53-1">
+      <extent>
+			<charseq START="1783" END="1797">Iowa and Kansas</charseq>
+      </extent>
+      <head>
+			<charseq START="1792" END="1797">Kansas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E54" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E54-1">
+      <extent>
+			<charseq START="1849" END="1858">US Marshal</charseq>
+      </extent>
+      <head>
+			<charseq START="1849" END="1850">US</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E55" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E55-1">
+      <extent>
+			<charseq START="1849" END="1858">US Marshal</charseq>
+      </extent>
+      <head>
+			<charseq START="1852" END="1858">Marshal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E56" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E56-1">
+      <extent>
+			<charseq START="1864" END="1883">Intelligent Services</charseq>
+      </extent>
+      <head>
+			<charseq START="1864" END="1883">Intelligent Services</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E57" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E57-1">
+      <extent>
+			<charseq START="1936" END="1976">other agencies and financial institutions</charseq>
+      </extent>
+      <head>
+			<charseq START="1942" END="1949">agencies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E58" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E58-1">
+      <extent>
+			<charseq START="1936" END="1976">other agencies and financial institutions</charseq>
+      </extent>
+      <head>
+			<charseq START="1965" END="1976">institutions</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E59" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E59-1">
+      <extent>
+			<charseq START="2040" END="2043">Long</charseq>
+      </extent>
+      <head>
+			<charseq START="2040" END="2043">Long</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E60" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E60-1">
+      <extent>
+			<charseq START="2083" END="2095">other victims</charseq>
+      </extent>
+      <head>
+			<charseq START="2089" END="2095">victims</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E61" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E61-1">
+      <extent>
+			<charseq START="2100" END="2103">Long</charseq>
+      </extent>
+      <head>
+			<charseq START="2100" END="2103">Long</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E62" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E62-1">
+      <extent>
+			<charseq START="2137" END="2149">investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="2137" END="2149">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E63" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E63-1">
+      <extent>
+			<charseq START="2204" END="2207">Long</charseq>
+      </extent>
+      <head>
+			<charseq START="2204" END="2207">Long</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E64" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E64-1">
+      <extent>
+			<charseq START="2210" END="2222">Investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="2210" END="2222">Investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E65" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E65-1">
+      <extent>
+			<charseq START="2234" END="2251">the security staff</charseq>
+      </extent>
+      <head>
+			<charseq START="2247" END="2251">staff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E66" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E66-1">
+      <extent>
+			<charseq START="2256" END="2263">a casino</charseq>
+      </extent>
+      <head>
+			<charseq START="2258" END="2263">casino</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E67" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E67-1">
+      <extent>
+			<charseq START="2268" END="2280">Ottawa County</charseq>
+      </extent>
+      <head>
+			<charseq START="2268" END="2280">Ottawa County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E68" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E68-1">
+      <extent>
+			<charseq START="2283" END="2286">Okla</charseq>
+      </extent>
+      <head>
+			<charseq START="2283" END="2286">Okla</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E69" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E69-1">
+      <extent>
+			<charseq START="2303" END="2306">Long</charseq>
+      </extent>
+      <head>
+			<charseq START="2303" END="2306">Long</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E70" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E70-1">
+      <extent>
+			<charseq START="2323" END="2332">the casino</charseq>
+      </extent>
+      <head>
+			<charseq START="2327" END="2332">casino</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E71" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E71-1">
+      <extent>
+			<charseq START="2335" END="2356">Quapaw tribal marshals</charseq>
+      </extent>
+      <head>
+			<charseq START="2349" END="2356">marshals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E72" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E72-1">
+      <extent>
+			<charseq START="2375" END="2378">Long</charseq>
+      </extent>
+      <head>
+			<charseq START="2375" END="2378">Long</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E73" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E73-1">
+      <extent>
+			<charseq START="2421" END="2443">unidentified associates</charseq>
+      </extent>
+      <head>
+			<charseq START="2434" END="2443">associates</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E74" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E74-1">
+      <extent>
+			<charseq START="2474" END="2498">the Parker County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="2478" END="2490">Parker County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E75" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E75-1">
+      <extent>
+			<charseq START="2474" END="2498">the Parker County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="2492" END="2498">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E76" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E76-1">
+      <extent>
+			<charseq START="2499" END="2505">&apos;s Dept</charseq>
+      </extent>
+      <head>
+			<charseq START="2502" END="2505">Dept</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E77" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E77-1">
+      <extent>
+			<charseq START="2508" END="2528">Parker County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="2508" END="2520">Parker County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E78" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E78-1">
+      <extent>
+			<charseq START="2508" END="2528">Parker County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="2522" END="2528">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E79" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E79-1">
+      <extent>
+			<charseq START="2534" END="2565">Criminal Investigations Division</charseq>
+      </extent>
+      <head>
+			<charseq START="2558" END="2565">Division</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E80" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E80-1">
+      <extent>
+			<charseq START="2607" END="2639">identifying and locating suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="2632" END="2639">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E81" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E81-1">
+      <extent>
+			<charseq START="2674" END="2715">the Aledo Bearcat Valero Convenience Store</charseq>
+      </extent>
+      <head>
+			<charseq START="2678" END="2715">Aledo Bearcat Valero Convenience Store</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E82" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E82-1">
+      <extent>
+			<charseq START="2718" END="2751">Parker County Sheriff Larry Fowler</charseq>
+      </extent>
+      <head>
+			<charseq START="2718" END="2730">Parker County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E83" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E83-1">
+      <extent>
+			<charseq START="2718" END="2751">Parker County Sheriff Larry Fowler</charseq>
+      </extent>
+      <head>
+			<charseq START="2732" END="2738">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E84" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E84-1">
+      <extent>
+			<charseq START="2718" END="2751">Parker County Sheriff Larry Fowler</charseq>
+      </extent>
+      <head>
+			<charseq START="2740" END="2751">Larry Fowler</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E85" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E85-1">
+      <extent>
+			<charseq START="2841" END="2853">North FM 1187</charseq>
+      </extent>
+      <head>
+			<charseq START="2841" END="2848">North FM</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E86" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E86-1">
+      <extent>
+			<charseq START="2856" END="2868">Investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="2856" END="2868">Investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E87" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E87-1">
+      <extent>
+			<charseq START="2898" END="2911">a male suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="2905" END="2911">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E88" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E88-1">
+      <extent>
+			<charseq START="2950" END="2958">a T-shirt</charseq>
+      </extent>
+      <head>
+			<charseq START="2952" END="2958">T-shirt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E89" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E89-1">
+      <extent>
+			<charseq START="2978" END="3001">a female suspect wearing</charseq>
+      </extent>
+      <head>
+			<charseq START="2987" END="2993">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E90" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E90-1">
+      <extent>
+			<charseq START="3045" END="3052">her hair</charseq>
+      </extent>
+      <head>
+			<charseq START="3045" END="3047">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E91" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E91-1">
+      <extent>
+			<charseq START="3064" END="3076">Both suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="3069" END="3076">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E92" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E92-1">
+      <extent>
+			<charseq START="3204" END="3224">the convenience store</charseq>
+      </extent>
+      <head>
+			<charseq START="3220" END="3224">store</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E93" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E93-1">
+      <extent>
+			<charseq START="3387" END="3396">The couple</charseq>
+      </extent>
+      <head>
+			<charseq START="3391" END="3396">couple</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E94" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E94-1">
+      <extent>
+			<charseq START="3419" END="3430">a small SUV.</charseq>
+      </extent>
+      <head>
+			<charseq START="3427" END="3430">SUV.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E95" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E95-1">
+      <extent>
+			<charseq START="3433" END="3438">Anyone</charseq>
+      </extent>
+      <head>
+			<charseq START="3433" END="3438">Anyone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E96" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E96-1">
+      <extent>
+			<charseq START="3492" END="3503">the suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="3496" END="3503">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E97" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E97-1">
+      <extent>
+			<charseq START="3534" END="3558">the Parker County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="3538" END="3550">Parker County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E98" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E98-1">
+      <extent>
+			<charseq START="3534" END="3558">the Parker County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="3552" END="3558">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E99" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E99-1">
+      <extent>
+			<charseq START="3593" END="3620">Parker County Crime Stoppers</charseq>
+      </extent>
+      <head>
+			<charseq START="3593" END="3620">Parker County Crime Stoppers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E100" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E100-1">
+      <extent>
+			<charseq START="3641" END="3643">You</charseq>
+      </extent>
+      <head>
+			<charseq START="3641" END="3643">You</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E101" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E101-1">
+      <extent>
+			<charseq START="3695" END="3708">Crime Stoppers</charseq>
+      </extent>
+      <head>
+			<charseq START="3701" END="3708">Stoppers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E102" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E102-1">
+      <extent>
+			<charseq START="3800" END="3811">the suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="3804" END="3811">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E103" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E103-1">
+      <extent>
+			<charseq START="3836" END="3851">F.A.S.T. members</charseq>
+      </extent>
+      <head>
+			<charseq START="3845" END="3851">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E104" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E104-1">
+      <extent>
+			<charseq START="3863" END="3880">Dallas authorities</charseq>
+      </extent>
+      <head>
+			<charseq START="3863" END="3868">Dallas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E105" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E105-1">
+      <extent>
+			<charseq START="3863" END="3880">Dallas authorities</charseq>
+      </extent>
+      <head>
+			<charseq START="3870" END="3880">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E106" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E106-1">
+      <extent>
+			<charseq START="3909" END="3915">the man</charseq>
+      </extent>
+      <head>
+			<charseq START="3913" END="3915">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E107" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E107-1">
+      <extent>
+			<charseq START="3918" END="3920">who</charseq>
+      </extent>
+      <head>
+			<charseq START="3918" END="3920">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E108" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E108-1">
+      <extent>
+			<charseq START="3925" END="3935">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="3929" END="3935">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E109" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E109-1">
+      <extent>
+			<charseq START="3940" END="3959">a Parker County case</charseq>
+      </extent>
+      <head>
+			<charseq START="3942" END="3954">Parker County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E110" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E110-1">
+      <extent>
+			<charseq START="3992" END="4002">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="3996" END="4002">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E111" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E111-1">
+      <extent>
+			<charseq START="4018" END="4029">a car window</charseq>
+      </extent>
+      <head>
+			<charseq START="4020" END="4022">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E112" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E112-1">
+      <extent>
+			<charseq START="4092" END="4117">A Tarrant County Constable</charseq>
+      </extent>
+      <head>
+			<charseq START="4094" END="4100">Tarrant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E113" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E113-1">
+      <extent>
+			<charseq START="4092" END="4117">A Tarrant County Constable</charseq>
+      </extent>
+      <head>
+			<charseq START="4102" END="4117">County Constable</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E114" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E114-1">
+      <extent>
+			<charseq START="4144" END="4150">Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="4144" END="4150">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E115" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E115-1">
+      <extent>
+			<charseq START="4191" END="4213">a female assault victim</charseq>
+      </extent>
+      <head>
+			<charseq START="4208" END="4213">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E116" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E116-1">
+      <extent>
+			<charseq START="4238" END="4244">Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="4238" END="4244">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E117" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E117-1">
+      <extent>
+			<charseq START="4267" END="4277">the suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="4271" END="4277">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E118" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E118-1">
+      <extent>
+			<charseq START="4294" END="4314">Marquael Odoric Greer</charseq>
+      </extent>
+      <head>
+			<charseq START="4294" END="4314">Marquael Odoric Greer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E119" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E119-1">
+      <extent>
+			<charseq START="4324" END="4332">Lancaster</charseq>
+      </extent>
+      <head>
+			<charseq START="4324" END="4332">Lancaster</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E120" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E120-1">
+      <extent>
+			<charseq START="4372" END="4385">his girlfriend</charseq>
+      </extent>
+      <head>
+			<charseq START="4372" END="4374">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E121" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E121-1">
+      <extent>
+			<charseq START="4372" END="4385">his girlfriend</charseq>
+      </extent>
+      <head>
+			<charseq START="4376" END="4385">girlfriend</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E122" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E122-1">
+      <extent>
+			<charseq START="4388" END="4402">Shaquitha Pratt</charseq>
+      </extent>
+      <head>
+			<charseq START="4388" END="4402">Shaquitha Pratt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E123" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E123-1">
+      <extent>
+			<charseq START="4412" END="4417">Ferris</charseq>
+      </extent>
+      <head>
+			<charseq START="4412" END="4417">Ferris</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E124" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E124-1">
+      <extent>
+			<charseq START="4449" END="4461">Interstate 20</charseq>
+      </extent>
+      <head>
+			<charseq START="4449" END="4458">Interstate</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E125" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E125-1">
+      <extent>
+			<charseq START="4464" END="4468">Pratt</charseq>
+      </extent>
+      <head>
+			<charseq START="4464" END="4468">Pratt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E126" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E126-1">
+      <extent>
+			<charseq START="4471" END="4481">a passenger</charseq>
+      </extent>
+      <head>
+			<charseq START="4473" END="4481">passenger</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E127" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E127-1">
+      <extent>
+			<charseq START="4486" END="4496">the vehicle</charseq>
+      </extent>
+      <head>
+			<charseq START="4490" END="4496">vehicle</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E128" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E128-1">
+      <extent>
+			<charseq START="4568" END="4574">her lap</charseq>
+      </extent>
+      <head>
+			<charseq START="4568" END="4570">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E129" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E129-1">
+      <extent>
+			<charseq START="4606" END="4610">Pratt</charseq>
+      </extent>
+      <head>
+			<charseq START="4606" END="4610">Pratt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E130" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E130-1">
+      <extent>
+			<charseq START="4624" END="4646">Tarrant County deputies</charseq>
+      </extent>
+      <head>
+			<charseq START="4624" END="4637">Tarrant County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E131" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E131-1">
+      <extent>
+			<charseq START="4624" END="4646">Tarrant County deputies</charseq>
+      </extent>
+      <head>
+			<charseq START="4639" END="4646">deputies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E132" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E132-1">
+      <extent>
+			<charseq START="4677" END="4681">Greer</charseq>
+      </extent>
+      <head>
+			<charseq START="4677" END="4681">Greer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E133" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E133-1">
+      <extent>
+			<charseq START="4702" END="4714">Parker County</charseq>
+      </extent>
+      <head>
+			<charseq START="4702" END="4714">Parker County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E134" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E134-1">
+      <extent>
+			<charseq START="4747" END="4751">Pratt</charseq>
+      </extent>
+      <head>
+			<charseq START="4747" END="4751">Pratt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E135" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E135-1">
+      <extent>
+			<charseq START="4758" END="4760">she</charseq>
+      </extent>
+      <head>
+			<charseq START="4758" END="4760">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E136" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E136-1">
+      <extent>
+			<charseq START="4766" END="4770">Greer</charseq>
+      </extent>
+      <head>
+			<charseq START="4766" END="4770">Greer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E137" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E137-1">
+      <extent>
+			<charseq START="4785" END="4786">he</charseq>
+      </extent>
+      <head>
+			<charseq START="4785" END="4786">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E138" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E138-1">
+      <extent>
+			<charseq START="4822" END="4826">Greer</charseq>
+      </extent>
+      <head>
+			<charseq START="4822" END="4826">Greer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E139" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E139-1">
+      <extent>
+			<charseq START="4880" END="4884">Pratt</charseq>
+      </extent>
+      <head>
+			<charseq START="4880" END="4884">Pratt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E140" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E140-1">
+      <extent>
+			<charseq START="4962" END="4974">Interstate 20</charseq>
+      </extent>
+      <head>
+			<charseq START="4962" END="4971">Interstate</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E141" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E141-1">
+      <extent>
+			<charseq START="4978" END="5036">Weatherford-Parker County Special Crimes Unit investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="4978" END="5002">Weatherford-Parker County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E142" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E142-1">
+      <extent>
+			<charseq START="4978" END="5036">Weatherford-Parker County Special Crimes Unit investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="5024" END="5036">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E143" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E143-1">
+      <extent>
+			<charseq START="5047" END="5055">11 people</charseq>
+      </extent>
+      <head>
+			<charseq START="5050" END="5055">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E144" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E144-1">
+      <extent>
+			<charseq START="5249" END="5265">SCU investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="5253" END="5265">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E145" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E145-1">
+      <extent>
+			<charseq START="5348" END="5367">Western Lake Estates</charseq>
+      </extent>
+      <head>
+			<charseq START="5348" END="5367">Western Lake Estates</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E146" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E146-1">
+      <extent>
+			<charseq START="5390" END="5403">Tarrant County</charseq>
+      </extent>
+      <head>
+			<charseq START="5390" END="5403">Tarrant County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E147" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E147-1">
+      <extent>
+			<charseq START="5408" END="5424">Palo Pinto County</charseq>
+      </extent>
+      <head>
+			<charseq START="5408" END="5424">Palo Pinto County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E148" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E148-1">
+      <extent>
+			<charseq START="5427" END="5443">SCU investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="5431" END="5443">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E149" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E149-1">
+      <extent>
+			<charseq START="5450" END="5461">the suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="5454" END="5461">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E150" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E150-1">
+      <extent>
+			<charseq START="5498" END="5524">organized criminal activity</charseq>
+      </extent>
+      <head>
+			<charseq START="5508" END="5515">criminal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E151" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E151-1">
+      <extent>
+			<charseq START="5588" END="5614">Five additional individuals</charseq>
+      </extent>
+      <head>
+			<charseq START="5604" END="5614">individuals</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E152" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E152-1">
+      <extent>
+			<charseq START="5716" END="5736">Joseph Chester Sylvis</charseq>
+      </extent>
+      <head>
+			<charseq START="5716" END="5736">Joseph Chester Sylvis</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E153" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E153-1">
+      <extent>
+			<charseq START="5754" END="5765">The suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="5758" END="5765">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E154" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E154-1">
+      <extent>
+			<charseq START="5776" END="5778">who</charseq>
+      </extent>
+      <head>
+			<charseq START="5776" END="5778">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E155" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E155-1">
+      <extent>
+			<charseq START="5849" END="5857">Troy Dean</charseq>
+      </extent>
+      <head>
+			<charseq START="5849" END="5857">Troy Dean</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E156" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E156-1">
+      <extent>
+			<charseq START="5860" END="5867">AKA Shaq</charseq>
+      </extent>
+      <head>
+			<charseq START="5860" END="5867">AKA Shaq</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E157" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E157-1">
+      <extent>
+			<charseq START="5877" END="5886">Fort Worth</charseq>
+      </extent>
+      <head>
+			<charseq START="5877" END="5886">Fort Worth</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E158" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E158-1">
+      <extent>
+			<charseq START="5933" END="5952">Manufacture Delivery</charseq>
+      </extent>
+      <head>
+			<charseq START="5933" END="5952">Manufacture Delivery</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E159" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E159-1">
+      <extent>
+			<charseq START="5957" END="5978">a Controlled Substance</charseq>
+      </extent>
+      <head>
+			<charseq START="5959" END="5978">Controlled Substance</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E160" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E160-1">
+      <extent>
+			<charseq START="6019" END="6020">He</charseq>
+      </extent>
+      <head>
+			<charseq START="6019" END="6020">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E161" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E161-1">
+      <extent>
+			<charseq START="6051" END="6072">the Parker County Jail</charseq>
+      </extent>
+      <head>
+			<charseq START="6055" END="6072">Parker County Jail</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E162" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E162-1">
+      <extent>
+			<charseq START="6087" END="6092">Robert</charseq>
+      </extent>
+      <head>
+			<charseq START="6087" END="6092">Robert</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E163" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E163-1">
+      <extent>
+			<charseq START="6106" END="6109">Rene</charseq>
+      </extent>
+      <head>
+			<charseq START="6106" END="6109">Rene</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E164" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E164-1">
+      <extent>
+			<charseq START="6176" END="6189">Parole Warrant</charseq>
+      </extent>
+      <head>
+			<charseq START="6176" END="6189">Parole Warrant</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E165" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E165-1">
+      <extent>
+			<charseq START="6252" END="6264">bond warrants</charseq>
+      </extent>
+      <head>
+			<charseq START="6257" END="6264">warrants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E166" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E166-1">
+      <extent>
+			<charseq START="6330" END="6331">He</charseq>
+      </extent>
+      <head>
+			<charseq START="6330" END="6331">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E167" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E167-1">
+      <extent>
+			<charseq START="6357" END="6378">the Parker County Jail</charseq>
+      </extent>
+      <head>
+			<charseq START="6361" END="6378">Parker County Jail</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E168" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E168-1">
+      <extent>
+			<charseq START="6381" END="6414">Parker County Sheriff Larry Fowler</charseq>
+      </extent>
+      <head>
+			<charseq START="6381" END="6393">Parker County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E169" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E169-1">
+      <extent>
+			<charseq START="6381" END="6414">Parker County Sheriff Larry Fowler</charseq>
+      </extent>
+      <head>
+			<charseq START="6395" END="6401">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E170" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E170-1">
+      <extent>
+			<charseq START="6381" END="6414">Parker County Sheriff Larry Fowler</charseq>
+      </extent>
+      <head>
+			<charseq START="6403" END="6414">Larry Fowler</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E171" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E171-1">
+      <extent>
+			<charseq START="6421" END="6437">two male suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="6430" END="6437">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E172" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E172-1">
+      <extent>
+			<charseq START="6495" END="6509">Montgomery Lane</charseq>
+      </extent>
+      <head>
+			<charseq START="6495" END="6509">Montgomery Lane</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E173" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E173-1">
+      <extent>
+			<charseq START="6541" END="6550">The victim</charseq>
+      </extent>
+      <head>
+			<charseq START="6545" END="6550">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E174" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E174-1">
+      <extent>
+			<charseq START="6564" END="6570">Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="6564" END="6570">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E175" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E175-1">
+      <extent>
+			<charseq START="6576" END="6583">deputies</charseq>
+      </extent>
+      <head>
+			<charseq START="6576" END="6583">deputies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E176" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E176-1">
+      <extent>
+			<charseq START="6590" END="6591">he</charseq>
+      </extent>
+      <head>
+			<charseq START="6590" END="6591">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E177" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E177-1">
+      <extent>
+			<charseq START="6604" END="6606">one</charseq>
+      </extent>
+      <head>
+			<charseq START="6604" END="6606">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E178" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E178-1">
+      <extent>
+			<charseq START="6611" END="6622">the suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="6615" END="6622">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E179" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E179-1">
+      <extent>
+			<charseq START="6655" END="6661">the men</charseq>
+      </extent>
+      <head>
+			<charseq START="6659" END="6661">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E180" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E180-1">
+      <extent>
+			<charseq START="6668" END="6675">his home</charseq>
+      </extent>
+      <head>
+			<charseq START="6668" END="6670">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E181" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E181-1">
+      <extent>
+			<charseq START="6668" END="6675">his home</charseq>
+      </extent>
+      <head>
+			<charseq START="6672" END="6675">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E182" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E182-1">
+      <extent>
+			<charseq START="6690" END="6702">the residence</charseq>
+      </extent>
+      <head>
+			<charseq START="6694" END="6702">residence</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E183" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E183-1">
+      <extent>
+			<charseq START="6705" END="6716">the suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="6709" END="6716">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E184" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E184-1">
+      <extent>
+			<charseq START="6760" END="6777">his hands and feet</charseq>
+      </extent>
+      <head>
+			<charseq START="6760" END="6762">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E185" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E185-1">
+      <extent>
+			<charseq START="6805" END="6812">his hair</charseq>
+      </extent>
+      <head>
+			<charseq START="6805" END="6807">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E186" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E186-1">
+      <extent>
+			<charseq START="6805" END="6812">his hair</charseq>
+      </extent>
+      <head>
+			<charseq START="6809" END="6812">hair</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E187" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E187-1">
+      <extent>
+			<charseq START="6815" END="6824">The victim</charseq>
+      </extent>
+      <head>
+			<charseq START="6819" END="6824">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E188" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E188-1">
+      <extent>
+			<charseq START="6883" END="6907">The relative dialed 9-1-1</charseq>
+      </extent>
+      <head>
+			<charseq START="6887" END="6894">relative</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E189" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E189-1">
+      <extent>
+			<charseq START="6910" END="6916">Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="6910" END="6916">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E190" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E190-1">
+      <extent>
+			<charseq START="6919" END="6929">?s deputies</charseq>
+      </extent>
+      <head>
+			<charseq START="6922" END="6929">deputies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E191" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E191-1">
+      <extent>
+			<charseq START="6957" END="6966">the victim</charseq>
+      </extent>
+      <head>
+			<charseq START="6961" END="6966">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E192" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E192-1">
+      <extent>
+			<charseq START="6992" END="7001">The victim</charseq>
+      </extent>
+      <head>
+			<charseq START="6996" END="7001">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E193" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E193-1">
+      <extent>
+			<charseq START="7017" END="7028">the suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="7021" END="7028">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E194" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E194-1">
+      <extent>
+			<charseq START="7069" END="7078">two rifles</charseq>
+      </extent>
+      <head>
+			<charseq START="7073" END="7078">rifles</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E195" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E195-1">
+      <extent>
+			<charseq START="7085" END="7097">his residence</charseq>
+      </extent>
+      <head>
+			<charseq START="7085" END="7087">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E196" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E196-1">
+      <extent>
+			<charseq START="7118" END="7131">Sheriff Fowler</charseq>
+      </extent>
+      <head>
+			<charseq START="7118" END="7124">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E197" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E197-1">
+      <extent>
+			<charseq START="7118" END="7131">Sheriff Fowler</charseq>
+      </extent>
+      <head>
+			<charseq START="7126" END="7131">Fowler</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E198" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E198-1">
+      <extent>
+			<charseq START="7138" END="7150">investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="7138" END="7150">investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E199" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E199-1">
+      <extent>
+			<charseq START="7251" END="7262">the suspects</charseq>
+      </extent>
+      <head>
+			<charseq START="7255" END="7262">suspects</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E200" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E200-1">
+      <extent>
+			<charseq START="7275" END="7291">The first suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="7285" END="7291">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E201" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E201-1">
+      <extent>
+			<charseq START="7412" END="7421">the victim</charseq>
+      </extent>
+      <head>
+			<charseq START="7416" END="7421">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E202" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E202-1">
+      <extent>
+			<charseq START="7459" END="7476">the second suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="7470" END="7476">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E203" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E203-1">
+      <extent>
+			<charseq START="7481" END="7488">deputies</charseq>
+      </extent>
+      <head>
+			<charseq START="7481" END="7488">deputies</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E204" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E204-1">
+      <extent>
+			<charseq START="7491" END="7500">The victim</charseq>
+      </extent>
+      <head>
+			<charseq START="7495" END="7500">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E205" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E205-1">
+      <extent>
+			<charseq START="7515" END="7530">a local hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="7523" END="7530">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E206" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E206-1">
+      <extent>
+			<charseq START="7547" END="7559">His condition</charseq>
+      </extent>
+      <head>
+			<charseq START="7547" END="7549">His</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="480.sgm-E207" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="480.sgm-E207-1">
+      <extent>
+			<charseq START="7589" END="7600">his injuries</charseq>
+      </extent>
+      <head>
+			<charseq START="7589" END="7591">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="480.sgm-R0" TYPE="PART-WHOLE">
+    <relation_argument REFID="480.sgm-E2" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E3" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="82" END="235">SCU investigators served a search warrant at the suspect???s residence Thursday, July 9, 2015, in the 100 block of Woodvale Drive, in Azle, Parker County.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E2-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="216" END="219">Azle</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E3-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="222" END="234">Parker County</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R1" TYPE="ORG-AFF">
+    <relation_argument REFID="480.sgm-E5" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E4" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="238" END="440">Weatherford-Parker County Fugitive Apprehension Strike Team (FAST) members apprehended a suspect Monday, July 6, 2015, who initially fled Hood County law enforcement officials, leading them in a pursuit.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E5-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="238" END="296">Weatherford-Parker County Fugitive Apprehension Strike Team</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E4-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="238" END="296">Weatherford-Parker County Fugitive Apprehension Strike Team</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R2" TYPE="ORG-AFF">
+    <relation_argument REFID="480.sgm-E11" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E10" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="238" END="440">Weatherford-Parker County Fugitive Apprehension Strike Team (FAST) members apprehended a suspect Monday, July 6, 2015, who initially fled Hood County law enforcement officials, leading them in a pursuit.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E11-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="376" END="412">Hood County law enforcement officials</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="376" END="412">Hood County law enforcement officials</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R3" TYPE="ART">
+    <relation_argument REFID="480.sgm-E15" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E16" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="442" END="647">The initial call was reported as a criminal trespass, where a male and female had evaded authorities in a stolen vehicle and entered Parker County Monday afternoon near Brazos River Estates at Tin Top Road.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E15-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="531" END="541">authorities</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E16-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="546" END="561">a stolen vehicle</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R4" TYPE="ORG-AFF">
+    <relation_argument REFID="480.sgm-E21" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E20" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="650" END="805">Parker County Sheriff???s Criminal Investigation Division is investigating a double shooting and assault call, which left three people with severe injuries.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E21-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="650" END="670">Parker County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E20-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="650" END="670">Parker County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R5" TYPE="ORG-AFF">
+    <relation_argument REFID="480.sgm-E25" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E24" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="807" END="924">Parker County Sheriff Larry Fowler said the incident was reported by Azle hospital staff at 5:42 a.m., Sunday morning.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E25-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="807" END="840">Parker County Sheriff Larry Fowler</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E24-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="807" END="840">Parker County Sheriff Larry Fowler</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R6" TYPE="ORG-AFF">
+    <relation_argument REFID="480.sgm-E44" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E43" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="1179" END="1483">Gregory J. Long, wanted by the Parker County Sheriff???s Office for the charge theft of property $1,500 but less than $20,000, was taken into custody in Ottawa County, Okla. at the direction of the Parker County Fugitive Apprehension Strike Team, in conjunction with the United States Marshal???s Service.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E44-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1446" END="1470">the United States Marshal</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E43-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1446" END="1470">the United States Marshal</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R7" TYPE="ORG-AFF">
+    <relation_argument REFID="480.sgm-E39" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E38" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R7-1">
+      <ldc_extent>
+			<charseq START="1179" END="1483">Gregory J. Long, wanted by the Parker County Sheriff???s Office for the charge theft of property $1,500 but less than $20,000, was taken into custody in Ottawa County, Okla. at the direction of the Parker County Fugitive Apprehension Strike Team, in conjunction with the United States Marshal???s Service.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E39-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1206" END="1230">the Parker County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E38-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1206" END="1230">the Parker County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R8" TYPE="PHYS">
+    <relation_argument REFID="480.sgm-E45" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E46" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R8-1">
+      <ldc_extent>
+			<charseq START="1486" END="1571">The charges on Long arose from Long ???scamming??? an elderly person in Parker County.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E45-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1537" END="1553">an elderly person</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E46-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1558" END="1570">Parker County</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R9" TYPE="ORG-AFF">
+    <relation_argument REFID="480.sgm-E55" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E54" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R9-1">
+      <ldc_extent>
+			<charseq START="1822" END="2000">The FAST unit working with US Marshal???s Intelligent Services launched a nationwide publicity campaign to inform other agencies and financial institutions of Long???s activities.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E55-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1849" END="1858">US Marshal</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E54-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1849" END="1858">US Marshal</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R10" TYPE="PART-WHOLE">
+    <relation_argument REFID="480.sgm-E66" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E67" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R10-1">
+      <ldc_extent>
+			<charseq START="2210" END="2333">Investigators contacted the security staff of a casino in Ottawa County, Okla. and confirmed Long was present in the casino.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E66-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2256" END="2263">a casino</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E67-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2268" END="2280">Ottawa County</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R11" TYPE="ORG-AFF">
+    <relation_argument REFID="480.sgm-E75" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E74" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R11-1">
+      <ldc_extent>
+			<charseq START="2469" END="2506">From the Parker County Sheriff&apos;s Dept.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E75-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2474" END="2498">the Parker County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E74-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2474" END="2498">the Parker County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R12" TYPE="ORG-AFF">
+    <relation_argument REFID="480.sgm-E78" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E77" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R12-1">
+      <ldc_extent>
+			<charseq START="2508" END="2716">Parker County Sheriff???s Criminal Investigations Division is seeking the public???s assistance in identifying and locating suspects in connection to the burglary of the Aledo Bearcat Valero Convenience Store.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E78-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2508" END="2528">Parker County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E77-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2508" END="2528">Parker County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R13" TYPE="ORG-AFF">
+    <relation_argument REFID="480.sgm-E83" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E82" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R13-1">
+      <ldc_extent>
+			<charseq START="2718" END="2801">Parker County Sheriff Larry Fowler said the incident was reported just before 1 a.m.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E83-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="2718" END="2751">Parker County Sheriff Larry Fowler</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E82-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="2718" END="2751">Parker County Sheriff Larry Fowler</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R14" TYPE="ORG-AFF">
+    <relation_argument REFID="480.sgm-E98" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E97" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R14-1">
+      <ldc_extent>
+			<charseq START="3433" END="3639">Anyone with information on the identity and/or location of the suspects involved is urged to contact the Parker County Sheriff???s Office at (817) 594-8845, or Parker County Crime Stoppers at (817) 599-5555.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E98-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3534" END="3558">the Parker County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E97-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3534" END="3558">the Parker County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R15" TYPE="ORG-AFF">
+    <relation_argument REFID="480.sgm-E105" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E104" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R15-1">
+      <ldc_extent>
+			<charseq START="3836" END="4090">F.A.S.T. members contacted Dallas authorities late Tuesday evening about the man, who is the suspect of a Parker County case where a puppy was killed after the suspect threw it from a car window while driving down Interstate 20, last Friday, June 6, 2014.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E105-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="3863" END="3880">Dallas authorities</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E104-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="3863" END="3880">Dallas authorities</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R16" TYPE="PER-SOC">
+    <relation_argument REFID="480.sgm-E120" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E121" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R16-1">
+      <ldc_extent>
+			<charseq START="4238" END="4462">Sheriff???s reports indicate the suspect, identified as Marquael Odoric Greer, 32, of Lancaster, was engaged in a verbal dispute with his girlfriend, Shaquitha Pratt, 33, of Ferris, while traveling eastbound on Interstate 20.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E120-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4372" END="4385">his girlfriend</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E121-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="4372" END="4385">his girlfriend</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R17" TYPE="ART">
+    <relation_argument REFID="480.sgm-E126" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E127" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R17-1">
+      <ldc_extent>
+			<charseq START="4464" END="4603">Pratt, a passenger in the vehicle, was holding the 6-week-old, white, male Chihuahua mix-breed puppy in her lap at the time of the argument.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E126-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4471" END="4481">a passenger</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E127-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="4486" END="4496">the vehicle</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R18" TYPE="PHYS">
+    <relation_argument REFID="480.sgm-E132" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E133" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R18-1">
+      <ldc_extent>
+			<charseq START="4606" END="4745">Pratt reported to Tarrant County deputies that the puppy was killed by Greer while traveling in Parker County near the 423 mile marker post.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E132-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4677" END="4681">Greer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E133-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="4702" END="4714">Parker County</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R19" TYPE="ORG-AFF">
+    <relation_argument REFID="480.sgm-E131" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E130" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R19-1">
+      <ldc_extent>
+			<charseq START="4606" END="4745">Pratt reported to Tarrant County deputies that the puppy was killed by Greer while traveling in Parker County near the 423 mile marker post.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E131-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4624" END="4646">Tarrant County deputies</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E130-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="4624" END="4646">Tarrant County deputies</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R20" TYPE="ORG-AFF">
+    <relation_argument REFID="480.sgm-E142" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E141" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R20-1">
+      <ldc_extent>
+			<charseq START="4978" END="5159">Weatherford-Parker County Special Crimes Unit investigators arrested 11 people in connection with a drug distribution operation, following a five month-long undercover investigation.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E142-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="4978" END="5036">Weatherford-Parker County Special Crimes Unit investigators</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E141-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="4978" END="5036">Weatherford-Parker County Special Crimes Unit investigators</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R21" TYPE="PART-WHOLE">
+    <relation_argument REFID="480.sgm-E146" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E147" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R21-1">
+      <ldc_extent>
+			<charseq START="5249" END="5425">SCU investigators said large quantities of methamphetamine were being purchased and distributed in Western Lake Estates, and stretching from Tarrant County to Palo Pinto County.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E146-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="5390" END="5403">Tarrant County</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E147-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="5408" END="5424">Palo Pinto County</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R22" TYPE="PHYS">
+    <relation_argument REFID="480.sgm-E166" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E167" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R22-1">
+      <ldc_extent>
+			<charseq START="6330" END="6379">He remains incarcerated at the Parker County Jail.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E166-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="6330" END="6331">He</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E167-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="6357" END="6378">the Parker County Jail</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R23" TYPE="ORG-AFF">
+    <relation_argument REFID="480.sgm-E169" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E168" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R23-1">
+      <ldc_extent>
+			<charseq START="6381" END="6539">Parker County Sheriff Larry Fowler said two male suspects knocked on the victim???s residence in the 200 block of Montgomery Lane around 11:20 p.m., Wednesday.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E169-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="6381" END="6414">Parker County Sheriff Larry Fowler</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E168-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="6381" END="6414">Parker County Sheriff Larry Fowler</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R24" TYPE="ART">
+    <relation_argument REFID="480.sgm-E180" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E181" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R24-1">
+      <ldc_extent>
+			<charseq START="6541" END="6676">The victim reported to Sheriff???s deputies that he recognized one of the suspects as an acquaintance and allowed the men into his home.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E180-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="6668" END="6675">his home</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E181-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="6668" END="6675">his home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R25" TYPE="PER-SOC">
+    <relation_argument REFID="480.sgm-E185" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E186" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R25-1">
+      <ldc_extent>
+			<charseq START="6678" END="6813">Once inside the residence, the suspects physically assaulted the homeowner, bound his hands and feet with duct tape and pulled his hair.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E185-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="6805" END="6812">his hair</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E186-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="6805" END="6812">his hair</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="480.sgm-R26" TYPE="PHYS">
+    <relation_argument REFID="480.sgm-E204" ROLE="Arg-1" />
+    <relation_argument REFID="480.sgm-E205" ROLE="Arg-2" />
+      <relation_mention ID="480.sgm-R26-1">
+      <ldc_extent>
+			<charseq START="7491" END="7545">The victim was taken to a local hospital for treatment.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="480.sgm-E204-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="7491" END="7500">The victim</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="480.sgm-E205-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="7515" END="7530">a local hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="480.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="238" END="440">Weatherford-Parker County Fugitive Apprehension Strike Team (FAST) members apprehended a suspect Monday, July 6, 2015, who initially fled Hood County law enforcement officials, leading them in a pursuit.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="286" END="291">Strike</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="238" END="440">Weatherford-Parker County Fugitive Apprehension Strike Team (FAST) members apprehended a suspect Monday, July 6, 2015, who initially fled Hood County law enforcement officials, leading them in a pursuit.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="371" END="374">fled</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E11-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="376" END="412">Hood County law enforcement officials</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV2" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="650" END="805">Parker County Sheriff???s Criminal Investigation Division is investigating a double shooting and assault call, which left three people with severe injuries.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="755" END="758">call</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E21-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="650" END="670">Parker County Sheriff</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV3" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="650" END="805">Parker County Sheriff???s Criminal Investigation Division is investigating a double shooting and assault call, which left three people with severe injuries.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="797" END="804">injuries</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E23-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="772" END="783">three people</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV4" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="926" END="1177">Eleven victims have reported leaving their furniture with the suspects, identified as Alyssa and Steven Lee, who entered an agreement with the victims to restore their furniture but instead kept the items and attempted to resell them online for profit.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="955" END="961">leaving</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E30-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="984" END="995">the suspects</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV5" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="1179" END="1483">Gregory J. Long, wanted by the Parker County Sheriff???s Office for the charge theft of property $1,500 but less than $20,000, was taken into custody in Ottawa County, Okla. at the direction of the Parker County Fugitive Apprehension Strike Team, in conjunction with the United States Marshal???s Service.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1321" END="1327">custody</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV6" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="1486" END="1571">The charges on Long arose from Long ???scamming??? an elderly person in Parker County.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1490" END="1496">charges</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E45-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1537" END="1553">an elderly person</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV7" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="1573" END="1755">When the investigation began, investigators discovered Long was wanted for questioning or had active warrants for his arrest in four other jurisdictions in Texas for similar offenses.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1691" END="1696">arrest</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E47-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1603" END="1615">investigators</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV8" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="2210" END="2333">Investigators contacted the security staff of a casino in Ottawa County, Okla. and confirmed Long was present in the casino.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2224" END="2232">contacted</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E64-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2210" END="2222">Investigators</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="480.sgm-E65-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2234" END="2251">the security staff</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV9" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="2335" END="2392">Quapaw tribal marshals arrived and took Long into custody.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2358" END="2364">arrived</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E71-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2335" END="2356">Quapaw tribal marshals</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV10" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV10-1" p="1.000">
+      <extent>
+			<charseq START="2335" END="2392">Quapaw tribal marshals arrived and took Long into custody.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2385" END="2391">custody</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E71-1" ROLE="Agent" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2335" END="2356">Quapaw tribal marshals</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV11" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV11-1" p="1.000">
+      <extent>
+			<charseq START="2394" END="2463">Two of Long???s previously unidentified associates were also arrested.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="2455" END="2462">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E73-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="2421" END="2443">unidentified associates</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV12" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV12-1" p="1.000">
+      <extent>
+			<charseq START="3064" END="3141">Both suspects were shown wearing masks/head coverings and were wearing gloves.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3083" END="3087">shown</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E91-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3064" END="3076">Both suspects</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV13" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV13-1" p="1.000">
+      <extent>
+			<charseq START="3387" END="3430">The couple fled the premises in a small SUV.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3398" END="3401">fled</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E93-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3387" END="3396">The couple</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV14" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV14-1" p="1.000">
+      <extent>
+			<charseq START="3695" END="3834">Crime Stoppers will pay up to a $1,000 reward for information leading to the arrest and/or indictment of the suspects involved in this case.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3715" END="3717">pay</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E101-1" ROLE="Giver" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3695" END="3708">Crime Stoppers</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV15" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV15-1" p="1.000">
+      <extent>
+			<charseq START="3695" END="3834">Crime Stoppers will pay up to a $1,000 reward for information leading to the arrest and/or indictment of the suspects involved in this case.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3772" END="3777">arrest</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV16" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV16-1" p="1.000">
+      <extent>
+			<charseq START="3695" END="3834">Crime Stoppers will pay up to a $1,000 reward for information leading to the arrest and/or indictment of the suspects involved in this case.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3786" END="3795">indictment</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E102-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="3800" END="3811">the suspects</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV17" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV17-1" p="1.000">
+      <extent>
+			<charseq START="3836" END="4090">F.A.S.T. members contacted Dallas authorities late Tuesday evening about the man, who is the suspect of a Parker County case where a puppy was killed after the suspect threw it from a car window while driving down Interstate 20, last Friday, June 6, 2014.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="3979" END="3984">killed</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV18" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV18-1" p="1.000">
+      <extent>
+			<charseq START="4092" END="4236">A Tarrant County Constable reported the incident to Sheriff???s deputies just before 7 a.m., after a female assault victim reported the incident.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4200" END="4206">assault</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV19" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV19-1" p="1.000">
+      <extent>
+			<charseq START="4606" END="4745">Pratt reported to Tarrant County deputies that the puppy was killed by Greer while traveling in Parker County near the 423 mile marker post.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4667" END="4672">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E132-1" ROLE="Agent" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4677" END="4681">Greer</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="480.sgm-E133-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4702" END="4714">Parker County</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV20" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV20-1" p="1.000">
+      <extent>
+			<charseq START="4747" END="4820">Pratt said she and Greer argued while he traveled at a high rate of speed.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4788" END="4795">traveled</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E137-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4785" END="4786">he</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV21" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV21-1" p="1.000">
+      <extent>
+			<charseq START="4822" END="4975">Greer then rolled the window down, grabbed the puppy from Pratt???s lap and threw it out of the window and continued to travel eastbound on Interstate 20.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="4942" END="4947">travel</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E138-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4822" END="4826">Greer</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV22" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV22-1" p="1.000">
+      <extent>
+			<charseq START="4978" END="5159">Weatherford-Parker County Special Crimes Unit investigators arrested 11 people in connection with a drug distribution operation, following a five month-long undercover investigation.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="5038" END="5045">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E142-1" ROLE="Agent" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="4978" END="5036">Weatherford-Parker County Special Crimes Unit investigators</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="480.sgm-E143-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="5047" END="5055">11 people</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV23" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV23-1" p="1.000">
+      <extent>
+			<charseq START="5427" END="5586">SCU investigators said the suspects have been charged with engaging in organized criminal activity for the manufacturing and delivery of a controlled substance.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="5473" END="5479">charged</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E149-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="5450" END="5461">the suspects</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV24" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV24-1" p="1.000">
+      <extent>
+			<charseq START="5754" END="5979">The suspects involved who have been charged in the investigation to date include:
+??? Delamar, Troy Dean, AKA Shaq, 47, of Fort Worth ??? Engaging in Organized Criminal Activity, Manufacture Delivery of a Controlled Substance.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="5790" END="5796">charged</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E154-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="5776" END="5778">who</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV25" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV25-1" p="1.000">
+      <extent>
+			<charseq START="6019" END="6073">He is currently incarcerated at the Parker County Jail.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="6035" END="6046">incarcerated</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E160-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="6019" END="6020">He</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV26" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV26-1" p="1.000">
+      <extent>
+			<charseq START="6267" END="6328">Hardin???s bond for the additional charges was set at $42,260.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="6302" END="6308">charges</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV27" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV27-1" p="1.000">
+      <extent>
+			<charseq START="6330" END="6379">He remains incarcerated at the Parker County Jail.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="6341" END="6352">incarcerated</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E166-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="6330" END="6331">He</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="480.sgm-E167-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="6357" END="6378">the Parker County Jail</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV28" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV28-1" p="1.000">
+      <extent>
+			<charseq START="6678" END="6813">Once inside the residence, the suspects physically assaulted the homeowner, bound his hands and feet with duct tape and pulled his hair.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="6729" END="6737">assaulted</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV29" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV29-1" p="1.000">
+      <extent>
+			<charseq START="6910" END="6990">Sheriff???s deputies arrived on scene, finding the victim with numerous injuries.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="6931" END="6937">arrived</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E190-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="6919" END="6929">?s deputies</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV30" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV30-1" p="1.000">
+      <extent>
+			<charseq START="6910" END="6990">Sheriff???s deputies arrived on scene, finding the victim with numerous injuries.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="6982" END="6989">injuries</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E191-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="6957" END="6966">the victim</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV31" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV31-1" p="1.000">
+      <extent>
+			<charseq START="6992" END="7116">The victim also reported the suspects had taken a flat-screen television and two rifles from his residence after the assault.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="7109" END="7115">assault</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E194-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="7069" END="7078">two rifles</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="480.sgm-EV32" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="480.sgm-EV32-1" p="1.000">
+      <extent>
+			<charseq START="7547" END="7641">His condition is unknown at this time but his injuries are not believed to be life-threatening.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="7593" END="7600">injuries</charseq>
+      </anchor>
+      <event_mention_argument REFID="480.sgm-E207-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="7589" END="7600">his injuries</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

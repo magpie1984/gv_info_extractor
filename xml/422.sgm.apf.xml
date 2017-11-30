@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/422.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/422.sgm">
+  <entity ID="422.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="422.sgm-E0-1">
+      <extent>
+			<charseq START="131" END="136">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="131" END="136">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="422.sgm-E1" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="422.sgm-E1-1">
+      <extent>
+			<charseq START="166" END="183">West Palm Hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="166" END="174">West Palm</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="422.sgm-E2" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="422.sgm-E2-1">
+      <extent>
+			<charseq START="166" END="183">West Palm Hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="176" END="183">Hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="422.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="422.sgm-E3-1">
+      <extent>
+			<charseq START="212" END="226">a family member</charseq>
+      </extent>
+      <head>
+			<charseq START="214" END="219">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="422.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="422.sgm-E4-1">
+      <extent>
+			<charseq START="212" END="226">a family member</charseq>
+      </extent>
+      <head>
+			<charseq START="221" END="226">member</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="422.sgm-E5" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="422.sgm-E5-1">
+      <extent>
+			<charseq START="324" END="331">our area</charseq>
+      </extent>
+      <head>
+			<charseq START="324" END="326">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="422.sgm-E6" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="422.sgm-E6-1">
+      <extent>
+			<charseq START="324" END="331">our area</charseq>
+      </extent>
+      <head>
+			<charseq START="328" END="331">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <event ID="422.sgm-EV0" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="422.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="131" END="296">Police say the juvenile arrived at West Palm Hospital after being transported by a family member around 4 p.m. Upon arrival, the juvenile was conscious and breathing.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="155" END="161">arrived</charseq>
+      </anchor>
+      <event_mention_argument REFID="422.sgm-E2-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="166" END="183">West Palm Hospital</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="422.sgm-EV1" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="422.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="131" END="296">Police say the juvenile arrived at West Palm Hospital after being transported by a family member around 4 p.m. Upon arrival, the juvenile was conscious and breathing.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="247" END="253">arrival</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

@@ -1,0 +1,676 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/419.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/419.sgm">
+  <entity ID="419.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E0-1">
+      <extent>
+			<charseq START="102" END="106">A man</charseq>
+      </extent>
+      <head>
+			<charseq START="104" END="106">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E1-1">
+      <extent>
+			<charseq START="112" END="116">woman</charseq>
+      </extent>
+      <head>
+			<charseq START="112" END="116">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E2-1">
+      <extent>
+			<charseq START="170" END="184">a Jackson motel</charseq>
+      </extent>
+      <head>
+			<charseq START="172" END="178">Jackson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E3-1">
+      <extent>
+			<charseq START="215" END="227">Darion Givens</charseq>
+      </extent>
+      <head>
+			<charseq START="215" END="227">Darion Givens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E4-1">
+      <extent>
+			<charseq START="233" END="250">Crystal Chancellor</charseq>
+      </extent>
+      <head>
+			<charseq START="241" END="250">Chancellor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E5-1">
+      <extent>
+			<charseq START="257" END="278">their first appearance</charseq>
+      </extent>
+      <head>
+			<charseq START="257" END="261">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E6-1">
+      <extent>
+			<charseq START="297" END="300">They</charseq>
+      </extent>
+      <head>
+			<charseq START="297" END="300">They</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E7" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E7-1">
+      <extent>
+			<charseq START="324" END="337">capital murder</charseq>
+      </extent>
+      <head>
+			<charseq START="324" END="330">capital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E8" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E8-1">
+      <extent>
+			<charseq START="380" END="404">outside American Star Inn</charseq>
+      </extent>
+      <head>
+			<charseq START="388" END="395">American</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E9-1">
+      <extent>
+			<charseq START="380" END="404">outside American Star Inn</charseq>
+      </extent>
+      <head>
+			<charseq START="397" END="400">Star</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E10" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E10-1">
+      <extent>
+			<charseq START="409" END="435">Interstate 55 South, police</charseq>
+      </extent>
+      <head>
+			<charseq START="409" END="418">Interstate</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E11-1">
+      <extent>
+			<charseq START="409" END="435">Interstate 55 South, police</charseq>
+      </extent>
+      <head>
+			<charseq START="430" END="435">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E12-1">
+      <extent>
+			<charseq START="443" END="449">Members</charseq>
+      </extent>
+      <head>
+			<charseq START="443" END="449">Members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E13" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E13-1">
+      <extent>
+			<charseq START="454" END="464">a SWAT team</charseq>
+      </extent>
+      <head>
+			<charseq START="461" END="464">team</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E14" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E14-1">
+      <extent>
+			<charseq START="470" END="485">the U.S. Marshal</charseq>
+      </extent>
+      <head>
+			<charseq START="474" END="477">U.S.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E15-1">
+      <extent>
+			<charseq START="470" END="485">the U.S. Marshal</charseq>
+      </extent>
+      <head>
+			<charseq START="479" END="485">Marshal</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E16-1">
+      <extent>
+			<charseq START="486" END="498">&apos;s Task Force</charseq>
+      </extent>
+      <head>
+			<charseq START="494" END="498">Force</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E17-1">
+      <extent>
+			<charseq START="509" END="514">Givens</charseq>
+      </extent>
+      <head>
+			<charseq START="509" END="514">Givens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E18-1">
+      <extent>
+			<charseq START="525" END="538">Chancellor, 24</charseq>
+      </extent>
+      <head>
+			<charseq START="525" END="534">Chancellor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E19-1">
+      <extent>
+			<charseq START="580" END="594">Northpark Drive</charseq>
+      </extent>
+      <head>
+			<charseq START="580" END="594">Northpark Drive</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E20-1">
+      <extent>
+			<charseq START="610" END="618">Moss Road</charseq>
+      </extent>
+      <head>
+			<charseq START="610" END="618">Moss Road</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E21-1">
+      <extent>
+			<charseq START="621" END="628">Warrants</charseq>
+      </extent>
+      <head>
+			<charseq START="621" END="628">Warrants</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E22-1">
+      <extent>
+			<charseq START="646" END="658">their arrests</charseq>
+      </extent>
+      <head>
+			<charseq START="646" END="650">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E23-1">
+      <extent>
+			<charseq START="679" END="699">Givens and Chancellor</charseq>
+      </extent>
+      <head>
+			<charseq START="679" END="684">Givens</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E24-1">
+      <extent>
+			<charseq START="679" END="699">Givens and Chancellor</charseq>
+      </extent>
+      <head>
+			<charseq START="690" END="699">Chancellor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E25-1">
+      <extent>
+			<charseq START="724" END="746">Juan Carlos Patino Mora</charseq>
+      </extent>
+      <head>
+			<charseq START="724" END="727">Juan</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E26-1">
+      <extent>
+			<charseq START="724" END="746">Juan Carlos Patino Mora</charseq>
+      </extent>
+      <head>
+			<charseq START="729" END="746">Carlos Patino Mora</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E27-1">
+      <extent>
+			<charseq START="771" END="773">him</charseq>
+      </extent>
+      <head>
+			<charseq START="771" END="773">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E28-1">
+      <extent>
+			<charseq START="781" END="782">he</charseq>
+      </extent>
+      <head>
+			<charseq START="781" END="782">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E29-1">
+      <extent>
+			<charseq START="795" END="798">them</charseq>
+      </extent>
+      <head>
+			<charseq START="795" END="798">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E30-1">
+      <extent>
+			<charseq START="833" END="838">police</charseq>
+      </extent>
+      <head>
+			<charseq START="833" END="838">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E31-1">
+      <extent>
+			<charseq START="846" END="849">Mora</charseq>
+      </extent>
+      <head>
+			<charseq START="846" END="849">Mora</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E32" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E32-1">
+      <extent>
+			<charseq START="865" END="882">a Jackson hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="875" END="882">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E33-1">
+      <extent>
+			<charseq START="885" END="899">Tiffany Brister</charseq>
+      </extent>
+      <head>
+			<charseq START="885" END="899">Tiffany Brister</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E34-1">
+      <extent>
+			<charseq START="975" END="977">She</charseq>
+      </extent>
+      <head>
+			<charseq START="975" END="977">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E35" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E35-1">
+      <extent>
+			<charseq START="997" END="1010">the car police</charseq>
+      </extent>
+      <head>
+			<charseq START="1001" END="1003">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="419.sgm-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="419.sgm-E36-1">
+      <extent>
+			<charseq START="997" END="1010">the car police</charseq>
+      </extent>
+      <head>
+			<charseq START="1005" END="1010">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="419.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="419.sgm-E9" ROLE="Arg-1" />
+    <relation_argument REFID="419.sgm-E8" ROLE="Arg-2" />
+      <relation_mention ID="419.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="297" END="441">They are both charged with capital murder in connection with Saturday???s shooting outside American Star Inn on Interstate 55 South, police said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="419.sgm-E9-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="380" END="404">outside American Star Inn</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="419.sgm-E8-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="380" END="404">outside American Star Inn</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="419.sgm-R1" TYPE="ORG-AFF">
+    <relation_argument REFID="419.sgm-E12" ROLE="Arg-1" />
+    <relation_argument REFID="419.sgm-E13" ROLE="Arg-2" />
+      <relation_mention ID="419.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="443" END="619">Members of a SWAT team and the U.S. Marshal&apos;s Task Force arrested Givens, 23, and Chancellor, 24, Thursday afternoon in the 500 block of Northpark Drive, near Hanging Moss Road.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="419.sgm-E12-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="443" END="449">Members</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="419.sgm-E13-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="454" END="464">a SWAT team</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="419.sgm-R2" TYPE="ORG-AFF">
+    <relation_argument REFID="419.sgm-E15" ROLE="Arg-1" />
+    <relation_argument REFID="419.sgm-E14" ROLE="Arg-2" />
+      <relation_mention ID="419.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="443" END="619">Members of a SWAT team and the U.S. Marshal&apos;s Task Force arrested Givens, 23, and Chancellor, 24, Thursday afternoon in the 500 block of Northpark Drive, near Hanging Moss Road.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="419.sgm-E15-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="470" END="485">the U.S. Marshal</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="419.sgm-E14-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="470" END="485">the U.S. Marshal</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="419.sgm-R3" TYPE="PHYS">
+    <relation_argument REFID="419.sgm-E31" ROLE="Arg-1" />
+    <relation_argument REFID="419.sgm-E32" ROLE="Arg-2" />
+      <relation_mention ID="419.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="846" END="883">Mora later died at a Jackson hospital.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="419.sgm-E31-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="846" END="849">Mora</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="419.sgm-E32-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="865" END="882">a Jackson hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="419.sgm-EV0" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="419.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="102" END="213">A man and woman charged in connection with a fatal shooting outside a Jackson motel are being held without bond.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="118" END="124">charged</charseq>
+      </anchor>
+      <event_mention_argument REFID="419.sgm-E0-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="102" END="106">A man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="419.sgm-EV1" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="419.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="297" END="441">They are both charged with capital murder in connection with Saturday???s shooting outside American Star Inn on Interstate 55 South, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="311" END="317">charged</charseq>
+      </anchor>
+      <event_mention_argument REFID="419.sgm-E6-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="297" END="300">They</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="419.sgm-EV2" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="419.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="443" END="619">Members of a SWAT team and the U.S. Marshal&apos;s Task Force arrested Givens, 23, and Chancellor, 24, Thursday afternoon in the 500 block of Northpark Drive, near Hanging Moss Road.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="500" END="507">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="419.sgm-E17-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="509" END="514">Givens</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="419.sgm-EV3" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="419.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="621" END="677">Warrants were issued for their arrests earlier this week.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="652" END="658">arrests</charseq>
+      </anchor>
+      <event_mention_argument REFID="419.sgm-E22-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="646" END="658">their arrests</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="419.sgm-E21-1" ROLE="Agent" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="621" END="628">Warrants</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="419.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="419.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="679" END="844">Givens and Chancellor are accused of robbing Juan Carlos Patino Mora, 34, and then shooting him after he confronted them in the parking lot of the motel, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="762" END="769">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="419.sgm-E27-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="771" END="773">him</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="419.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="419.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="846" END="883">Mora later died at a Jackson hospital.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="857" END="860">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="419.sgm-E31-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="846" END="849">Mora</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="419.sgm-E32-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="865" END="882">a Jackson hospital</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="419.sgm-EV6" TYPE="Justice" SUBTYPE="Charge-Indict" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="419.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="885" END="973">Tiffany Brister, 22, was charged Sunday as an accessory after the fact to capital murder.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="910" END="916">charged</charseq>
+      </anchor>
+      <event_mention_argument REFID="419.sgm-E33-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="885" END="899">Tiffany Brister</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="419.sgm-EV7" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="419.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="885" END="973">Tiffany Brister, 22, was charged Sunday as an accessory after the fact to capital murder.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="967" END="972">murder</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="419.sgm-EV8" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="419.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="975" END="1053">She was arrested with the car police said was used in the robbery and shooting.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="983" END="990">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="419.sgm-E34-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="975" END="977">She</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="419.sgm-EV9" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="419.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="975" END="1053">She was arrested with the car police said was used in the robbery and shooting.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1045" END="1052">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

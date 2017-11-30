@@ -1,0 +1,669 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/92.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/92.sgm">
+  <entity ID="92.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E0-1">
+      <extent>
+			<charseq START="118" END="120">her</charseq>
+      </extent>
+      <head>
+			<charseq START="118" END="120">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E1-1">
+      <extent>
+			<charseq START="157" END="164">This dog</charseq>
+      </extent>
+      <head>
+			<charseq START="162" END="164">dog</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E2-1">
+      <extent>
+			<charseq START="177" END="183">someone</charseq>
+      </extent>
+      <head>
+			<charseq START="177" END="183">someone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E3-1">
+      <extent>
+			<charseq START="223" END="235">River Market.</charseq>
+      </extent>
+      <head>
+			<charseq START="223" END="235">River Market.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E4-1">
+      <extent>
+			<charseq START="261" END="263">her</charseq>
+      </extent>
+      <head>
+			<charseq START="261" END="263">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E5-1">
+      <extent>
+			<charseq START="300" END="307">This dog</charseq>
+      </extent>
+      <head>
+			<charseq START="305" END="307">dog</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E6-1">
+      <extent>
+			<charseq START="320" END="326">someone</charseq>
+      </extent>
+      <head>
+			<charseq START="320" END="326">someone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E7-1">
+      <extent>
+			<charseq START="366" END="378">River Market.</charseq>
+      </extent>
+      <head>
+			<charseq START="366" END="378">River Market.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E8" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E8-1">
+      <extent>
+			<charseq START="382" END="392">Kansas City</charseq>
+      </extent>
+      <head>
+			<charseq START="382" END="392">Kansas City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E9" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E9-1">
+      <extent>
+			<charseq START="395" END="400">Kansas</charseq>
+      </extent>
+      <head>
+			<charseq START="395" END="400">Kansas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E10-1">
+      <extent>
+			<charseq START="403" END="408">police</charseq>
+      </extent>
+      <head>
+			<charseq START="403" END="408">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E11" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E11-1">
+      <extent>
+			<charseq START="461" END="498">the Reardon Convention Center Satirday</charseq>
+      </extent>
+      <head>
+			<charseq START="465" END="489">Reardon Convention Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E12" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E12-1">
+      <extent>
+			<charseq START="503" END="523">A Trenton firefighter</charseq>
+      </extent>
+      <head>
+			<charseq START="505" END="511">Trenton</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E13-1">
+      <extent>
+			<charseq START="503" END="523">A Trenton firefighter</charseq>
+      </extent>
+      <head>
+			<charseq START="513" END="523">firefighter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E14" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E14-1">
+      <extent>
+			<charseq START="575" END="586">a small boat</charseq>
+      </extent>
+      <head>
+			<charseq START="583" END="586">boat</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E15" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E15-1">
+      <extent>
+			<charseq START="591" END="599">the ocean</charseq>
+      </extent>
+      <head>
+			<charseq START="595" END="599">ocean</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E16" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E16-1">
+      <extent>
+			<charseq START="633" END="644">social media</charseq>
+      </extent>
+      <head>
+			<charseq START="640" END="644">media</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E17-1">
+      <extent>
+			<charseq START="666" END="677">a local girl</charseq>
+      </extent>
+      <head>
+			<charseq START="674" END="677">girl</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E18-1">
+      <extent>
+			<charseq START="693" END="712">her favorite singer.</charseq>
+      </extent>
+      <head>
+			<charseq START="693" END="695">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E19" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E19-1">
+      <extent>
+			<charseq START="716" END="726">Kansas City</charseq>
+      </extent>
+      <head>
+			<charseq START="716" END="726">Kansas City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E20" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E20-1">
+      <extent>
+			<charseq START="729" END="743">Missouri police</charseq>
+      </extent>
+      <head>
+			<charseq START="729" END="736">Missouri</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E21-1">
+      <extent>
+			<charseq START="729" END="743">Missouri police</charseq>
+      </extent>
+      <head>
+			<charseq START="738" END="743">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E22-1">
+      <extent>
+			<charseq START="770" END="779">the person</charseq>
+      </extent>
+      <head>
+			<charseq START="774" END="779">person</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E23" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E23-1">
+      <extent>
+			<charseq START="797" END="817">damaging several cars</charseq>
+      </extent>
+      <head>
+			<charseq START="814" END="817">cars</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E24-1">
+      <extent>
+			<charseq START="839" END="850">Firefighters</charseq>
+      </extent>
+      <head>
+			<charseq START="839" END="850">Firefighters</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E25" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E25-1">
+      <extent>
+			<charseq START="883" END="894">a house fire</charseq>
+      </extent>
+      <head>
+			<charseq START="885" END="889">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E26" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E26-1">
+      <extent>
+			<charseq START="899" END="912">the 5800 block</charseq>
+      </extent>
+      <head>
+			<charseq START="908" END="912">block</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E27" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E27-1">
+      <extent>
+			<charseq START="917" END="932">East 11th Street</charseq>
+      </extent>
+      <head>
+			<charseq START="927" END="932">Street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E28" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E28-1">
+      <extent>
+			<charseq START="937" END="947">Kansas City</charseq>
+      </extent>
+      <head>
+			<charseq START="937" END="947">Kansas City</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E29-1">
+      <extent>
+			<charseq START="950" END="964">Three teenagers</charseq>
+      </extent>
+      <head>
+			<charseq START="956" END="964">teenagers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E30-1">
+      <extent>
+			<charseq START="970" END="982">an adult were</charseq>
+      </extent>
+      <head>
+			<charseq START="973" END="977">adult</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E31" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E31-1">
+      <extent>
+			<charseq START="1011" END="1046">central Missouri late Saturday night</charseq>
+      </extent>
+      <head>
+			<charseq START="1019" END="1026">Missouri</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E32-1">
+      <extent>
+			<charseq START="1062" END="1076">Cookingham Road</charseq>
+      </extent>
+      <head>
+			<charseq START="1062" END="1076">Cookingham Road</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E33" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E33-1">
+      <extent>
+			<charseq START="1081" END="1091">Clay County</charseq>
+      </extent>
+      <head>
+			<charseq START="1081" END="1091">Clay County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E34-1">
+      <extent>
+			<charseq START="1172" END="1180">a toddler</charseq>
+      </extent>
+      <head>
+			<charseq START="1174" END="1180">toddler</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E35" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E35-1">
+      <extent>
+			<charseq START="1195" END="1203">a hot car</charseq>
+      </extent>
+      <head>
+			<charseq START="1201" END="1203">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="92.sgm-E36" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="92.sgm-E36-1">
+      <extent>
+			<charseq START="1242" END="1249">Missouri</charseq>
+      </extent>
+      <head>
+			<charseq START="1242" END="1249">Missouri</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="92.sgm-R0" TYPE="PART-WHOLE">
+    <relation_argument REFID="92.sgm-E8" ROLE="Arg-1" />
+    <relation_argument REFID="92.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="92.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="300" END="501">This dog died after someone left it tied to a post in the heat at River Market.??
+Kansas City, Kansas, police were called to investigate a suspicious death near the Reardon Convention Center Satirday.??</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="92.sgm-E8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="382" END="392">Kansas City</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="92.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="395" END="400">Kansas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="92.sgm-R1" TYPE="GEN-AFF">
+    <relation_argument REFID="92.sgm-E13" ROLE="Arg-1" />
+    <relation_argument REFID="92.sgm-E12" ROLE="Arg-2" />
+      <relation_mention ID="92.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="503" END="568">A Trenton firefighter was killed in a skydiving accident Saturday.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="92.sgm-E13-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="503" END="523">A Trenton firefighter</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="92.sgm-E12-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="503" END="523">A Trenton firefighter</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="92.sgm-R2" TYPE="ORG-AFF">
+    <relation_argument REFID="92.sgm-E21" ROLE="Arg-1" />
+    <relation_argument REFID="92.sgm-E20" ROLE="Arg-2" />
+      <relation_mention ID="92.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="570" END="837">Like a small boat on the ocean, sending big waves into motion, social media is working to bring a local girl together with her favorite singer.??
+Kansas City, Missouri police are trying to track down the person responsible for damaging several cars overnight on I-435.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="92.sgm-E21-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="729" END="743">Missouri police</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="92.sgm-E20-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="729" END="743">Missouri police</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="92.sgm-R3" TYPE="PART-WHOLE">
+    <relation_argument REFID="92.sgm-E27" ROLE="Arg-1" />
+    <relation_argument REFID="92.sgm-E28" ROLE="Arg-2" />
+      <relation_mention ID="92.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="839" END="948">Firefighters worked Sunday night to put out a house fire in the 5800 block of East 11th Street in Kansas City.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="92.sgm-E27-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="917" END="932">East 11th Street</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="92.sgm-E28-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="937" END="947">Kansas City</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="92.sgm-R4" TYPE="ART">
+    <relation_argument REFID="92.sgm-E34" ROLE="Arg-1" />
+    <relation_argument REFID="92.sgm-E35" ROLE="Arg-2" />
+      <relation_mention ID="92.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="1132" END="1240">New details are emerging in the case of a toddler rescued from a hot car in a Merriam parking lot last month.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="92.sgm-E34-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1172" END="1180">a toddler</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="92.sgm-E35-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1195" END="1203">a hot car</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="92.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="92.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="157" END="237">This dog died after someone left it tied to a post in the heat at River Market.??</charseq>
+      </extent>
+      <anchor>
+			<charseq START="166" END="169">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="92.sgm-E1-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="157" END="164">This dog</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="92.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="92.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="300" END="501">This dog died after someone left it tied to a post in the heat at River Market.??
+Kansas City, Kansas, police were called to investigate a suspicious death near the Reardon Convention Center Satirday.??</charseq>
+      </extent>
+      <anchor>
+			<charseq START="309" END="312">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="92.sgm-E5-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="300" END="307">This dog</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="92.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="92.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="300" END="501">This dog died after someone left it tied to a post in the heat at River Market.??
+Kansas City, Kansas, police were called to investigate a suspicious death near the Reardon Convention Center Satirday.??</charseq>
+      </extent>
+      <anchor>
+			<charseq START="450" END="454">death</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="92.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="92.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="503" END="568">A Trenton firefighter was killed in a skydiving accident Saturday.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="529" END="534">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="92.sgm-E13-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="503" END="523">A Trenton firefighter</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="92.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="92.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="839" END="948">Firefighters worked Sunday night to put out a house fire in the 5800 block of East 11th Street in Kansas City.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="891" END="894">fire</charseq>
+      </anchor>
+      <event_mention_argument REFID="92.sgm-E26-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="899" END="912">the 5800 block</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="92.sgm-E27-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="917" END="932">East 11th Street</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="92.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="92.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="950" END="1047">Three teenagers and an adult were killed in a fiery crash in central Missouri late Saturday night.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="984" END="989">killed</charseq>
+      </anchor>
+      <event_mention_argument REFID="92.sgm-E30-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="970" END="982">an adult were</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="92.sgm-E29-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="950" END="964">Three teenagers</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="92.sgm-E31-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1011" END="1046">central Missouri late Saturday night</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="92.sgm-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="92.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="950" END="1047">Three teenagers and an adult were killed in a fiery crash in central Missouri late Saturday night.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1002" END="1006">crash</charseq>
+      </anchor>
+      <event_mention_argument REFID="92.sgm-E30-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="970" END="982">an adult were</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="92.sgm-E31-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1011" END="1046">central Missouri late Saturday night</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

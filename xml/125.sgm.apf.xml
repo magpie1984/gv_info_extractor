@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/125.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/125.sgm">
+  <entity ID="125.sgm-E0" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="125.sgm-E0-1">
+      <extent>
+			<charseq START="106" END="131">The Lampasas County Museum</charseq>
+      </extent>
+      <head>
+			<charseq START="110" END="131">Lampasas County Museum</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="125.sgm-E1" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="125.sgm-E1-1">
+      <extent>
+			<charseq START="143" END="154">a gun raffle</charseq>
+      </extent>
+      <head>
+			<charseq START="145" END="147">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="125.sgm-E2" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="125.sgm-E2-1">
+      <extent>
+			<charseq START="231" END="240">the museum</charseq>
+      </extent>
+      <head>
+			<charseq START="235" END="240">museum</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="125.sgm-E3" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="125.sgm-E3-1">
+      <extent>
+			<charseq START="243" END="278">A Montana Rifle Co. Model 1999 ASR –</charseq>
+      </extent>
+      <head>
+			<charseq START="245" END="267">Montana Rifle Co. Model</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="125.sgm-E4" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="125.sgm-E4-1">
+      <extent>
+			<charseq START="292" END="316">the Winchester Model 70 –</charseq>
+      </extent>
+      <head>
+			<charseq START="296" END="311">Winchester Model</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="125.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="125.sgm-E5-1">
+      <extent>
+			<charseq START="323" END="341">Nikon Monarch scope</charseq>
+      </extent>
+      <head>
+			<charseq START="323" END="335">Nikon Monarch</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="125.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="125.sgm-E6-1">
+      <extent>
+			<charseq START="360" END="362">You</charseq>
+      </extent>
+      <head>
+			<charseq START="360" END="362">You</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="125.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="125.sgm-E7-1">
+      <extent>
+			<charseq START="465" END="475">all readers</charseq>
+      </extent>
+      <head>
+			<charseq START="469" END="475">readers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="125.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="125.sgm-E8-1">
+      <extent>
+			<charseq START="568" END="585">online subscribers</charseq>
+      </extent>
+      <head>
+			<charseq START="575" END="585">subscribers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="125.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="125.sgm-E9-1">
+      <extent>
+			<charseq START="681" END="691">all readers</charseq>
+      </extent>
+      <head>
+			<charseq START="685" END="691">readers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="125.sgm-E10" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="125.sgm-E10-1">
+      <extent>
+			<charseq START="705" END="715">our archive</charseq>
+      </extent>
+      <head>
+			<charseq START="705" END="707">our</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+</document>
+</source_file>

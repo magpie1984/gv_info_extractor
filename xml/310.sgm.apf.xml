@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/310.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/310.sgm">
+  <entity ID="310.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E0-1">
+      <extent>
+			<charseq START="88" END="95">Officers</charseq>
+      </extent>
+      <head>
+			<charseq START="88" END="95">Officers</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="310.sgm-E1" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E1-1">
+      <extent>
+			<charseq START="112" END="131">an apartment complex</charseq>
+      </extent>
+      <head>
+			<charseq START="125" END="131">complex</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="310.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E2-1">
+      <extent>
+			<charseq START="136" END="151">1050 S. Longmore</charseq>
+      </extent>
+      <head>
+			<charseq START="136" END="151">1050 S. Longmore</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="310.sgm-E3" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E3-1">
+      <extent>
+			<charseq START="176" END="206">Dobson Road and Southern Avenue</charseq>
+      </extent>
+      <head>
+			<charseq START="176" END="206">Dobson Road and Southern Avenue</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="310.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E4-1">
+      <extent>
+			<charseq START="230" END="236">Two men</charseq>
+      </extent>
+      <head>
+			<charseq START="234" END="236">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="310.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E5-1">
+      <extent>
+			<charseq START="260" END="262">one</charseq>
+      </extent>
+      <head>
+			<charseq START="260" END="262">one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="310.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E6-1">
+      <extent>
+			<charseq START="267" END="270">them</charseq>
+      </extent>
+      <head>
+			<charseq START="267" END="270">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="310.sgm-E7" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E7-1">
+      <extent>
+			<charseq START="283" END="287">a gun</charseq>
+      </extent>
+      <head>
+			<charseq START="285" END="287">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="310.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E8-1">
+      <extent>
+			<charseq START="298" END="310">the other man</charseq>
+      </extent>
+      <head>
+			<charseq START="308" END="310">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="310.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E9-1">
+      <extent>
+			<charseq START="318" END="332">Mesa police Sgt</charseq>
+      </extent>
+      <head>
+			<charseq START="318" END="332">Mesa police Sgt</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="310.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E10-1">
+      <extent>
+			<charseq START="335" END="345">Steve Berry</charseq>
+      </extent>
+      <head>
+			<charseq START="335" END="345">Steve Berry</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="310.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E11-1">
+      <extent>
+			<charseq START="354" END="364">The suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="358" END="364">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="310.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E12-1">
+      <extent>
+			<charseq START="367" END="384">Juan Luis Banuelos</charseq>
+      </extent>
+      <head>
+			<charseq START="367" END="384">Juan Luis Banuelos</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="310.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E13-1">
+      <extent>
+			<charseq START="432" END="437">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="432" END="437">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="310.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E14-1">
+      <extent>
+			<charseq START="446" END="448">him</charseq>
+      </extent>
+      <head>
+			<charseq START="446" END="448">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="310.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E15-1">
+      <extent>
+			<charseq START="555" END="559">Berry</charseq>
+      </extent>
+      <head>
+			<charseq START="555" END="559">Berry</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="310.sgm-E16" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="310.sgm-E16-1">
+      <extent>
+			<charseq START="581" END="593">media outlets</charseq>
+      </extent>
+      <head>
+			<charseq START="581" END="585">media</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <event ID="310.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="310.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="230" END="333">Two men had been arguing when one of them pulled out a gun and shot the other man dead, Mesa police Sgt.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="293" END="296">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="310.sgm-E5-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="260" END="262">one</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="310.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="310.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="230" END="333">Two men had been arguing when one of them pulled out a gun and shot the other man dead, Mesa police Sgt.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="312" END="315">dead</charseq>
+      </anchor>
+      <event_mention_argument REFID="310.sgm-E8-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="298" END="310">the other man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="310.sgm-EV2" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="310.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="354" END="430">The suspect, Juan Luis Banuelos, 22, was taken into custody without incident.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="406" END="412">custody</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="310.sgm-EV3" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="310.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="432" END="486">Police booked him on suspicion of second-degree murder.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="480" END="485">murder</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

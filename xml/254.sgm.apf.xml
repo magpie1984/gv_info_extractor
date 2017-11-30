@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/254.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/254.sgm">
+  <entity ID="254.sgm-E0" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="254.sgm-E0-1">
+      <extent>
+			<charseq START="115" END="121">The TBI</charseq>
+      </extent>
+      <head>
+			<charseq START="119" END="121">TBI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="254.sgm-E1" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="254.sgm-E1-1">
+      <extent>
+			<charseq START="190" END="213">Dickson County overnight</charseq>
+      </extent>
+      <head>
+			<charseq START="190" END="203">Dickson County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="254.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="254.sgm-E2-1">
+      <extent>
+			<charseq START="217" END="227">The suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="221" END="227">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="254.sgm-E3" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="254.sgm-E3-1">
+      <extent>
+			<charseq START="242" END="277">Vanderbilt University Medical Center</charseq>
+      </extent>
+      <head>
+			<charseq START="242" END="277">Vanderbilt University Medical Center</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="254.sgm-R0" TYPE="PHYS">
+    <relation_argument REFID="254.sgm-E2" ROLE="Arg-1" />
+    <relation_argument REFID="254.sgm-E3" ROLE="Arg-2" />
+      <relation_mention ID="254.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="115" END="278">The TBI is joining the investigation after an officer-involved shooting in Dickson County overnight.??The suspect was taken to Vanderbilt University Medical Center.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="254.sgm-E2-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="217" END="227">The suspect</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="254.sgm-E3-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="242" END="277">Vanderbilt University Medical Center</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="254.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="254.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="115" END="278">The TBI is joining the investigation after an officer-involved shooting in Dickson County overnight.??The suspect was taken to Vanderbilt University Medical Center.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="178" END="185">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="254.sgm-E1-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="190" END="213">Dickson County overnight</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

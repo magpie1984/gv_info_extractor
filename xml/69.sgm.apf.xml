@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/69.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/69.sgm">
+  <entity ID="69.sgm-E0" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="69.sgm-E0-1">
+      <extent>
+			<charseq START="120" END="132">the Heartland</charseq>
+      </extent>
+      <head>
+			<charseq START="124" END="132">Heartland</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="69.sgm-E1" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="69.sgm-E1-1">
+      <extent>
+			<charseq START="177" END="200">WLWT Home
+Body cam video</charseq>
+      </extent>
+      <head>
+			<charseq START="177" END="190">WLWT Home
+Body</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="69.sgm-E2" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="69.sgm-E2-1">
+      <extent>
+			<charseq START="221" END="230">Sam DuBose</charseq>
+      </extent>
+      <head>
+			<charseq START="221" END="230">Sam DuBose</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="69.sgm-E3" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="69.sgm-E3-1">
+      <extent>
+			<charseq START="234" END="250">VIEWER DISCRETION</charseq>
+      </extent>
+      <head>
+			<charseq START="234" END="239">VIEWER</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="69.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="69.sgm-E4-1">
+      <extent>
+			<charseq START="260" END="262">Man</charseq>
+      </extent>
+      <head>
+			<charseq START="260" END="262">Man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="69.sgm-E5" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="69.sgm-E5-1">
+      <extent>
+			<charseq START="321" END="343">Hopple Street
+Community</charseq>
+      </extent>
+      <head>
+			<charseq START="321" END="343">Hopple Street
+Community</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="69.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="69.sgm-E6-1">
+      <extent>
+			<charseq START="375" END="379">child</charseq>
+      </extent>
+      <head>
+			<charseq START="375" END="379">child</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="69.sgm-E7" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="69.sgm-E7-1">
+      <extent>
+			<charseq START="392" END="420">drive-by shooting
+WLWT News 5</charseq>
+      </extent>
+      <head>
+			<charseq START="410" END="420">WLWT News 5</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="69.sgm-E8" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="69.sgm-E8-1">
+      <extent>
+			<charseq START="457" END="483">the Greater Cincinnati area</charseq>
+      </extent>
+      <head>
+			<charseq START="469" END="478">Cincinnati</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="69.sgm-E9" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="69.sgm-E9-1">
+      <extent>
+			<charseq START="457" END="483">the Greater Cincinnati area</charseq>
+      </extent>
+      <head>
+			<charseq START="480" END="483">area</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="69.sgm-R0" TYPE="PART-WHOLE">
+    <relation_argument REFID="69.sgm-E8" ROLE="Arg-1" />
+    <relation_argument REFID="69.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="69.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="110" END="492">Heroin in the Heartland: A WLWT News 5 documentary | Local News  - WLWT Home
+Body cam video: Fatal shooting of Sam DuBose - VIEWER DISCRETION ADVISED
+Man in custody accused of causing fatal overnight crash near Hopple Street
+Community gathers for peace rally after child wounded in drive-by shooting
+WLWT News 5 investigates the epidemic gripping the Greater Cincinnati area: heroin.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="69.sgm-E8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="457" END="483">the Greater Cincinnati area</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="69.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="457" END="483">the Greater Cincinnati area</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="69.sgm-EV0" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="69.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="110" END="492">Heroin in the Heartland: A WLWT News 5 documentary | Local News  - WLWT Home
+Body cam video: Fatal shooting of Sam DuBose - VIEWER DISCRETION ADVISED
+Man in custody accused of causing fatal overnight crash near Hopple Street
+Community gathers for peace rally after child wounded in drive-by shooting
+WLWT News 5 investigates the epidemic gripping the Greater Cincinnati area: heroin.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="294" END="298">fatal</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="69.sgm-EV1" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="69.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="110" END="492">Heroin in the Heartland: A WLWT News 5 documentary | Local News  - WLWT Home
+Body cam video: Fatal shooting of Sam DuBose - VIEWER DISCRETION ADVISED
+Man in custody accused of causing fatal overnight crash near Hopple Street
+Community gathers for peace rally after child wounded in drive-by shooting
+WLWT News 5 investigates the epidemic gripping the Greater Cincinnati area: heroin.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="381" END="387">wounded</charseq>
+      </anchor>
+      <event_mention_argument REFID="69.sgm-E6-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="375" END="379">child</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

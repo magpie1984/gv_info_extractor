@@ -1,0 +1,1549 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/467.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/467.sgm">
+  <entity ID="467.sgm-E0" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E0-1">
+      <extent>
+			<charseq START="115" END="119">PRYOR</charseq>
+      </extent>
+      <head>
+			<charseq START="115" END="119">PRYOR</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E1-1">
+      <extent>
+			<charseq START="160" END="177">??cost two members</charseq>
+      </extent>
+      <head>
+			<charseq START="171" END="177">members</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E2-1">
+      <extent>
+			<charseq START="182" END="209">a Montana family their lives</charseq>
+      </extent>
+      <head>
+			<charseq START="184" END="190">Montana</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E3-1">
+      <extent>
+			<charseq START="182" END="209">a Montana family their lives</charseq>
+      </extent>
+      <head>
+			<charseq START="192" END="197">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E4-1">
+      <extent>
+			<charseq START="182" END="209">a Montana family their lives</charseq>
+      </extent>
+      <head>
+			<charseq START="199" END="203">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E5-1">
+      <extent>
+			<charseq START="220" END="233">their daughter</charseq>
+      </extent>
+      <head>
+			<charseq START="220" END="224">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E6-1">
+      <extent>
+			<charseq START="220" END="233">their daughter</charseq>
+      </extent>
+      <head>
+			<charseq START="226" END="233">daughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E7" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E7-1">
+      <extent>
+			<charseq START="276" END="283">the town</charseq>
+      </extent>
+      <head>
+			<charseq START="280" END="283">town</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E8" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E8-1">
+      <extent>
+			<charseq START="288" END="292">Pryor</charseq>
+      </extent>
+      <head>
+			<charseq START="288" END="292">Pryor</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E9" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E9-1">
+      <extent>
+			<charseq START="295" END="301">Montana</charseq>
+      </extent>
+      <head>
+			<charseq START="295" END="301">Montana</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E10" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E10-1">
+      <extent>
+			<charseq START="328" END="335">Billings</charseq>
+      </extent>
+      <head>
+			<charseq START="328" END="335">Billings</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E11-1">
+      <extent>
+			<charseq START="338" END="348">The suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="342" END="348">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E12-1">
+      <extent>
+			<charseq START="351" END="381">18-year-old Jesus Deniz Mendoza</charseq>
+      </extent>
+      <head>
+			<charseq START="351" END="381">18-year-old Jesus Deniz Mendoza</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E13" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E13-1">
+      <extent>
+			<charseq START="399" END="411">federal court</charseq>
+      </extent>
+      <head>
+			<charseq START="407" END="411">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E14-1">
+      <extent>
+			<charseq START="434" END="443">The family</charseq>
+      </extent>
+      <head>
+			<charseq START="438" END="443">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E15-1">
+      <extent>
+			<charseq START="459" END="462">they</charseq>
+      </extent>
+      <head>
+			<charseq START="459" END="462">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E16-1">
+      <extent>
+			<charseq START="481" END="487">Mendoza</charseq>
+      </extent>
+      <head>
+			<charseq START="481" END="487">Mendoza</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E17-1">
+      <extent>
+			<charseq START="490" END="498">whose car</charseq>
+      </extent>
+      <head>
+			<charseq START="490" END="494">whose</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E18" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E18-1">
+      <extent>
+			<charseq START="490" END="498">whose car</charseq>
+      </extent>
+      <head>
+			<charseq START="496" END="498">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E19" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E19-1">
+      <extent>
+			<charseq START="537" END="563">the Crow Indian Reservation</charseq>
+      </extent>
+      <head>
+			<charseq START="541" END="563">Crow Indian Reservation</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E20" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E20-1">
+      <extent>
+			<charseq START="600" END="624">an FBI criminal complaint</charseq>
+      </extent>
+      <head>
+			<charseq START="603" END="605">FBI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E21-1">
+      <extent>
+			<charseq START="627" END="638">The daughter</charseq>
+      </extent>
+      <head>
+			<charseq START="631" END="638">daughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E22-1">
+      <extent>
+			<charseq START="645" END="660">her mother “came</charseq>
+      </extent>
+      <head>
+			<charseq START="645" END="647">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E23-1">
+      <extent>
+			<charseq START="645" END="660">her mother “came</charseq>
+      </extent>
+      <head>
+			<charseq START="649" END="654">mother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E24-1">
+      <extent>
+			<charseq START="665" END="673">her house</charseq>
+      </extent>
+      <head>
+			<charseq START="665" END="667">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E25" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E25-1">
+      <extent>
+			<charseq START="665" END="673">her house</charseq>
+      </extent>
+      <head>
+			<charseq START="669" END="673">house</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E26-1">
+      <extent>
+			<charseq START="684" END="686">her</charseq>
+      </extent>
+      <head>
+			<charseq START="684" END="686">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E27-1">
+      <extent>
+			<charseq START="703" END="707">a guy</charseq>
+      </extent>
+      <head>
+			<charseq START="705" END="707">guy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E28-1">
+      <extent>
+			<charseq START="709" END="712">that</charseq>
+      </extent>
+      <head>
+			<charseq START="709" END="712">that</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E29-1">
+      <extent>
+			<charseq START="734" END="764">The mother, father and daughter</charseq>
+      </extent>
+      <head>
+			<charseq START="738" END="743">mother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E30-1">
+      <extent>
+			<charseq START="734" END="764">The mother, father and daughter</charseq>
+      </extent>
+      <head>
+			<charseq START="746" END="751">father</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E31-1">
+      <extent>
+			<charseq START="734" END="764">The mother, father and daughter</charseq>
+      </extent>
+      <head>
+			<charseq START="757" END="764">daughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E32" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E32-1">
+      <extent>
+			<charseq START="783" END="801">where Mendoza’s car</charseq>
+      </extent>
+      <head>
+			<charseq START="799" END="801">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E33" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E33-1">
+      <extent>
+			<charseq START="815" END="832">the court document</charseq>
+      </extent>
+      <head>
+			<charseq START="819" END="823">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E34-1">
+      <extent>
+			<charseq START="840" END="846">Mendoza</charseq>
+      </extent>
+      <head>
+			<charseq START="840" END="846">Mendoza</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E35" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E35-1">
+      <extent>
+			<charseq START="855" END="859">a gun</charseq>
+      </extent>
+      <head>
+			<charseq START="857" END="859">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E36" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E36-1">
+      <extent>
+			<charseq START="864" END="867">them</charseq>
+      </extent>
+      <head>
+			<charseq START="864" END="867">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E37" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E37-1">
+      <extent>
+			<charseq START="881" END="884">them</charseq>
+      </extent>
+      <head>
+			<charseq START="881" END="884">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E38" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E38-1">
+      <extent>
+			<charseq START="893" END="901">their car</charseq>
+      </extent>
+      <head>
+			<charseq START="893" END="897">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E39" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E39-1">
+      <extent>
+			<charseq START="893" END="901">their car</charseq>
+      </extent>
+      <head>
+			<charseq START="899" END="901">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E40" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E40-1">
+      <extent>
+			<charseq START="904" END="905">He</charseq>
+      </extent>
+      <head>
+			<charseq START="904" END="905">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E41" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E41-1">
+      <extent>
+			<charseq START="927" END="936">the family</charseq>
+      </extent>
+      <head>
+			<charseq START="931" END="936">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E42-1">
+      <extent>
+			<charseq START="943" END="946">they</charseq>
+      </extent>
+      <head>
+			<charseq START="943" END="946">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E43" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E43-1">
+      <extent>
+			<charseq START="978" END="984">the FBI</charseq>
+      </extent>
+      <head>
+			<charseq START="982" END="984">FBI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E44" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E44-1">
+      <extent>
+			<charseq START="987" END="998">The daughter</charseq>
+      </extent>
+      <head>
+			<charseq START="991" END="998">daughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E45" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E45-1">
+      <extent>
+			<charseq START="1005" END="1011">Mendoza</charseq>
+      </extent>
+      <head>
+			<charseq START="1005" END="1011">Mendoza</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E46" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E46-1">
+      <extent>
+			<charseq START="1018" END="1021">them</charseq>
+      </extent>
+      <head>
+			<charseq START="1018" END="1021">them</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E47" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E47-1">
+      <extent>
+			<charseq START="1050" END="1056">the car</charseq>
+      </extent>
+      <head>
+			<charseq START="1054" END="1056">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E48" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E48-1">
+      <extent>
+			<charseq START="1059" END="1061">She</charseq>
+      </extent>
+      <head>
+			<charseq START="1059" END="1061">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E49" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E49-1">
+      <extent>
+			<charseq START="1102" END="1111">her father</charseq>
+      </extent>
+      <head>
+			<charseq START="1102" END="1104">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E50" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E50-1">
+      <extent>
+			<charseq START="1102" END="1111">her father</charseq>
+      </extent>
+      <head>
+			<charseq START="1106" END="1111">father</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E51" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E51-1">
+      <extent>
+			<charseq START="1131" END="1139">The woman</charseq>
+      </extent>
+      <head>
+			<charseq START="1135" END="1139">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E52" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E52-1">
+      <extent>
+			<charseq START="1173" END="1189">her mother scream</charseq>
+      </extent>
+      <head>
+			<charseq START="1173" END="1175">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E53" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E53-1">
+      <extent>
+			<charseq START="1173" END="1189">her mother scream</charseq>
+      </extent>
+      <head>
+			<charseq START="1177" END="1182">mother</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E54" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E54-1">
+      <extent>
+			<charseq START="1192" END="1194">She</charseq>
+      </extent>
+      <head>
+			<charseq START="1192" END="1194">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E55" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E55-1">
+      <extent>
+			<charseq START="1252" END="1263">the daughter</charseq>
+      </extent>
+      <head>
+			<charseq START="1256" END="1263">daughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E56" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E56-1">
+      <extent>
+			<charseq START="1271" END="1273">she</charseq>
+      </extent>
+      <head>
+			<charseq START="1271" END="1273">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E57" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E57-1">
+      <extent>
+			<charseq START="1299" END="1306">her face</charseq>
+      </extent>
+      <head>
+			<charseq START="1299" END="1301">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E58" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E58-1">
+      <extent>
+			<charseq START="1313" END="1326">a bullet wound</charseq>
+      </extent>
+      <head>
+			<charseq START="1315" END="1320">bullet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E59" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E59-1">
+      <extent>
+			<charseq START="1329" END="1331">She</charseq>
+      </extent>
+      <head>
+			<charseq START="1329" END="1331">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E60" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E60-1">
+      <extent>
+			<charseq START="1369" END="1376">a bullet</charseq>
+      </extent>
+      <head>
+			<charseq START="1371" END="1376">bullet</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E61" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E61-1">
+      <extent>
+			<charseq START="1382" END="1384">her</charseq>
+      </extent>
+      <head>
+			<charseq START="1382" END="1384">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E62" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E62-1">
+      <extent>
+			<charseq START="1399" END="1407">The woman</charseq>
+      </extent>
+      <head>
+			<charseq START="1403" END="1407">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E63" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E63-1">
+      <extent>
+			<charseq START="1425" END="1431">Mendoza</charseq>
+      </extent>
+      <head>
+			<charseq START="1425" END="1431">Mendoza</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E64" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E64-1">
+      <extent>
+			<charseq START="1446" END="1452">her car</charseq>
+      </extent>
+      <head>
+			<charseq START="1446" END="1448">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E65" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E65-1">
+      <extent>
+			<charseq START="1446" END="1452">her car</charseq>
+      </extent>
+      <head>
+			<charseq START="1450" END="1452">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E66" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E66-1">
+      <extent>
+			<charseq START="1455" END="1457">She</charseq>
+      </extent>
+      <head>
+			<charseq START="1455" END="1457">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E67" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E67-1">
+      <extent>
+			<charseq START="1472" END="1490">a Billings hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="1483" END="1490">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E68" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E68-1">
+      <extent>
+			<charseq START="1516" END="1560">Wyoming
+A Park County Sheriff’s Office deputy</charseq>
+      </extent>
+      <head>
+			<charseq START="1526" END="1553">Park County Sheriff’s Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E69" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E69-1">
+      <extent>
+			<charseq START="1571" END="1573">him</charseq>
+      </extent>
+      <head>
+			<charseq START="1571" END="1573">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E70" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E70-1">
+      <extent>
+			<charseq START="1627" END="1635">Meeteetse</charseq>
+      </extent>
+      <head>
+			<charseq START="1627" END="1635">Meeteetse</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E71" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E71-1">
+      <extent>
+			<charseq START="1638" END="1644">Wyoming</charseq>
+      </extent>
+      <head>
+			<charseq START="1638" END="1644">Wyoming</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E72" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E72-1">
+      <extent>
+			<charseq START="1647" END="1653">Mendoza</charseq>
+      </extent>
+      <head>
+			<charseq START="1647" END="1653">Mendoza</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E73" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E73-1">
+      <extent>
+			<charseq START="1666" END="1675">FBI agents</charseq>
+      </extent>
+      <head>
+			<charseq START="1666" END="1668">FBI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E74" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E74-1">
+      <extent>
+			<charseq START="1666" END="1675">FBI agents</charseq>
+      </extent>
+      <head>
+			<charseq START="1670" END="1675">agents</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E75" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E75-1">
+      <extent>
+			<charseq START="1677" END="1678">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1677" END="1678">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E76" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E76-1">
+      <extent>
+			<charseq START="1686" END="1696">the victims</charseq>
+      </extent>
+      <head>
+			<charseq START="1690" END="1696">victims</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E77" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E77-1">
+      <extent>
+			<charseq START="1706" END="1707">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1706" END="1707">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E78" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E78-1">
+      <extent>
+			<charseq START="1758" END="1769">the daughter</charseq>
+      </extent>
+      <head>
+			<charseq START="1762" END="1769">daughter</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E79" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E79-1">
+      <extent>
+			<charseq START="1782" END="1784">him</charseq>
+      </extent>
+      <head>
+			<charseq START="1782" END="1784">him</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E80" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E80-1">
+      <extent>
+			<charseq START="1817" END="1833">The FBI documents</charseq>
+      </extent>
+      <head>
+			<charseq START="1821" END="1823">FBI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E81" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E81-1">
+      <extent>
+			<charseq START="1852" END="1861">the family</charseq>
+      </extent>
+      <head>
+			<charseq START="1856" END="1861">family</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E82" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E82-1">
+      <extent>
+			<charseq START="1866" END="1879">their initials</charseq>
+      </extent>
+      <head>
+			<charseq START="1866" END="1870">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E83" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E83-1">
+      <extent>
+			<charseq START="1886" END="1904">the Big Horn County</charseq>
+      </extent>
+      <head>
+			<charseq START="1894" END="1904">Horn County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E84" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E84-1">
+      <extent>
+			<charseq START="1907" END="1913">Montana</charseq>
+      </extent>
+      <head>
+			<charseq START="1907" END="1913">Montana</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E85" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E85-1">
+      <extent>
+			<charseq START="1916" END="1931">Coroner’s Office</charseq>
+      </extent>
+      <head>
+			<charseq START="1916" END="1931">Coroner’s Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E86" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E86-1">
+      <extent>
+			<charseq START="1960" END="1963">Tana</charseq>
+      </extent>
+      <head>
+			<charseq START="1960" END="1963">Tana</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E87" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E87-1">
+      <extent>
+			<charseq START="1969" END="1983">Jason Shane Jr.</charseq>
+      </extent>
+      <head>
+			<charseq START="1969" END="1983">Jason Shane Jr.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E88" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E88-1">
+      <extent>
+			<charseq START="1999" END="2017">CNN affiliate KULR.</charseq>
+      </extent>
+      <head>
+			<charseq START="1999" END="2001">CNN</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="467.sgm-E89" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="467.sgm-E89-1">
+      <extent>
+			<charseq START="1999" END="2017">CNN affiliate KULR.</charseq>
+      </extent>
+      <head>
+			<charseq START="2013" END="2017">KULR.</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="467.sgm-R0" TYPE="PER-SOC">
+    <relation_argument REFID="467.sgm-E1" ROLE="Arg-1" />
+    <relation_argument REFID="467.sgm-E3" ROLE="Arg-2" />
+      <relation_mention ID="467.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="115" END="242">PRYOR, Montana —??Trying to be Good Samaritan??cost two members of a Montana family their lives and left their daughter wounded.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="467.sgm-E1-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="160" END="177">??cost two members</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="467.sgm-E3-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="182" END="209">a Montana family their lives</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="467.sgm-R1" TYPE="PER-SOC">
+    <relation_argument REFID="467.sgm-E5" ROLE="Arg-1" />
+    <relation_argument REFID="467.sgm-E6" ROLE="Arg-2" />
+      <relation_mention ID="467.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="115" END="242">PRYOR, Montana —??Trying to be Good Samaritan??cost two members of a Montana family their lives and left their daughter wounded.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="467.sgm-E5-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="220" END="233">their daughter</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="467.sgm-E6-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="220" END="233">their daughter</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="467.sgm-R2" TYPE="PART-WHOLE">
+    <relation_argument REFID="467.sgm-E8" ROLE="Arg-1" />
+    <relation_argument REFID="467.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="467.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="244" END="336">The triple shooting happened in the town of Pryor, Montana, about 30 miles south of Billings.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="467.sgm-E8-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="288" END="292">Pryor</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="467.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="295" END="301">Montana</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="467.sgm-R3" TYPE="ART">
+    <relation_argument REFID="467.sgm-E17" ROLE="Arg-1" />
+    <relation_argument REFID="467.sgm-E18" ROLE="Arg-2" />
+      <relation_mention ID="467.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="421" END="625">The shooting
+The family was shot when they returned to help Mendoza, whose car was seen stopped alongside a road on the Crow Indian Reservation on Wednesday morning, according to an FBI criminal complaint.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="467.sgm-E17-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="490" END="498">whose car</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="467.sgm-E18-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="490" END="498">whose car</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="467.sgm-R4" TYPE="PER-SOC">
+    <relation_argument REFID="467.sgm-E22" ROLE="Arg-1" />
+    <relation_argument REFID="467.sgm-E23" ROLE="Arg-2" />
+      <relation_mention ID="467.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="627" END="732">The daughter said her mother “came to her house and told her that there was a guy that needed assistance.”</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="467.sgm-E22-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="645" END="660">her mother “came</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="467.sgm-E23-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="645" END="660">her mother “came</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="467.sgm-R5" TYPE="ART">
+    <relation_argument REFID="467.sgm-E24" ROLE="Arg-1" />
+    <relation_argument REFID="467.sgm-E25" ROLE="Arg-2" />
+      <relation_mention ID="467.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="627" END="732">The daughter said her mother “came to her house and told her that there was a guy that needed assistance.”</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="467.sgm-E24-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="665" END="673">her house</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="467.sgm-E25-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="665" END="673">her house</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="467.sgm-R6" TYPE="PER-SOC">
+    <relation_argument REFID="467.sgm-E29" ROLE="Arg-1" />
+    <relation_argument REFID="467.sgm-E31" ROLE="Arg-2" />
+      <relation_mention ID="467.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="734" END="838">The mother, father and daughter then returned to where Mendoza’s car was parked, the court document says.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="467.sgm-E29-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="734" END="764">The mother, father and daughter</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="467.sgm-E31-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="734" END="764">The mother, father and daughter</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="467.sgm-R7" TYPE="ART">
+    <relation_argument REFID="467.sgm-E38" ROLE="Arg-1" />
+    <relation_argument REFID="467.sgm-E39" ROLE="Arg-2" />
+      <relation_mention ID="467.sgm-R7-1">
+      <ldc_extent>
+			<charseq START="840" END="902">Mendoza pulled a gun on them and ordered them out of their car.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="467.sgm-E38-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="893" END="901">their car</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="467.sgm-E39-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="893" END="901">their car</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="467.sgm-R8" TYPE="PER-SOC">
+    <relation_argument REFID="467.sgm-E52" ROLE="Arg-1" />
+    <relation_argument REFID="467.sgm-E53" ROLE="Arg-2" />
+      <relation_mention ID="467.sgm-R8-1">
+      <ldc_extent>
+			<charseq START="1059" END="1190">She heard a gunshot and turned back to see her father lying on the road
+The woman heard another gunshot and heard her mother scream.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="467.sgm-E52-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1173" END="1189">her mother scream</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="467.sgm-E53-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1173" END="1189">her mother scream</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="467.sgm-R9" TYPE="PER-SOC">
+    <relation_argument REFID="467.sgm-E49" ROLE="Arg-1" />
+    <relation_argument REFID="467.sgm-E50" ROLE="Arg-2" />
+      <relation_mention ID="467.sgm-R9-1">
+      <ldc_extent>
+			<charseq START="1059" END="1190">She heard a gunshot and turned back to see her father lying on the road
+The woman heard another gunshot and heard her mother scream.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="467.sgm-E49-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1102" END="1111">her father</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="467.sgm-E50-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1102" END="1111">her father</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="467.sgm-R10" TYPE="ART">
+    <relation_argument REFID="467.sgm-E64" ROLE="Arg-1" />
+    <relation_argument REFID="467.sgm-E65" ROLE="Arg-2" />
+      <relation_mention ID="467.sgm-R10-1">
+      <ldc_extent>
+			<charseq START="1399" END="1453">The woman ran for help as Mendoza drove off in her car.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="467.sgm-E64-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1446" END="1452">her car</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="467.sgm-E65-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1446" END="1452">her car</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="467.sgm-R11" TYPE="PHYS">
+    <relation_argument REFID="467.sgm-E66" ROLE="Arg-1" />
+    <relation_argument REFID="467.sgm-E67" ROLE="Arg-2" />
+      <relation_mention ID="467.sgm-R11-1">
+      <ldc_extent>
+			<charseq START="1455" END="1505">She was taken to a Billings hospital for treatment.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="467.sgm-E66-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1455" END="1457">She</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="467.sgm-E67-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1472" END="1490">a Billings hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="467.sgm-R12" TYPE="PART-WHOLE">
+    <relation_argument REFID="467.sgm-E70" ROLE="Arg-1" />
+    <relation_argument REFID="467.sgm-E71" ROLE="Arg-2" />
+      <relation_mention ID="467.sgm-R12-1">
+      <ldc_extent>
+			<charseq START="1507" END="1645">Found in Wyoming
+A Park County Sheriff’s Office deputy arrested him several hours later and more than 100 miles away in Meeteetse, Wyoming.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="467.sgm-E70-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1627" END="1635">Meeteetse</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="467.sgm-E71-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1638" END="1644">Wyoming</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="467.sgm-R13" TYPE="ORG-AFF">
+    <relation_argument REFID="467.sgm-E74" ROLE="Arg-1" />
+    <relation_argument REFID="467.sgm-E73" ROLE="Arg-2" />
+      <relation_mention ID="467.sgm-R13-1">
+      <ldc_extent>
+			<charseq START="1647" END="1815">Mendoza later told FBI agents he “shot the victims because he was getting tired of waiting around??and because the daughter laughed at him,” the criminal complaint says.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="467.sgm-E74-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1666" END="1675">FBI agents</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="467.sgm-E73-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1666" END="1675">FBI agents</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="467.sgm-R14" TYPE="PART-WHOLE">
+    <relation_argument REFID="467.sgm-E83" ROLE="Arg-1" />
+    <relation_argument REFID="467.sgm-E84" ROLE="Arg-2" />
+      <relation_mention ID="467.sgm-R14-1">
+      <ldc_extent>
+			<charseq START="1817" END="2017">The FBI documents only referred to the family by their initials, but the Big Horn County, Montana, Coroner’s Office identified the deceased as Tana and Jason Shane Jr., according to CNN affiliate KULR.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="467.sgm-E83-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1886" END="1904">the Big Horn County</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="467.sgm-E84-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1907" END="1913">Montana</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="467.sgm-EV0" TYPE="Personnel" SUBTYPE="End-Position" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="467.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="115" END="242">PRYOR, Montana —??Trying to be Good Samaritan??cost two members of a Montana family their lives and left their daughter wounded.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="215" END="218">left</charseq>
+      </anchor>
+      <event_mention_argument REFID="467.sgm-E6-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="220" END="233">their daughter</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="467.sgm-EV1" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="467.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="115" END="242">PRYOR, Montana —??Trying to be Good Samaritan??cost two members of a Montana family their lives and left their daughter wounded.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="235" END="241">wounded</charseq>
+      </anchor>
+      <event_mention_argument REFID="467.sgm-E6-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="220" END="233">their daughter</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="467.sgm-EV2" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="467.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="244" END="336">The triple shooting happened in the town of Pryor, Montana, about 30 miles south of Billings.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="255" END="262">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="467.sgm-E7-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="276" END="283">the town</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="467.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="467.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="421" END="625">The shooting
+The family was shot when they returned to help Mendoza, whose car was seen stopped alongside a road on the Crow Indian Reservation on Wednesday morning, according to an FBI criminal complaint.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="449" END="452">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="467.sgm-E14-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="434" END="443">The family</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="467.sgm-EV4" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="467.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="734" END="838">The mother, father and daughter then returned to where Mendoza’s car was parked, the court document says.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="771" END="778">returned</charseq>
+      </anchor>
+      <event_mention_argument REFID="467.sgm-E31-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="734" END="764">The mother, father and daughter</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="467.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="467.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="1059" END="1190">She heard a gunshot and turned back to see her father lying on the road
+The woman heard another gunshot and heard her mother scream.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1155" END="1161">gunshot</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="467.sgm-EV6" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="467.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="1249" END="1327">As the daughter fled, she felt blood running down her face from a bullet wound.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1322" END="1326">wound</charseq>
+      </anchor>
+      <event_mention_argument REFID="467.sgm-E58-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1313" END="1326">a bullet wound</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="467.sgm-E57-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1299" END="1306">her face</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="467.sgm-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="467.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="1329" END="1397">She then heard another gunshot and felt a bullet hit her in the back.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1352" END="1358">gunshot</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="467.sgm-EV8" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="467.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="1329" END="1397">She then heard another gunshot and felt a bullet hit her in the back.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1378" END="1380">hit</charseq>
+      </anchor>
+      <event_mention_argument REFID="467.sgm-E60-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1369" END="1376">a bullet</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="467.sgm-E61-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1382" END="1384">her</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="467.sgm-EV9" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="467.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="1455" END="1505">She was taken to a Billings hospital for treatment.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1463" END="1467">taken</charseq>
+      </anchor>
+      <event_mention_argument REFID="467.sgm-E66-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1455" END="1457">She</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="467.sgm-E67-1" ROLE="Destination" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1472" END="1490">a Billings hospital</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="467.sgm-EV10" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="467.sgm-EV10-1" p="1.000">
+      <extent>
+			<charseq START="1507" END="1645">Found in Wyoming
+A Park County Sheriff’s Office deputy arrested him several hours later and more than 100 miles away in Meeteetse, Wyoming.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1562" END="1569">arrested</charseq>
+      </anchor>
+      <event_mention_argument REFID="467.sgm-E69-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1571" END="1573">him</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>
