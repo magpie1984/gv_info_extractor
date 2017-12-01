@@ -1,5 +1,5 @@
 import xml.etree.ElementTree
-import sys, json
+import sys, json, re
 import traceback
 import os
 from time import sleep
@@ -61,25 +61,38 @@ def tag_og_text_with_entities(og_text, xml_info):
         temp["entity_tag_id"] = tag_num
         tag_num = tag_num + 1
 
-        #entity info
-        temp["entity"] = tag[1]
-        temp["entity_start_in_og_text"] = og_search_index + og_text[og_search_index:].find(tag[1])
-        og_search_index = og_text.find(tag[1]) + len(tag[1])
-        temp["entity_end_in_og_text"] = og_search_index
+        print ("tag", tag[0])
+        print ("enity", tag[1])
 
-        #tag start end
-        tagged_text = tagged_text.replace(tag[1], tag[0], 1)
-        # print tags_search_index
-        temp["tag_text_start_in_tagged_text"] = tags_search_index + tagged_text[tags_search_index:].find(tag[0])
-        # print temp["tag_text_start_in_tagged_text"]
-        # print tagged_text[tags_search_index:]
-        tags_search_index = temp["tag_text_start_in_tagged_text"] + len(tag[0])
-        # print tags_search_index
-        temp["tag_text_end_in_tagged_text"] = tags_search_index
+        temp["entity"] = tag[1]
+        print ("search text", str(og_text[og_search_index:]))
+        temp["entity_start_in_og_text"] = og_search_index + re.search(r'\b{}\b'.format(tag[1]), str(og_text[og_search_index:])).start() #og_text[og_search_index:].find(tag[1] + " ")
+        temp["entity_end_in_og_text"] = temp["entity_start_in_og_text"] + len(tag[1])
+        print ("start index:",temp["entity_start_in_og_text"], "end index:", temp["entity_end_in_og_text"])
+        #print temp["entity_start_in_og_text"]
+        print ("found text in og", og_text[temp["entity_start_in_og_text"]: temp["entity_end_in_og_text"]])
+        print ("found text in og with surr",og_text[temp["entity_start_in_og_text"]: temp["entity_end_in_og_text"] + 10])
+        print ("new search index:", temp["entity_end_in_og_text"])
+        og_search_index = temp["entity_end_in_og_text"]
+
+        print  "\n\n\n\n\n\n"
+        #find entity in tagged_text
+        print ("search tagged_text", str(tagged_text[tags_search_index:]))
+        temp["tag_text_start_in_tagged_text"] = tags_search_index + re.search(r'\b{}\b'.format(tag[1]), str(tagged_text[tags_search_index:])).start() #og_text[og_search_index:].find(tag[1] + " ")
+        replace_index = temp["tag_text_start_in_tagged_text"] + len(tag[1])
+        print ("start index:",temp["tag_text_start_in_tagged_text"], "end index:", replace_index)
+        tagged_text = tagged_text[:temp["tag_text_start_in_tagged_text"]] +  tag[0] + tagged_text[replace_index:]
+        temp["tag_text_end_in_tagged_text"] = temp["tag_text_start_in_tagged_text"] + len(tag[0])
+        tags_search_index = temp["tag_text_end_in_tagged_text"]
+        print ("new tagged search index:", tags_search_index)
+        print ("search tagged_text", str(tagged_text[tags_search_index:]))
+        print "\n"
+        print tagged_text
+        print  "\n\n\n\n\n\n"
 
         tags_and_texts.append(temp)
         # print temp
-    #Wexit()
+        #exit()
     # print og_text
     # print ""
     # print tagged_text
