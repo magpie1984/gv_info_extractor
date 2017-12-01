@@ -27,11 +27,10 @@ def gather_events(xmldoc):
     events = []
     for event in xmldoc.findall('./document/event'):
         event_entities = []
-        for event_entity in event.findall('event_mention/event_mention_argument'):
-            tup = ( event_entity.attrib['ROLE'],
-                    event_entity.find('extent/charseq').text,
-                    event_entity.find('extent/charseq').attrib['START'],
-                    event_entity.find('extent/charseq').attrib['END'] )
+        for event_entity in event.findall('event_mention/anchor'):
+            tup = ( event_entity.find('charseq').text,
+                    event_entity.find('charseq').attrib['START'],
+                    event_entity.find('charseq').attrib['END'] )
             event_entities.append(tup)
         tup = (event.attrib['SUBTYPE'], event_entities)
         events.append(tup)
@@ -41,7 +40,7 @@ def get_Text(xmldoc):
     return xml.etree.ElementTree.tostring(xmldoc.encode("utf-8"), method='text').strip().encode("utf-8")
 
 
-def tag_og_text(og_text, xml_info):
+def tag_og_text_with_entities(og_text, xml_info):
     xml_info_entitites = gather_entites(xml_info)
     tagged_text = og_text
     tags_and_texts = []
@@ -59,7 +58,7 @@ def tag_og_text(og_text, xml_info):
 
         #tag info
         temp["tag"] = tag[0]
-        temp["tag_id"] = tag_num
+        temp["entity_tag_id"] = tag_num
         tag_num = tag_num + 1
 
         #entity info
@@ -95,19 +94,71 @@ def tag_og_text(og_text, xml_info):
     #exit()
     return doc_tagged
 
+def tag_og_text_with_events(doc_tagged, og_text, xml_info):
+    xml_info_events = gather_events(xml_info)
+    doc_tagged["xml_info_events"] = xml_info_events
+    tagged_text = doc_tagged["tagged_text"]
+    tags_and_texts = []
+    og_search_index = 0
+    tags_search_index = 0
+    tag_num = 0
+    for tag in xml_info_events:
+        # print tag[1]
+        # print og_text
+        temp = {}
+        temp["tag"] = tag[0].upper()
+        temp["event_tag_id"] = tag_num
+        tag_num = tag_num + 1
+
+        #entity info
+        temp["event"] = tag[1][0][0]
+        # print temp["event"]
+        temp["event_start_in_og_text"] = og_search_index + og_text[og_search_index:].find(temp["event"])
+        og_search_index = og_text.find(temp["event"]) + len(temp["event"])
+        temp["event_end_in_og_text"] = og_search_index
+        # print temp["event_start_in_og_text"]
+        # print temp["event_end_in_og_text"]
+        # print og_text[temp["event_start_in_og_text"] : temp["event_end_in_og_text"]]
+
+        #tag start end
+        tagged_text = tagged_text.replace(temp["event"], temp["tag"], 1)
+        # print tagged_text
+        # print tags_search_index
+        temp["tag_text_start_in_tagged_text"] = tags_search_index + tagged_text[tags_search_index:].find(temp["tag"])
+        # print temp["tag_text_start_in_tagged_text"]
+        # print tagged_text[tags_search_index:]
+        tags_search_index = temp["tag_text_start_in_tagged_text"] + len(temp["tag"])
+        # print tags_search_index
+        temp["tag_text_end_in_tagged_text"] = tags_search_index
+        # print tagged_text[temp["tag_text_start_in_tagged_text"] : temp["tag_text_end_in_tagged_text"]]
+        tags_and_texts.append(temp)
+    doc_tagged["tagged_text"] = tagged_text
+    doc_tagged["json_to_link_og_text_with_tagged_events"] = tags_and_texts
+    # for x in tags_and_texts:
+    #     #print x["tag"]
+    #     print ("enity", og_text[int(x["event_start_in_og_text"]) : int(x["event_end_in_og_text"])])
+    #     print ("tag from xml", x["tag"])
+    #     print ("tag in text",tagged_text[int(x["tag_text_start_in_tagged_text"]) : int(x["tag_text_end_in_tagged_text"])])
+    # print len(xml_info_events)
+    # exit()
+    return doc_tagged
+
+
 
 if __name__ == '__main__':
     data_gs_file = os.listdir("DATASET_FOR_FINAL")
 
     for gs_file in data_gs_file:
         if gs_file.endswith(".txt"):
-            # print gs_file
+            #print gs_file
             text_file = open("DATASET_FOR_FINAL/" + gs_file, "r")
             #og_xml = load_xml(text_file)
             og_text = text_file.read().encode("utf-8")
+            og_text = og_text.strip("\n")
             xml_file = open("DATASET_FOR_FINAL/" + gs_file.replace(".txt", ".sgm.apf.xml"), "r")
             xml_info = load_xml(xml_file)
-            doc_tagged = tag_og_text(og_text, xml_info)#tag_og_text(og_xml, xml_info)#tag_og_text(og_text, xml_info)
+            doc_tagged = tag_og_text_with_entities(og_text, xml_info)#tag_og_text(og_xml, xml_info)#tag_og_text(og_text, xml_info)
+            doc_tagged = tag_og_text_with_events(doc_tagged, og_text, xml_info)
             doc_tagged["file"] = gs_file
             print doc_tagged
             #exit()
