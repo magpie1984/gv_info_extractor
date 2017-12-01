@@ -1,5 +1,5 @@
 import xml.etree.ElementTree
-import sys
+import sys, json
 import traceback
 import os
 from time import sleep
@@ -161,6 +161,7 @@ if __name__ == '__main__':
             doc_tagged = tag_og_text_with_events(doc_tagged, og_text, xml_info)
             doc_tagged["file"] = gs_file
             print doc_tagged
+            json.dump(doc_tagged, open("DATASET_FOR_FINAL/tagged_" + gs_file.replace(".txt",".json"), "w"))
             #exit()
 
 # input_filename = sys.argv[1]
