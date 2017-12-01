@@ -35,6 +35,8 @@ class Relationship:
         self.st = StanfordNERTagger(stan_7_class, stan_ner, encoding='utf-8')
 
     def load_tagged_list(self):
+        t = self.jsondata['og_text']
+        o = 0
         self.tagged_list = []
         events = self.jsondata['json_to_link_og_text_with_tagged_events']
         entities = self.jsondata['json_to_link_og_text_with_tagged_entities']
@@ -51,7 +53,9 @@ class Relationship:
                 to_append = (e['tag'], e['event_tag_id'], "event", e['event_start_in_og_text'], e['event_start_in_og_text'] + len(e['event']) )
                 if evn_i < len(events)-1: evn_i += 1
             else:
-                to_append = (item, -1, "none", 0, 0, 0)
+                to_append = (item, -1, "none", t.find(item)+o, t.find(item)+o+len(item))
+                o = o + t.find(item) + len(item)
+                t = t[t.find(item)+len(item):len(t)-1]
             self.tagged_list.append(to_append)
 
     def parse_args(self):
@@ -209,7 +213,8 @@ print("-------ENTITIES--------------------------")
 for entity in rel.jsondata['json_to_link_og_text_with_tagged_entities']:
     print(str(entity['entity_tag_id']) + " - " + entity['tag'] + " - " + entity['entity'])
 print("")
-
+for other in rel.tagged_list:
+    print other[0] + " - " + rel.jsondata['og_text'][other[3]:other[4]]
 result = rel.scan_text()
 print("-------RELATIONSHIPS--------------------------")
 for item in result:
