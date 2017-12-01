@@ -61,34 +61,34 @@ def tag_og_text_with_entities(og_text, xml_info):
         temp["entity_tag_id"] = tag_num
         tag_num = tag_num + 1
 
-        print ("tag", tag[0])
-        print ("enity", tag[1])
+        # print ("tag", tag[0])
+        # print ("enity", tag[1])
 
         temp["entity"] = tag[1]
-        print ("search text", str(og_text[og_search_index:]))
+        # print ("search text", str(og_text[og_search_index:]))
         temp["entity_start_in_og_text"] = og_search_index + re.search(r'\b{}\b'.format(tag[1]), str(og_text[og_search_index:])).start() #og_text[og_search_index:].find(tag[1] + " ")
         temp["entity_end_in_og_text"] = temp["entity_start_in_og_text"] + len(tag[1])
-        print ("start index:",temp["entity_start_in_og_text"], "end index:", temp["entity_end_in_og_text"])
+        # print ("start index:",temp["entity_start_in_og_text"], "end index:", temp["entity_end_in_og_text"])
         #print temp["entity_start_in_og_text"]
-        print ("found text in og", og_text[temp["entity_start_in_og_text"]: temp["entity_end_in_og_text"]])
-        print ("found text in og with surr",og_text[temp["entity_start_in_og_text"]: temp["entity_end_in_og_text"] + 10])
-        print ("new search index:", temp["entity_end_in_og_text"])
+        # print ("found text in og", og_text[temp["entity_start_in_og_text"]: temp["entity_end_in_og_text"]])
+        # print ("found text in og with surr",og_text[temp["entity_start_in_og_text"]: temp["entity_end_in_og_text"] + 10])
+        # print ("new search index:", temp["entity_end_in_og_text"])
         og_search_index = temp["entity_end_in_og_text"]
 
-        print  "\n\n\n\n\n\n"
+        # print  "\n\n\n\n\n\n"
         #find entity in tagged_text
-        print ("search tagged_text", str(tagged_text[tags_search_index:]))
+        # print ("search tagged_text", str(tagged_text[tags_search_index:]))
         temp["tag_text_start_in_tagged_text"] = tags_search_index + re.search(r'\b{}\b'.format(tag[1]), str(tagged_text[tags_search_index:])).start() #og_text[og_search_index:].find(tag[1] + " ")
         replace_index = temp["tag_text_start_in_tagged_text"] + len(tag[1])
-        print ("start index:",temp["tag_text_start_in_tagged_text"], "end index:", replace_index)
+        # print ("start index:",temp["tag_text_start_in_tagged_text"], "end index:", replace_index)
         tagged_text = tagged_text[:temp["tag_text_start_in_tagged_text"]] +  tag[0] + tagged_text[replace_index:]
         temp["tag_text_end_in_tagged_text"] = temp["tag_text_start_in_tagged_text"] + len(tag[0])
         tags_search_index = temp["tag_text_end_in_tagged_text"]
-        print ("new tagged search index:", tags_search_index)
-        print ("search tagged_text", str(tagged_text[tags_search_index:]))
-        print "\n"
-        print tagged_text
-        print  "\n\n\n\n\n\n"
+        # print ("new tagged search index:", tags_search_index)
+        # print ("search tagged_text", str(tagged_text[tags_search_index:]))
+        # print "\n"
+        # print tagged_text
+        # print  "\n\n\n\n\n\n"
 
         tags_and_texts.append(temp)
         # print temp
@@ -126,23 +126,23 @@ def tag_og_text_with_events(doc_tagged, og_text, xml_info):
         #entity info
         temp["event"] = tag[1][0][0]
         # print temp["event"]
-        temp["event_start_in_og_text"] = og_search_index + og_text[og_search_index:].find(temp["event"])
-        og_search_index = og_text.find(temp["event"]) + len(temp["event"])
+        temp["event_start_in_og_text"] = og_search_index + re.search(r'\b{}\b'.format(temp["event"]), str(og_text[og_search_index:])).start()
+        og_search_index = temp["event_start_in_og_text"] + len(temp["event"])
         temp["event_end_in_og_text"] = og_search_index
         # print temp["event_start_in_og_text"]
         # print temp["event_end_in_og_text"]
         # print og_text[temp["event_start_in_og_text"] : temp["event_end_in_og_text"]]
 
         #tag start end
-        tagged_text = tagged_text.replace(temp["event"], temp["tag"], 1)
         # print tagged_text
         # print tags_search_index
-        temp["tag_text_start_in_tagged_text"] = tags_search_index + tagged_text[tags_search_index:].find(temp["tag"])
+        temp["tag_text_start_in_tagged_text"] = tags_search_index + re.search(r'\b{}\b'.format(temp["event"]), str(tagged_text[tags_search_index:])).start()
+        replace_index = temp["tag_text_start_in_tagged_text"] + len(temp["event"])
         # print temp["tag_text_start_in_tagged_text"]
-        # print tagged_text[tags_search_index:]
-        tags_search_index = temp["tag_text_start_in_tagged_text"] + len(temp["tag"])
+        tagged_text = tagged_text[:temp["tag_text_start_in_tagged_text"]] +  tag[0].upper() + tagged_text[replace_index:]
+        temp["tag_text_end_in_tagged_text"] = temp["tag_text_start_in_tagged_text"] + len(temp["tag"])
         # print tags_search_index
-        temp["tag_text_end_in_tagged_text"] = tags_search_index
+        tags_search_index = temp["tag_text_end_in_tagged_text"]
         # print tagged_text[temp["tag_text_start_in_tagged_text"] : temp["tag_text_end_in_tagged_text"]]
         tags_and_texts.append(temp)
     doc_tagged["tagged_text"] = tagged_text
