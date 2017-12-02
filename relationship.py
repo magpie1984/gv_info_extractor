@@ -166,6 +166,7 @@ class Relationship:
         while pointer_0 < len(self.tagged_list)-3:
             relationship = ["", 0, "", 0, "", 0, "", 0, 0]
             relationship_found = False
+            print(pointer_0,pointer_1,pointer_2,pointer_3,relationship_found)
             for pointer_1 in range(pointer_0,len(self.tagged_list)-2):
                 if relationship_found:
                     break
@@ -180,23 +181,18 @@ class Relationship:
                             break
                         try:
                             if self.query_for_predicate(self.tagged_list[pointer_2][0]) > 0:
-                                #print("predicate: " + self.tagged_list[pointer_2][0] + " [" + str(pointer_2) + "]")
                                 relationship[3] = self.tagged_list[pointer_2][1]
                                 relationship[4] = self.tagged_list[pointer_2][2]
                                 for pointer_3 in range(pointer_2 + 1, pointer_2 + self.seperation_threshold):
                                     if relationship_found:
                                         break
                                     try:
-                                        #print("object: " + self.tagged_list[pointer_3][0] + " [" + str(pointer_3) + "]")
                                         relationship[5] = self.tagged_list[pointer_3][1]
                                         relationship[6] = self.tagged_list[pointer_3][2]
                                         relationship[8] = self.tagged_list[pointer_3][4]
-                                        #print(self.tagged_list[pointer_1], self.tagged_list[pointer_2], self.tagged_list[pointer_3])
                                         output = self.query_ontology(self.tagged_list[pointer_1][0], self.tagged_list[pointer_2][0], self.tagged_list[pointer_3][0])
-                                        #print(output)
                                         relationship[0] = output
                                         if output:
-                                            #print(self.tagged_list[pointer_1][0], self.tagged_list[pointer_2][0], self.tagged_list[pointer_3][0])
                                             relationships.append(relationship)
                                             pointer_0 = pointer_3 + 1
                                             pointer_1 = pointer_3 + 1
@@ -208,7 +204,8 @@ class Relationship:
                                         break
                         except:
                             break
-            break
+            pointer_0 += 1
+            #break
         return tuple(relationships)
 
 rel = Relationship()
@@ -233,7 +230,7 @@ result = rel.scan_text()
 print("-------RELATIONSHIPS--------------------------")
 i=0
 for item in result:
-    print(str(i) + " - " + rel.jsondata['og_text'][item[7]:item[8]])
+    print(str(i) + " - " + item[0] + " - " + "\"" + rel.jsondata['og_text'][item[7]:item[8]] + "\"" )
     if item[2] == 'entity':
         g = rel.entity_lookup[item[1]]
     if item[2] == 'event':
