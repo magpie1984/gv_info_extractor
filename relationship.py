@@ -20,6 +20,7 @@ class Relationship:
         self.load_ontology()
         self.load_tagged_list()
         self.create_lookup()
+        self.show_all_tagged()
 
     def create_lookup(self):
         self.entity_lookup = []
@@ -36,6 +37,8 @@ class Relationship:
     def load_input_json(self):
         with open(self.input_filename, 'r') as myfile: 
             self.jsondata = json.load(myfile)
+        self.og_text = self.jsondata['og_text'].replace("\n", " ").replace("\u", "    ")
+        self.tag_text = self.jsondata['tagged_text'].replace("\n", " ").replace("\u", "    ")
 
     def load_ontology(self):
         self.g = Graph()
@@ -49,14 +52,14 @@ class Relationship:
 
     def load_tagged_list(self):
         c = 0
-        t = self.jsondata['og_text']
+        t = self.jsondata['og_text'].replace("\n", " ")
         o = 0
         self.tagged_list = []
         events = self.jsondata['json_to_link_og_text_with_tagged_events']
         entities = self.jsondata['json_to_link_og_text_with_tagged_entities']
         evn_i=0
         ent_i=0
-        json_tagged_tokenized = word_tokenize(self.jsondata['tagged_text'])
+        json_tagged_tokenized = word_tokenize(self.tag_text)
         for item in json_tagged_tokenized:
             if item == entities[ent_i]['tag']:
                 e = entities[ent_i]
@@ -72,6 +75,12 @@ class Relationship:
                 t = t[t.find(item)+len(item):len(t)]
                 c += 1
             self.tagged_list.append(to_append)
+
+    def show_all_tagged(self):
+        print("\n\n###################################")
+        for item in self.tagged_list:
+            print(item[0] + " - " + self.og_text[item[3]:item[4]])
+        print("###################################\n\n")
 
     def parse_args(self):
         try:
@@ -213,10 +222,10 @@ class Relationship:
 rel = Relationship()
 print("\n\nINFORMATION EXTRACTOR V0.0.1\n\nGoonmeet Bajaj\nMichael Partin\n\n")
 print("-------ORIGINAL TEXT---------------------")
-print(rel.jsondata['og_text'])
+print(rel.og_text)
 print("")
 print("-------TAGGED TEXT-----------------------")
-print(rel.jsondata['tagged_text'])
+print(rel.tag_text)
 print("")
 print("-------EVENTS----------------------------")
 for event in rel.jsondata['json_to_link_og_text_with_tagged_events']:
@@ -227,20 +236,22 @@ for entity in rel.jsondata['json_to_link_og_text_with_tagged_entities']:
     print(str(entity['entity_tag_id']) + " - " + entity['tag'] + " - " + entity['entity'])
 print("")
 
+"""
+
 print("***Finding Relationships...")
 result = rel.scan_text()
 print("")
 print("-------RELATIONSHIPS--------------------------")
 i=0
 for item in result:
-    print(str(i) + " - " + item[0] + " - " + "\"" + rel.jsondata['og_text'][item[7]:item[8]] + "\"" )
+    print(str(i) + " - " + item[0] + " - " + "\"" + rel.og_text[item[7]:item[8]] + "\"" )
     if item[2] == 'entity':
         g = rel.entity_lookup[item[1]]
     if item[2] == 'event':
         g = rel.event_lookup[item[1]] 
     if item[2] == 'none':
         g = rel.other_lookup[item[1]]
-    print("    ["+ item[2] + "] - " + rel.jsondata['og_text'][g[3]:g[4]])
+    print("    ["+ item[2] + "] - " + rel.og_text[g[3]:g[4]])
 
     if item[4] == 'entity':
         g = rel.entity_lookup[item[3]]
@@ -248,7 +259,7 @@ for item in result:
         g = rel.event_lookup[item[3]] 
     if item[4] == 'none':
         g = rel.other_lookup[item[3]]
-    print("    ["+ item[4] + "] - " + rel.jsondata['og_text'][g[3]:g[4]])
+    print("    ["+ item[4] + "] - " + rel.og_text[g[3]:g[4]])
 
     if item[6] == 'entity':
         g = rel.entity_lookup[item[5]]
@@ -256,6 +267,7 @@ for item in result:
         g = rel.event_lookup[item[5]] 
     if item[6] == 'none':
         g = rel.other_lookup[item[5]]
-    print("    ["+ item[6] + "] - " + rel.jsondata['og_text'][g[3]:g[4]])
+    print("    ["+ item[6] + "] - " + rel.og_text[g[3]:g[4]])
 print("\n\n...done\n\n")
 
+"""

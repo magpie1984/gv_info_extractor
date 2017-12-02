@@ -1,0 +1,65 @@
+
+
+INFORMATION EXTRACTOR V0.0.1
+
+Goonmeet Bajaj
+Michael Partin
+
+
+-------ORIGINAL TEXT---------------------
+Atlantic City, Wyo. 26-year-old Joe Henderson was injured Saturday afternoon after accidentally shooting himself in the leg witha .40 caliber handgun, Undersheriff Ryan Lee reports. The man had been on an outing with three other men in the Atlantic City area. According to the victim and witnesses, the injured man was manipulating the gun while sitting in the drivers seat of the vehicle, Lee said in a news release. The weapon discharged and a round entered the mans right leg, apparently breaking the femur. The mans friends drove towards Lander and were eventually intercepted by Deputy Sheriffs and the Fremont County Ambulance. The man was taken to Lander Regional Hospital; reports indicate he was later airlifted to another facility out of state.
+
+-------TAGGED TEXT-----------------------
+GPE, PER. 26-year-old PER was INJURE Saturday afternoon after accidentally shooting PER in the leg witha .40 caliber WEA, PER reports. The PER had been on an outing with three other PER in the GPE LOC. According to the PER and PER, the injured PER was manipulating the WEA while sitting in the drivers seat of the VEH, PER said in a news release. The WEA discharged and a WEA entered the PER right leg, apparently breaking the femur. The mans PER TRANSPORT towards PER and were eventually intercepted by Deputy Sheriffs and the ORG. The PER was TRANSPORT to Lander Regional FAC; reports indicate PER was later TRANSPORT to another FAC out of GPE.
+
+-------EVENTS----------------------------
+0 - INJURE - injured
+1 - TRANSPORT - drove
+2 - TRANSPORT - taken
+3 - TRANSPORT - airlifted
+
+-------ENTITIES--------------------------
+0 - GPE - Atlantic City
+1 - PER - Wyo
+2 - PER - Joe Henderson
+3 - PER - himself
+4 - WEA - handgun
+5 - PER - Undersheriff Ryan Lee
+6 - PER - man
+7 - PER - men
+8 - GPE - Atlantic City
+9 - LOC - area
+10 - PER - victim
+11 - PER - witnesses
+12 - PER - man
+13 - WEA - gun
+14 - VEH - vehicle
+15 - PER - Lee
+16 - WEA - weapon
+17 - WEA - round
+18 - PER - mans
+19 - PER - friends
+20 - PER - Lander
+21 - ORG - Fremont County Ambulance
+22 - PER - man
+23 - FAC - Hospital
+24 - PER - he
+25 - FAC - facility
+26 - GPE - state
+
+***Finding Relationships...
+0%17%40%41%42%42%43%44%45%46%46%47%48%49%50%50%51%52%53%53%54%55%56%57%57%58%59%60%60%61%62%63%64%64%65%66%67%67%68%69%70%71%71%72%73%74%75%75%76%77%78%78%79%80%81%82%82%83%84%85%85%86%87%88%89%89%90%91%92%92%93%94%95%96%96%
+-------RELATIONSHIPS--------------------------
+0 - Victim Bodypart Weopon - "himself in the leg witha .40 caliber handgun"
+    [entity] - himself
+    [none] - leg
+    [entity] - handgun
+0 - Assailant Harms Victim - "witnesses, the injured man"
+    [entity] - witnesses
+    [none] - injured
+    [entity] - man
+
+
+...done
+
+
