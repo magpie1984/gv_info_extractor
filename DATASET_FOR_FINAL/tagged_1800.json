@@ -1,1 +1,821 @@
-{"xml_info_entitites": [["ORG", "Auburn", "108", "113"], ["PER", "neighborhood", "115", "126"], ["PER", "man", "150", "152"], ["PER", "who", "154", "156"], ["PER", "him", "200", "202"], ["PER", "his", "208", "210"], ["PER", "man", "268", "270"], ["PER", "who", "272", "274"], ["PER", "bear", "285", "288"], ["PER", "who", "291", "293"], ["PER", "chickens", "364", "371"], ["PER", "his", "405", "407"], ["PER", "him", "434", "436"], ["PER", "his", "442", "444"], ["PER", "man", "468", "470"], ["PER", "he", "473", "474"], ["PER", "authorities", "490", "500"], ["PER", "their", "515", "519"], ["PER", "He", "545", "546"], ["PER", "he", "597", "598"], ["PER", "his", "632", "634"], ["PER", "He", "648", "649"], ["PER", "himself", "689", "695"], ["PER", "his", "701", "703"], ["PER", "neighbor", "720", "727"], ["PER", "Earlene Olson", "729", "741"], ["PER", "He", "746", "747"], ["PER", "lover", "761", "765"], ["PER", "Others", "769", "774"], ["PER", "you", "865", "867"], ["PER", "your", "872", "875"], ["PER", "children", "877", "884"], ["PER", "your", "889", "892"], ["PER", "Cindy McAyeal", "906", "918"], ["ORG", "Bear League", "929", "939"], ["PER", "bears", "974", "978"], ["PER", "their", "988", "992"], ["PER", "You", "1013", "1015"], ["PER", "your", "1073", "1076"], ["PER", "I", "1114", "1114"], ["PER", "I", "1142", "1142"], ["PER", "McAyeal", "1164", "1170"], ["PER", "man", "1177", "1179"], ["PER", "he", "1186", "1187"], ["PER", "he", "1223", "1224"]], "tagged_text": "A bear was ATTACK in an ORG PER Saturday morning by a PER PER said the animal was starting to CHARGE-INDICT at PER and PER dog.\nIt was a black bear weighing about 300 pounds.\nThe PER PER ATTACK the PER, PER did not want to be identified, said the bear had DIE at least six PER earlier that morning and was at PER doorstep ready to ATTACK PER and PER dog.\nAccording to the PER, PER tried calling PER, but claimed PER response time was slow. PER said an hour passed before the bear returned and PER was forced to TRANSPORT matters into PER own hands.\n\"PER had to have had some type of fear for PER and PER animals,\" said PER PER.  \"PER's an animal PER.\"\nPER say the shooting could have been prevented.  \"Black bears aren't necessarily looking for PER or PER PER or PER dogs,\" said PER with the ORG - a nonprofit that works to keep PER safe in PER natural habitat.  \"PER need a depredation permit to legally take a bear unless PER life is in danger.  This situation, PER don't know the situation, PER wasn't there,\" said PER.\nThe PER said PER didn't want to ATTACK the bear but PER didn't know what else to do.", "xml_info_events": [["Attack", [["shot", "97", "100"]]], ["Charge-Indict", [["charge", "190", "195"]]], ["Attack", [["shot", "276", "279"]]], ["Die", [["killed", "344", "349"]]], ["Attack", [["attack", "427", "432"]]], ["Transport", [["take", "614", "617"]]], ["Attack", [["shoot", "1204", "1208"]]]], "file": "1800.txt", "json_to_link_og_text_with_tagged_entities": [{"entity_end_in_og_text": 28, "entity_start_in_og_text": 22, "entity": "Auburn", "entity_tag_id": 0, "tag": "ORG", "tag_text_end_in_tagged_text": 25, "tag_text_start_in_tagged_text": 22}, {"entity_end_in_og_text": 41, "entity_start_in_og_text": 29, "entity": "neighborhood", "entity_tag_id": 1, "tag": "PER", "tag_text_end_in_tagged_text": 29, "tag_text_start_in_tagged_text": 26}, {"entity_end_in_og_text": 67, "entity_start_in_og_text": 64, "entity": "man", "entity_tag_id": 2, "tag": "PER", "tag_text_end_in_tagged_text": 55, "tag_text_start_in_tagged_text": 52}, {"entity_end_in_og_text": 71, "entity_start_in_og_text": 68, "entity": "who", "entity_tag_id": 3, "tag": "PER", "tag_text_end_in_tagged_text": 59, "tag_text_start_in_tagged_text": 56}, {"entity_end_in_og_text": 117, "entity_start_in_og_text": 114, "entity": "him", "entity_tag_id": 4, "tag": "PER", "tag_text_end_in_tagged_text": 105, "tag_text_start_in_tagged_text": 102}, {"entity_end_in_og_text": 125, "entity_start_in_og_text": 122, "entity": "his", "entity_tag_id": 5, "tag": "PER", "tag_text_end_in_tagged_text": 113, "tag_text_start_in_tagged_text": 110}, {"entity_end_in_og_text": 185, "entity_start_in_og_text": 182, "entity": "man", "entity_tag_id": 6, "tag": "PER", "tag_text_end_in_tagged_text": 173, "tag_text_start_in_tagged_text": 170}, {"entity_end_in_og_text": 189, "entity_start_in_og_text": 186, "entity": "who", "entity_tag_id": 7, "tag": "PER", "tag_text_end_in_tagged_text": 177, "tag_text_start_in_tagged_text": 174}, {"entity_end_in_og_text": 203, "entity_start_in_og_text": 199, "entity": "bear", "entity_tag_id": 8, "tag": "PER", "tag_text_end_in_tagged_text": 190, "tag_text_start_in_tagged_text": 187}, {"entity_end_in_og_text": 208, "entity_start_in_og_text": 205, "entity": "who", "entity_tag_id": 9, "tag": "PER", "tag_text_end_in_tagged_text": 195, "tag_text_start_in_tagged_text": 192}, {"entity_end_in_og_text": 286, "entity_start_in_og_text": 278, "entity": "chickens", "entity_tag_id": 10, "tag": "PER", "tag_text_end_in_tagged_text": 268, "tag_text_start_in_tagged_text": 265}, {"entity_end_in_og_text": 322, "entity_start_in_og_text": 319, "entity": "his", "entity_tag_id": 11, "tag": "PER", "tag_text_end_in_tagged_text": 304, "tag_text_start_in_tagged_text": 301}, {"entity_end_in_og_text": 351, "entity_start_in_og_text": 348, "entity": "him", "entity_tag_id": 12, "tag": "PER", "tag_text_end_in_tagged_text": 333, "tag_text_start_in_tagged_text": 330}, {"entity_end_in_og_text": 359, "entity_start_in_og_text": 356, "entity": "his", "entity_tag_id": 13, "tag": "PER", "tag_text_end_in_tagged_text": 341, "tag_text_start_in_tagged_text": 338}, {"entity_end_in_og_text": 385, "entity_start_in_og_text": 382, "entity": "man", "entity_tag_id": 14, "tag": "PER", "tag_text_end_in_tagged_text": 367, "tag_text_start_in_tagged_text": 364}, {"entity_end_in_og_text": 389, "entity_start_in_og_text": 387, "entity": "he", "entity_tag_id": 15, "tag": "PER", "tag_text_end_in_tagged_text": 372, "tag_text_start_in_tagged_text": 369}, {"entity_end_in_og_text": 415, "entity_start_in_og_text": 404, "entity": "authorities", "entity_tag_id": 16, "tag": "PER", "tag_text_end_in_tagged_text": 390, "tag_text_start_in_tagged_text": 387}, {"entity_end_in_og_text": 434, "entity_start_in_og_text": 429, "entity": "their", "entity_tag_id": 17, "tag": "PER", "tag_text_end_in_tagged_text": 407, "tag_text_start_in_tagged_text": 404}, {"entity_end_in_og_text": 461, "entity_start_in_og_text": 459, "entity": "He", "entity_tag_id": 18, "tag": "PER", "tag_text_end_in_tagged_text": 435, "tag_text_start_in_tagged_text": 432}, {"entity_end_in_og_text": 513, "entity_start_in_og_text": 511, "entity": "he", "entity_tag_id": 19, "tag": "PER", "tag_text_end_in_tagged_text": 488, "tag_text_start_in_tagged_text": 485}, {"entity_end_in_og_text": 549, "entity_start_in_og_text": 546, "entity": "his", "entity_tag_id": 20, "tag": "PER", "tag_text_end_in_tagged_text": 524, "tag_text_start_in_tagged_text": 521}, {"entity_end_in_og_text": 564, "entity_start_in_og_text": 562, "entity": "He", "entity_tag_id": 21, "tag": "PER", "tag_text_end_in_tagged_text": 540, "tag_text_start_in_tagged_text": 537}, {"entity_end_in_og_text": 610, "entity_start_in_og_text": 603, "entity": "himself", "entity_tag_id": 22, "tag": "PER", "tag_text_end_in_tagged_text": 582, "tag_text_start_in_tagged_text": 579}, {"entity_end_in_og_text": 618, "entity_start_in_og_text": 615, "entity": "his", "entity_tag_id": 23, "tag": "PER", "tag_text_end_in_tagged_text": 590, "tag_text_start_in_tagged_text": 587}, {"entity_end_in_og_text": 642, "entity_start_in_og_text": 634, "entity": "neighbor", "entity_tag_id": 24, "tag": "PER", "tag_text_end_in_tagged_text": 609, "tag_text_start_in_tagged_text": 606}, {"entity_end_in_og_text": 656, "entity_start_in_og_text": 643, "entity": "Earlene Olson", "entity_tag_id": 25, "tag": "PER", "tag_text_end_in_tagged_text": 613, "tag_text_start_in_tagged_text": 610}, {"entity_end_in_og_text": 662, "entity_start_in_og_text": 660, "entity": "He", "entity_tag_id": 26, "tag": "PER", "tag_text_end_in_tagged_text": 620, "tag_text_start_in_tagged_text": 617}, {"entity_end_in_og_text": 680, "entity_start_in_og_text": 675, "entity": "lover", "entity_tag_id": 27, "tag": "PER", "tag_text_end_in_tagged_text": 636, "tag_text_start_in_tagged_text": 633}, {"entity_end_in_og_text": 689, "entity_start_in_og_text": 683, "entity": "Others", "entity_tag_id": 28, "tag": "PER", "tag_text_end_in_tagged_text": 642, "tag_text_start_in_tagged_text": 639}, {"entity_end_in_og_text": 782, "entity_start_in_og_text": 779, "entity": "you", "entity_tag_id": 29, "tag": "PER", "tag_text_end_in_tagged_text": 735, "tag_text_start_in_tagged_text": 732}, {"entity_end_in_og_text": 790, "entity_start_in_og_text": 786, "entity": "your", "entity_tag_id": 30, "tag": "PER", "tag_text_end_in_tagged_text": 742, "tag_text_start_in_tagged_text": 739}, {"entity_end_in_og_text": 799, "entity_start_in_og_text": 791, "entity": "children", "entity_tag_id": 31, "tag": "PER", "tag_text_end_in_tagged_text": 746, "tag_text_start_in_tagged_text": 743}, {"entity_end_in_og_text": 807, "entity_start_in_og_text": 803, "entity": "your", "entity_tag_id": 32, "tag": "PER", "tag_text_end_in_tagged_text": 753, "tag_text_start_in_tagged_text": 750}, {"entity_end_in_og_text": 833, "entity_start_in_og_text": 820, "entity": "Cindy McAyeal", "entity_tag_id": 33, "tag": "PER", "tag_text_end_in_tagged_text": 769, "tag_text_start_in_tagged_text": 766}, {"entity_end_in_og_text": 854, "entity_start_in_og_text": 843, "entity": "Bear League", "entity_tag_id": 34, "tag": "ORG", "tag_text_end_in_tagged_text": 782, "tag_text_start_in_tagged_text": 779}, {"entity_end_in_og_text": 893, "entity_start_in_og_text": 888, "entity": "bears", "entity_tag_id": 35, "tag": "PER", "tag_text_end_in_tagged_text": 819, "tag_text_start_in_tagged_text": 816}, {"entity_end_in_og_text": 907, "entity_start_in_og_text": 902, "entity": "their", "entity_tag_id": 36, "tag": "PER", "tag_text_end_in_tagged_text": 831, "tag_text_start_in_tagged_text": 828}, {"entity_end_in_og_text": 930, "entity_start_in_og_text": 927, "entity": "You", "entity_tag_id": 37, "tag": "PER", "tag_text_end_in_tagged_text": 854, "tag_text_start_in_tagged_text": 851}, {"entity_end_in_og_text": 991, "entity_start_in_og_text": 987, "entity": "your", "entity_tag_id": 38, "tag": "PER", "tag_text_end_in_tagged_text": 914, "tag_text_start_in_tagged_text": 911}, {"entity_end_in_og_text": 1029, "entity_start_in_og_text": 1028, "entity": "I", "entity_tag_id": 39, "tag": "PER", "tag_text_end_in_tagged_text": 954, "tag_text_start_in_tagged_text": 951}, {"entity_end_in_og_text": 1057, "entity_start_in_og_text": 1056, "entity": "I", "entity_tag_id": 40, "tag": "PER", "tag_text_end_in_tagged_text": 984, "tag_text_start_in_tagged_text": 981}, {"entity_end_in_og_text": 1085, "entity_start_in_og_text": 1078, "entity": "McAyeal", "entity_tag_id": 41, "tag": "PER", "tag_text_end_in_tagged_text": 1008, "tag_text_start_in_tagged_text": 1005}, {"entity_end_in_og_text": 1094, "entity_start_in_og_text": 1091, "entity": "man", "entity_tag_id": 42, "tag": "PER", "tag_text_end_in_tagged_text": 1017, "tag_text_start_in_tagged_text": 1014}, {"entity_end_in_og_text": 1102, "entity_start_in_og_text": 1100, "entity": "he", "entity_tag_id": 43, "tag": "PER", "tag_text_end_in_tagged_text": 1026, "tag_text_start_in_tagged_text": 1023}, {"entity_end_in_og_text": 1139, "entity_start_in_og_text": 1137, "entity": "he", "entity_tag_id": 44, "tag": "PER", "tag_text_end_in_tagged_text": 1064, "tag_text_start_in_tagged_text": 1061}], "og_text": "A bear was shot in an Auburn neighborhood Saturday morning by a man who said the animal was starting to charge at him and his dog.\nIt was a black bear weighing about 300 pounds.\nThe man who shot the bear, who did not want to be identified, said the bear had killed at least six chickens earlier that morning and was at his doorstep ready to attack him and his dog.\nAccording to the man, he tried calling authorities, but claimed their response time was slow. He said an hour passed before the bear returned and he was forced to take matters into his own hands.\n\"He had to have had some type of fear for himself and his animals,\" said neighbor Earlene Olson.  \"He's an animal lover.\"\nOthers say the shooting could have been prevented.  \"Black bears aren't necessarily looking for you or your children or your dogs,\" said Cindy McAyeal with the Bear League - a nonprofit that works to keep bears safe in their natural habitat.  \"You need a depredation permit to legally take a bear unless your life is in danger.  This situation, I don't know the situation, I wasn't there,\" said McAyeal.\nThe man said he didn't want to shoot the bear but he didn't know what else to do.", "json_to_link_og_text_with_tagged_events": [{"event": "shot", "tag_text_end_in_tagged_text": 17, "event_end_in_og_text": 15, "tag": "ATTACK", "event_start_in_og_text": 11, "event_tag_id": 0, "tag_text_start_in_tagged_text": 11}, {"event": "charge", "tag_text_end_in_tagged_text": 107, "event_end_in_og_text": 110, "tag": "CHARGE-INDICT", "event_start_in_og_text": 104, "event_tag_id": 1, "tag_text_start_in_tagged_text": 94}, {"event": "shot", "tag_text_end_in_tagged_text": 193, "event_end_in_og_text": 194, "tag": "ATTACK", "event_start_in_og_text": 190, "event_tag_id": 2, "tag_text_start_in_tagged_text": 187}, {"event": "killed", "tag_text_end_in_tagged_text": 259, "event_end_in_og_text": 264, "tag": "DIE", "event_start_in_og_text": 258, "event_tag_id": 3, "tag_text_start_in_tagged_text": 256}, {"event": "attack", "tag_text_end_in_tagged_text": 337, "event_end_in_og_text": 347, "tag": "ATTACK", "event_start_in_og_text": 341, "event_tag_id": 4, "tag_text_start_in_tagged_text": 331}, {"event": "take", "tag_text_end_in_tagged_text": 520, "event_end_in_og_text": 532, "tag": "TRANSPORT", "event_start_in_og_text": 528, "event_tag_id": 5, "tag_text_start_in_tagged_text": 511}, {"event": "shoot", "tag_text_end_in_tagged_text": 1061, "event_end_in_og_text": 1123, "tag": "ATTACK", "event_start_in_og_text": 1118, "event_tag_id": 6, "tag_text_start_in_tagged_text": 1055}]}
+{
+  "xml_info_entitites": [
+    [
+      "ORG", 
+      "Auburn", 
+      "108", 
+      "113"
+    ], 
+    [
+      "PER", 
+      "neighborhood", 
+      "115", 
+      "126"
+    ], 
+    [
+      "PER", 
+      "man", 
+      "150", 
+      "152"
+    ], 
+    [
+      "PER", 
+      "who", 
+      "154", 
+      "156"
+    ], 
+    [
+      "PER", 
+      "him", 
+      "200", 
+      "202"
+    ], 
+    [
+      "PER", 
+      "his", 
+      "208", 
+      "210"
+    ], 
+    [
+      "PER", 
+      "man", 
+      "268", 
+      "270"
+    ], 
+    [
+      "PER", 
+      "who", 
+      "272", 
+      "274"
+    ], 
+    [
+      "PER", 
+      "bear", 
+      "285", 
+      "288"
+    ], 
+    [
+      "PER", 
+      "who", 
+      "291", 
+      "293"
+    ], 
+    [
+      "PER", 
+      "chickens", 
+      "364", 
+      "371"
+    ], 
+    [
+      "PER", 
+      "his", 
+      "405", 
+      "407"
+    ], 
+    [
+      "PER", 
+      "him", 
+      "434", 
+      "436"
+    ], 
+    [
+      "PER", 
+      "his", 
+      "442", 
+      "444"
+    ], 
+    [
+      "PER", 
+      "man", 
+      "468", 
+      "470"
+    ], 
+    [
+      "PER", 
+      "he", 
+      "473", 
+      "474"
+    ], 
+    [
+      "PER", 
+      "authorities", 
+      "490", 
+      "500"
+    ], 
+    [
+      "PER", 
+      "their", 
+      "515", 
+      "519"
+    ], 
+    [
+      "PER", 
+      "He", 
+      "545", 
+      "546"
+    ], 
+    [
+      "PER", 
+      "he", 
+      "597", 
+      "598"
+    ], 
+    [
+      "PER", 
+      "his", 
+      "632", 
+      "634"
+    ], 
+    [
+      "PER", 
+      "He", 
+      "648", 
+      "649"
+    ], 
+    [
+      "PER", 
+      "himself", 
+      "689", 
+      "695"
+    ], 
+    [
+      "PER", 
+      "his", 
+      "701", 
+      "703"
+    ], 
+    [
+      "PER", 
+      "neighbor", 
+      "720", 
+      "727"
+    ], 
+    [
+      "PER", 
+      "Earlene Olson", 
+      "729", 
+      "741"
+    ], 
+    [
+      "PER", 
+      "He", 
+      "746", 
+      "747"
+    ], 
+    [
+      "PER", 
+      "lover", 
+      "761", 
+      "765"
+    ], 
+    [
+      "PER", 
+      "Others", 
+      "769", 
+      "774"
+    ], 
+    [
+      "PER", 
+      "you", 
+      "865", 
+      "867"
+    ], 
+    [
+      "PER", 
+      "your", 
+      "872", 
+      "875"
+    ], 
+    [
+      "PER", 
+      "children", 
+      "877", 
+      "884"
+    ], 
+    [
+      "PER", 
+      "your", 
+      "889", 
+      "892"
+    ], 
+    [
+      "PER", 
+      "Cindy McAyeal", 
+      "906", 
+      "918"
+    ], 
+    [
+      "ORG", 
+      "Bear League", 
+      "929", 
+      "939"
+    ], 
+    [
+      "PER", 
+      "bears", 
+      "974", 
+      "978"
+    ], 
+    [
+      "PER", 
+      "their", 
+      "988", 
+      "992"
+    ], 
+    [
+      "PER", 
+      "You", 
+      "1013", 
+      "1015"
+    ], 
+    [
+      "PER", 
+      "your", 
+      "1073", 
+      "1076"
+    ], 
+    [
+      "PER", 
+      "I", 
+      "1114", 
+      "1114"
+    ], 
+    [
+      "PER", 
+      "I", 
+      "1142", 
+      "1142"
+    ], 
+    [
+      "PER", 
+      "McAyeal", 
+      "1164", 
+      "1170"
+    ], 
+    [
+      "PER", 
+      "man", 
+      "1177", 
+      "1179"
+    ], 
+    [
+      "PER", 
+      "he", 
+      "1186", 
+      "1187"
+    ], 
+    [
+      "PER", 
+      "he", 
+      "1223", 
+      "1224"
+    ]
+  ], 
+  "tagged_text": "A bear was ATTACK in an ORG PER Saturday morning by a PER PER said the animal was starting to CHARGE-INDICT at PER and PER dog.\nIt was a black bear weighing about 300 pounds.\nThe PER PER ATTACK the PER, PER did not want to be identified, said the bear had DIE at least six PER earlier that morning and was at PER doorstep ready to ATTACK PER and PER dog.\nAccording to the PER, PER tried calling PER, but claimed PER response time was slow. PER said an hour passed before the bear returned and PER was forced to TRANSPORT matters into PER own hands.\n\"PER had to have had some type of fear for PER and PER animals,\" said PER PER.  \"PER's an animal PER.\"\nPER say the shooting could have been prevented.  \"Black bears aren't necessarily looking for PER or PER PER or PER dogs,\" said PER with the ORG - a nonprofit that works to keep PER safe in PER natural habitat.  \"PER need a depredation permit to legally take a bear unless PER life is in danger.  This situation, PER don't know the situation, PER wasn't there,\" said PER.\nThe PER said PER didn't want to ATTACK the bear but PER didn't know what else to do.", 
+  "xml_info_events": [
+    [
+      "Attack", 
+      [
+        [
+          "shot", 
+          "97", 
+          "100"
+        ]
+      ]
+    ], 
+    [
+      "Charge-Indict", 
+      [
+        [
+          "charge", 
+          "190", 
+          "195"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "shot", 
+          "276", 
+          "279"
+        ]
+      ]
+    ], 
+    [
+      "Die", 
+      [
+        [
+          "killed", 
+          "344", 
+          "349"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "attack", 
+          "427", 
+          "432"
+        ]
+      ]
+    ], 
+    [
+      "Transport", 
+      [
+        [
+          "take", 
+          "614", 
+          "617"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "shoot", 
+          "1204", 
+          "1208"
+        ]
+      ]
+    ]
+  ], 
+  "file": "1800.txt", 
+  "json_to_link_og_text_with_tagged_entities": [
+    {
+      "entity_end_in_og_text": 28, 
+      "entity_start_in_og_text": 22, 
+      "entity": "Auburn", 
+      "entity_tag_id": 0, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 25, 
+      "tag_text_start_in_tagged_text": 22
+    }, 
+    {
+      "entity_end_in_og_text": 41, 
+      "entity_start_in_og_text": 29, 
+      "entity": "neighborhood", 
+      "entity_tag_id": 1, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 29, 
+      "tag_text_start_in_tagged_text": 26
+    }, 
+    {
+      "entity_end_in_og_text": 67, 
+      "entity_start_in_og_text": 64, 
+      "entity": "man", 
+      "entity_tag_id": 2, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 55, 
+      "tag_text_start_in_tagged_text": 52
+    }, 
+    {
+      "entity_end_in_og_text": 71, 
+      "entity_start_in_og_text": 68, 
+      "entity": "who", 
+      "entity_tag_id": 3, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 59, 
+      "tag_text_start_in_tagged_text": 56
+    }, 
+    {
+      "entity_end_in_og_text": 117, 
+      "entity_start_in_og_text": 114, 
+      "entity": "him", 
+      "entity_tag_id": 4, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 105, 
+      "tag_text_start_in_tagged_text": 102
+    }, 
+    {
+      "entity_end_in_og_text": 125, 
+      "entity_start_in_og_text": 122, 
+      "entity": "his", 
+      "entity_tag_id": 5, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 113, 
+      "tag_text_start_in_tagged_text": 110
+    }, 
+    {
+      "entity_end_in_og_text": 185, 
+      "entity_start_in_og_text": 182, 
+      "entity": "man", 
+      "entity_tag_id": 6, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 173, 
+      "tag_text_start_in_tagged_text": 170
+    }, 
+    {
+      "entity_end_in_og_text": 189, 
+      "entity_start_in_og_text": 186, 
+      "entity": "who", 
+      "entity_tag_id": 7, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 177, 
+      "tag_text_start_in_tagged_text": 174
+    }, 
+    {
+      "entity_end_in_og_text": 203, 
+      "entity_start_in_og_text": 199, 
+      "entity": "bear", 
+      "entity_tag_id": 8, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 190, 
+      "tag_text_start_in_tagged_text": 187
+    }, 
+    {
+      "entity_end_in_og_text": 208, 
+      "entity_start_in_og_text": 205, 
+      "entity": "who", 
+      "entity_tag_id": 9, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 195, 
+      "tag_text_start_in_tagged_text": 192
+    }, 
+    {
+      "entity_end_in_og_text": 286, 
+      "entity_start_in_og_text": 278, 
+      "entity": "chickens", 
+      "entity_tag_id": 10, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 268, 
+      "tag_text_start_in_tagged_text": 265
+    }, 
+    {
+      "entity_end_in_og_text": 322, 
+      "entity_start_in_og_text": 319, 
+      "entity": "his", 
+      "entity_tag_id": 11, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 304, 
+      "tag_text_start_in_tagged_text": 301
+    }, 
+    {
+      "entity_end_in_og_text": 351, 
+      "entity_start_in_og_text": 348, 
+      "entity": "him", 
+      "entity_tag_id": 12, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 333, 
+      "tag_text_start_in_tagged_text": 330
+    }, 
+    {
+      "entity_end_in_og_text": 359, 
+      "entity_start_in_og_text": 356, 
+      "entity": "his", 
+      "entity_tag_id": 13, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 341, 
+      "tag_text_start_in_tagged_text": 338
+    }, 
+    {
+      "entity_end_in_og_text": 385, 
+      "entity_start_in_og_text": 382, 
+      "entity": "man", 
+      "entity_tag_id": 14, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 367, 
+      "tag_text_start_in_tagged_text": 364
+    }, 
+    {
+      "entity_end_in_og_text": 389, 
+      "entity_start_in_og_text": 387, 
+      "entity": "he", 
+      "entity_tag_id": 15, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 372, 
+      "tag_text_start_in_tagged_text": 369
+    }, 
+    {
+      "entity_end_in_og_text": 415, 
+      "entity_start_in_og_text": 404, 
+      "entity": "authorities", 
+      "entity_tag_id": 16, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 390, 
+      "tag_text_start_in_tagged_text": 387
+    }, 
+    {
+      "entity_end_in_og_text": 434, 
+      "entity_start_in_og_text": 429, 
+      "entity": "their", 
+      "entity_tag_id": 17, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 407, 
+      "tag_text_start_in_tagged_text": 404
+    }, 
+    {
+      "entity_end_in_og_text": 461, 
+      "entity_start_in_og_text": 459, 
+      "entity": "He", 
+      "entity_tag_id": 18, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 435, 
+      "tag_text_start_in_tagged_text": 432
+    }, 
+    {
+      "entity_end_in_og_text": 513, 
+      "entity_start_in_og_text": 511, 
+      "entity": "he", 
+      "entity_tag_id": 19, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 488, 
+      "tag_text_start_in_tagged_text": 485
+    }, 
+    {
+      "entity_end_in_og_text": 549, 
+      "entity_start_in_og_text": 546, 
+      "entity": "his", 
+      "entity_tag_id": 20, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 524, 
+      "tag_text_start_in_tagged_text": 521
+    }, 
+    {
+      "entity_end_in_og_text": 564, 
+      "entity_start_in_og_text": 562, 
+      "entity": "He", 
+      "entity_tag_id": 21, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 540, 
+      "tag_text_start_in_tagged_text": 537
+    }, 
+    {
+      "entity_end_in_og_text": 610, 
+      "entity_start_in_og_text": 603, 
+      "entity": "himself", 
+      "entity_tag_id": 22, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 582, 
+      "tag_text_start_in_tagged_text": 579
+    }, 
+    {
+      "entity_end_in_og_text": 618, 
+      "entity_start_in_og_text": 615, 
+      "entity": "his", 
+      "entity_tag_id": 23, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 590, 
+      "tag_text_start_in_tagged_text": 587
+    }, 
+    {
+      "entity_end_in_og_text": 642, 
+      "entity_start_in_og_text": 634, 
+      "entity": "neighbor", 
+      "entity_tag_id": 24, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 609, 
+      "tag_text_start_in_tagged_text": 606
+    }, 
+    {
+      "entity_end_in_og_text": 656, 
+      "entity_start_in_og_text": 643, 
+      "entity": "Earlene Olson", 
+      "entity_tag_id": 25, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 613, 
+      "tag_text_start_in_tagged_text": 610
+    }, 
+    {
+      "entity_end_in_og_text": 662, 
+      "entity_start_in_og_text": 660, 
+      "entity": "He", 
+      "entity_tag_id": 26, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 620, 
+      "tag_text_start_in_tagged_text": 617
+    }, 
+    {
+      "entity_end_in_og_text": 680, 
+      "entity_start_in_og_text": 675, 
+      "entity": "lover", 
+      "entity_tag_id": 27, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 636, 
+      "tag_text_start_in_tagged_text": 633
+    }, 
+    {
+      "entity_end_in_og_text": 689, 
+      "entity_start_in_og_text": 683, 
+      "entity": "Others", 
+      "entity_tag_id": 28, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 642, 
+      "tag_text_start_in_tagged_text": 639
+    }, 
+    {
+      "entity_end_in_og_text": 782, 
+      "entity_start_in_og_text": 779, 
+      "entity": "you", 
+      "entity_tag_id": 29, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 735, 
+      "tag_text_start_in_tagged_text": 732
+    }, 
+    {
+      "entity_end_in_og_text": 790, 
+      "entity_start_in_og_text": 786, 
+      "entity": "your", 
+      "entity_tag_id": 30, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 742, 
+      "tag_text_start_in_tagged_text": 739
+    }, 
+    {
+      "entity_end_in_og_text": 799, 
+      "entity_start_in_og_text": 791, 
+      "entity": "children", 
+      "entity_tag_id": 31, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 746, 
+      "tag_text_start_in_tagged_text": 743
+    }, 
+    {
+      "entity_end_in_og_text": 807, 
+      "entity_start_in_og_text": 803, 
+      "entity": "your", 
+      "entity_tag_id": 32, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 753, 
+      "tag_text_start_in_tagged_text": 750
+    }, 
+    {
+      "entity_end_in_og_text": 833, 
+      "entity_start_in_og_text": 820, 
+      "entity": "Cindy McAyeal", 
+      "entity_tag_id": 33, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 769, 
+      "tag_text_start_in_tagged_text": 766
+    }, 
+    {
+      "entity_end_in_og_text": 854, 
+      "entity_start_in_og_text": 843, 
+      "entity": "Bear League", 
+      "entity_tag_id": 34, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 782, 
+      "tag_text_start_in_tagged_text": 779
+    }, 
+    {
+      "entity_end_in_og_text": 893, 
+      "entity_start_in_og_text": 888, 
+      "entity": "bears", 
+      "entity_tag_id": 35, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 819, 
+      "tag_text_start_in_tagged_text": 816
+    }, 
+    {
+      "entity_end_in_og_text": 907, 
+      "entity_start_in_og_text": 902, 
+      "entity": "their", 
+      "entity_tag_id": 36, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 831, 
+      "tag_text_start_in_tagged_text": 828
+    }, 
+    {
+      "entity_end_in_og_text": 930, 
+      "entity_start_in_og_text": 927, 
+      "entity": "You", 
+      "entity_tag_id": 37, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 854, 
+      "tag_text_start_in_tagged_text": 851
+    }, 
+    {
+      "entity_end_in_og_text": 991, 
+      "entity_start_in_og_text": 987, 
+      "entity": "your", 
+      "entity_tag_id": 38, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 914, 
+      "tag_text_start_in_tagged_text": 911
+    }, 
+    {
+      "entity_end_in_og_text": 1029, 
+      "entity_start_in_og_text": 1028, 
+      "entity": "I", 
+      "entity_tag_id": 39, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 954, 
+      "tag_text_start_in_tagged_text": 951
+    }, 
+    {
+      "entity_end_in_og_text": 1057, 
+      "entity_start_in_og_text": 1056, 
+      "entity": "I", 
+      "entity_tag_id": 40, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 984, 
+      "tag_text_start_in_tagged_text": 981
+    }, 
+    {
+      "entity_end_in_og_text": 1085, 
+      "entity_start_in_og_text": 1078, 
+      "entity": "McAyeal", 
+      "entity_tag_id": 41, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1008, 
+      "tag_text_start_in_tagged_text": 1005
+    }, 
+    {
+      "entity_end_in_og_text": 1094, 
+      "entity_start_in_og_text": 1091, 
+      "entity": "man", 
+      "entity_tag_id": 42, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1017, 
+      "tag_text_start_in_tagged_text": 1014
+    }, 
+    {
+      "entity_end_in_og_text": 1102, 
+      "entity_start_in_og_text": 1100, 
+      "entity": "he", 
+      "entity_tag_id": 43, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1026, 
+      "tag_text_start_in_tagged_text": 1023
+    }, 
+    {
+      "entity_end_in_og_text": 1139, 
+      "entity_start_in_og_text": 1137, 
+      "entity": "he", 
+      "entity_tag_id": 44, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1064, 
+      "tag_text_start_in_tagged_text": 1061
+    }
+  ], 
+  "og_text": "A bear was shot in an Auburn neighborhood Saturday morning by a man who said the animal was starting to charge at him and his dog.\nIt was a black bear weighing about 300 pounds.\nThe man who shot the bear, who did not want to be identified, said the bear had killed at least six chickens earlier that morning and was at his doorstep ready to attack him and his dog.\nAccording to the man, he tried calling authorities, but claimed their response time was slow. He said an hour passed before the bear returned and he was forced to take matters into his own hands.\n\"He had to have had some type of fear for himself and his animals,\" said neighbor Earlene Olson.  \"He's an animal lover.\"\nOthers say the shooting could have been prevented.  \"Black bears aren't necessarily looking for you or your children or your dogs,\" said Cindy McAyeal with the Bear League - a nonprofit that works to keep bears safe in their natural habitat.  \"You need a depredation permit to legally take a bear unless your life is in danger.  This situation, I don't know the situation, I wasn't there,\" said McAyeal.\nThe man said he didn't want to shoot the bear but he didn't know what else to do.", 
+  "json_to_link_og_text_with_tagged_events": [
+    {
+      "event": "shot", 
+      "tag_text_end_in_tagged_text": 17, 
+      "event_end_in_og_text": 15, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 11, 
+      "event_tag_id": 0, 
+      "tag_text_start_in_tagged_text": 11
+    }, 
+    {
+      "event": "charge", 
+      "tag_text_end_in_tagged_text": 107, 
+      "event_end_in_og_text": 110, 
+      "tag": "CHARGE-INDICT", 
+      "event_start_in_og_text": 104, 
+      "event_tag_id": 1, 
+      "tag_text_start_in_tagged_text": 94
+    }, 
+    {
+      "event": "shot", 
+      "tag_text_end_in_tagged_text": 193, 
+      "event_end_in_og_text": 194, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 190, 
+      "event_tag_id": 2, 
+      "tag_text_start_in_tagged_text": 187
+    }, 
+    {
+      "event": "killed", 
+      "tag_text_end_in_tagged_text": 259, 
+      "event_end_in_og_text": 264, 
+      "tag": "DIE", 
+      "event_start_in_og_text": 258, 
+      "event_tag_id": 3, 
+      "tag_text_start_in_tagged_text": 256
+    }, 
+    {
+      "event": "attack", 
+      "tag_text_end_in_tagged_text": 337, 
+      "event_end_in_og_text": 347, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 341, 
+      "event_tag_id": 4, 
+      "tag_text_start_in_tagged_text": 331
+    }, 
+    {
+      "event": "take", 
+      "tag_text_end_in_tagged_text": 520, 
+      "event_end_in_og_text": 532, 
+      "tag": "TRANSPORT", 
+      "event_start_in_og_text": 528, 
+      "event_tag_id": 5, 
+      "tag_text_start_in_tagged_text": 511
+    }, 
+    {
+      "event": "shoot", 
+      "tag_text_end_in_tagged_text": 1061, 
+      "event_end_in_og_text": 1123, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 1118, 
+      "event_tag_id": 6, 
+      "tag_text_start_in_tagged_text": 1055
+    }
+  ]
+}

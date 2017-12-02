@@ -20,7 +20,7 @@ class Relationship:
         self.load_ontology()
         self.load_tagged_list()
         self.create_lookup()
-        self.show_all_tagged()
+        #self.show_all_tagged()
 
     def create_lookup(self):
         self.entity_lookup = []
@@ -236,8 +236,6 @@ for entity in rel.jsondata['json_to_link_og_text_with_tagged_entities']:
     print(str(entity['entity_tag_id']) + " - " + entity['tag'] + " - " + entity['entity'])
 print("")
 
-"""
-
 print("***Finding Relationships...")
 result = rel.scan_text()
 print("")
@@ -268,6 +266,5 @@ for item in result:
     if item[6] == 'none':
         g = rel.other_lookup[item[5]]
     print("    ["+ item[6] + "] - " + rel.og_text[g[3]:g[4]])
+    i += 1
 print("\n\n...done\n\n")
-
-"""

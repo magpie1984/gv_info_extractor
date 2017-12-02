@@ -1,1 +1,494 @@
-{"xml_info_entitites": [["GPE", "Atlantic City", "75", "87"], ["PER", "Wyo", "90", "92"], ["PER", "Joe Henderson", "107", "119"], ["PER", "himself", "180", "186"], ["WEA", "handgun", "217", "223"], ["PER", "Undersheriff Ryan Lee", "226", "246"], ["PER", "man", "261", "263"], ["PER", "men", "304", "306"], ["GPE", "Atlantic City", "315", "327"], ["LOC", "area", "329", "332"], ["PER", "victim", "352", "357"], ["PER", "witnesses", "363", "371"], ["PER", "man", "386", "388"], ["WEA", "gun", "411", "413"], ["VEH", "vehicle", "456", "462"], ["PER", "Lee", "465", "467"], ["WEA", "weapon", "497", "502"], ["WEA", "round", "521", "525"], ["PER", "mans", "539", "542"], ["PER", "friends", "595", "601"], ["PER", "Lander", "617", "622"], ["ORG", "Fremont County Ambulance", "683", "706"], ["PER", "man", "713", "715"], ["FAC", "Hospital", "746", "753"], ["PER", "he", "773", "774"], ["FAC", "facility", "807", "814"], ["GPE", "state", "823", "827"]], "tagged_text": "GPE, PER. 26-year-old PER was INJURE Saturday afternoon after accidentally shooting PER in the leg witha .40 caliber WEA, PER reports. The PER had been on an outing with three other PER in the GPE LOC. According to the PER and PER, the injured PER was manipulating the WEA while sitting in the drivers seat of the VEH, PER said in a news release. The WEA discharged and a WEA entered the PER right leg, apparently breaking the femur. The mans PER TRANSPORT towards PER and were eventually intercepted by Deputy Sheriffs and the ORG. The PER was TRANSPORT to Lander Regional FAC; reports indicate PER was later TRANSPORT to another FAC out of GPE.", "xml_info_events": [["Injure", [["injured", "125", "131"]]], ["Transport", [["drove", "603", "607"]]], ["Transport", [["taken", "721", "725"]]], ["Transport", [["airlifted", "786", "794"]]]], "file": "0.txt", "json_to_link_og_text_with_tagged_entities": [{"entity_end_in_og_text": 13, "entity_start_in_og_text": 0, "entity": "Atlantic City", "entity_tag_id": 0, "tag": "GPE", "tag_text_end_in_tagged_text": 3, "tag_text_start_in_tagged_text": 0}, {"entity_end_in_og_text": 18, "entity_start_in_og_text": 15, "entity": "Wyo", "entity_tag_id": 1, "tag": "PER", "tag_text_end_in_tagged_text": 8, "tag_text_start_in_tagged_text": 5}, {"entity_end_in_og_text": 45, "entity_start_in_og_text": 32, "entity": "Joe Henderson", "entity_tag_id": 2, "tag": "PER", "tag_text_end_in_tagged_text": 25, "tag_text_start_in_tagged_text": 22}, {"entity_end_in_og_text": 112, "entity_start_in_og_text": 105, "entity": "himself", "entity_tag_id": 3, "tag": "PER", "tag_text_end_in_tagged_text": 88, "tag_text_start_in_tagged_text": 85}, {"entity_end_in_og_text": 149, "entity_start_in_og_text": 142, "entity": "handgun", "entity_tag_id": 4, "tag": "WEA", "tag_text_end_in_tagged_text": 121, "tag_text_start_in_tagged_text": 118}, {"entity_end_in_og_text": 172, "entity_start_in_og_text": 151, "entity": "Undersheriff Ryan Lee", "entity_tag_id": 5, "tag": "PER", "tag_text_end_in_tagged_text": 126, "tag_text_start_in_tagged_text": 123}, {"entity_end_in_og_text": 189, "entity_start_in_og_text": 186, "entity": "man", "entity_tag_id": 6, "tag": "PER", "tag_text_end_in_tagged_text": 143, "tag_text_start_in_tagged_text": 140}, {"entity_end_in_og_text": 232, "entity_start_in_og_text": 229, "entity": "men", "entity_tag_id": 7, "tag": "PER", "tag_text_end_in_tagged_text": 186, "tag_text_start_in_tagged_text": 183}, {"entity_end_in_og_text": 253, "entity_start_in_og_text": 240, "entity": "Atlantic City", "entity_tag_id": 8, "tag": "GPE", "tag_text_end_in_tagged_text": 197, "tag_text_start_in_tagged_text": 194}, {"entity_end_in_og_text": 258, "entity_start_in_og_text": 254, "entity": "area", "entity_tag_id": 9, "tag": "LOC", "tag_text_end_in_tagged_text": 201, "tag_text_start_in_tagged_text": 198}, {"entity_end_in_og_text": 283, "entity_start_in_og_text": 277, "entity": "victim", "entity_tag_id": 10, "tag": "PER", "tag_text_end_in_tagged_text": 223, "tag_text_start_in_tagged_text": 220}, {"entity_end_in_og_text": 297, "entity_start_in_og_text": 288, "entity": "witnesses", "entity_tag_id": 11, "tag": "PER", "tag_text_end_in_tagged_text": 231, "tag_text_start_in_tagged_text": 228}, {"entity_end_in_og_text": 314, "entity_start_in_og_text": 311, "entity": "man", "entity_tag_id": 12, "tag": "PER", "tag_text_end_in_tagged_text": 248, "tag_text_start_in_tagged_text": 245}, {"entity_end_in_og_text": 339, "entity_start_in_og_text": 336, "entity": "gun", "entity_tag_id": 13, "tag": "WEA", "tag_text_end_in_tagged_text": 273, "tag_text_start_in_tagged_text": 270}, {"entity_end_in_og_text": 388, "entity_start_in_og_text": 381, "entity": "vehicle", "entity_tag_id": 14, "tag": "VEH", "tag_text_end_in_tagged_text": 318, "tag_text_start_in_tagged_text": 315}, {"entity_end_in_og_text": 393, "entity_start_in_og_text": 390, "entity": "Lee", "entity_tag_id": 15, "tag": "PER", "tag_text_end_in_tagged_text": 323, "tag_text_start_in_tagged_text": 320}, {"entity_end_in_og_text": 428, "entity_start_in_og_text": 422, "entity": "weapon", "entity_tag_id": 16, "tag": "WEA", "tag_text_end_in_tagged_text": 355, "tag_text_start_in_tagged_text": 352}, {"entity_end_in_og_text": 451, "entity_start_in_og_text": 446, "entity": "round", "entity_tag_id": 17, "tag": "WEA", "tag_text_end_in_tagged_text": 376, "tag_text_start_in_tagged_text": 373}, {"entity_end_in_og_text": 468, "entity_start_in_og_text": 464, "entity": "mans", "entity_tag_id": 18, "tag": "PER", "tag_text_end_in_tagged_text": 392, "tag_text_start_in_tagged_text": 389}, {"entity_end_in_og_text": 527, "entity_start_in_og_text": 520, "entity": "friends", "entity_tag_id": 19, "tag": "PER", "tag_text_end_in_tagged_text": 447, "tag_text_start_in_tagged_text": 444}, {"entity_end_in_og_text": 548, "entity_start_in_og_text": 542, "entity": "Lander", "entity_tag_id": 20, "tag": "PER", "tag_text_end_in_tagged_text": 465, "tag_text_start_in_tagged_text": 462}, {"entity_end_in_og_text": 632, "entity_start_in_og_text": 608, "entity": "Fremont County Ambulance", "entity_tag_id": 21, "tag": "ORG", "tag_text_end_in_tagged_text": 528, "tag_text_start_in_tagged_text": 525}, {"entity_end_in_og_text": 641, "entity_start_in_og_text": 638, "entity": "man", "entity_tag_id": 22, "tag": "PER", "tag_text_end_in_tagged_text": 537, "tag_text_start_in_tagged_text": 534}, {"entity_end_in_og_text": 679, "entity_start_in_og_text": 671, "entity": "Hospital", "entity_tag_id": 23, "tag": "FAC", "tag_text_end_in_tagged_text": 570, "tag_text_start_in_tagged_text": 567}, {"entity_end_in_og_text": 700, "entity_start_in_og_text": 698, "entity": "he", "entity_tag_id": 24, "tag": "PER", "tag_text_end_in_tagged_text": 592, "tag_text_start_in_tagged_text": 589}, {"entity_end_in_og_text": 740, "entity_start_in_og_text": 732, "entity": "facility", "entity_tag_id": 25, "tag": "FAC", "tag_text_end_in_tagged_text": 627, "tag_text_start_in_tagged_text": 624}, {"entity_end_in_og_text": 753, "entity_start_in_og_text": 748, "entity": "state", "entity_tag_id": 26, "tag": "GPE", "tag_text_end_in_tagged_text": 638, "tag_text_start_in_tagged_text": 635}], "og_text": "Atlantic City, Wyo. 26-year-old Joe Henderson was injured Saturday afternoon after accidentally shooting himself in the leg witha .40 caliber handgun, Undersheriff Ryan Lee reports. The man had been on an outing with three other men in the Atlantic City area. According to the victim and witnesses, the injured man was manipulating the gun while sitting in the drivers seat of the vehicle, Lee said in a news release. The weapon discharged and a round entered the mans right leg, apparently breaking the femur. The mans friends drove towards Lander and were eventually intercepted by Deputy Sheriffs and the Fremont County Ambulance. The man was taken to Lander Regional Hospital; reports indicate he was later airlifted to another facility out of state.", "json_to_link_og_text_with_tagged_events": [{"event": "injured", "tag_text_end_in_tagged_text": 36, "event_end_in_og_text": 57, "tag": "INJURE", "event_start_in_og_text": 50, "event_tag_id": 0, "tag_text_start_in_tagged_text": 30}, {"event": "drove", "tag_text_end_in_tagged_text": 456, "event_end_in_og_text": 533, "tag": "TRANSPORT", "event_start_in_og_text": 528, "event_tag_id": 1, "tag_text_start_in_tagged_text": 447}, {"event": "taken", "tag_text_end_in_tagged_text": 554, "event_end_in_og_text": 651, "tag": "TRANSPORT", "event_start_in_og_text": 646, "event_tag_id": 2, "tag_text_start_in_tagged_text": 545}, {"event": "airlifted", "tag_text_end_in_tagged_text": 619, "event_end_in_og_text": 720, "tag": "TRANSPORT", "event_start_in_og_text": 711, "event_tag_id": 3, "tag_text_start_in_tagged_text": 610}]}
+{
+  "xml_info_entitites": [
+    [
+      "GPE", 
+      "Atlantic City", 
+      "75", 
+      "87"
+    ], 
+    [
+      "PER", 
+      "Wyo", 
+      "90", 
+      "92"
+    ], 
+    [
+      "PER", 
+      "Joe Henderson", 
+      "107", 
+      "119"
+    ], 
+    [
+      "PER", 
+      "himself", 
+      "180", 
+      "186"
+    ], 
+    [
+      "WEA", 
+      "handgun", 
+      "217", 
+      "223"
+    ], 
+    [
+      "PER", 
+      "Undersheriff Ryan Lee", 
+      "226", 
+      "246"
+    ], 
+    [
+      "PER", 
+      "man", 
+      "261", 
+      "263"
+    ], 
+    [
+      "PER", 
+      "men", 
+      "304", 
+      "306"
+    ], 
+    [
+      "GPE", 
+      "Atlantic City", 
+      "315", 
+      "327"
+    ], 
+    [
+      "LOC", 
+      "area", 
+      "329", 
+      "332"
+    ], 
+    [
+      "PER", 
+      "victim", 
+      "352", 
+      "357"
+    ], 
+    [
+      "PER", 
+      "witnesses", 
+      "363", 
+      "371"
+    ], 
+    [
+      "PER", 
+      "man", 
+      "386", 
+      "388"
+    ], 
+    [
+      "WEA", 
+      "gun", 
+      "411", 
+      "413"
+    ], 
+    [
+      "VEH", 
+      "vehicle", 
+      "456", 
+      "462"
+    ], 
+    [
+      "PER", 
+      "Lee", 
+      "465", 
+      "467"
+    ], 
+    [
+      "WEA", 
+      "weapon", 
+      "497", 
+      "502"
+    ], 
+    [
+      "WEA", 
+      "round", 
+      "521", 
+      "525"
+    ], 
+    [
+      "PER", 
+      "mans", 
+      "539", 
+      "542"
+    ], 
+    [
+      "PER", 
+      "friends", 
+      "595", 
+      "601"
+    ], 
+    [
+      "PER", 
+      "Lander", 
+      "617", 
+      "622"
+    ], 
+    [
+      "ORG", 
+      "Fremont County Ambulance", 
+      "683", 
+      "706"
+    ], 
+    [
+      "PER", 
+      "man", 
+      "713", 
+      "715"
+    ], 
+    [
+      "FAC", 
+      "Hospital", 
+      "746", 
+      "753"
+    ], 
+    [
+      "PER", 
+      "he", 
+      "773", 
+      "774"
+    ], 
+    [
+      "FAC", 
+      "facility", 
+      "807", 
+      "814"
+    ], 
+    [
+      "GPE", 
+      "state", 
+      "823", 
+      "827"
+    ]
+  ], 
+  "tagged_text": "GPE, PER. 26-year-old PER was INJURE Saturday afternoon after accidentally shooting PER in the leg witha .40 caliber WEA, PER reports. The PER had been on an outing with three other PER in the GPE LOC. According to the PER and PER, the injured PER was manipulating the WEA while sitting in the drivers seat of the VEH, PER said in a news release. The WEA discharged and a WEA entered the PER right leg, apparently breaking the femur. The mans PER TRANSPORT towards PER and were eventually intercepted by Deputy Sheriffs and the ORG. The PER was TRANSPORT to Lander Regional FAC; reports indicate PER was later TRANSPORT to another FAC out of GPE.", 
+  "xml_info_events": [
+    [
+      "Injure", 
+      [
+        [
+          "injured", 
+          "125", 
+          "131"
+        ]
+      ]
+    ], 
+    [
+      "Transport", 
+      [
+        [
+          "drove", 
+          "603", 
+          "607"
+        ]
+      ]
+    ], 
+    [
+      "Transport", 
+      [
+        [
+          "taken", 
+          "721", 
+          "725"
+        ]
+      ]
+    ], 
+    [
+      "Transport", 
+      [
+        [
+          "airlifted", 
+          "786", 
+          "794"
+        ]
+      ]
+    ]
+  ], 
+  "file": "0.txt", 
+  "json_to_link_og_text_with_tagged_entities": [
+    {
+      "entity_end_in_og_text": 13, 
+      "entity_start_in_og_text": 0, 
+      "entity": "Atlantic City", 
+      "entity_tag_id": 0, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 3, 
+      "tag_text_start_in_tagged_text": 0
+    }, 
+    {
+      "entity_end_in_og_text": 18, 
+      "entity_start_in_og_text": 15, 
+      "entity": "Wyo", 
+      "entity_tag_id": 1, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 8, 
+      "tag_text_start_in_tagged_text": 5
+    }, 
+    {
+      "entity_end_in_og_text": 45, 
+      "entity_start_in_og_text": 32, 
+      "entity": "Joe Henderson", 
+      "entity_tag_id": 2, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 25, 
+      "tag_text_start_in_tagged_text": 22
+    }, 
+    {
+      "entity_end_in_og_text": 112, 
+      "entity_start_in_og_text": 105, 
+      "entity": "himself", 
+      "entity_tag_id": 3, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 88, 
+      "tag_text_start_in_tagged_text": 85
+    }, 
+    {
+      "entity_end_in_og_text": 149, 
+      "entity_start_in_og_text": 142, 
+      "entity": "handgun", 
+      "entity_tag_id": 4, 
+      "tag": "WEA", 
+      "tag_text_end_in_tagged_text": 121, 
+      "tag_text_start_in_tagged_text": 118
+    }, 
+    {
+      "entity_end_in_og_text": 172, 
+      "entity_start_in_og_text": 151, 
+      "entity": "Undersheriff Ryan Lee", 
+      "entity_tag_id": 5, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 126, 
+      "tag_text_start_in_tagged_text": 123
+    }, 
+    {
+      "entity_end_in_og_text": 189, 
+      "entity_start_in_og_text": 186, 
+      "entity": "man", 
+      "entity_tag_id": 6, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 143, 
+      "tag_text_start_in_tagged_text": 140
+    }, 
+    {
+      "entity_end_in_og_text": 232, 
+      "entity_start_in_og_text": 229, 
+      "entity": "men", 
+      "entity_tag_id": 7, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 186, 
+      "tag_text_start_in_tagged_text": 183
+    }, 
+    {
+      "entity_end_in_og_text": 253, 
+      "entity_start_in_og_text": 240, 
+      "entity": "Atlantic City", 
+      "entity_tag_id": 8, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 197, 
+      "tag_text_start_in_tagged_text": 194
+    }, 
+    {
+      "entity_end_in_og_text": 258, 
+      "entity_start_in_og_text": 254, 
+      "entity": "area", 
+      "entity_tag_id": 9, 
+      "tag": "LOC", 
+      "tag_text_end_in_tagged_text": 201, 
+      "tag_text_start_in_tagged_text": 198
+    }, 
+    {
+      "entity_end_in_og_text": 283, 
+      "entity_start_in_og_text": 277, 
+      "entity": "victim", 
+      "entity_tag_id": 10, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 223, 
+      "tag_text_start_in_tagged_text": 220
+    }, 
+    {
+      "entity_end_in_og_text": 297, 
+      "entity_start_in_og_text": 288, 
+      "entity": "witnesses", 
+      "entity_tag_id": 11, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 231, 
+      "tag_text_start_in_tagged_text": 228
+    }, 
+    {
+      "entity_end_in_og_text": 314, 
+      "entity_start_in_og_text": 311, 
+      "entity": "man", 
+      "entity_tag_id": 12, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 248, 
+      "tag_text_start_in_tagged_text": 245
+    }, 
+    {
+      "entity_end_in_og_text": 339, 
+      "entity_start_in_og_text": 336, 
+      "entity": "gun", 
+      "entity_tag_id": 13, 
+      "tag": "WEA", 
+      "tag_text_end_in_tagged_text": 273, 
+      "tag_text_start_in_tagged_text": 270
+    }, 
+    {
+      "entity_end_in_og_text": 388, 
+      "entity_start_in_og_text": 381, 
+      "entity": "vehicle", 
+      "entity_tag_id": 14, 
+      "tag": "VEH", 
+      "tag_text_end_in_tagged_text": 318, 
+      "tag_text_start_in_tagged_text": 315
+    }, 
+    {
+      "entity_end_in_og_text": 393, 
+      "entity_start_in_og_text": 390, 
+      "entity": "Lee", 
+      "entity_tag_id": 15, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 323, 
+      "tag_text_start_in_tagged_text": 320
+    }, 
+    {
+      "entity_end_in_og_text": 428, 
+      "entity_start_in_og_text": 422, 
+      "entity": "weapon", 
+      "entity_tag_id": 16, 
+      "tag": "WEA", 
+      "tag_text_end_in_tagged_text": 355, 
+      "tag_text_start_in_tagged_text": 352
+    }, 
+    {
+      "entity_end_in_og_text": 451, 
+      "entity_start_in_og_text": 446, 
+      "entity": "round", 
+      "entity_tag_id": 17, 
+      "tag": "WEA", 
+      "tag_text_end_in_tagged_text": 376, 
+      "tag_text_start_in_tagged_text": 373
+    }, 
+    {
+      "entity_end_in_og_text": 468, 
+      "entity_start_in_og_text": 464, 
+      "entity": "mans", 
+      "entity_tag_id": 18, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 392, 
+      "tag_text_start_in_tagged_text": 389
+    }, 
+    {
+      "entity_end_in_og_text": 527, 
+      "entity_start_in_og_text": 520, 
+      "entity": "friends", 
+      "entity_tag_id": 19, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 447, 
+      "tag_text_start_in_tagged_text": 444
+    }, 
+    {
+      "entity_end_in_og_text": 548, 
+      "entity_start_in_og_text": 542, 
+      "entity": "Lander", 
+      "entity_tag_id": 20, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 465, 
+      "tag_text_start_in_tagged_text": 462
+    }, 
+    {
+      "entity_end_in_og_text": 632, 
+      "entity_start_in_og_text": 608, 
+      "entity": "Fremont County Ambulance", 
+      "entity_tag_id": 21, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 528, 
+      "tag_text_start_in_tagged_text": 525
+    }, 
+    {
+      "entity_end_in_og_text": 641, 
+      "entity_start_in_og_text": 638, 
+      "entity": "man", 
+      "entity_tag_id": 22, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 537, 
+      "tag_text_start_in_tagged_text": 534
+    }, 
+    {
+      "entity_end_in_og_text": 679, 
+      "entity_start_in_og_text": 671, 
+      "entity": "Hospital", 
+      "entity_tag_id": 23, 
+      "tag": "FAC", 
+      "tag_text_end_in_tagged_text": 570, 
+      "tag_text_start_in_tagged_text": 567
+    }, 
+    {
+      "entity_end_in_og_text": 700, 
+      "entity_start_in_og_text": 698, 
+      "entity": "he", 
+      "entity_tag_id": 24, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 592, 
+      "tag_text_start_in_tagged_text": 589
+    }, 
+    {
+      "entity_end_in_og_text": 740, 
+      "entity_start_in_og_text": 732, 
+      "entity": "facility", 
+      "entity_tag_id": 25, 
+      "tag": "FAC", 
+      "tag_text_end_in_tagged_text": 627, 
+      "tag_text_start_in_tagged_text": 624
+    }, 
+    {
+      "entity_end_in_og_text": 753, 
+      "entity_start_in_og_text": 748, 
+      "entity": "state", 
+      "entity_tag_id": 26, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 638, 
+      "tag_text_start_in_tagged_text": 635
+    }
+  ], 
+  "og_text": "Atlantic City, Wyo. 26-year-old Joe Henderson was injured Saturday afternoon after accidentally shooting himself in the leg witha .40 caliber handgun, Undersheriff Ryan Lee reports. The man had been on an outing with three other men in the Atlantic City area. According to the victim and witnesses, the injured man was manipulating the gun while sitting in the drivers seat of the vehicle, Lee said in a news release. The weapon discharged and a round entered the mans right leg, apparently breaking the femur. The mans friends drove towards Lander and were eventually intercepted by Deputy Sheriffs and the Fremont County Ambulance. The man was taken to Lander Regional Hospital; reports indicate he was later airlifted to another facility out of state.", 
+  "json_to_link_og_text_with_tagged_events": [
+    {
+      "event": "injured", 
+      "tag_text_end_in_tagged_text": 36, 
+      "event_end_in_og_text": 57, 
+      "tag": "INJURE", 
+      "event_start_in_og_text": 50, 
+      "event_tag_id": 0, 
+      "tag_text_start_in_tagged_text": 30
+    }, 
+    {
+      "event": "drove", 
+      "tag_text_end_in_tagged_text": 456, 
+      "event_end_in_og_text": 533, 
+      "tag": "TRANSPORT", 
+      "event_start_in_og_text": 528, 
+      "event_tag_id": 1, 
+      "tag_text_start_in_tagged_text": 447
+    }, 
+    {
+      "event": "taken", 
+      "tag_text_end_in_tagged_text": 554, 
+      "event_end_in_og_text": 651, 
+      "tag": "TRANSPORT", 
+      "event_start_in_og_text": 646, 
+      "event_tag_id": 2, 
+      "tag_text_start_in_tagged_text": 545
+    }, 
+    {
+      "event": "airlifted", 
+      "tag_text_end_in_tagged_text": 619, 
+      "event_end_in_og_text": 720, 
+      "tag": "TRANSPORT", 
+      "event_start_in_og_text": 711, 
+      "event_tag_id": 3, 
+      "tag_text_start_in_tagged_text": 610
+    }
+  ]
+}

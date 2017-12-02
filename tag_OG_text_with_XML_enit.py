@@ -173,8 +173,8 @@ if __name__ == '__main__':
             doc_tagged = tag_og_text_with_entities(og_text, xml_info)#tag_og_text(og_xml, xml_info)#tag_og_text(og_text, xml_info)
             doc_tagged = tag_og_text_with_events(doc_tagged, og_text, xml_info)
             doc_tagged["file"] = gs_file
-            print doc_tagged
-            json.dump(doc_tagged, open("DATASET_FOR_FINAL/tagged_" + gs_file.replace(".txt",".json"), "w"))
+            #print doc_tagged
+            json.dump(doc_tagged, open("DATASET_FOR_FINAL/tagged_" + gs_file.replace(".txt",".json"), "w"), indent=2, ensure_ascii=True)
             #exit()
 
 # input_filename = sys.argv[1]

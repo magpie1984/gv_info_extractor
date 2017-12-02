@@ -1,1 +1,445 @@
-{"xml_info_entitites": [["PER", "PUYALLUP", "139", "146"], ["PER", "Wash", "149", "152"], ["GPE", "Pierce County", "166", "178"], ["PER", "Sheriff", "180", "186"], ["ORG", "Office", "190", "195"], ["PER", "man", "216", "218"], ["PER", "his", "236", "238"], ["PER", "girlfriend", "252", "261"], ["PER", "himself", "272", "278"], ["PER", "her", "287", "289"], ["FAC", "home", "291", "294"], ["PER", "Puyallup", "301", "308"], ["ORG", "News Tribune", "315", "326"], ["PER", "victim", "368", "373"], ["PER", "daughter", "385", "392"], ["PER", "sister", "398", "403"], ["PER", "Investigators", "446", "458"], ["PER", "woman", "469", "473"], ["PER", "man", "506", "508"], ["PER", "whom", "516", "519"], ["PER", "she", "521", "523"], ["PER", "Sheriff", "586", "592"], ["PER", "spokesman", "596", "604"], ["PER", "Ed Troyer", "606", "614"], ["PER", "neighbors", "685", "693"]], "tagged_text": "PER, PER. (AP) - The GPE PER's ORG says a 31-year-old PER ATTACK and DIE PER 34-year-old PER and then PER inside PER FAC near PER.\nThe ORG reports (http://is.gd/MDGo2c ) that the PER's teenage PER and PER found the bodies about 1:30 a.m. Monday.\nPER said the PER lived at a duplex and that the PER, with PER PER had an on-again, off-again relationship, did not live there.\nPER's PER PER said the ATTACK likely happened late Saturday or early Sunday, but PER did not hear the shots.", "xml_info_events": [["Attack", [["shot", "220", "223"]]], ["Die", [["killed", "229", "234"]]], ["Attack", [["shooting", "625", "632"]]]], "file": "45.txt", "json_to_link_og_text_with_tagged_entities": [{"entity_end_in_og_text": 8, "entity_start_in_og_text": 0, "entity": "PUYALLUP", "entity_tag_id": 0, "tag": "PER", "tag_text_end_in_tagged_text": 3, "tag_text_start_in_tagged_text": 0}, {"entity_end_in_og_text": 14, "entity_start_in_og_text": 10, "entity": "Wash", "entity_tag_id": 1, "tag": "PER", "tag_text_end_in_tagged_text": 8, "tag_text_start_in_tagged_text": 5}, {"entity_end_in_og_text": 40, "entity_start_in_og_text": 27, "entity": "Pierce County", "entity_tag_id": 2, "tag": "GPE", "tag_text_end_in_tagged_text": 24, "tag_text_start_in_tagged_text": 21}, {"entity_end_in_og_text": 48, "entity_start_in_og_text": 41, "entity": "Sheriff", "entity_tag_id": 3, "tag": "PER", "tag_text_end_in_tagged_text": 28, "tag_text_start_in_tagged_text": 25}, {"entity_end_in_og_text": 57, "entity_start_in_og_text": 51, "entity": "Office", "entity_tag_id": 4, "tag": "ORG", "tag_text_end_in_tagged_text": 34, "tag_text_start_in_tagged_text": 31}, {"entity_end_in_og_text": 80, "entity_start_in_og_text": 77, "entity": "man", "entity_tag_id": 5, "tag": "PER", "tag_text_end_in_tagged_text": 57, "tag_text_start_in_tagged_text": 54}, {"entity_end_in_og_text": 100, "entity_start_in_og_text": 97, "entity": "his", "entity_tag_id": 6, "tag": "PER", "tag_text_end_in_tagged_text": 77, "tag_text_start_in_tagged_text": 74}, {"entity_end_in_og_text": 123, "entity_start_in_og_text": 113, "entity": "girlfriend", "entity_tag_id": 7, "tag": "PER", "tag_text_end_in_tagged_text": 93, "tag_text_start_in_tagged_text": 90}, {"entity_end_in_og_text": 140, "entity_start_in_og_text": 133, "entity": "himself", "entity_tag_id": 8, "tag": "PER", "tag_text_end_in_tagged_text": 106, "tag_text_start_in_tagged_text": 103}, {"entity_end_in_og_text": 151, "entity_start_in_og_text": 148, "entity": "her", "entity_tag_id": 9, "tag": "PER", "tag_text_end_in_tagged_text": 117, "tag_text_start_in_tagged_text": 114}, {"entity_end_in_og_text": 156, "entity_start_in_og_text": 152, "entity": "home", "entity_tag_id": 10, "tag": "FAC", "tag_text_end_in_tagged_text": 121, "tag_text_start_in_tagged_text": 118}, {"entity_end_in_og_text": 170, "entity_start_in_og_text": 162, "entity": "Puyallup", "entity_tag_id": 11, "tag": "PER", "tag_text_end_in_tagged_text": 130, "tag_text_start_in_tagged_text": 127}, {"entity_end_in_og_text": 188, "entity_start_in_og_text": 176, "entity": "News Tribune", "entity_tag_id": 12, "tag": "ORG", "tag_text_end_in_tagged_text": 139, "tag_text_start_in_tagged_text": 136}, {"entity_end_in_og_text": 235, "entity_start_in_og_text": 229, "entity": "victim", "entity_tag_id": 13, "tag": "PER", "tag_text_end_in_tagged_text": 183, "tag_text_start_in_tagged_text": 180}, {"entity_end_in_og_text": 254, "entity_start_in_og_text": 246, "entity": "daughter", "entity_tag_id": 14, "tag": "PER", "tag_text_end_in_tagged_text": 197, "tag_text_start_in_tagged_text": 194}, {"entity_end_in_og_text": 265, "entity_start_in_og_text": 259, "entity": "sister", "entity_tag_id": 15, "tag": "PER", "tag_text_end_in_tagged_text": 205, "tag_text_start_in_tagged_text": 202}, {"entity_end_in_og_text": 320, "entity_start_in_og_text": 307, "entity": "Investigators", "entity_tag_id": 16, "tag": "PER", "tag_text_end_in_tagged_text": 250, "tag_text_start_in_tagged_text": 247}, {"entity_end_in_og_text": 335, "entity_start_in_og_text": 330, "entity": "woman", "entity_tag_id": 17, "tag": "PER", "tag_text_end_in_tagged_text": 263, "tag_text_start_in_tagged_text": 260}, {"entity_end_in_og_text": 370, "entity_start_in_og_text": 367, "entity": "man", "entity_tag_id": 18, "tag": "PER", "tag_text_end_in_tagged_text": 298, "tag_text_start_in_tagged_text": 295}, {"entity_end_in_og_text": 381, "entity_start_in_og_text": 377, "entity": "whom", "entity_tag_id": 19, "tag": "PER", "tag_text_end_in_tagged_text": 308, "tag_text_start_in_tagged_text": 305}, {"entity_end_in_og_text": 385, "entity_start_in_og_text": 382, "entity": "she", "entity_tag_id": 20, "tag": "PER", "tag_text_end_in_tagged_text": 312, "tag_text_start_in_tagged_text": 309}, {"entity_end_in_og_text": 454, "entity_start_in_og_text": 447, "entity": "Sheriff", "entity_tag_id": 21, "tag": "PER", "tag_text_end_in_tagged_text": 377, "tag_text_start_in_tagged_text": 374}, {"entity_end_in_og_text": 466, "entity_start_in_og_text": 457, "entity": "spokesman", "entity_tag_id": 22, "tag": "PER", "tag_text_end_in_tagged_text": 383, "tag_text_start_in_tagged_text": 380}, {"entity_end_in_og_text": 476, "entity_start_in_og_text": 467, "entity": "Ed Troyer", "entity_tag_id": 23, "tag": "PER", "tag_text_end_in_tagged_text": 387, "tag_text_start_in_tagged_text": 384}, {"entity_end_in_og_text": 555, "entity_start_in_og_text": 546, "entity": "neighbors", "entity_tag_id": 24, "tag": "PER", "tag_text_end_in_tagged_text": 460, "tag_text_start_in_tagged_text": 457}], "og_text": "PUYALLUP, Wash. (AP) - The Pierce County Sheriff's Office says a 31-year-old man shot and killed his 34-year-old girlfriend and then himself inside her home near Puyallup.\nThe News Tribune reports (http://is.gd/MDGo2c ) that the victim's teenage daughter and sister found the bodies about 1:30 a.m. Monday.\nInvestigators said the woman lived at a duplex and that the man, with whom she had an on-again, off-again relationship, did not live there.\nSheriff's spokesman Ed Troyer said the shooting likely happened late Saturday or early Sunday, but neighbors did not hear the shots.", "json_to_link_og_text_with_tagged_events": [{"event": "shot", "tag_text_end_in_tagged_text": 64, "event_end_in_og_text": 85, "tag": "ATTACK", "event_start_in_og_text": 81, "event_tag_id": 0, "tag_text_start_in_tagged_text": 58}, {"event": "killed", "tag_text_end_in_tagged_text": 72, "event_end_in_og_text": 96, "tag": "DIE", "event_start_in_og_text": 90, "event_tag_id": 1, "tag_text_start_in_tagged_text": 69}, {"event": "shooting", "tag_text_end_in_tagged_text": 402, "event_end_in_og_text": 494, "tag": "ATTACK", "event_start_in_og_text": 486, "event_tag_id": 2, "tag_text_start_in_tagged_text": 396}]}
+{
+  "xml_info_entitites": [
+    [
+      "PER", 
+      "PUYALLUP", 
+      "139", 
+      "146"
+    ], 
+    [
+      "PER", 
+      "Wash", 
+      "149", 
+      "152"
+    ], 
+    [
+      "GPE", 
+      "Pierce County", 
+      "166", 
+      "178"
+    ], 
+    [
+      "PER", 
+      "Sheriff", 
+      "180", 
+      "186"
+    ], 
+    [
+      "ORG", 
+      "Office", 
+      "190", 
+      "195"
+    ], 
+    [
+      "PER", 
+      "man", 
+      "216", 
+      "218"
+    ], 
+    [
+      "PER", 
+      "his", 
+      "236", 
+      "238"
+    ], 
+    [
+      "PER", 
+      "girlfriend", 
+      "252", 
+      "261"
+    ], 
+    [
+      "PER", 
+      "himself", 
+      "272", 
+      "278"
+    ], 
+    [
+      "PER", 
+      "her", 
+      "287", 
+      "289"
+    ], 
+    [
+      "FAC", 
+      "home", 
+      "291", 
+      "294"
+    ], 
+    [
+      "PER", 
+      "Puyallup", 
+      "301", 
+      "308"
+    ], 
+    [
+      "ORG", 
+      "News Tribune", 
+      "315", 
+      "326"
+    ], 
+    [
+      "PER", 
+      "victim", 
+      "368", 
+      "373"
+    ], 
+    [
+      "PER", 
+      "daughter", 
+      "385", 
+      "392"
+    ], 
+    [
+      "PER", 
+      "sister", 
+      "398", 
+      "403"
+    ], 
+    [
+      "PER", 
+      "Investigators", 
+      "446", 
+      "458"
+    ], 
+    [
+      "PER", 
+      "woman", 
+      "469", 
+      "473"
+    ], 
+    [
+      "PER", 
+      "man", 
+      "506", 
+      "508"
+    ], 
+    [
+      "PER", 
+      "whom", 
+      "516", 
+      "519"
+    ], 
+    [
+      "PER", 
+      "she", 
+      "521", 
+      "523"
+    ], 
+    [
+      "PER", 
+      "Sheriff", 
+      "586", 
+      "592"
+    ], 
+    [
+      "PER", 
+      "spokesman", 
+      "596", 
+      "604"
+    ], 
+    [
+      "PER", 
+      "Ed Troyer", 
+      "606", 
+      "614"
+    ], 
+    [
+      "PER", 
+      "neighbors", 
+      "685", 
+      "693"
+    ]
+  ], 
+  "tagged_text": "PER, PER. (AP) - The GPE PER's ORG says a 31-year-old PER ATTACK and DIE PER 34-year-old PER and then PER inside PER FAC near PER.\nThe ORG reports (http://is.gd/MDGo2c ) that the PER's teenage PER and PER found the bodies about 1:30 a.m. Monday.\nPER said the PER lived at a duplex and that the PER, with PER PER had an on-again, off-again relationship, did not live there.\nPER's PER PER said the ATTACK likely happened late Saturday or early Sunday, but PER did not hear the shots.", 
+  "xml_info_events": [
+    [
+      "Attack", 
+      [
+        [
+          "shot", 
+          "220", 
+          "223"
+        ]
+      ]
+    ], 
+    [
+      "Die", 
+      [
+        [
+          "killed", 
+          "229", 
+          "234"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "shooting", 
+          "625", 
+          "632"
+        ]
+      ]
+    ]
+  ], 
+  "file": "45.txt", 
+  "json_to_link_og_text_with_tagged_entities": [
+    {
+      "entity_end_in_og_text": 8, 
+      "entity_start_in_og_text": 0, 
+      "entity": "PUYALLUP", 
+      "entity_tag_id": 0, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 3, 
+      "tag_text_start_in_tagged_text": 0
+    }, 
+    {
+      "entity_end_in_og_text": 14, 
+      "entity_start_in_og_text": 10, 
+      "entity": "Wash", 
+      "entity_tag_id": 1, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 8, 
+      "tag_text_start_in_tagged_text": 5
+    }, 
+    {
+      "entity_end_in_og_text": 40, 
+      "entity_start_in_og_text": 27, 
+      "entity": "Pierce County", 
+      "entity_tag_id": 2, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 24, 
+      "tag_text_start_in_tagged_text": 21
+    }, 
+    {
+      "entity_end_in_og_text": 48, 
+      "entity_start_in_og_text": 41, 
+      "entity": "Sheriff", 
+      "entity_tag_id": 3, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 28, 
+      "tag_text_start_in_tagged_text": 25
+    }, 
+    {
+      "entity_end_in_og_text": 57, 
+      "entity_start_in_og_text": 51, 
+      "entity": "Office", 
+      "entity_tag_id": 4, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 34, 
+      "tag_text_start_in_tagged_text": 31
+    }, 
+    {
+      "entity_end_in_og_text": 80, 
+      "entity_start_in_og_text": 77, 
+      "entity": "man", 
+      "entity_tag_id": 5, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 57, 
+      "tag_text_start_in_tagged_text": 54
+    }, 
+    {
+      "entity_end_in_og_text": 100, 
+      "entity_start_in_og_text": 97, 
+      "entity": "his", 
+      "entity_tag_id": 6, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 77, 
+      "tag_text_start_in_tagged_text": 74
+    }, 
+    {
+      "entity_end_in_og_text": 123, 
+      "entity_start_in_og_text": 113, 
+      "entity": "girlfriend", 
+      "entity_tag_id": 7, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 93, 
+      "tag_text_start_in_tagged_text": 90
+    }, 
+    {
+      "entity_end_in_og_text": 140, 
+      "entity_start_in_og_text": 133, 
+      "entity": "himself", 
+      "entity_tag_id": 8, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 106, 
+      "tag_text_start_in_tagged_text": 103
+    }, 
+    {
+      "entity_end_in_og_text": 151, 
+      "entity_start_in_og_text": 148, 
+      "entity": "her", 
+      "entity_tag_id": 9, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 117, 
+      "tag_text_start_in_tagged_text": 114
+    }, 
+    {
+      "entity_end_in_og_text": 156, 
+      "entity_start_in_og_text": 152, 
+      "entity": "home", 
+      "entity_tag_id": 10, 
+      "tag": "FAC", 
+      "tag_text_end_in_tagged_text": 121, 
+      "tag_text_start_in_tagged_text": 118
+    }, 
+    {
+      "entity_end_in_og_text": 170, 
+      "entity_start_in_og_text": 162, 
+      "entity": "Puyallup", 
+      "entity_tag_id": 11, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 130, 
+      "tag_text_start_in_tagged_text": 127
+    }, 
+    {
+      "entity_end_in_og_text": 188, 
+      "entity_start_in_og_text": 176, 
+      "entity": "News Tribune", 
+      "entity_tag_id": 12, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 139, 
+      "tag_text_start_in_tagged_text": 136
+    }, 
+    {
+      "entity_end_in_og_text": 235, 
+      "entity_start_in_og_text": 229, 
+      "entity": "victim", 
+      "entity_tag_id": 13, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 183, 
+      "tag_text_start_in_tagged_text": 180
+    }, 
+    {
+      "entity_end_in_og_text": 254, 
+      "entity_start_in_og_text": 246, 
+      "entity": "daughter", 
+      "entity_tag_id": 14, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 197, 
+      "tag_text_start_in_tagged_text": 194
+    }, 
+    {
+      "entity_end_in_og_text": 265, 
+      "entity_start_in_og_text": 259, 
+      "entity": "sister", 
+      "entity_tag_id": 15, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 205, 
+      "tag_text_start_in_tagged_text": 202
+    }, 
+    {
+      "entity_end_in_og_text": 320, 
+      "entity_start_in_og_text": 307, 
+      "entity": "Investigators", 
+      "entity_tag_id": 16, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 250, 
+      "tag_text_start_in_tagged_text": 247
+    }, 
+    {
+      "entity_end_in_og_text": 335, 
+      "entity_start_in_og_text": 330, 
+      "entity": "woman", 
+      "entity_tag_id": 17, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 263, 
+      "tag_text_start_in_tagged_text": 260
+    }, 
+    {
+      "entity_end_in_og_text": 370, 
+      "entity_start_in_og_text": 367, 
+      "entity": "man", 
+      "entity_tag_id": 18, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 298, 
+      "tag_text_start_in_tagged_text": 295
+    }, 
+    {
+      "entity_end_in_og_text": 381, 
+      "entity_start_in_og_text": 377, 
+      "entity": "whom", 
+      "entity_tag_id": 19, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 308, 
+      "tag_text_start_in_tagged_text": 305
+    }, 
+    {
+      "entity_end_in_og_text": 385, 
+      "entity_start_in_og_text": 382, 
+      "entity": "she", 
+      "entity_tag_id": 20, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 312, 
+      "tag_text_start_in_tagged_text": 309
+    }, 
+    {
+      "entity_end_in_og_text": 454, 
+      "entity_start_in_og_text": 447, 
+      "entity": "Sheriff", 
+      "entity_tag_id": 21, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 377, 
+      "tag_text_start_in_tagged_text": 374
+    }, 
+    {
+      "entity_end_in_og_text": 466, 
+      "entity_start_in_og_text": 457, 
+      "entity": "spokesman", 
+      "entity_tag_id": 22, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 383, 
+      "tag_text_start_in_tagged_text": 380
+    }, 
+    {
+      "entity_end_in_og_text": 476, 
+      "entity_start_in_og_text": 467, 
+      "entity": "Ed Troyer", 
+      "entity_tag_id": 23, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 387, 
+      "tag_text_start_in_tagged_text": 384
+    }, 
+    {
+      "entity_end_in_og_text": 555, 
+      "entity_start_in_og_text": 546, 
+      "entity": "neighbors", 
+      "entity_tag_id": 24, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 460, 
+      "tag_text_start_in_tagged_text": 457
+    }
+  ], 
+  "og_text": "PUYALLUP, Wash. (AP) - The Pierce County Sheriff's Office says a 31-year-old man shot and killed his 34-year-old girlfriend and then himself inside her home near Puyallup.\nThe News Tribune reports (http://is.gd/MDGo2c ) that the victim's teenage daughter and sister found the bodies about 1:30 a.m. Monday.\nInvestigators said the woman lived at a duplex and that the man, with whom she had an on-again, off-again relationship, did not live there.\nSheriff's spokesman Ed Troyer said the shooting likely happened late Saturday or early Sunday, but neighbors did not hear the shots.", 
+  "json_to_link_og_text_with_tagged_events": [
+    {
+      "event": "shot", 
+      "tag_text_end_in_tagged_text": 64, 
+      "event_end_in_og_text": 85, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 81, 
+      "event_tag_id": 0, 
+      "tag_text_start_in_tagged_text": 58
+    }, 
+    {
+      "event": "killed", 
+      "tag_text_end_in_tagged_text": 72, 
+      "event_end_in_og_text": 96, 
+      "tag": "DIE", 
+      "event_start_in_og_text": 90, 
+      "event_tag_id": 1, 
+      "tag_text_start_in_tagged_text": 69
+    }, 
+    {
+      "event": "shooting", 
+      "tag_text_end_in_tagged_text": 402, 
+      "event_end_in_og_text": 494, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 486, 
+      "event_tag_id": 2, 
+      "tag_text_start_in_tagged_text": 396
+    }
+  ]
+}
