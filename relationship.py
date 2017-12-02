@@ -1,7 +1,7 @@
 import rdflib
 from rdflib import Graph
 import sys
-from nltk.tag import StanfordNERTagger
+#from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize
 import re
 import os
@@ -14,11 +14,24 @@ class Relationship:
 
     def __init__(self):
         self.tagged_list = []
-        self.load_tagger()
+        #self.load_tagger()
         self.parse_args()
         self.load_input_json()
         self.load_ontology()
         self.load_tagged_list()
+        self.create_lookup()
+
+    def create_lookup(self):
+        self.entity_lookup = []
+        self.event_lookup = []
+        self.other_lookup = []
+        for item in self.tagged_list:
+            if item[2] == 'entity':
+                self.entity_lookup.append(item)
+            if item[2] == 'event':
+                self.event_lookup.append(item)
+            if item[2] == 'none':
+                self.other_lookup.append(item)
 
     def load_input_json(self):
         with open(self.input_filename, 'r') as myfile: 
@@ -35,6 +48,7 @@ class Relationship:
         self.st = StanfordNERTagger(stan_7_class, stan_ner, encoding='utf-8')
 
     def load_tagged_list(self):
+        c = 0
         t = self.jsondata['og_text']
         o = 0
         self.tagged_list = []
@@ -53,9 +67,10 @@ class Relationship:
                 to_append = (e['tag'], e['event_tag_id'], "event", e['event_start_in_og_text'], e['event_start_in_og_text'] + len(e['event']) )
                 if evn_i < len(events)-1: evn_i += 1
             else:
-                to_append = (item, -1, "none", t.find(item)+o, t.find(item)+o+len(item))
+                to_append = (item, c, "none", t.find(item)+o, t.find(item)+o+len(item))
                 o = o + t.find(item) + len(item)
-                t = t[t.find(item)+len(item):len(t)-1]
+                t = t[t.find(item)+len(item):len(t)]
+                c += 1
             self.tagged_list.append(to_append)
 
     def parse_args(self):
@@ -172,7 +187,7 @@ class Relationship:
                                     if relationship_found:
                                         break
                                     try:
-                                        print("object: " + self.tagged_list[pointer_3][0] + " [" + str(pointer_3) + "]")
+                                        #print("object: " + self.tagged_list[pointer_3][0] + " [" + str(pointer_3) + "]")
                                         relationship[5] = self.tagged_list[pointer_3][1]
                                         relationship[6] = self.tagged_list[pointer_3][2]
                                         relationship[8] = self.tagged_list[pointer_3][4]
@@ -181,14 +196,13 @@ class Relationship:
                                         #print(output)
                                         relationship[0] = output
                                         if output:
-                                            print(self.tagged_list[pointer_1][0], self.tagged_list[pointer_2][0], self.tagged_list[pointer_3][0])
+                                            #print(self.tagged_list[pointer_1][0], self.tagged_list[pointer_2][0], self.tagged_list[pointer_3][0])
                                             relationships.append(relationship)
                                             pointer_0 = pointer_3 + 1
                                             pointer_1 = pointer_3 + 1
                                             pointer_2 = pointer_3 + 1
                                             pointer_3 = pointer_3 + 1
                                             relationship_found = True
-                                            print("")
                                             break
                                     except:
                                         break
@@ -213,10 +227,35 @@ print("-------ENTITIES--------------------------")
 for entity in rel.jsondata['json_to_link_og_text_with_tagged_entities']:
     print(str(entity['entity_tag_id']) + " - " + entity['tag'] + " - " + entity['entity'])
 print("")
-for other in rel.tagged_list:
-    print other[0] + " - " + rel.jsondata['og_text'][other[3]:other[4]]
+#for other in rel.tagged_list:
+#    print other[0] + " - " + other[2] + " - " + rel.jsondata['og_text'].replace("  ", " ")[other[3]:other[4]]
 result = rel.scan_text()
 print("-------RELATIONSHIPS--------------------------")
+i=0
 for item in result:
-    print(item)
-    print(rel.jsondata['og_text'][item[7]:item[8]])
+    print(str(i) + " - " + rel.jsondata['og_text'][item[7]:item[8]])
+    if item[2] == 'entity':
+        g = rel.entity_lookup[item[1]]
+    if item[2] == 'event':
+        g = rel.event_lookup[item[1]] 
+    if item[2] == 'none':
+        g = rel.other_lookup[item[1]]
+    print("    ["+ item[2] + "] - " + rel.jsondata['og_text'][g[3]:g[4]])
+
+    if item[4] == 'entity':
+        g = rel.entity_lookup[item[3]]
+    if item[4] == 'event':
+        g = rel.event_lookup[item[3]] 
+    if item[4] == 'none':
+        g = rel.other_lookup[item[3]]
+    print("    ["+ item[4] + "] - " + rel.jsondata['og_text'][g[3]:g[4]])
+
+    if item[6] == 'entity':
+        g = rel.entity_lookup[item[5]]
+    if item[6] == 'event':
+        g = rel.event_lookup[item[5]] 
+    if item[6] == 'none':
+        g = rel.other_lookup[item[5]]
+    print("    ["+ item[6] + "] - " + rel.jsondata['og_text'][g[3]:g[4]])
+print("\n\n...done\n\n")
+
