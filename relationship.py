@@ -166,7 +166,9 @@ class Relationship:
         while pointer_0 < len(self.tagged_list)-3:
             relationship = ["", 0, "", 0, "", 0, "", 0, 0]
             relationship_found = False
-            print(pointer_0,pointer_1,pointer_2,pointer_3,relationship_found)
+            percentage = float(pointer_0) / float(len(self.tagged_list)) * 100
+            sys.stdout.write("\r%d%%" % percentage)
+            sys.stdout.flush()
             for pointer_1 in range(pointer_0,len(self.tagged_list)-2):
                 if relationship_found:
                     break
@@ -224,9 +226,10 @@ print("-------ENTITIES--------------------------")
 for entity in rel.jsondata['json_to_link_og_text_with_tagged_entities']:
     print(str(entity['entity_tag_id']) + " - " + entity['tag'] + " - " + entity['entity'])
 print("")
-#for other in rel.tagged_list:
-#    print other[0] + " - " + other[2] + " - " + rel.jsondata['og_text'].replace("  ", " ")[other[3]:other[4]]
+
+print("***Finding Relationships...")
 result = rel.scan_text()
+print("")
 print("-------RELATIONSHIPS--------------------------")
 i=0
 for item in result:
