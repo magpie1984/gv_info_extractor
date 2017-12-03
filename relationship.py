@@ -178,7 +178,9 @@ class Relationship:
             percentage = float(pointer_0) / float(len(self.tagged_list)) * 100
             sys.stdout.write("\r%d%%" % percentage)
             sys.stdout.flush()
+            print("got here")
             for pointer_1 in range(pointer_0,len(self.tagged_list)-2):
+                pointer_0 = pointer_1
                 if relationship_found:
                     break
                 if self.query_for_subject(self.tagged_list[pointer_1][0]) > 0:
@@ -198,19 +200,24 @@ class Relationship:
                                     if relationship_found:
                                         break
                                     try:
-                                        relationship[5] = self.tagged_list[pointer_3][1]
-                                        relationship[6] = self.tagged_list[pointer_3][2]
-                                        relationship[8] = self.tagged_list[pointer_3][4]
+                                        #relationship[5] = self.tagged_list[pointer_3][1]
+                                        #relationship[6] = self.tagged_list[pointer_3][2]
+                                        #relationship[8] = self.tagged_list[pointer_3][4]
                                         output = self.query_ontology(self.tagged_list[pointer_1][0], self.tagged_list[pointer_2][0], self.tagged_list[pointer_3][0])
-                                        relationship[0] = output
+                                        #relationship[0] = output
                                         if output:
-                                            relationships.append(relationship)
-                                            pointer_0 = pointer_3 + 1
-                                            pointer_1 = pointer_3 + 1
-                                            pointer_2 = pointer_3 + 1
+                                            relationship[0] = output
+                                            relationship[5] = self.tagged_list[pointer_3][1]
+                                            relationship[6] = self.tagged_list[pointer_3][2]
+                                            relationship[8] = self.tagged_list[pointer_3][4]
+                                            relationship_to_add = (relationship[0],relationship[1],relationship[2],relationship[3],relationship[4],relationship[5],relationship[6],relationship[7],relationship[8])
+                                            relationships.append(relationship_to_add)
+                                            #pointer_0 = pointer_3 + 1
+                                            #pointer_1 = pointer_3 + 1
+                                            #pointer_2 = pointer_3 + 1
                                             pointer_3 = pointer_3 + 1
-                                            relationship_found = True
-                                            break
+                                            #relationship_found = True
+                                            #break
                                     except:
                                         break
                         except:
