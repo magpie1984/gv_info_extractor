@@ -77,9 +77,11 @@ class Relationship:
             self.tagged_list.append(to_append)
 
     def show_all_tagged(self):
+        k=0
         print("\n\n###################################")
         for item in self.tagged_list:
-            print(item[0] + " - " + self.og_text[item[3]:item[4]])
+            print("[" + str(k) + "] " + item[0] + " - " + self.og_text[item[3]:item[4]])
+            k +=1
         print("###################################\n\n")
 
     def parse_args(self):
@@ -165,66 +167,69 @@ class Relationship:
 
         return relationship
 
+    def write_percentage(self, v1, v2):
+        percentage = float(v1) / float(len(v2)) * 100
+        sys.stdout.write("\r%d%%" % percentage)
+        sys.stdout.flush()
+
     def scan_text(self):
-        pointer_0 = 0
-        pointer_1 = 0
-        pointer_2 = 0
-        pointer_3 = 0
-        relationships = []
+        last_ent_found_mem = 0
+        last_ent_found = 0
+        end_reached = False
+        t_l = self.tagged_list
+        s_t = self.seperation_threshold
+        p_0 = 0
+        p_1 = 0
+        p_2 = 0
+        p_3 = 0
+        rs = []
 
-        while pointer_0 < len(self.tagged_list)-3:
-            relationship = ["", 0, "", 0, "", 0, "", 0, 0]
-            relationship_found = False
-            percentage = float(pointer_0) / float(len(self.tagged_list)) * 100
-            sys.stdout.write("\r%d%%" % percentage)
-            sys.stdout.flush()
-            print("got here")
-            for pointer_1 in range(pointer_0,len(self.tagged_list)-2):
-                pointer_0 = pointer_1
-                if relationship_found:
+        while p_0 < len(t_l)-3:
+            r = ["", 0, "", 0, "", 0, "", 0, 0]
+            r_found = False
+            #self.write_percentage(p_0, t_l)
+            for p_1 in range(p_0,len(t_l)-2):
+                self.write_percentage(p_1, t_l)
+                if r_found:
                     break
-                if self.query_for_subject(self.tagged_list[pointer_1][0]) > 0:
-                    #print("subject: " + self.tagged_list[pointer_1][0] + " [" + str(pointer_1) + "]")
-                    relationship[1] = self.tagged_list[pointer_1][1]
-                    relationship[2] = self.tagged_list[pointer_1][2]
-                    relationship[7] = self.tagged_list[pointer_1][3]
+                if self.query_for_subject(t_l[p_1][0]) > 0:
+                    last_ent_found_mem = last_ent_found
+                    if last_ent_found_mem == p_1:
+                        return tuple(rs)
 
-                    for pointer_2 in range(pointer_1 + 1, pointer_1 + self.seperation_threshold):
-                        if relationship_found:
+                    last_ent_found = p_1
+                    
+                    r[1] = t_l[p_1][1]
+                    r[2] = t_l[p_1][2]
+                    r[7] = t_l[p_1][3]
+                    for p_2 in range(p_1 + 1, p_1 + s_t):
+                        if r_found:
                             break
                         try:
-                            if self.query_for_predicate(self.tagged_list[pointer_2][0]) > 0:
-                                relationship[3] = self.tagged_list[pointer_2][1]
-                                relationship[4] = self.tagged_list[pointer_2][2]
-                                for pointer_3 in range(pointer_2 + 1, pointer_2 + self.seperation_threshold):
-                                    if relationship_found:
+                            if self.query_for_predicate(t_l[p_2][0]) > 0:
+                                r[3] = t_l[p_2][1]
+                                r[4] = t_l[p_2][2]
+                                for p_3 in range(p_2 + 1, p_2 + s_t):
+                                    if r_found:
                                         break
                                     try:
-                                        #relationship[5] = self.tagged_list[pointer_3][1]
-                                        #relationship[6] = self.tagged_list[pointer_3][2]
-                                        #relationship[8] = self.tagged_list[pointer_3][4]
-                                        output = self.query_ontology(self.tagged_list[pointer_1][0], self.tagged_list[pointer_2][0], self.tagged_list[pointer_3][0])
-                                        #relationship[0] = output
+                                        output = self.query_ontology(t_l[p_1][0], t_l[p_2][0], t_l[p_3][0])
                                         if output:
-                                            relationship[0] = output
-                                            relationship[5] = self.tagged_list[pointer_3][1]
-                                            relationship[6] = self.tagged_list[pointer_3][2]
-                                            relationship[8] = self.tagged_list[pointer_3][4]
-                                            relationship_to_add = (relationship[0],relationship[1],relationship[2],relationship[3],relationship[4],relationship[5],relationship[6],relationship[7],relationship[8])
-                                            relationships.append(relationship_to_add)
-                                            #pointer_0 = pointer_3 + 1
-                                            #pointer_1 = pointer_3 + 1
-                                            #pointer_2 = pointer_3 + 1
-                                            pointer_3 = pointer_3 + 1
-                                            #relationship_found = True
-                                            #break
+                                            r[0] = output
+                                            r[5] = t_l[p_3][1]
+                                            r[6] = t_l[p_3][2]
+                                            r[8] = t_l[p_3][4]
+                                            r_to_add = (r[0],r[1],r[2],r[3],r[4],r[5],r[6],r[7],r[8])
+                                            rs.append(r_to_add)
+                                            p_3 += 1
                                     except:
+                                        end_reached = True
                                         break
                         except:
+                            end_reached = True
                             break
-            pointer_0 += 1
-            #break
-        return tuple(relationships)
+                p_0 = last_ent_found
+        return tuple(rs)
 
 rel = Relationship()
 print("\n\nINFORMATION EXTRACTOR V0.0.1\n\nGoonmeet Bajaj\nMichael Partin\n\n")
