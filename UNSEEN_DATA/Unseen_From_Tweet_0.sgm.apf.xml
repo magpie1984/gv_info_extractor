@@ -1,0 +1,591 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/Unseen_From_Tweet_0.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/Unseen_From_Tweet_0.sgm">
+  <entity ID="Unseen_From_Tweet_0.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E0-1">
+      <extent>
+			<charseq START="80" END="98">Arizona authorities</charseq>
+      </extent>
+      <head>
+			<charseq START="80" END="86">Arizona</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E1-1">
+      <extent>
+			<charseq START="80" END="98">Arizona authorities</charseq>
+      </extent>
+      <head>
+			<charseq START="88" END="98">authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E2" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E2-1">
+      <extent>
+			<charseq START="125" END="141">the Old West town</charseq>
+      </extent>
+      <head>
+			<charseq START="133" END="136">West</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E3" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E3-1">
+      <extent>
+			<charseq START="125" END="141">the Old West town</charseq>
+      </extent>
+      <head>
+			<charseq START="138" END="141">town</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E4" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E4-1">
+      <extent>
+			<charseq START="146" END="154">Tombstone</charseq>
+      </extent>
+      <head>
+			<charseq START="146" END="154">Tombstone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E5-1">
+      <extent>
+			<charseq START="160" END="166">one man</charseq>
+      </extent>
+      <head>
+			<charseq START="164" END="166">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E6" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E6-1">
+      <extent>
+			<charseq START="171" END="182">the hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="175" END="182">hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E7" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E7-1">
+      <extent>
+			<charseq START="216" END="219">jail</charseq>
+      </extent>
+      <head>
+			<charseq START="216" END="219">jail</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E8" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E8-1">
+      <extent>
+			<charseq START="222" END="247">The Cochise County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="226" END="239">Cochise County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E9-1">
+      <extent>
+			<charseq START="222" END="247">The Cochise County Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="241" END="247">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E10" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E10-1">
+      <extent>
+			<charseq START="248" END="256">&apos;s Office</charseq>
+      </extent>
+      <head>
+			<charseq START="251" END="256">Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E11-1">
+      <extent>
+			<charseq START="315" END="325">the two men</charseq>
+      </extent>
+      <head>
+			<charseq START="323" END="325">men</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E12-1">
+      <extent>
+			<charseq START="387" END="393">a woman</charseq>
+      </extent>
+      <head>
+			<charseq START="389" END="393">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E13-1">
+      <extent>
+			<charseq START="399" END="409">a third man</charseq>
+      </extent>
+      <head>
+			<charseq START="407" END="409">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E14-1">
+      <extent>
+			<charseq START="412" END="418">Sheriff</charseq>
+      </extent>
+      <head>
+			<charseq START="412" END="418">Sheriff</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E15-1">
+      <extent>
+			<charseq START="419" END="445">&apos;s spokesperson Carol Capas</charseq>
+      </extent>
+      <head>
+			<charseq START="422" END="433">spokesperson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E16-1">
+      <extent>
+			<charseq START="419" END="445">&apos;s spokesperson Carol Capas</charseq>
+      </extent>
+      <head>
+			<charseq START="435" END="445">Carol Capas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E17" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E17-1">
+      <extent>
+			<charseq START="453" END="458">the AP</charseq>
+      </extent>
+      <head>
+			<charseq START="457" END="458">AP</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E18-1">
+      <extent>
+			<charseq START="460" END="490">that 47-year-old James Roberson</charseq>
+      </extent>
+      <head>
+			<charseq START="477" END="490">James Roberson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E19-1">
+      <extent>
+			<charseq START="560" END="564">Capas</charseq>
+      </extent>
+      <head>
+			<charseq START="560" END="564">Capas</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E20-1">
+      <extent>
+			<charseq START="571" END="578">Roberson</charseq>
+      </extent>
+      <head>
+			<charseq START="571" END="578">Roberson</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E21-1">
+      <extent>
+			<charseq START="584" END="603">his female companion</charseq>
+      </extent>
+      <head>
+			<charseq START="584" END="586">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E22-1">
+      <extent>
+			<charseq START="584" END="603">his female companion</charseq>
+      </extent>
+      <head>
+			<charseq START="595" END="603">companion</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E23-1">
+      <extent>
+			<charseq START="617" END="630">their handguns</charseq>
+      </extent>
+      <head>
+			<charseq START="617" END="621">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E24-1">
+      <extent>
+			<charseq START="654" END="657">they</charseq>
+      </extent>
+      <head>
+			<charseq START="654" END="657">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E25-1">
+      <extent>
+			<charseq START="743" END="752">the couple</charseq>
+      </extent>
+      <head>
+			<charseq START="747" END="752">couple</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E26-1">
+      <extent>
+			<charseq START="764" END="773">their guns</charseq>
+      </extent>
+      <head>
+			<charseq START="764" END="768">their</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E27-1">
+      <extent>
+			<charseq START="791" END="799">Tombstone</charseq>
+      </extent>
+      <head>
+			<charseq START="791" END="799">Tombstone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E28" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E28-1">
+      <extent>
+			<charseq START="889" END="890">It</charseq>
+      </extent>
+      <head>
+			<charseq START="889" END="890">It</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E29" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E29-1">
+      <extent>
+			<charseq START="901" END="908">the home</charseq>
+      </extent>
+      <head>
+			<charseq START="905" END="908">home</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E30-1">
+      <extent>
+			<charseq START="913" END="924">Doc Holliday</charseq>
+      </extent>
+      <head>
+			<charseq START="913" END="924">Doc Holliday</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E31-1">
+      <extent>
+			<charseq START="927" END="935">a dentist</charseq>
+      </extent>
+      <head>
+			<charseq START="929" END="935">dentist</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_0.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_0.sgm-E32-1">
+      <extent>
+			<charseq START="937" END="939">who</charseq>
+      </extent>
+      <head>
+			<charseq START="937" END="939">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="Unseen_From_Tweet_0.sgm-R0" TYPE="ORG-AFF">
+    <relation_argument REFID="Unseen_From_Tweet_0.sgm-E1" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_0.sgm-E0" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_0.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="80" END="220">Arizona authorities say a saloon shooting in the Old West town of Tombstone put one man in the hospital with a leg wound and another in jail.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_0.sgm-E1-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="80" END="98">Arizona authorities</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_0.sgm-E0-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="80" END="98">Arizona authorities</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="Unseen_From_Tweet_0.sgm-R1" TYPE="PHYS">
+    <relation_argument REFID="Unseen_From_Tweet_0.sgm-E5" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_0.sgm-E6" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_0.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="80" END="220">Arizona authorities say a saloon shooting in the Old West town of Tombstone put one man in the hospital with a leg wound and another in jail.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_0.sgm-E5-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="160" END="166">one man</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_0.sgm-E6-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="171" END="182">the hospital</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="Unseen_From_Tweet_0.sgm-R2" TYPE="ORG-AFF">
+    <relation_argument REFID="Unseen_From_Tweet_0.sgm-E9" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_0.sgm-E8" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_0.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="222" END="410">The Cochise County Sheriff&apos;s Office says the shooting occurred in Doc Holliday&apos;s Saloon when the two men struggled following a verbal altercation that also involved a woman and a third man.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_0.sgm-E9-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="222" END="247">The Cochise County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_0.sgm-E8-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="222" END="247">The Cochise County Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="Unseen_From_Tweet_0.sgm-R3" TYPE="PER-SOC">
+    <relation_argument REFID="Unseen_From_Tweet_0.sgm-E14" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_0.sgm-E15" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_0.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="412" END="558">Sheriff&apos;s spokesperson Carol Capas tells the AP that 47-year-old James Roberson remains jailed on suspicion of aggravated assault and other crimes.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_0.sgm-E14-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="412" END="418">Sheriff</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_0.sgm-E15-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="419" END="445">&apos;s spokesperson Carol Capas</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="Unseen_From_Tweet_0.sgm-R4" TYPE="PER-SOC">
+    <relation_argument REFID="Unseen_From_Tweet_0.sgm-E21" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_0.sgm-E22" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_0.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="560" END="789">Capas says Roberson and his female companion surrendered their handguns to the bartender when they entered the saloon Friday evening and that the struggle and shooting occurred after the couple retrieved their guns early Saturday.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_0.sgm-E21-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="584" END="603">his female companion</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_0.sgm-E22-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="584" END="603">his female companion</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="Unseen_From_Tweet_0.sgm-R5" TYPE="ART">
+    <relation_argument REFID="Unseen_From_Tweet_0.sgm-E30" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_0.sgm-E29" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_0.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="889" END="970">It also was the home of Doc Holliday, a dentist who played a role In the shootout.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_0.sgm-E30-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="913" END="924">Doc Holliday</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_0.sgm-E29-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="901" END="908">the home</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="Unseen_From_Tweet_0.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_0.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="80" END="220">Arizona authorities say a saloon shooting in the Old West town of Tombstone put one man in the hospital with a leg wound and another in jail.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="113" END="120">shooting</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_0.sgm-E3-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="125" END="141">the Old West town</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="Unseen_From_Tweet_0.sgm-E6-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="171" END="182">the hospital</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="Unseen_From_Tweet_0.sgm-E7-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="216" END="219">jail</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_0.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_0.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="222" END="410">The Cochise County Sheriff&apos;s Office says the shooting occurred in Doc Holliday&apos;s Saloon when the two men struggled following a verbal altercation that also involved a woman and a third man.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="267" END="274">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_0.sgm-EV2" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_0.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="412" END="558">Sheriff&apos;s spokesperson Carol Capas tells the AP that 47-year-old James Roberson remains jailed on suspicion of aggravated assault and other crimes.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="500" END="505">jailed</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_0.sgm-E18-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="460" END="490">that 47-year-old James Roberson</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_0.sgm-EV3" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_0.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="560" END="789">Capas says Roberson and his female companion surrendered their handguns to the bartender when they entered the saloon Friday evening and that the struggle and shooting occurred after the couple retrieved their guns early Saturday.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="623" END="630">handguns</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_0.sgm-E23-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="617" END="630">their handguns</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_0.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_0.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="560" END="789">Capas says Roberson and his female companion surrendered their handguns to the bartender when they entered the saloon Friday evening and that the struggle and shooting occurred after the couple retrieved their guns early Saturday.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="719" END="726">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

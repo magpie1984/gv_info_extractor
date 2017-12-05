@@ -1,0 +1,1392 @@
+{
+  "xml_info_entitites": [
+    [
+      "GPE", 
+      "Bridgeport", 
+      "85", 
+      "94"
+    ], 
+    [
+      "GPE", 
+      "Connecticut", 
+      "97", 
+      "107"
+    ], 
+    [
+      "PER", 
+      "Christopher Pettway", 
+      "112", 
+      "130"
+    ], 
+    [
+      "GPE", 
+      "city", 
+      "137", 
+      "140"
+    ], 
+    [
+      "PER", 
+      "man", 
+      "207", 
+      "209"
+    ], 
+    [
+      "PER", 
+      "family", 
+      "241", 
+      "246"
+    ], 
+    [
+      "PER", 
+      "friend", 
+      "248", 
+      "253"
+    ], 
+    [
+      "PER", 
+      "Ernest Newton III", 
+      "256", 
+      "272"
+    ], 
+    [
+      "GPE", 
+      "state", 
+      "286", 
+      "290"
+    ], 
+    [
+      "PER", 
+      "senator", 
+      "292", 
+      "298"
+    ], 
+    [
+      "PER", 
+      "he", 
+      "306", 
+      "307"
+    ], 
+    [
+      "PER", 
+      "Pettway", 
+      "314", 
+      "320"
+    ], 
+    [
+      "PER", 
+      "family", 
+      "324", 
+      "329"
+    ], 
+    [
+      "PER", 
+      "he", 
+      "343", 
+      "344"
+    ], 
+    [
+      "PER", 
+      "family", 
+      "363", 
+      "368"
+    ], 
+    [
+      "PER", 
+      "They", 
+      "371", 
+      "374"
+    ], 
+    [
+      "PER", 
+      "people", 
+      "390", 
+      "395"
+    ], 
+    [
+      "PER", 
+      "Pettway", 
+      "400", 
+      "406"
+    ], 
+    [
+      "FAC", 
+      "hospital", 
+      "420", 
+      "427"
+    ], 
+    [
+      "PER", 
+      "police", 
+      "546", 
+      "551"
+    ], 
+    [
+      "PER", 
+      "Pettway", 
+      "559", 
+      "565"
+    ], 
+    [
+      "PER", 
+      "he", 
+      "594", 
+      "595"
+    ], 
+    [
+      "PER", 
+      "I", 
+      "607", 
+      "607"
+    ], 
+    [
+      "PER", 
+      "his", 
+      "622", 
+      "624"
+    ], 
+    [
+      "PER", 
+      "mother", 
+      "626", 
+      "631"
+    ], 
+    [
+      "PER", 
+      "father", 
+      "637", 
+      "642"
+    ], 
+    [
+      "PER", 
+      "Newton", 
+      "647", 
+      "652"
+    ], 
+    [
+      "PER", 
+      "He", 
+      "660", 
+      "661"
+    ], 
+    [
+      "PER", 
+      "Edward Pettway", 
+      "681", 
+      "694"
+    ], 
+    [
+      "PER", 
+      "Christopher", 
+      "697", 
+      "707"
+    ], 
+    [
+      "PER", 
+      "father", 
+      "711", 
+      "716"
+    ], 
+    [
+      "PER", 
+      "family", 
+      "743", 
+      "748"
+    ], 
+    [
+      "PER", 
+      "friend", 
+      "750", 
+      "755"
+    ], 
+    [
+      "PER", 
+      "Pettways", 
+      "767", 
+      "774"
+    ], 
+    [
+      "PER", 
+      "one", 
+      "780", 
+      "782"
+    ], 
+    [
+      "GPE", 
+      "city", 
+      "791", 
+      "794"
+    ], 
+    [
+      "PER", 
+      "families", 
+      "806", 
+      "813"
+    ], 
+    [
+      "PER", 
+      "Newton", 
+      "819", 
+      "824"
+    ], 
+    [
+      "PER", 
+      "he", 
+      "831", 
+      "832"
+    ], 
+    [
+      "PER", 
+      "man", 
+      "857", 
+      "859"
+    ], 
+    [
+      "PER", 
+      "cousins", 
+      "863", 
+      "869"
+    ], 
+    [
+      "PER", 
+      "you", 
+      "908", 
+      "910"
+    ], 
+    [
+      "GPE", 
+      "We", 
+      "955", 
+      "956"
+    ], 
+    [
+      "GPE", 
+      "we", 
+      "981", 
+      "982"
+    ], 
+    [
+      "GPE", 
+      "Hartford", 
+      "1005", 
+      "1012"
+    ], 
+    [
+      "GPE", 
+      "New Haven", 
+      "1017", 
+      "1025"
+    ], 
+    [
+      "PER", 
+      "Kaempffer", 
+      "1030", 
+      "1038"
+    ], 
+    [
+      "PER", 
+      "Kaempffer", 
+      "1166", 
+      "1174"
+    ], 
+    [
+      "PER", 
+      "police", 
+      "1195", 
+      "1200"
+    ], 
+    [
+      "PER", 
+      "Pettway", 
+      "1315", 
+      "1321"
+    ], 
+    [
+      "PER", 
+      "he", 
+      "1340", 
+      "1341"
+    ], 
+    [
+      "FAC", 
+      "streets", 
+      "1369", 
+      "1375"
+    ], 
+    [
+      "PER", 
+      "Fiske", 
+      "1385", 
+      "1389"
+    ], 
+    [
+      "PER", 
+      "Reservoir", 
+      "1395", 
+      "1403"
+    ], 
+    [
+      "PER", 
+      "police", 
+      "1441", 
+      "1446"
+    ], 
+    [
+      "PER", 
+      "group", 
+      "1477", 
+      "1481"
+    ], 
+    [
+      "PER", 
+      "people", 
+      "1491", 
+      "1496"
+    ], 
+    [
+      "FAC", 
+      "corner", 
+      "1516", 
+      "1521"
+    ], 
+    [
+      "PER", 
+      "they", 
+      "1556", 
+      "1559"
+    ], 
+    [
+      "ORG", 
+      "Pettway", 
+      "1574", 
+      "1580"
+    ], 
+    [
+      "PER", 
+      "They", 
+      "1583", 
+      "1586"
+    ], 
+    [
+      "PER", 
+      "he", 
+      "1593", 
+      "1594"
+    ], 
+    [
+      "PER", 
+      "man", 
+      "1615", 
+      "1617"
+    ], 
+    [
+      "PER", 
+      "who", 
+      "1619", 
+      "1621"
+    ], 
+    [
+      "PER", 
+      "his", 
+      "1673", 
+      "1675"
+    ], 
+    [
+      "GPE", 
+      "City", 
+      "1684", 
+      "1687"
+    ], 
+    [
+      "PER", 
+      "Councilman", 
+      "1689", 
+      "1698"
+    ], 
+    [
+      "PER", 
+      "Warren Blunt", 
+      "1700", 
+      "1711"
+    ], 
+    [
+      "PER", 
+      "D-135", 
+      "1714", 
+      "1718"
+    ], 
+    [
+      "PER", 
+      "who", 
+      "1721", 
+      "1723"
+    ], 
+    [
+      "LOC", 
+      "area", 
+      "1740", 
+      "1743"
+    ], 
+    [
+      "ORG", 
+      "party", 
+      "1785", 
+      "1789"
+    ], 
+    [
+      "PER", 
+      "Some", 
+      "1813", 
+      "1816"
+    ], 
+    [
+      "PER", 
+      "his", 
+      "1821", 
+      "1823"
+    ], 
+    [
+      "PER", 
+      "workers", 
+      "1834", 
+      "1840"
+    ], 
+    [
+      "PER", 
+      "residents", 
+      "1851", 
+      "1859"
+    ], 
+    [
+      "WEA", 
+      "bullets", 
+      "1903", 
+      "1909"
+    ], 
+    [
+      "PER", 
+      "he", 
+      "1914", 
+      "1915"
+    ]
+  ], 
+  "tagged_text": "GPE, GPE -- PER, the GPE's ninth DIE victim this year, was recalled Wednesday as  a PER with morals and values'' by a PER PER. PER, the former GPE PER, said PER knew PER's PER well,  and PER TRANSPORT from a good PER. PER are religious PER.'' PER DIE in the FAC as a result of INJURE from the shooting near Reservoir and Trumbull avenues at about 2:30 p.m. Tuesday, July 29th, PER said. PER was only 26 years old when PER passed.  PER grew up with PER PER and PER,'' PER said. PER had not spoken to PER, PER's PER, since the shooting, the PER PER said. The PER are PER of the GPE's largest PER and PER said PER has talked to the dead PER's PER,  who are taking this very hard, as PER might imagine. It's another ATTACK DIE. GPE have to make sure that GPE don't become another GPE or GPE.'' PER said the investigation was still ongoing. So far, it is known that 3 ATTACK were fired using a 22 caliber pistol. Beyond that, PER said only that the PER were  following very strong leads,  but did not release more details about what led up to the ATTACK or what PER was doing before PER was DIE. Several local FAC between PER and PER were closed for about five hours as PER investigated the incident. A PER of four PER standing near the FAC of Voight and Fiske avenues said PER grew up with ORG. PER said PER was a lighthearted PER PER was always cracking jokes. All expressed shock at PER DIE. GPE PER PER, PER, PER represents the LOC, was campaigning all day Tuesday in the ORG's Democratic primary. PER of PER campaign PER bringing PER to the polls  just missed the ATTACK of WEA,  PER said. ", 
+  "xml_info_events": [
+    [
+      "Die", 
+      [
+        [
+          "homicide", 
+          "150", 
+          "157"
+        ]
+      ]
+    ], 
+    [
+      "Transport", 
+      [
+        [
+          "came", 
+          "346", 
+          "349"
+        ]
+      ]
+    ], 
+    [
+      "Die", 
+      [
+        [
+          "died", 
+          "408", 
+          "411"
+        ]
+      ]
+    ], 
+    [
+      "Injure", 
+      [
+        [
+          "injuries", 
+          "444", 
+          "451"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "gunshot", 
+          "940", 
+          "946"
+        ]
+      ]
+    ], 
+    [
+      "Die", 
+      [
+        [
+          "death", 
+          "948", 
+          "952"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "shots", 
+          "1109", 
+          "1113"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "shooting", 
+          "1298", 
+          "1305"
+        ]
+      ]
+    ], 
+    [
+      "Die", 
+      [
+        [
+          "killed", 
+          "1347", 
+          "1352"
+        ]
+      ]
+    ], 
+    [
+      "Die", 
+      [
+        [
+          "death", 
+          "1677", 
+          "1681"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "barrage", 
+          "1892", 
+          "1898"
+        ]
+      ]
+    ]
+  ], 
+  "file": "381.txt", 
+  "json_to_link_og_text_with_tagged_entities": [
+    {
+      "entity_end_in_og_text": 10, 
+      "entity_start_in_og_text": 0, 
+      "entity": "Bridgeport", 
+      "entity_tag_id": 0, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 3, 
+      "tag_text_start_in_tagged_text": 0
+    }, 
+    {
+      "entity_end_in_og_text": 23, 
+      "entity_start_in_og_text": 12, 
+      "entity": "Connecticut", 
+      "entity_tag_id": 1, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 8, 
+      "tag_text_start_in_tagged_text": 5
+    }, 
+    {
+      "entity_end_in_og_text": 46, 
+      "entity_start_in_og_text": 27, 
+      "entity": "Christopher Pettway", 
+      "entity_tag_id": 2, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 15, 
+      "tag_text_start_in_tagged_text": 12
+    }, 
+    {
+      "entity_end_in_og_text": 56, 
+      "entity_start_in_og_text": 52, 
+      "entity": "city", 
+      "entity_tag_id": 3, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 24, 
+      "tag_text_start_in_tagged_text": 21
+    }, 
+    {
+      "entity_end_in_og_text": 124, 
+      "entity_start_in_og_text": 121, 
+      "entity": "man", 
+      "entity_tag_id": 4, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 92, 
+      "tag_text_start_in_tagged_text": 89
+    }, 
+    {
+      "entity_end_in_og_text": 161, 
+      "entity_start_in_og_text": 155, 
+      "entity": "family", 
+      "entity_tag_id": 5, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 126, 
+      "tag_text_start_in_tagged_text": 123
+    }, 
+    {
+      "entity_end_in_og_text": 168, 
+      "entity_start_in_og_text": 162, 
+      "entity": "friend", 
+      "entity_tag_id": 6, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 130, 
+      "tag_text_start_in_tagged_text": 127
+    }, 
+    {
+      "entity_end_in_og_text": 187, 
+      "entity_start_in_og_text": 170, 
+      "entity": "Ernest Newton III", 
+      "entity_tag_id": 7, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 135, 
+      "tag_text_start_in_tagged_text": 132
+    }, 
+    {
+      "entity_end_in_og_text": 205, 
+      "entity_start_in_og_text": 200, 
+      "entity": "state", 
+      "entity_tag_id": 8, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 151, 
+      "tag_text_start_in_tagged_text": 148
+    }, 
+    {
+      "entity_end_in_og_text": 213, 
+      "entity_start_in_og_text": 206, 
+      "entity": "senator", 
+      "entity_tag_id": 9, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 155, 
+      "tag_text_start_in_tagged_text": 152
+    }, 
+    {
+      "entity_end_in_og_text": 222, 
+      "entity_start_in_og_text": 220, 
+      "entity": "he", 
+      "entity_tag_id": 10, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 165, 
+      "tag_text_start_in_tagged_text": 162
+    }, 
+    {
+      "entity_end_in_og_text": 235, 
+      "entity_start_in_og_text": 228, 
+      "entity": "Pettway", 
+      "entity_tag_id": 11, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 174, 
+      "tag_text_start_in_tagged_text": 171
+    }, 
+    {
+      "entity_end_in_og_text": 244, 
+      "entity_start_in_og_text": 238, 
+      "entity": "family", 
+      "entity_tag_id": 12, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 180, 
+      "tag_text_start_in_tagged_text": 177
+    }, 
+    {
+      "entity_end_in_og_text": 258, 
+      "entity_start_in_og_text": 256, 
+      "entity": "he", 
+      "entity_tag_id": 13, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 195, 
+      "tag_text_start_in_tagged_text": 192
+    }, 
+    {
+      "entity_end_in_og_text": 282, 
+      "entity_start_in_og_text": 276, 
+      "entity": "family", 
+      "entity_tag_id": 14, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 216, 
+      "tag_text_start_in_tagged_text": 213
+    }, 
+    {
+      "entity_end_in_og_text": 288, 
+      "entity_start_in_og_text": 284, 
+      "entity": "They", 
+      "entity_tag_id": 15, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 221, 
+      "tag_text_start_in_tagged_text": 218
+    }, 
+    {
+      "entity_end_in_og_text": 309, 
+      "entity_start_in_og_text": 303, 
+      "entity": "people", 
+      "entity_tag_id": 16, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 239, 
+      "tag_text_start_in_tagged_text": 236
+    }, 
+    {
+      "entity_end_in_og_text": 320, 
+      "entity_start_in_og_text": 313, 
+      "entity": "Pettway", 
+      "entity_tag_id": 17, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 246, 
+      "tag_text_start_in_tagged_text": 243
+    }, 
+    {
+      "entity_end_in_og_text": 341, 
+      "entity_start_in_og_text": 333, 
+      "entity": "hospital", 
+      "entity_tag_id": 18, 
+      "tag": "FAC", 
+      "tag_text_end_in_tagged_text": 262, 
+      "tag_text_start_in_tagged_text": 259
+    }, 
+    {
+      "entity_end_in_og_text": 465, 
+      "entity_start_in_og_text": 459, 
+      "entity": "police", 
+      "entity_tag_id": 19, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 383, 
+      "tag_text_start_in_tagged_text": 380
+    }, 
+    {
+      "entity_end_in_og_text": 479, 
+      "entity_start_in_og_text": 472, 
+      "entity": "Pettway", 
+      "entity_tag_id": 20, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 393, 
+      "tag_text_start_in_tagged_text": 390
+    }, 
+    {
+      "entity_end_in_og_text": 509, 
+      "entity_start_in_og_text": 507, 
+      "entity": "he", 
+      "entity_tag_id": 21, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 424, 
+      "tag_text_start_in_tagged_text": 421
+    }, 
+    {
+      "entity_end_in_og_text": 520, 
+      "entity_start_in_og_text": 519, 
+      "entity": "I", 
+      "entity_tag_id": 22, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 437, 
+      "tag_text_start_in_tagged_text": 434
+    }, 
+    {
+      "entity_end_in_og_text": 537, 
+      "entity_start_in_og_text": 534, 
+      "entity": "his", 
+      "entity_tag_id": 23, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 454, 
+      "tag_text_start_in_tagged_text": 451
+    }, 
+    {
+      "entity_end_in_og_text": 544, 
+      "entity_start_in_og_text": 538, 
+      "entity": "mother", 
+      "entity_tag_id": 24, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 458, 
+      "tag_text_start_in_tagged_text": 455
+    }, 
+    {
+      "entity_end_in_og_text": 555, 
+      "entity_start_in_og_text": 549, 
+      "entity": "father", 
+      "entity_tag_id": 25, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 466, 
+      "tag_text_start_in_tagged_text": 463
+    }, 
+    {
+      "entity_end_in_og_text": 565, 
+      "entity_start_in_og_text": 559, 
+      "entity": "Newton", 
+      "entity_tag_id": 26, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 473, 
+      "tag_text_start_in_tagged_text": 470
+    }, 
+    {
+      "entity_end_in_og_text": 574, 
+      "entity_start_in_og_text": 572, 
+      "entity": "He", 
+      "entity_tag_id": 27, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 483, 
+      "tag_text_start_in_tagged_text": 480
+    }, 
+    {
+      "entity_end_in_og_text": 607, 
+      "entity_start_in_og_text": 593, 
+      "entity": "Edward Pettway", 
+      "entity_tag_id": 28, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 505, 
+      "tag_text_start_in_tagged_text": 502
+    }, 
+    {
+      "entity_end_in_og_text": 620, 
+      "entity_start_in_og_text": 609, 
+      "entity": "Christopher", 
+      "entity_tag_id": 29, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 510, 
+      "tag_text_start_in_tagged_text": 507
+    }, 
+    {
+      "entity_end_in_og_text": 629, 
+      "entity_start_in_og_text": 623, 
+      "entity": "father", 
+      "entity_tag_id": 30, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 516, 
+      "tag_text_start_in_tagged_text": 513
+    }, 
+    {
+      "entity_end_in_og_text": 661, 
+      "entity_start_in_og_text": 655, 
+      "entity": "family", 
+      "entity_tag_id": 31, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 545, 
+      "tag_text_start_in_tagged_text": 542
+    }, 
+    {
+      "entity_end_in_og_text": 668, 
+      "entity_start_in_og_text": 662, 
+      "entity": "friend", 
+      "entity_tag_id": 32, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 549, 
+      "tag_text_start_in_tagged_text": 546
+    }, 
+    {
+      "entity_end_in_og_text": 687, 
+      "entity_start_in_og_text": 679, 
+      "entity": "Pettways", 
+      "entity_tag_id": 33, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 563, 
+      "tag_text_start_in_tagged_text": 560
+    }, 
+    {
+      "entity_end_in_og_text": 695, 
+      "entity_start_in_og_text": 692, 
+      "entity": "one", 
+      "entity_tag_id": 34, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 571, 
+      "tag_text_start_in_tagged_text": 568
+    }, 
+    {
+      "entity_end_in_og_text": 707, 
+      "entity_start_in_og_text": 703, 
+      "entity": "city", 
+      "entity_tag_id": 35, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 582, 
+      "tag_text_start_in_tagged_text": 579
+    }, 
+    {
+      "entity_end_in_og_text": 726, 
+      "entity_start_in_og_text": 718, 
+      "entity": "families", 
+      "entity_tag_id": 36, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 596, 
+      "tag_text_start_in_tagged_text": 593
+    }, 
+    {
+      "entity_end_in_og_text": 737, 
+      "entity_start_in_og_text": 731, 
+      "entity": "Newton", 
+      "entity_tag_id": 37, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 604, 
+      "tag_text_start_in_tagged_text": 601
+    }, 
+    {
+      "entity_end_in_og_text": 745, 
+      "entity_start_in_og_text": 743, 
+      "entity": "he", 
+      "entity_tag_id": 38, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 613, 
+      "tag_text_start_in_tagged_text": 610
+    }, 
+    {
+      "entity_end_in_og_text": 772, 
+      "entity_start_in_og_text": 769, 
+      "entity": "man", 
+      "entity_tag_id": 39, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 640, 
+      "tag_text_start_in_tagged_text": 637
+    }, 
+    {
+      "entity_end_in_og_text": 782, 
+      "entity_start_in_og_text": 775, 
+      "entity": "cousins", 
+      "entity_tag_id": 40, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 646, 
+      "tag_text_start_in_tagged_text": 643
+    }, 
+    {
+      "entity_end_in_og_text": 822, 
+      "entity_start_in_og_text": 819, 
+      "entity": "you", 
+      "entity_tag_id": 41, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 686, 
+      "tag_text_start_in_tagged_text": 683
+    }, 
+    {
+      "entity_end_in_og_text": 868, 
+      "entity_start_in_og_text": 866, 
+      "entity": "We", 
+      "entity_tag_id": 42, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 733, 
+      "tag_text_start_in_tagged_text": 730
+    }, 
+    {
+      "entity_end_in_og_text": 894, 
+      "entity_start_in_og_text": 892, 
+      "entity": "we", 
+      "entity_tag_id": 43, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 760, 
+      "tag_text_start_in_tagged_text": 757
+    }, 
+    {
+      "entity_end_in_og_text": 924, 
+      "entity_start_in_og_text": 916, 
+      "entity": "Hartford", 
+      "entity_tag_id": 44, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 785, 
+      "tag_text_start_in_tagged_text": 782
+    }, 
+    {
+      "entity_end_in_og_text": 937, 
+      "entity_start_in_og_text": 928, 
+      "entity": "New Haven", 
+      "entity_tag_id": 45, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 792, 
+      "tag_text_start_in_tagged_text": 789
+    }, 
+    {
+      "entity_end_in_og_text": 950, 
+      "entity_start_in_og_text": 941, 
+      "entity": "Kaempffer", 
+      "entity_tag_id": 46, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 799, 
+      "tag_text_start_in_tagged_text": 796
+    }, 
+    {
+      "entity_end_in_og_text": 1086, 
+      "entity_start_in_og_text": 1077, 
+      "entity": "Kaempffer", 
+      "entity_tag_id": 47, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 929, 
+      "tag_text_start_in_tagged_text": 926
+    }, 
+    {
+      "entity_end_in_og_text": 1112, 
+      "entity_start_in_og_text": 1106, 
+      "entity": "police", 
+      "entity_tag_id": 48, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 952, 
+      "tag_text_start_in_tagged_text": 949
+    }, 
+    {
+      "entity_end_in_og_text": 1231, 
+      "entity_start_in_og_text": 1224, 
+      "entity": "Pettway", 
+      "entity_tag_id": 49, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1067, 
+      "tag_text_start_in_tagged_text": 1064
+    }, 
+    {
+      "entity_end_in_og_text": 1251, 
+      "entity_start_in_og_text": 1249, 
+      "entity": "he", 
+      "entity_tag_id": 50, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1088, 
+      "tag_text_start_in_tagged_text": 1085
+    }, 
+    {
+      "entity_end_in_og_text": 1285, 
+      "entity_start_in_og_text": 1278, 
+      "entity": "streets", 
+      "entity_tag_id": 51, 
+      "tag": "FAC", 
+      "tag_text_end_in_tagged_text": 1118, 
+      "tag_text_start_in_tagged_text": 1115
+    }, 
+    {
+      "entity_end_in_og_text": 1299, 
+      "entity_start_in_og_text": 1294, 
+      "entity": "Fiske", 
+      "entity_tag_id": 52, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1130, 
+      "tag_text_start_in_tagged_text": 1127
+    }, 
+    {
+      "entity_end_in_og_text": 1313, 
+      "entity_start_in_og_text": 1304, 
+      "entity": "Reservoir", 
+      "entity_tag_id": 53, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1138, 
+      "tag_text_start_in_tagged_text": 1135
+    }, 
+    {
+      "entity_end_in_og_text": 1356, 
+      "entity_start_in_og_text": 1350, 
+      "entity": "police", 
+      "entity_tag_id": 54, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1178, 
+      "tag_text_start_in_tagged_text": 1175
+    }, 
+    {
+      "entity_end_in_og_text": 1391, 
+      "entity_start_in_og_text": 1386, 
+      "entity": "group", 
+      "entity_tag_id": 55, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1211, 
+      "tag_text_start_in_tagged_text": 1208
+    }, 
+    {
+      "entity_end_in_og_text": 1406, 
+      "entity_start_in_og_text": 1400, 
+      "entity": "people", 
+      "entity_tag_id": 56, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1223, 
+      "tag_text_start_in_tagged_text": 1220
+    }, 
+    {
+      "entity_end_in_og_text": 1431, 
+      "entity_start_in_og_text": 1425, 
+      "entity": "corner", 
+      "entity_tag_id": 57, 
+      "tag": "FAC", 
+      "tag_text_end_in_tagged_text": 1245, 
+      "tag_text_start_in_tagged_text": 1242
+    }, 
+    {
+      "entity_end_in_og_text": 1469, 
+      "entity_start_in_og_text": 1465, 
+      "entity": "they", 
+      "entity_tag_id": 58, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1282, 
+      "tag_text_start_in_tagged_text": 1279
+    }, 
+    {
+      "entity_end_in_og_text": 1490, 
+      "entity_start_in_og_text": 1483, 
+      "entity": "Pettway", 
+      "entity_tag_id": 59, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 1299, 
+      "tag_text_start_in_tagged_text": 1296
+    }, 
+    {
+      "entity_end_in_og_text": 1496, 
+      "entity_start_in_og_text": 1492, 
+      "entity": "They", 
+      "entity_tag_id": 60, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1304, 
+      "tag_text_start_in_tagged_text": 1301
+    }, 
+    {
+      "entity_end_in_og_text": 1504, 
+      "entity_start_in_og_text": 1502, 
+      "entity": "he", 
+      "entity_tag_id": 61, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1313, 
+      "tag_text_start_in_tagged_text": 1310
+    }, 
+    {
+      "entity_end_in_og_text": 1527, 
+      "entity_start_in_og_text": 1524, 
+      "entity": "man", 
+      "entity_tag_id": 62, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1336, 
+      "tag_text_start_in_tagged_text": 1333
+    }, 
+    {
+      "entity_end_in_og_text": 1531, 
+      "entity_start_in_og_text": 1528, 
+      "entity": "who", 
+      "entity_tag_id": 63, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1340, 
+      "tag_text_start_in_tagged_text": 1337
+    }, 
+    {
+      "entity_end_in_og_text": 1585, 
+      "entity_start_in_og_text": 1582, 
+      "entity": "his", 
+      "entity_tag_id": 64, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1394, 
+      "tag_text_start_in_tagged_text": 1391
+    }, 
+    {
+      "entity_end_in_og_text": 1597, 
+      "entity_start_in_og_text": 1593, 
+      "entity": "City", 
+      "entity_tag_id": 65, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 1405, 
+      "tag_text_start_in_tagged_text": 1402
+    }, 
+    {
+      "entity_end_in_og_text": 1608, 
+      "entity_start_in_og_text": 1598, 
+      "entity": "Councilman", 
+      "entity_tag_id": 66, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1409, 
+      "tag_text_start_in_tagged_text": 1406
+    }, 
+    {
+      "entity_end_in_og_text": 1621, 
+      "entity_start_in_og_text": 1609, 
+      "entity": "Warren Blunt", 
+      "entity_tag_id": 67, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1413, 
+      "tag_text_start_in_tagged_text": 1410
+    }, 
+    {
+      "entity_end_in_og_text": 1628, 
+      "entity_start_in_og_text": 1623, 
+      "entity": "D-135", 
+      "entity_tag_id": 68, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1418, 
+      "tag_text_start_in_tagged_text": 1415
+    }, 
+    {
+      "entity_end_in_og_text": 1633, 
+      "entity_start_in_og_text": 1630, 
+      "entity": "who", 
+      "entity_tag_id": 69, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1423, 
+      "tag_text_start_in_tagged_text": 1420
+    }, 
+    {
+      "entity_end_in_og_text": 1653, 
+      "entity_start_in_og_text": 1649, 
+      "entity": "area", 
+      "entity_tag_id": 70, 
+      "tag": "LOC", 
+      "tag_text_end_in_tagged_text": 1442, 
+      "tag_text_start_in_tagged_text": 1439
+    }, 
+    {
+      "entity_end_in_og_text": 1699, 
+      "entity_start_in_og_text": 1694, 
+      "entity": "party", 
+      "entity_tag_id": 71, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 1486, 
+      "tag_text_start_in_tagged_text": 1483
+    }, 
+    {
+      "entity_end_in_og_text": 1726, 
+      "entity_start_in_og_text": 1722, 
+      "entity": "Some", 
+      "entity_tag_id": 72, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1512, 
+      "tag_text_start_in_tagged_text": 1509
+    }, 
+    {
+      "entity_end_in_og_text": 1733, 
+      "entity_start_in_og_text": 1730, 
+      "entity": "his", 
+      "entity_tag_id": 73, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1519, 
+      "tag_text_start_in_tagged_text": 1516
+    }, 
+    {
+      "entity_end_in_og_text": 1750, 
+      "entity_start_in_og_text": 1743, 
+      "entity": "workers", 
+      "entity_tag_id": 74, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1532, 
+      "tag_text_start_in_tagged_text": 1529
+    }, 
+    {
+      "entity_end_in_og_text": 1769, 
+      "entity_start_in_og_text": 1760, 
+      "entity": "residents", 
+      "entity_tag_id": 75, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1545, 
+      "tag_text_start_in_tagged_text": 1542
+    }, 
+    {
+      "entity_end_in_og_text": 1818, 
+      "entity_start_in_og_text": 1811, 
+      "entity": "bullets", 
+      "entity_tag_id": 76, 
+      "tag": "WEA", 
+      "tag_text_end_in_tagged_text": 1590, 
+      "tag_text_start_in_tagged_text": 1587
+    }, 
+    {
+      "entity_end_in_og_text": 1823, 
+      "entity_start_in_og_text": 1821, 
+      "entity": "he", 
+      "entity_tag_id": 77, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 1596, 
+      "tag_text_start_in_tagged_text": 1593
+    }
+  ], 
+  "og_text": "Bridgeport, Connecticut -- Christopher Pettway, the city's ninth homicide victim this year, was recalled Wednesday as  a man with morals and values'' by a family friend. Ernest Newton III, the former state senator, said he knew Pettway's family well,  and he came from a good family. They are religious people.'' Pettway died in the hospital as a result of injuries from the shooting near Reservoir and Trumbull avenues at about 2:30 p.m. Tuesday, July 29th, police said. Pettway was only 26 years old when he passed.  I grew up with his mother and father,'' Newton said. He had not spoken to Edward Pettway, Christopher's father, since the shooting, the family friend said. The Pettways are one of the city's largest families and Newton said he has talked to the dead man's cousins,  who are taking this very hard, as you might imagine. It's another gunshot death. We have to make sure that we don't become another Hartford or New Haven.'' Kaempffer said the investigation was still ongoing. So far, it is known that 3 shots were fired using a 22 caliber pistol. Beyond that, Kaempffer said only that the police were  following very strong leads,  but did not release more details about what led up to the shooting or what Pettway was doing before he was killed. Several local streets between Fiske and Reservoir were closed for about five hours as police investigated the incident. A group of four people standing near the corner of Voight and Fiske avenues said they grew up with Pettway. They said he was a lighthearted man who was always cracking jokes. All expressed shock at his death. City Councilman Warren Blunt, D-135, who represents the area, was campaigning all day Tuesday in the party's Democratic primary. Some of his campaign workers bringing residents to the polls  just missed the barrage of bullets,  he said. ", 
+  "json_to_link_og_text_with_tagged_events": [
+    {
+      "event": "homicide", 
+      "tag_text_end_in_tagged_text": 36, 
+      "event_end_in_og_text": 73, 
+      "tag": "DIE", 
+      "event_start_in_og_text": 65, 
+      "event_tag_id": 0, 
+      "tag_text_start_in_tagged_text": 33
+    }, 
+    {
+      "event": "came", 
+      "tag_text_end_in_tagged_text": 200, 
+      "event_end_in_og_text": 263, 
+      "tag": "TRANSPORT", 
+      "event_start_in_og_text": 259, 
+      "event_tag_id": 1, 
+      "tag_text_start_in_tagged_text": 191
+    }, 
+    {
+      "event": "died", 
+      "tag_text_end_in_tagged_text": 250, 
+      "event_end_in_og_text": 325, 
+      "tag": "DIE", 
+      "event_start_in_og_text": 321, 
+      "event_tag_id": 2, 
+      "tag_text_start_in_tagged_text": 247
+    }, 
+    {
+      "event": "injuries", 
+      "tag_text_end_in_tagged_text": 283, 
+      "event_end_in_og_text": 365, 
+      "tag": "INJURE", 
+      "event_start_in_og_text": 357, 
+      "event_tag_id": 3, 
+      "tag_text_start_in_tagged_text": 277
+    }, 
+    {
+      "event": "gunshot", 
+      "tag_text_end_in_tagged_text": 718, 
+      "event_end_in_og_text": 858, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 851, 
+      "event_tag_id": 4, 
+      "tag_text_start_in_tagged_text": 712
+    }, 
+    {
+      "event": "death", 
+      "tag_text_end_in_tagged_text": 722, 
+      "event_end_in_og_text": 864, 
+      "tag": "DIE", 
+      "event_start_in_og_text": 859, 
+      "event_tag_id": 5, 
+      "tag_text_start_in_tagged_text": 719
+    }, 
+    {
+      "event": "shots", 
+      "tag_text_end_in_tagged_text": 869, 
+      "event_end_in_og_text": 1025, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 1020, 
+      "event_tag_id": 6, 
+      "tag_text_start_in_tagged_text": 863
+    }, 
+    {
+      "event": "shooting", 
+      "tag_text_end_in_tagged_text": 1048, 
+      "event_end_in_og_text": 1215, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 1207, 
+      "event_tag_id": 7, 
+      "tag_text_start_in_tagged_text": 1042
+    }, 
+    {
+      "event": "killed", 
+      "tag_text_end_in_tagged_text": 1089, 
+      "event_end_in_og_text": 1262, 
+      "tag": "DIE", 
+      "event_start_in_og_text": 1256, 
+      "event_tag_id": 8, 
+      "tag_text_start_in_tagged_text": 1086
+    }, 
+    {
+      "event": "death", 
+      "tag_text_end_in_tagged_text": 1388, 
+      "event_end_in_og_text": 1591, 
+      "tag": "DIE", 
+      "event_start_in_og_text": 1586, 
+      "event_tag_id": 9, 
+      "tag_text_start_in_tagged_text": 1385
+    }, 
+    {
+      "event": "barrage", 
+      "tag_text_end_in_tagged_text": 1570, 
+      "event_end_in_og_text": 1807, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 1800, 
+      "event_tag_id": 10, 
+      "tag_text_start_in_tagged_text": 1564
+    }
+  ]
+}

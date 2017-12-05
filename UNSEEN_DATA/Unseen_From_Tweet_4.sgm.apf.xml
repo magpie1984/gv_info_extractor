@@ -1,0 +1,515 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/Unseen_From_Tweet_4.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/Unseen_From_Tweet_4.sgm">
+  <entity ID="Unseen_From_Tweet_4.sgm-E0" TYPE="LOC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E0-1">
+      <extent>
+			<charseq START="90" END="107">NORTHERN LIBERTIES</charseq>
+      </extent>
+      <head>
+			<charseq START="99" END="107">LIBERTIES</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E1" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E1-1">
+      <extent>
+			<charseq START="110" END="114">WPVI)</charseq>
+      </extent>
+      <head>
+			<charseq START="110" END="113">WPVI</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E2" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E2-1">
+      <extent>
+			<charseq START="119" END="137">Philadelphia police</charseq>
+      </extent>
+      <head>
+			<charseq START="132" END="137">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E3" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E3-1">
+      <extent>
+			<charseq START="222" END="229">the city</charseq>
+      </extent>
+      <head>
+			<charseq START="226" END="229">city</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E4" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E4-1">
+      <extent>
+			<charseq START="230" END="258">&apos;s Northern Liberties section</charseq>
+      </extent>
+      <head>
+			<charseq START="233" END="258">Northern Liberties section</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E5" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E5-1">
+      <extent>
+			<charseq START="314" END="333">444 North 3rd Street</charseq>
+      </extent>
+      <head>
+			<charseq START="318" END="322">North</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E6" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E6-1">
+      <extent>
+			<charseq START="314" END="333">444 North 3rd Street</charseq>
+      </extent>
+      <head>
+			<charseq START="324" END="333">3rd Street</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E7-1">
+      <extent>
+			<charseq START="336" END="341">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="336" END="341">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E8-1">
+      <extent>
+			<charseq START="396" END="414">the 30-year-old man</charseq>
+      </extent>
+      <head>
+			<charseq START="412" END="414">man</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E9-1">
+      <extent>
+			<charseq START="487" END="496">the victim</charseq>
+      </extent>
+      <head>
+			<charseq START="491" END="496">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E10-1">
+      <extent>
+			<charseq START="526" END="527">He</charseq>
+      </extent>
+      <head>
+			<charseq START="526" END="527">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E11" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E11-1">
+      <extent>
+			<charseq START="548" END="559">The building</charseq>
+      </extent>
+      <head>
+			<charseq START="552" END="559">building</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E12" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E12-1">
+      <extent>
+			<charseq START="561" END="566">houses</charseq>
+      </extent>
+      <head>
+			<charseq START="561" END="566">houses</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E13-1">
+      <extent>
+			<charseq START="568" END="588">Superior Sound Studio</charseq>
+      </extent>
+      <head>
+			<charseq START="568" END="575">Superior</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E14-1">
+      <extent>
+			<charseq START="568" END="588">Superior Sound Studio</charseq>
+      </extent>
+      <head>
+			<charseq START="577" END="588">Sound Studio</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E15" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E15-1">
+      <extent>
+			<charseq START="610" END="626">its Facebook page</charseq>
+      </extent>
+      <head>
+			<charseq START="610" END="612">its</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E16" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E16-1">
+      <extent>
+			<charseq START="610" END="626">its Facebook page</charseq>
+      </extent>
+      <head>
+			<charseq START="614" END="621">Facebook</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E17-1">
+      <extent>
+			<charseq START="653" END="659">artists</charseq>
+      </extent>
+      <head>
+			<charseq START="653" END="659">artists</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E18" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E18-1">
+      <extent>
+			<charseq START="662" END="667">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="662" END="667">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E19" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E19-1">
+      <extent>
+			<charseq START="698" END="707">the victim</charseq>
+      </extent>
+      <head>
+			<charseq START="702" END="707">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E20-1">
+      <extent>
+			<charseq START="742" END="750">his death</charseq>
+      </extent>
+      <head>
+			<charseq START="742" END="744">his</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E21-1">
+      <extent>
+			<charseq START="764" END="779">the studio owner</charseq>
+      </extent>
+      <head>
+			<charseq START="775" END="779">owner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E22-1">
+      <extent>
+			<charseq START="789" END="789">I</charseq>
+      </extent>
+      <head>
+			<charseq START="789" END="789">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E23-1">
+      <extent>
+			<charseq START="830" END="830">I</charseq>
+      </extent>
+      <head>
+			<charseq START="830" END="830">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E24-1">
+      <extent>
+			<charseq START="855" END="861">my life</charseq>
+      </extent>
+      <head>
+			<charseq START="855" END="856">my</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E25-1">
+      <extent>
+			<charseq START="888" END="888">I</charseq>
+      </extent>
+      <head>
+			<charseq START="888" END="888">I</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E26-1">
+      <extent>
+			<charseq START="932" END="937">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="932" END="937">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_4.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_4.sgm-E27-1">
+      <extent>
+			<charseq START="963" END="971">a suspect</charseq>
+      </extent>
+      <head>
+			<charseq START="965" END="971">suspect</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="Unseen_From_Tweet_4.sgm-R0" TYPE="PART-WHOLE">
+    <relation_argument REFID="Unseen_From_Tweet_4.sgm-E4" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_4.sgm-E3" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_4.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="90" END="259">NORTHERN LIBERTIES (WPVI) -- Philadelphia police are investigating a deadly shooting and possible stabbing at a recording studio in the city&apos;s Northern Liberties section.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_4.sgm-E4-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="230" END="258">&apos;s Northern Liberties section</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_4.sgm-E3-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="222" END="229">the city</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="Unseen_From_Tweet_4.sgm-R1" TYPE="PART-WHOLE">
+    <relation_argument REFID="Unseen_From_Tweet_4.sgm-E6" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_4.sgm-E5" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_4.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="261" END="334">It happened in the basement of a recording studio at 444 North 3rd Street.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_4.sgm-E6-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="314" END="333">444 North 3rd Street</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_4.sgm-E5-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="314" END="333">444 North 3rd Street</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="Unseen_From_Tweet_4.sgm-EV0" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_4.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="90" END="259">NORTHERN LIBERTIES (WPVI) -- Philadelphia police are investigating a deadly shooting and possible stabbing at a recording studio in the city&apos;s Northern Liberties section.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="188" END="195">stabbing</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_4.sgm-E3-1" ROLE="Place" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="222" END="229">the city</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_4.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_4.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="261" END="334">It happened in the basement of a recording studio at 444 North 3rd Street.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="261" END="262">It</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_4.sgm-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_4.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="336" END="524">Police first arrived around 7:30 Saturday morning and found the 30-year-old man shot in the head and back, and a bloody screwdriver nearby, indicating the victim may have also been stabbed.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="349" END="355">arrived</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_4.sgm-E7-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="336" END="341">Police</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_4.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_4.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="336" END="524">Police first arrived around 7:30 Saturday morning and found the 30-year-old man shot in the head and back, and a bloody screwdriver nearby, indicating the victim may have also been stabbed.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="416" END="419">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_4.sgm-E8-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="396" END="414">the 30-year-old man</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_4.sgm-EV4" TYPE="Life" SUBTYPE="Injure" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_4.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="336" END="524">Police first arrived around 7:30 Saturday morning and found the 30-year-old man shot in the head and back, and a bloody screwdriver nearby, indicating the victim may have also been stabbed.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="517" END="523">stabbed</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_4.sgm-E9-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="487" END="496">the victim</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_4.sgm-EV5" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_4.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="526" END="546">He died at the scene.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="529" END="532">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_4.sgm-E10-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="526" END="527">He</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_4.sgm-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_4.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="662" END="751">Police haven&apos;t released the name of the victim or the circumstances surrounding his death.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="746" END="750">death</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_4.sgm-E20-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="742" END="750">his death</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_4.sgm-EV7" TYPE="Contact" SUBTYPE="Phone-Write" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_4.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="753" END="828">In a text, the studio owner wrote: &quot;I don&apos;t know what happened at this time.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="781" END="785">wrote</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_4.sgm-E21-1" ROLE="Entity" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="764" END="779">the studio owner</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_4.sgm-EV8" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_4.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="753" END="828">In a text, the studio owner wrote: &quot;I don&apos;t know what happened at this time.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="802" END="805">what</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_4.sgm-EV9" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_4.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="830" END="886">I am seeing the image of my life&apos;s dream being destroyed.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="877" END="885">destroyed</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

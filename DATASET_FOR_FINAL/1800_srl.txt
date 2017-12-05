@@ -1,0 +1,204 @@
+[
+  {
+    u'A1': u'A bear',
+    u'AM-LOC': u'in an Auburn neighborhood',
+    u'A0': u'by a man who said the animal was starting to charge at him and his dog',
+    u'AM-TMP': u'Saturday morning',
+    u'V': u'shot'
+  },
+  {
+    u'A1': u'the animal was starting to charge at him and his dog',
+    u'A0': u'a man',
+    u'R-A0': u'who',
+    u'V': u'said'
+  },
+  {
+    u'A1': u'the animal',
+    u'C-A1': u'to charge at him and his dog',
+    u'V': u'starting'
+  },
+  {
+    u'A0': u'the animal',
+    u'A3': u'at him and his dog',
+    u'V': u'charge'
+  },
+  {
+    u'A1': u'about 300 pounds',
+    u'A0': u'a black bear',
+    u'V': u'weighing'
+  },
+  {
+    u'A1': u'the bear',
+    u'A0': u'The man',
+    u'R-A0': u'who',
+    u'V': u'shot'
+  },
+  {
+    u'A1': u'to be identified',
+    u'A0': u'The man  the bear',
+    u'R-A0': u'who who',
+    u'AM-NEG': u'not',
+    u'V': u'want'
+  },
+  {
+    u'A1': u'The man  the bear',
+    u'R-A1': u'who who',
+    u'V': u'identified'
+  },
+  {
+    u'A1': u'the bear had killed at least six chickens earlier that morning and was at his doorstep ready to attack him and his dog',
+    u'A0': u'The man who shot the bear , who did not want to be identified ,',
+    u'V': u'said'
+  },
+  {
+    u'A1': u'at least six chickens',
+    u'A0': u'the bear',
+    u'AM-TMP': u'earlier that morning and was at his doorstep ready to attack him and his dog',
+    u'V': u'killed'
+  },
+  {
+    u'A1': u'him and his dog',
+    u'V': u'attack'
+  },
+  {
+    u'A1': u'calling authorities',
+    u'A0': u'he',
+    u'V': u'tried'
+  },
+  {
+    u'A0': u'he authorities',
+    u'V': u'calling'
+  },
+  {
+    u'A1': u'their response time was slow',
+    u'A0': u'he',
+    u'V': u'claimed'
+  },
+  {
+    u'A1': u'an hour passed before the bear returned',
+    u'A0': u'He',
+    u'V': u'said'
+  },
+  {
+    u'A1': u'an hour',
+    u'AM-TMP': u'before the bear returned',
+    u'V': u'passed'
+  },
+  {
+    u'A1': u'the bear',
+    u'V': u'returned'
+  },
+  {
+    u'A1': u'he',
+    u'A2': u'to take matters into his own hands',
+    u'V': u'forced'
+  },
+  {
+    u'A1': u'matters',
+    u'A0': u'he',
+    u'A2': u'into his own hands',
+    u'V': u'take'
+  },
+  {
+    u'V': u'had'
+  },
+  {
+    u'A1': u'some type of fear for himself and his animals',
+    u'A0': u'He',
+    u'V': u'had'
+  },
+  {
+    u'A1': u'He had to have had some type of fear for himself and his animals  neighbor Earlene Olson . " He \'s an animal lover . " Others say the shooting could have been prevented . " Black bears aren \'t necessarily looking for you or your children or your dogs  to keep bears safe in their natural habitat . " You need a depredation permit to legally take a bear unless your life is in danger . This situation',
+    u'V': u'said'
+  },
+  {
+    u'A1': u'the shooting could have been prevented . " Black bears aren \'t necessarily looking for you or your children or your dogs , " said Cindy McAyeal with the Bear League - a nonprofit that works to keep bears safe in their natural habitat . " You need a depredation permit to legally take a bear unless your life is in danger . This situation , I don \'t know the situation , I wasn \'t there',
+    u'A0': u'Others',
+    u'V': u'say'
+  },
+  {
+    u'A1': u'the shooting',
+    u'V': u'prevented',
+    u'AM-MOD': u'could'
+  },
+  {
+    u'A1': u"'t",
+    u'A0': u'" Black bears',
+    u'AM-MNR': u'necessarily looking for you or your children or your dogs',
+    u'V': u'aren'
+  },
+  {
+    u'AM-ADV': u'necessarily',
+    u'A0': u"'t",
+    u'A1': u'for you or your children or your dogs',
+    u'V': u'looking'
+  },
+  {
+    u'A1': u'He had to have had some type of fear for himself and his animals  with the Bear League - a nonprofit that works to keep bears safe in their natural habitat . " You need a depredation permit to legally take a bear unless your life is in danger . This situation , I don \'t know the situation , I wasn \'t there',
+    u'A0': u'Cindy McAyeal',
+    u'V': u'said'
+  },
+  {
+    u'A0': u'a nonprofit',
+    u'R-A0': u'that',
+    u'AM-PNC': u'to keep bears safe in their natural habitat',
+    u'V': u'works'
+  },
+  {
+    u'A1': u'bears safe in their natural habitat',
+    u'A0': u'a nonprofit',
+    u'R-A0': u'that',
+    u'V': u'keep'
+  },
+  {
+    u'A1': u'a depredation permit to legally take a bear unless your life is in danger',
+    u'A0': u'You',
+    u'V': u'need'
+  },
+  {
+    u'A1': u'a bear',
+    u'A0': u'You',
+    u'AM-MNR': u'legally',
+    u'V': u'take'
+  },
+  {
+    u'A1': u'the situation',
+    u'A0': u"I don 't",
+    u'V': u'know'
+  },
+  {
+    u'A1': u"'t",
+    u'A0': u'I',
+    u'AM-LOC': u'there',
+    u'V': u'wasn'
+  },
+  {
+    u'A1': u'McAyeal',
+    u'A0': u'"',
+    u'V': u'said'
+  },
+  {
+    u'A1': u"he didn 't want to shoot the bear",
+    u'A0': u'The man',
+    u'V': u'said'
+  },
+  {
+    u'A1': u'to shoot the bear',
+    u'A0': u"'t",
+    u'V': u'want'
+  },
+  {
+    u'A1': u'the bear',
+    u'A0': u"he didn 't",
+    u'V': u'shoot'
+  },
+  {
+    u'A1': u'what else to do',
+    u'A0': u"he didn 't",
+    u'V': u'know'
+  },
+  {
+    u'A1': u'what else',
+    u'V': u'do'
+  }
+]

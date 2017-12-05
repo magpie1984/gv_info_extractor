@@ -3,6 +3,7 @@ import sys, json, re
 import traceback
 import os
 from time import sleep
+from unidecode import unidecode
 reload(sys)
 sys.setdefaultencoding('utf8')
 
@@ -66,6 +67,7 @@ def tag_og_text_with_entities(og_text, xml_info):
 
         temp["entity"] = tag[1]
         # print ("search text", str(og_text[og_search_index:]))
+        print(temp["entity"])
         temp["entity_start_in_og_text"] = og_search_index + re.search(r'\b{}\b'.format(tag[1]), str(og_text[og_search_index:])).start() #og_text[og_search_index:].find(tag[1] + " ")
         temp["entity_end_in_og_text"] = temp["entity_start_in_og_text"] + len(tag[1])
         # print ("start index:",temp["entity_start_in_og_text"], "end index:", temp["entity_end_in_og_text"])
@@ -159,22 +161,29 @@ def tag_og_text_with_events(doc_tagged, og_text, xml_info):
 
 
 if __name__ == '__main__':
-    data_gs_file = os.listdir("DATASET_FOR_FINAL")
+    #_dir = "DATASET_FOR_FINAL"
+    _dir = "UNSEEN_DATA"
+    data_gs_file = os.listdir(_dir)
 
     for gs_file in data_gs_file:
         if gs_file.endswith(".txt"):
+            print("\n\n\n\n\n")
             #print gs_file
-            text_file = open("DATASET_FOR_FINAL/" + gs_file, "r")
+            text_file = open(_dir + "/" + gs_file, "r")
             #og_xml = load_xml(text_file)
-            og_text = text_file.read().encode("utf-8")
+            #og_text = text_file.read()#.encode("utf-8")
+            og_text = unidecode(unicode(text_file.read(), encoding = "utf-8"))
             og_text = og_text.strip("\n")
-            xml_file = open("DATASET_FOR_FINAL/" + gs_file.replace(".txt", ".sgm.apf.xml"), "r")
+            og_text = og_text.replace("\"\""," ")
+            og_text = og_text.replace("\""," ")
+            #return ''.join([i if ord(i) < 128 else ' ' for i in text])
+            xml_file = open(_dir + "/" + gs_file.replace(".txt", ".sgm.apf.xml"), "r")
             xml_info = load_xml(xml_file)
             doc_tagged = tag_og_text_with_entities(og_text, xml_info)#tag_og_text(og_xml, xml_info)#tag_og_text(og_text, xml_info)
             doc_tagged = tag_og_text_with_events(doc_tagged, og_text, xml_info)
             doc_tagged["file"] = gs_file
             #print doc_tagged
-            json.dump(doc_tagged, open("DATASET_FOR_FINAL/tagged_" + gs_file.replace(".txt",".json"), "w"), indent=2, ensure_ascii=True)
+            json.dump(doc_tagged, open(_dir +"/tagged_" + gs_file.replace(".txt",".json"), "w"), indent=2, ensure_ascii=False)
             #exit()
 
 # input_filename = sys.argv[1]

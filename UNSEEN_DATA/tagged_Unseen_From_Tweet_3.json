@@ -1,0 +1,348 @@
+{
+  "xml_info_entitites": [
+    [
+      "GPE", 
+      "FLINT", 
+      "81", 
+      "85"
+    ], 
+    [
+      "PER", 
+      "MI", 
+      "88", 
+      "89"
+    ], 
+    [
+      "PER", 
+      "boy", 
+      "107", 
+      "109"
+    ], 
+    [
+      "GPE", 
+      "Flint", 
+      "132", 
+      "136"
+    ], 
+    [
+      "PER", 
+      "police", 
+      "148", 
+      "153"
+    ], 
+    [
+      "PER", 
+      "child", 
+      "165", 
+      "169"
+    ], 
+    [
+      "FAC", 
+      "Hurley Medical Center", 
+      "184", 
+      "204"
+    ], 
+    [
+      "PER", 
+      "head", 
+      "271", 
+      "274"
+    ], 
+    [
+      "PER", 
+      "Witnesses", 
+      "321", 
+      "329"
+    ], 
+    [
+      "PER", 
+      "police", 
+      "336", 
+      "341"
+    ], 
+    [
+      "LOC", 
+      "area", 
+      "372", 
+      "375"
+    ], 
+    [
+      "GPE", 
+      "North Dort Highway", 
+      "380", 
+      "397"
+    ], 
+    [
+      "PER", 
+      "Carpenter Road", 
+      "403", 
+      "416"
+    ], 
+    [
+      "PER", 
+      "Anyone", 
+      "419", 
+      "424"
+    ], 
+    [
+      "FAC", 
+      "Flint Police Detective Sgt", 
+      "460", 
+      "485"
+    ], 
+    [
+      "ORG", 
+      "P3tips.com", 
+      "608", 
+      "617"
+    ]
+  ], 
+  "tagged_text": "GPE, PER -- A 3-year-old PER ATTACK Friday night in GPE has DIE, PER said.\nThe PER was TRANSPORT to FAC around 9 p.m. Friday, Oct. 13 with a single gunshot INJURE to the PER and originally listed in critical condition.\nPER told PER the ATTACK happened in the LOC of GPE and PER.\nPER with information is asked to call FAC. Alfino Donastorg at 810-237-6919. Tips can be made anonymously by calling Crime Stoppers at 1-800-422-JAIL (5245) or at ORG.", 
+  "xml_info_events": [
+    [
+      "Attack", 
+      [
+        [
+          "shot", 
+          "111", 
+          "114"
+        ]
+      ]
+    ], 
+    [
+      "Die", 
+      [
+        [
+          "died", 
+          "142", 
+          "145"
+        ]
+      ]
+    ], 
+    [
+      "Transport", 
+      [
+        [
+          "taken", 
+          "175", 
+          "179"
+        ]
+      ]
+    ], 
+    [
+      "Injure", 
+      [
+        [
+          "wound", 
+          "258", 
+          "262"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "shooting", 
+          "347", 
+          "354"
+        ]
+      ]
+    ]
+  ], 
+  "file": "Unseen_From_Tweet_3.txt", 
+  "json_to_link_og_text_with_tagged_entities": [
+    {
+      "entity_end_in_og_text": 5, 
+      "entity_start_in_og_text": 0, 
+      "entity": "FLINT", 
+      "entity_tag_id": 0, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 3, 
+      "tag_text_start_in_tagged_text": 0
+    }, 
+    {
+      "entity_end_in_og_text": 9, 
+      "entity_start_in_og_text": 7, 
+      "entity": "MI", 
+      "entity_tag_id": 1, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 8, 
+      "tag_text_start_in_tagged_text": 5
+    }, 
+    {
+      "entity_end_in_og_text": 29, 
+      "entity_start_in_og_text": 26, 
+      "entity": "boy", 
+      "entity_tag_id": 2, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 28, 
+      "tag_text_start_in_tagged_text": 25
+    }, 
+    {
+      "entity_end_in_og_text": 56, 
+      "entity_start_in_og_text": 51, 
+      "entity": "Flint", 
+      "entity_tag_id": 3, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 53, 
+      "tag_text_start_in_tagged_text": 50
+    }, 
+    {
+      "entity_end_in_og_text": 73, 
+      "entity_start_in_og_text": 67, 
+      "entity": "police", 
+      "entity_tag_id": 4, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 67, 
+      "tag_text_start_in_tagged_text": 64
+    }, 
+    {
+      "entity_end_in_og_text": 89, 
+      "entity_start_in_og_text": 84, 
+      "entity": "child", 
+      "entity_tag_id": 5, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 81, 
+      "tag_text_start_in_tagged_text": 78
+    }, 
+    {
+      "entity_end_in_og_text": 124, 
+      "entity_start_in_og_text": 103, 
+      "entity": "Hurley Medical Center", 
+      "entity_tag_id": 6, 
+      "tag": "FAC", 
+      "tag_text_end_in_tagged_text": 98, 
+      "tag_text_start_in_tagged_text": 95
+    }, 
+    {
+      "entity_end_in_og_text": 194, 
+      "entity_start_in_og_text": 190, 
+      "entity": "head", 
+      "entity_tag_id": 7, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 167, 
+      "tag_text_start_in_tagged_text": 164
+    }, 
+    {
+      "entity_end_in_og_text": 249, 
+      "entity_start_in_og_text": 240, 
+      "entity": "Witnesses", 
+      "entity_tag_id": 8, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 216, 
+      "tag_text_start_in_tagged_text": 213
+    }, 
+    {
+      "entity_end_in_og_text": 261, 
+      "entity_start_in_og_text": 255, 
+      "entity": "police", 
+      "entity_tag_id": 9, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 225, 
+      "tag_text_start_in_tagged_text": 222
+    }, 
+    {
+      "entity_end_in_og_text": 295, 
+      "entity_start_in_og_text": 291, 
+      "entity": "area", 
+      "entity_tag_id": 10, 
+      "tag": "LOC", 
+      "tag_text_end_in_tagged_text": 258, 
+      "tag_text_start_in_tagged_text": 255
+    }, 
+    {
+      "entity_end_in_og_text": 317, 
+      "entity_start_in_og_text": 299, 
+      "entity": "North Dort Highway", 
+      "entity_tag_id": 11, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 265, 
+      "tag_text_start_in_tagged_text": 262
+    }, 
+    {
+      "entity_end_in_og_text": 336, 
+      "entity_start_in_og_text": 322, 
+      "entity": "Carpenter Road", 
+      "entity_tag_id": 12, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 273, 
+      "tag_text_start_in_tagged_text": 270
+    }, 
+    {
+      "entity_end_in_og_text": 344, 
+      "entity_start_in_og_text": 338, 
+      "entity": "Anyone", 
+      "entity_tag_id": 13, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 278, 
+      "tag_text_start_in_tagged_text": 275
+    }, 
+    {
+      "entity_end_in_og_text": 405, 
+      "entity_start_in_og_text": 379, 
+      "entity": "Flint Police Detective Sgt", 
+      "entity_tag_id": 14, 
+      "tag": "FAC", 
+      "tag_text_end_in_tagged_text": 316, 
+      "tag_text_start_in_tagged_text": 313
+    }, 
+    {
+      "entity_end_in_og_text": 537, 
+      "entity_start_in_og_text": 527, 
+      "entity": "P3tips.com", 
+      "entity_tag_id": 15, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 441, 
+      "tag_text_start_in_tagged_text": 438
+    }
+  ], 
+  "og_text": "FLINT, MI -- A 3-year-old boy shot Friday night in Flint has died, police said.\nThe child was taken to Hurley Medical Center around 9 p.m. Friday, Oct. 13 with a single gunshot wound to the head and originally listed in critical condition.\nWitnesses told police the shooting happened in the area of North Dort Highway and Carpenter Road.\nAnyone with information is asked to call Flint Police Detective Sgt. Alfino Donastorg at 810-237-6919. Tips can be made anonymously by calling Crime Stoppers at 1-800-422-JAIL (5245) or at P3tips.com.", 
+  "json_to_link_og_text_with_tagged_events": [
+    {
+      "event": "shot", 
+      "tag_text_end_in_tagged_text": 35, 
+      "event_end_in_og_text": 34, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 30, 
+      "event_tag_id": 0, 
+      "tag_text_start_in_tagged_text": 29
+    }, 
+    {
+      "event": "died", 
+      "tag_text_end_in_tagged_text": 63, 
+      "event_end_in_og_text": 65, 
+      "tag": "DIE", 
+      "event_start_in_og_text": 61, 
+      "event_tag_id": 1, 
+      "tag_text_start_in_tagged_text": 60
+    }, 
+    {
+      "event": "taken", 
+      "tag_text_end_in_tagged_text": 96, 
+      "event_end_in_og_text": 99, 
+      "tag": "TRANSPORT", 
+      "event_start_in_og_text": 94, 
+      "event_tag_id": 2, 
+      "tag_text_start_in_tagged_text": 87
+    }, 
+    {
+      "event": "wound", 
+      "tag_text_end_in_tagged_text": 162, 
+      "event_end_in_og_text": 182, 
+      "tag": "INJURE", 
+      "event_start_in_og_text": 177, 
+      "event_tag_id": 3, 
+      "tag_text_start_in_tagged_text": 156
+    }, 
+    {
+      "event": "shooting", 
+      "tag_text_end_in_tagged_text": 242, 
+      "event_end_in_og_text": 274, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 266, 
+      "event_tag_id": 4, 
+      "tag_text_start_in_tagged_text": 236
+    }
+  ]
+}

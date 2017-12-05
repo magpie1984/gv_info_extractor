@@ -1,0 +1,649 @@
+{
+  "xml_info_entitites": [
+    [
+      "GPE", 
+      "CHICAGO", 
+      "100", 
+      "106"
+    ], 
+    [
+      "PER", 
+      "woman", 
+      "124", 
+      "128"
+    ], 
+    [
+      "PER", 
+      "Rogers Park", 
+      "151", 
+      "161"
+    ], 
+    [
+      "PER", 
+      "she", 
+      "172", 
+      "174"
+    ], 
+    [
+      "PER", 
+      "police", 
+      "220", 
+      "225"
+    ], 
+    [
+      "PER", 
+      "woman", 
+      "258", 
+      "262"
+    ], 
+    [
+      "GPE", 
+      "North Glenwood Avenue", 
+      "305", 
+      "325"
+    ], 
+    [
+      "PER", 
+      "someone", 
+      "332", 
+      "338"
+    ], 
+    [
+      "VEH", 
+      "car", 
+      "345", 
+      "347"
+    ], 
+    [
+      "PER", 
+      "people", 
+      "362", 
+      "367"
+    ], 
+    [
+      "VEH", 
+      "car", 
+      "376", 
+      "378"
+    ], 
+    [
+      "PER", 
+      "police", 
+      "393", 
+      "398"
+    ], 
+    [
+      "PER", 
+      "woman", 
+      "410", 
+      "414"
+    ], 
+    [
+      "PER", 
+      "her", 
+      "427", 
+      "429"
+    ], 
+    [
+      "PER", 
+      "St", 
+      "453", 
+      "454"
+    ], 
+    [
+      "PER", 
+      "Francis Hospital", 
+      "457", 
+      "472"
+    ], 
+    [
+      "PER", 
+      "police", 
+      "497", 
+      "502"
+    ], 
+    [
+      "PER", 
+      "Cynthia Trevillion", 
+      "510", 
+      "527"
+    ], 
+    [
+      "GPE", 
+      "North Greenview", 
+      "551", 
+      "565"
+    ], 
+    [
+      "ORG", 
+      "Cook County Medical Examiner", 
+      "619", 
+      "646"
+    ], 
+    [
+      "PER", 
+      "Office", 
+      "650", 
+      "655"
+    ], 
+    [
+      "PER", 
+      "Trevillion", 
+      "658", 
+      "667"
+    ], 
+    [
+      "PER", 
+      "teacher", 
+      "675", 
+      "681"
+    ], 
+    [
+      "ORG", 
+      "Chicago Waldorf School", 
+      "686", 
+      "707"
+    ], 
+    [
+      "PER", 
+      "she", 
+      "716", 
+      "718"
+    ], 
+    [
+      "ORG", 
+      "school", 
+      "734", 
+      "739"
+    ], 
+    [
+      "ORG", 
+      "school", 
+      "764", 
+      "769"
+    ], 
+    [
+      "PER", 
+      "She", 
+      "782", 
+      "784"
+    ], 
+    [
+      "PER", 
+      "victim", 
+      "807", 
+      "812"
+    ], 
+    [
+      "PER", 
+      "police", 
+      "831", 
+      "836"
+    ], 
+    [
+      "PER", 
+      "No one", 
+      "844", 
+      "849"
+    ]
+  ], 
+  "tagged_text": "GPE -- A 64-year-old PER was ATTACK to DIE in PER -- though PER wasn't the intended target of the shooting, PER said.\nAt 6:30 p.m. Friday, the PER was on the sidewalk in the 6900 block of GPE when PER in a VEH TRANSPORT up and PER in the VEH ATTACK ATTACK, PER said.\nThe PER was ATTACK in PER head and was taken to PER. PER in critical condition, PER said.\nPER, of the 6800 block of GPE, was pronounced DIE at 7:18 p.m., according to the ORG's PER.\nPER was a PER at ORG, where PER taught middle ORG math, according to the ORG's website.\nPER was not the intended PER of the ATTACK, PER said.\nPER was in ARREST-JAIL.", 
+  "xml_info_events": [
+    [
+      "Attack", 
+      [
+        [
+          "shot", 
+          "134", 
+          "137"
+        ]
+      ]
+    ], 
+    [
+      "Die", 
+      [
+        [
+          "death", 
+          "142", 
+          "146"
+        ]
+      ]
+    ], 
+    [
+      "Transport", 
+      [
+        [
+          "drove", 
+          "349", 
+          "353"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "fired", 
+          "380", 
+          "384"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "shots", 
+          "386", 
+          "390"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "hit", 
+          "420", 
+          "422"
+        ]
+      ]
+    ], 
+    [
+      "Die", 
+      [
+        [
+          "dead", 
+          "583", 
+          "586"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "shooting", 
+          "821", 
+          "828"
+        ]
+      ]
+    ], 
+    [
+      "Arrest-Jail", 
+      [
+        [
+          "custody", 
+          "858", 
+          "864"
+        ]
+      ]
+    ]
+  ], 
+  "file": "Unseen_From_Tweet_2.txt", 
+  "json_to_link_og_text_with_tagged_entities": [
+    {
+      "entity_end_in_og_text": 7, 
+      "entity_start_in_og_text": 0, 
+      "entity": "CHICAGO", 
+      "entity_tag_id": 0, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 3, 
+      "tag_text_start_in_tagged_text": 0
+    }, 
+    {
+      "entity_end_in_og_text": 30, 
+      "entity_start_in_og_text": 25, 
+      "entity": "woman", 
+      "entity_tag_id": 1, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 24, 
+      "tag_text_start_in_tagged_text": 21
+    }, 
+    {
+      "entity_end_in_og_text": 63, 
+      "entity_start_in_og_text": 52, 
+      "entity": "Rogers Park", 
+      "entity_tag_id": 2, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 49, 
+      "tag_text_start_in_tagged_text": 46
+    }, 
+    {
+      "entity_end_in_og_text": 77, 
+      "entity_start_in_og_text": 74, 
+      "entity": "she", 
+      "entity_tag_id": 3, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 63, 
+      "tag_text_start_in_tagged_text": 60
+    }, 
+    {
+      "entity_end_in_og_text": 128, 
+      "entity_start_in_og_text": 122, 
+      "entity": "police", 
+      "entity_tag_id": 4, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 111, 
+      "tag_text_start_in_tagged_text": 108
+    }, 
+    {
+      "entity_end_in_og_text": 165, 
+      "entity_start_in_og_text": 160, 
+      "entity": "woman", 
+      "entity_tag_id": 5, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 146, 
+      "tag_text_start_in_tagged_text": 143
+    }, 
+    {
+      "entity_end_in_og_text": 228, 
+      "entity_start_in_og_text": 207, 
+      "entity": "North Glenwood Avenue", 
+      "entity_tag_id": 6, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 191, 
+      "tag_text_start_in_tagged_text": 188
+    }, 
+    {
+      "entity_end_in_og_text": 241, 
+      "entity_start_in_og_text": 234, 
+      "entity": "someone", 
+      "entity_tag_id": 7, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 200, 
+      "tag_text_start_in_tagged_text": 197
+    }, 
+    {
+      "entity_end_in_og_text": 250, 
+      "entity_start_in_og_text": 247, 
+      "entity": "car", 
+      "entity_tag_id": 8, 
+      "tag": "VEH", 
+      "tag_text_end_in_tagged_text": 209, 
+      "tag_text_start_in_tagged_text": 206
+    }, 
+    {
+      "entity_end_in_og_text": 270, 
+      "entity_start_in_og_text": 264, 
+      "entity": "people", 
+      "entity_tag_id": 9, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 226, 
+      "tag_text_start_in_tagged_text": 223
+    }, 
+    {
+      "entity_end_in_og_text": 281, 
+      "entity_start_in_og_text": 278, 
+      "entity": "car", 
+      "entity_tag_id": 10, 
+      "tag": "VEH", 
+      "tag_text_end_in_tagged_text": 237, 
+      "tag_text_start_in_tagged_text": 234
+    }, 
+    {
+      "entity_end_in_og_text": 301, 
+      "entity_start_in_og_text": 295, 
+      "entity": "police", 
+      "entity_tag_id": 11, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 254, 
+      "tag_text_start_in_tagged_text": 251
+    }, 
+    {
+      "entity_end_in_og_text": 317, 
+      "entity_start_in_og_text": 312, 
+      "entity": "woman", 
+      "entity_tag_id": 12, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 268, 
+      "tag_text_start_in_tagged_text": 265
+    }, 
+    {
+      "entity_end_in_og_text": 332, 
+      "entity_start_in_og_text": 329, 
+      "entity": "her", 
+      "entity_tag_id": 13, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 283, 
+      "tag_text_start_in_tagged_text": 280
+    }, 
+    {
+      "entity_end_in_og_text": 357, 
+      "entity_start_in_og_text": 355, 
+      "entity": "St", 
+      "entity_tag_id": 14, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 309, 
+      "tag_text_start_in_tagged_text": 306
+    }, 
+    {
+      "entity_end_in_og_text": 375, 
+      "entity_start_in_og_text": 359, 
+      "entity": "Francis Hospital", 
+      "entity_tag_id": 15, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 314, 
+      "tag_text_start_in_tagged_text": 311
+    }, 
+    {
+      "entity_end_in_og_text": 405, 
+      "entity_start_in_og_text": 399, 
+      "entity": "police", 
+      "entity_tag_id": 16, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 341, 
+      "tag_text_start_in_tagged_text": 338
+    }, 
+    {
+      "entity_end_in_og_text": 430, 
+      "entity_start_in_og_text": 412, 
+      "entity": "Cynthia Trevillion", 
+      "entity_tag_id": 17, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 351, 
+      "tag_text_start_in_tagged_text": 348
+    }, 
+    {
+      "entity_end_in_og_text": 468, 
+      "entity_start_in_og_text": 453, 
+      "entity": "North Greenview", 
+      "entity_tag_id": 18, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 377, 
+      "tag_text_start_in_tagged_text": 374
+    }, 
+    {
+      "entity_end_in_og_text": 549, 
+      "entity_start_in_og_text": 521, 
+      "entity": "Cook County Medical Examiner", 
+      "entity_tag_id": 19, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 433, 
+      "tag_text_start_in_tagged_text": 430
+    }, 
+    {
+      "entity_end_in_og_text": 558, 
+      "entity_start_in_og_text": 552, 
+      "entity": "Office", 
+      "entity_tag_id": 20, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 439, 
+      "tag_text_start_in_tagged_text": 436
+    }, 
+    {
+      "entity_end_in_og_text": 570, 
+      "entity_start_in_og_text": 560, 
+      "entity": "Trevillion", 
+      "entity_tag_id": 21, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 444, 
+      "tag_text_start_in_tagged_text": 441
+    }, 
+    {
+      "entity_end_in_og_text": 584, 
+      "entity_start_in_og_text": 577, 
+      "entity": "teacher", 
+      "entity_tag_id": 22, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 454, 
+      "tag_text_start_in_tagged_text": 451
+    }, 
+    {
+      "entity_end_in_og_text": 610, 
+      "entity_start_in_og_text": 588, 
+      "entity": "Chicago Waldorf School", 
+      "entity_tag_id": 23, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 461, 
+      "tag_text_start_in_tagged_text": 458
+    }, 
+    {
+      "entity_end_in_og_text": 621, 
+      "entity_start_in_og_text": 618, 
+      "entity": "she", 
+      "entity_tag_id": 24, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 472, 
+      "tag_text_start_in_tagged_text": 469
+    }, 
+    {
+      "entity_end_in_og_text": 642, 
+      "entity_start_in_og_text": 636, 
+      "entity": "school", 
+      "entity_tag_id": 25, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 490, 
+      "tag_text_start_in_tagged_text": 487
+    }, 
+    {
+      "entity_end_in_og_text": 672, 
+      "entity_start_in_og_text": 666, 
+      "entity": "school", 
+      "entity_tag_id": 26, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 517, 
+      "tag_text_start_in_tagged_text": 514
+    }, 
+    {
+      "entity_end_in_og_text": 687, 
+      "entity_start_in_og_text": 684, 
+      "entity": "She", 
+      "entity_tag_id": 27, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 532, 
+      "tag_text_start_in_tagged_text": 529
+    }, 
+    {
+      "entity_end_in_og_text": 715, 
+      "entity_start_in_og_text": 709, 
+      "entity": "victim", 
+      "entity_tag_id": 28, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 557, 
+      "tag_text_start_in_tagged_text": 554
+    }, 
+    {
+      "entity_end_in_og_text": 739, 
+      "entity_start_in_og_text": 733, 
+      "entity": "police", 
+      "entity_tag_id": 29, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 578, 
+      "tag_text_start_in_tagged_text": 575
+    }, 
+    {
+      "entity_end_in_og_text": 752, 
+      "entity_start_in_og_text": 746, 
+      "entity": "No one", 
+      "entity_tag_id": 30, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 588, 
+      "tag_text_start_in_tagged_text": 585
+    }
+  ], 
+  "og_text": "CHICAGO -- A 64-year-old woman was shot to death in Rogers Park -- though she wasn't the intended target of the shooting, police said.\nAt 6:30 p.m. Friday, the woman was on the sidewalk in the 6900 block of North Glenwood Avenue when someone in a car drove up and people in the car fired shots, police said.\nThe woman was hit in her head and was taken to St. Francis Hospital in critical condition, police said.\nCynthia Trevillion, of the 6800 block of North Greenview, was pronounced dead at 7:18 p.m., according to the Cook County Medical Examiner's Office.\nTrevillion was a teacher at Chicago Waldorf School, where she taught middle school math, according to the school's website.\nShe was not the intended victim of the shooting, police said.\nNo one was in custody.", 
+  "json_to_link_og_text_with_tagged_events": [
+    {
+      "event": "shot", 
+      "tag_text_end_in_tagged_text": 35, 
+      "event_end_in_og_text": 39, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 35, 
+      "event_tag_id": 0, 
+      "tag_text_start_in_tagged_text": 29
+    }, 
+    {
+      "event": "death", 
+      "tag_text_end_in_tagged_text": 42, 
+      "event_end_in_og_text": 48, 
+      "tag": "DIE", 
+      "event_start_in_og_text": 43, 
+      "event_tag_id": 1, 
+      "tag_text_start_in_tagged_text": 39
+    }, 
+    {
+      "event": "drove", 
+      "tag_text_end_in_tagged_text": 219, 
+      "event_end_in_og_text": 256, 
+      "tag": "TRANSPORT", 
+      "event_start_in_og_text": 251, 
+      "event_tag_id": 2, 
+      "tag_text_start_in_tagged_text": 210
+    }, 
+    {
+      "event": "fired", 
+      "tag_text_end_in_tagged_text": 248, 
+      "event_end_in_og_text": 287, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 282, 
+      "event_tag_id": 3, 
+      "tag_text_start_in_tagged_text": 242
+    }, 
+    {
+      "event": "shots", 
+      "tag_text_end_in_tagged_text": 255, 
+      "event_end_in_og_text": 293, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 288, 
+      "event_tag_id": 4, 
+      "tag_text_start_in_tagged_text": 249
+    }, 
+    {
+      "event": "hit", 
+      "tag_text_end_in_tagged_text": 285, 
+      "event_end_in_og_text": 325, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 322, 
+      "event_tag_id": 5, 
+      "tag_text_start_in_tagged_text": 279
+    }, 
+    {
+      "event": "dead", 
+      "tag_text_end_in_tagged_text": 406, 
+      "event_end_in_og_text": 489, 
+      "tag": "DIE", 
+      "event_start_in_og_text": 485, 
+      "event_tag_id": 6, 
+      "tag_text_start_in_tagged_text": 403
+    }, 
+    {
+      "event": "shooting", 
+      "tag_text_end_in_tagged_text": 579, 
+      "event_end_in_og_text": 731, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 723, 
+      "event_tag_id": 7, 
+      "tag_text_start_in_tagged_text": 573
+    }, 
+    {
+      "event": "custody", 
+      "tag_text_end_in_tagged_text": 613, 
+      "event_end_in_og_text": 767, 
+      "tag": "ARREST-JAIL", 
+      "event_start_in_og_text": 760, 
+      "event_tag_id": 8, 
+      "tag_text_start_in_tagged_text": 602
+    }
+  ]
+}

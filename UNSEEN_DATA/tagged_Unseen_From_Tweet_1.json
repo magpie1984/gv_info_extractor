@@ -1,0 +1,337 @@
+{
+  "xml_info_entitites": [
+    [
+      "PER", 
+      "NASHVILLE", 
+      "134", 
+      "142"
+    ], 
+    [
+      "PER", 
+      "Tenn", 
+      "145", 
+      "148"
+    ], 
+    [
+      "PER", 
+      "Nashville Police", 
+      "153", 
+      "168"
+    ], 
+    [
+      "PER", 
+      "no one", 
+      "180", 
+      "185"
+    ], 
+    [
+      "FAC", 
+      "Nissan Stadium", 
+      "227", 
+      "240"
+    ], 
+    [
+      "ORG", 
+      "Tennessee State University", 
+      "258", 
+      "283"
+    ], 
+    [
+      "PER", 
+      "Austin Peay", 
+      "308", 
+      "318"
+    ], 
+    [
+      "PER", 
+      "police", 
+      "378", 
+      "383"
+    ], 
+    [
+      "PER", 
+      "people", 
+      "456", 
+      "461"
+    ], 
+    [
+      "PER", 
+      "Police", 
+      "464", 
+      "469"
+    ], 
+    [
+      "PER", 
+      "gunman", 
+      "487", 
+      "492"
+    ], 
+    [
+      "PER", 
+      "Police", 
+      "539", 
+      "544"
+    ], 
+    [
+      "VEH", 
+      "cars", 
+      "560", 
+      "563"
+    ], 
+    [
+      "PER", 
+      "Authorities", 
+      "601", 
+      "611"
+    ]
+  ], 
+  "tagged_text": "PER, PER. -- PER confirmed PER was INJURE after ATTACK were ATTACK near FAC Saturday night.\nORG was facing off against PER at the stadium when the incident took place.\nAccording to PER, the ATTACK appears to have stemmed from an altercation involving two PER. PER say the alleged PER has been taken into ARREST-JAIL for questioning.\nPER estimate nine VEH were damaged following the ATTACK. PER continue to investigate.", 
+  "xml_info_events": [
+    [
+      "Injure", 
+      [
+        [
+          "injured", 
+          "191", 
+          "197"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "shots", 
+          "205", 
+          "209"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "fired", 
+          "216", 
+          "220"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "gunfire", 
+          "390", 
+          "396"
+        ]
+      ]
+    ], 
+    [
+      "Arrest-Jail", 
+      [
+        [
+          "custody", 
+          "514", 
+          "520"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "gunfire", 
+          "592", 
+          "598"
+        ]
+      ]
+    ]
+  ], 
+  "file": "Unseen_From_Tweet_1.txt", 
+  "json_to_link_og_text_with_tagged_entities": [
+    {
+      "entity_end_in_og_text": 9, 
+      "entity_start_in_og_text": 0, 
+      "entity": "NASHVILLE", 
+      "entity_tag_id": 0, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 3, 
+      "tag_text_start_in_tagged_text": 0
+    }, 
+    {
+      "entity_end_in_og_text": 15, 
+      "entity_start_in_og_text": 11, 
+      "entity": "Tenn", 
+      "entity_tag_id": 1, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 8, 
+      "tag_text_start_in_tagged_text": 5
+    }, 
+    {
+      "entity_end_in_og_text": 36, 
+      "entity_start_in_og_text": 20, 
+      "entity": "Nashville Police", 
+      "entity_tag_id": 2, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 16, 
+      "tag_text_start_in_tagged_text": 13
+    }, 
+    {
+      "entity_end_in_og_text": 53, 
+      "entity_start_in_og_text": 47, 
+      "entity": "no one", 
+      "entity_tag_id": 3, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 30, 
+      "tag_text_start_in_tagged_text": 27
+    }, 
+    {
+      "entity_end_in_og_text": 108, 
+      "entity_start_in_og_text": 94, 
+      "entity": "Nissan Stadium", 
+      "entity_tag_id": 4, 
+      "tag": "FAC", 
+      "tag_text_end_in_tagged_text": 74, 
+      "tag_text_start_in_tagged_text": 71
+    }, 
+    {
+      "entity_end_in_og_text": 151, 
+      "entity_start_in_og_text": 125, 
+      "entity": "Tennessee State University", 
+      "entity_tag_id": 5, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 94, 
+      "tag_text_start_in_tagged_text": 91
+    }, 
+    {
+      "entity_end_in_og_text": 186, 
+      "entity_start_in_og_text": 175, 
+      "entity": "Austin Peay", 
+      "entity_tag_id": 6, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 121, 
+      "tag_text_start_in_tagged_text": 118
+    }, 
+    {
+      "entity_end_in_og_text": 251, 
+      "entity_start_in_og_text": 245, 
+      "entity": "police", 
+      "entity_tag_id": 7, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 183, 
+      "tag_text_start_in_tagged_text": 180
+    }, 
+    {
+      "entity_end_in_og_text": 329, 
+      "entity_start_in_og_text": 323, 
+      "entity": "people", 
+      "entity_tag_id": 8, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 258, 
+      "tag_text_start_in_tagged_text": 255
+    }, 
+    {
+      "entity_end_in_og_text": 337, 
+      "entity_start_in_og_text": 331, 
+      "entity": "Police", 
+      "entity_tag_id": 9, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 263, 
+      "tag_text_start_in_tagged_text": 260
+    }, 
+    {
+      "entity_end_in_og_text": 360, 
+      "entity_start_in_og_text": 354, 
+      "entity": "gunman", 
+      "entity_tag_id": 10, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 283, 
+      "tag_text_start_in_tagged_text": 280
+    }, 
+    {
+      "entity_end_in_og_text": 412, 
+      "entity_start_in_og_text": 406, 
+      "entity": "Police", 
+      "entity_tag_id": 11, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 332, 
+      "tag_text_start_in_tagged_text": 329
+    }, 
+    {
+      "entity_end_in_og_text": 431, 
+      "entity_start_in_og_text": 427, 
+      "entity": "cars", 
+      "entity_tag_id": 12, 
+      "tag": "VEH", 
+      "tag_text_end_in_tagged_text": 350, 
+      "tag_text_start_in_tagged_text": 347
+    }, 
+    {
+      "entity_end_in_og_text": 479, 
+      "entity_start_in_og_text": 468, 
+      "entity": "Authorities", 
+      "entity_tag_id": 13, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 390, 
+      "tag_text_start_in_tagged_text": 387
+    }
+  ], 
+  "og_text": "NASHVILLE, Tenn. -- Nashville Police confirmed no one was injured after shots were fired near Nissan Stadium Saturday night.\nTennessee State University was facing off against Austin Peay at the stadium when the incident took place.\nAccording to police, the gunfire appears to have stemmed from an altercation involving two people. Police say the alleged gunman has been taken into custody for questioning.\nPolice estimate nine cars were damaged following the gunfire. Authorities continue to investigate.", 
+  "json_to_link_og_text_with_tagged_events": [
+    {
+      "event": "injured", 
+      "tag_text_end_in_tagged_text": 41, 
+      "event_end_in_og_text": 65, 
+      "tag": "INJURE", 
+      "event_start_in_og_text": 58, 
+      "event_tag_id": 0, 
+      "tag_text_start_in_tagged_text": 35
+    }, 
+    {
+      "event": "shots", 
+      "tag_text_end_in_tagged_text": 54, 
+      "event_end_in_og_text": 77, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 72, 
+      "event_tag_id": 1, 
+      "tag_text_start_in_tagged_text": 48
+    }, 
+    {
+      "event": "fired", 
+      "tag_text_end_in_tagged_text": 66, 
+      "event_end_in_og_text": 88, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 83, 
+      "event_tag_id": 2, 
+      "tag_text_start_in_tagged_text": 60
+    }, 
+    {
+      "event": "gunfire", 
+      "tag_text_end_in_tagged_text": 196, 
+      "event_end_in_og_text": 264, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 257, 
+      "event_tag_id": 3, 
+      "tag_text_start_in_tagged_text": 190
+    }, 
+    {
+      "event": "custody", 
+      "tag_text_end_in_tagged_text": 315, 
+      "event_end_in_og_text": 388, 
+      "tag": "ARREST-JAIL", 
+      "event_start_in_og_text": 381, 
+      "event_tag_id": 4, 
+      "tag_text_start_in_tagged_text": 304
+    }, 
+    {
+      "event": "gunfire", 
+      "tag_text_end_in_tagged_text": 388, 
+      "event_end_in_og_text": 466, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 459, 
+      "event_tag_id": 5, 
+      "tag_text_start_in_tagged_text": 382
+    }
+  ]
+}

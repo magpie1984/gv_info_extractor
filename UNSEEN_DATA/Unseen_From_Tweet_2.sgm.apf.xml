@@ -1,0 +1,584 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/Unseen_From_Tweet_2.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/Unseen_From_Tweet_2.sgm">
+  <entity ID="Unseen_From_Tweet_2.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E0-1">
+      <extent>
+			<charseq START="100" END="108">CHICAGO —</charseq>
+      </extent>
+      <head>
+			<charseq START="100" END="106">CHICAGO</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E1-1">
+      <extent>
+			<charseq START="110" END="128">A 64-year-old woman</charseq>
+      </extent>
+      <head>
+			<charseq START="124" END="128">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E2" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E2-1">
+      <extent>
+			<charseq START="151" END="163">Rogers Park —</charseq>
+      </extent>
+      <head>
+			<charseq START="151" END="161">Rogers Park</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E3-1">
+      <extent>
+			<charseq START="172" END="174">she</charseq>
+      </extent>
+      <head>
+			<charseq START="172" END="174">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E4-1">
+      <extent>
+			<charseq START="220" END="225">police</charseq>
+      </extent>
+      <head>
+			<charseq START="220" END="225">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E5-1">
+      <extent>
+			<charseq START="254" END="262">the woman</charseq>
+      </extent>
+      <head>
+			<charseq START="258" END="262">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E6" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E6-1">
+      <extent>
+			<charseq START="305" END="325">North Glenwood Avenue</charseq>
+      </extent>
+      <head>
+			<charseq START="305" END="325">North Glenwood Avenue</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E7" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E7-1">
+      <extent>
+			<charseq START="332" END="338">someone</charseq>
+      </extent>
+      <head>
+			<charseq START="332" END="338">someone</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E8" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E8-1">
+      <extent>
+			<charseq START="343" END="347">a car</charseq>
+      </extent>
+      <head>
+			<charseq START="345" END="347">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E9" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E9-1">
+      <extent>
+			<charseq START="362" END="367">people</charseq>
+      </extent>
+      <head>
+			<charseq START="362" END="367">people</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E10" TYPE="VEH" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E10-1">
+      <extent>
+			<charseq START="372" END="378">the car</charseq>
+      </extent>
+      <head>
+			<charseq START="376" END="378">car</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E11-1">
+      <extent>
+			<charseq START="393" END="398">police</charseq>
+      </extent>
+      <head>
+			<charseq START="393" END="398">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E12-1">
+      <extent>
+			<charseq START="406" END="414">The woman</charseq>
+      </extent>
+      <head>
+			<charseq START="410" END="414">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E13-1">
+      <extent>
+			<charseq START="427" END="434">her head</charseq>
+      </extent>
+      <head>
+			<charseq START="427" END="429">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E14-1">
+      <extent>
+			<charseq START="453" END="472">St. Francis Hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="453" END="454">St</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E15-1">
+      <extent>
+			<charseq START="453" END="472">St. Francis Hospital</charseq>
+      </extent>
+      <head>
+			<charseq START="457" END="472">Francis Hospital</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E16-1">
+      <extent>
+			<charseq START="497" END="502">police</charseq>
+      </extent>
+      <head>
+			<charseq START="497" END="502">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E17-1">
+      <extent>
+			<charseq START="510" END="527">Cynthia Trevillion</charseq>
+      </extent>
+      <head>
+			<charseq START="510" END="527">Cynthia Trevillion</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E18" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E18-1">
+      <extent>
+			<charseq START="551" END="565">North Greenview</charseq>
+      </extent>
+      <head>
+			<charseq START="551" END="565">North Greenview</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E19" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E19-1">
+      <extent>
+			<charseq START="615" END="646">the Cook County Medical Examiner</charseq>
+      </extent>
+      <head>
+			<charseq START="619" END="646">Cook County Medical Examiner</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E20-1">
+      <extent>
+			<charseq START="647" END="655">&apos;s Office</charseq>
+      </extent>
+      <head>
+			<charseq START="650" END="655">Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E21-1">
+      <extent>
+			<charseq START="658" END="667">Trevillion</charseq>
+      </extent>
+      <head>
+			<charseq START="658" END="667">Trevillion</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E22-1">
+      <extent>
+			<charseq START="673" END="681">a teacher</charseq>
+      </extent>
+      <head>
+			<charseq START="675" END="681">teacher</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E23" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E23-1">
+      <extent>
+			<charseq START="686" END="707">Chicago Waldorf School</charseq>
+      </extent>
+      <head>
+			<charseq START="686" END="707">Chicago Waldorf School</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E24-1">
+      <extent>
+			<charseq START="716" END="718">she</charseq>
+      </extent>
+      <head>
+			<charseq START="716" END="718">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E25" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E25-1">
+      <extent>
+			<charseq START="727" END="744">middle school math</charseq>
+      </extent>
+      <head>
+			<charseq START="734" END="739">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E26" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E26-1">
+      <extent>
+			<charseq START="760" END="769">the school</charseq>
+      </extent>
+      <head>
+			<charseq START="764" END="769">school</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E27-1">
+      <extent>
+			<charseq START="782" END="784">She</charseq>
+      </extent>
+      <head>
+			<charseq START="782" END="784">She</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E28" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E28-1">
+      <extent>
+			<charseq START="794" END="812">the intended victim</charseq>
+      </extent>
+      <head>
+			<charseq START="807" END="812">victim</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E29-1">
+      <extent>
+			<charseq START="831" END="836">police</charseq>
+      </extent>
+      <head>
+			<charseq START="831" END="836">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E30-1">
+      <extent>
+			<charseq START="844" END="849">No one</charseq>
+      </extent>
+      <head>
+			<charseq START="844" END="849">No one</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="Unseen_From_Tweet_2.sgm-R0" TYPE="ART">
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E7" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E8" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_2.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="233" END="404">At 6:30 p.m. Friday, the woman was on the sidewalk in the 6900 block of North Glenwood Avenue when someone in a car drove up and people in the car fired shots, police said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E7-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="332" END="338">someone</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E8-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="343" END="347">a car</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="Unseen_From_Tweet_2.sgm-R1" TYPE="ART">
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E9" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E10" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_2.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="233" END="404">At 6:30 p.m. Friday, the woman was on the sidewalk in the 6900 block of North Glenwood Avenue when someone in a car drove up and people in the car fired shots, police said.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E9-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="362" END="367">people</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E10-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="372" END="378">the car</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="Unseen_From_Tweet_2.sgm-R2" TYPE="ORG-AFF">
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E20" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E19" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_2.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="510" END="656">Cynthia Trevillion, of the 6800 block of North Greenview, was pronounced dead at 7:18 p.m., according to the Cook County Medical Examiner&apos;s Office.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E20-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="647" END="655">&apos;s Office</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E19-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="615" END="646">the Cook County Medical Examiner</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="Unseen_From_Tweet_2.sgm-R3" TYPE="ORG-AFF">
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E22" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E23" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_2.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="658" END="780">Trevillion was a teacher at Chicago Waldorf School, where she taught middle school math, according to the school&apos;s website.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E22-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="673" END="681">a teacher</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E23-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="686" END="707">Chicago Waldorf School</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="Unseen_From_Tweet_2.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="100" END="231">CHICAGO — A 64-year-old woman was shot to death in Rogers Park — though she wasn&apos;t the intended target of the shooting, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="134" END="137">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_2.sgm-E1-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="110" END="128">A 64-year-old woman</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV1" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="100" END="231">CHICAGO — A 64-year-old woman was shot to death in Rogers Park — though she wasn&apos;t the intended target of the shooting, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="142" END="146">death</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_2.sgm-E1-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="110" END="128">A 64-year-old woman</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV2" TYPE="Movement" SUBTYPE="Transport" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="233" END="404">At 6:30 p.m. Friday, the woman was on the sidewalk in the 6900 block of North Glenwood Avenue when someone in a car drove up and people in the car fired shots, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="349" END="353">drove</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_2.sgm-E8-1" ROLE="Vehicle" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="343" END="347">a car</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="Unseen_From_Tweet_2.sgm-E7-1" ROLE="Artifact" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="332" END="338">someone</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="233" END="404">At 6:30 p.m. Friday, the woman was on the sidewalk in the 6900 block of North Glenwood Avenue when someone in a car drove up and people in the car fired shots, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="380" END="384">fired</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_2.sgm-E10-1" ROLE="Instrument" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="372" END="378">the car</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="Unseen_From_Tweet_2.sgm-E9-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="362" END="367">people</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="233" END="404">At 6:30 p.m. Friday, the woman was on the sidewalk in the 6900 block of North Glenwood Avenue when someone in a car drove up and people in the car fired shots, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="386" END="390">shots</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="406" END="508">The woman was hit in her head and was taken to St. Francis Hospital in critical condition, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="420" END="422">hit</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_2.sgm-E12-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="406" END="414">The woman</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV6" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="510" END="656">Cynthia Trevillion, of the 6800 block of North Greenview, was pronounced dead at 7:18 p.m., according to the Cook County Medical Examiner&apos;s Office.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="583" END="586">dead</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="782" END="842">She was not the intended victim of the shooting, police said.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="821" END="828">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV8" TYPE="Justice" SUBTYPE="Arrest-Jail" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="844" END="865">No one was in custody.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="858" END="864">custody</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_2.sgm-E30-1" ROLE="Person" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="844" END="849">No one</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+</document>
+</source_file>

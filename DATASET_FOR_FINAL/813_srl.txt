@@ -1,0 +1,127 @@
+[
+  {
+    u'A0': u'A Maine man',
+    u'A3': u'for inadvertently shooting a man in the leg',
+    u'V': u'spend',
+    u'AM-TMP': u'10 years in jail  during an evening of dinner and games',
+    u'AM-MOD': u'will'
+  },
+  {
+    u'A1': u'a man in the leg',
+    u'A0': u'A Maine man',
+    u'AM-TMP': u'during an evening of dinner and games',
+    u'V': u'shooting'
+  },
+  {
+    u'A0': u'A judge',
+    u'A2': u'32-year-old Paul Nicholas Coyne of Winthrop',
+    u'AM-TMP': u'on Wednesday',
+    u'V': u'sentenced'
+  },
+  {
+    u'A1': u'guilty',
+    u'A0': u'He',
+    u'A2': u'to aggravated assault and illegal possession of a firearm in June',
+    u'V': u'pleaded'
+  },
+  {
+    u'A1': u'assault and illegal possession of a firearm',
+    u'A0': u'He',
+    u'V': u'aggravated'
+  },
+  {
+    u'A1': u'a sentencing memo',
+    u'A0': u'// bit . ly /1 CWQyUw )  by Coyne',
+    u'AM-PNC': u'to grab a firearm in Coyne - s hand , which resulted in a struggle . The firearm then discharged and Belyea was shot in the leg . The men had become embroiled in a fight at the end of a night of dinner , drinks and games at a woman - s apartment in Gardiner . Coyne also admitted violating probation and will receive a 42-month probation revocation',
+    u'V': u'reports'
+  },
+  {
+    u'A1': u'victim Josh Belyea tried to grab a firearm in Coyne - s hand , which resulted in a struggle . The firearm then discharged and Belyea was shot in the leg . The men had become embroiled in a fight at the end of a night of dinner , drinks and games at a woman - s apartment in Gardiner . Coyne also admitted violating probation and will receive a 42-month probation revocation . Information from : Kennebec Journal , http : // www . kjonline .com / Story copyright 2015 The Associated Press. All rights reserved . This material may not be published , broadcast , rewritten or redistributed . Feedback , Corrections and Other',
+    u'A0': u's attorney',
+    u'V': u'says'
+  },
+  {
+    u'A1': u'to grab a firearm in Coyne - s hand , which resulted in a struggle . The firearm then discharged and Belyea was shot in the leg . The men had become embroiled in a fight at the end of a night of dinner , drinks and games at a woman - s apartment in Gardiner . Coyne also admitted violating probation and will receive a 42-month probation revocation',
+    u'A0': u'victim Josh Belyea',
+    u'V': u'tried'
+  },
+  {
+    u'A1': u'a firearm in Coyne - s hand , which resulted in a struggle',
+    u'A0': u'victim Josh Belyea',
+    u'V': u'grab'
+  },
+  {
+    u'A1': u's hand',
+    u'A2': u'in a struggle',
+    u'R-A1': u'which',
+    u'V': u'resulted'
+  },
+  {
+    u'A1': u'The firearm',
+    u'AM-TMP': u'then',
+    u'V': u'discharged'
+  },
+  {
+    u'A1': u'Belyea',
+    u'AM-TMP': u'in the leg',
+    u'V': u'shot'
+  },
+  {
+    u'A1': u'The men',
+    u'A2': u'embroiled',
+    u'AM-TMP': u'in a fight at the end of a night of dinner , drinks and games at a woman - s apartment in Gardiner . Coyne also admitted violating probation',
+    u'V': u'become'
+  },
+  {
+    u'A1': u'The men',
+    u'A2': u'in a fight at the end of a night of dinner , drinks and games at a woman',
+    u'V': u'embroiled'
+  },
+  {
+    u'A1': u'violating probation',
+    u'A0': u'Coyne',
+    u'AM-DIS': u'also',
+    u'V': u'admitted'
+  },
+  {
+    u'A1': u'probation',
+    u'A0': u's apartment in Gardiner . Coyne',
+    u'V': u'violating'
+  },
+  {
+    u'A1': u'a 42-month probation revocation  Information from : Kennebec Journal , http : // www . kjonline .com / Story copyright 2015 The Associated Press. All rights reserved',
+    u'A0': u'The men',
+    u'V': u'receive',
+    u'AM-MOD': u'will'
+  },
+  {
+    u'A1': u'// www . kjonline .com / Story copyright 2015 The Associated Press. All rights',
+    u'V': u'reserved'
+  },
+  {
+    u'A1': u'This material',
+    u'V': u'published',
+    u'AM-NEG': u'not',
+    u'AM-MOD': u'may'
+  },
+  {
+    u'A1': u'This material  Feedback , Corrections and Other',
+    u'V': u'redistributed'
+  },
+  {
+    u'A1': u'feedback',
+    u'A0': u'AP',
+    u'V': u'welcomes'
+  },
+  {
+    u'A1': u'an email',
+    u'A2': u'to info @ ap .org',
+    u'V': u'Send'
+  },
+  {
+    u'A1': u'it',
+    u'V': u'forwarded',
+    u'A2': u'to the appropriate editor or reporter',
+    u'AM-MOD': u'will'
+  }
+]

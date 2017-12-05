@@ -1,0 +1,915 @@
+<?xml version="1.0"?>
+<!DOCTYPE source_file SYSTEM "apf.v5.1.1.dtd">
+<source_file URI="./examples/test/Unseen_From_Tweet_2.sgm" SOURCE="" TYPE="text">
+<document DOCID="./examples/test/Unseen_From_Tweet_2.sgm">
+  <entity ID="Unseen_From_Tweet_2.sgm-E0" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E0-1">
+      <extent>
+			<charseq START="94" END="106">BOYNTON BEACH</charseq>
+      </extent>
+      <head>
+			<charseq START="94" END="106">BOYNTON BEACH</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E1" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E1-1">
+      <extent>
+			<charseq START="119" END="131">— Authorities</charseq>
+      </extent>
+      <head>
+			<charseq START="121" END="131">Authorities</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E2" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E2-1">
+      <extent>
+			<charseq START="154" END="169">a Florida deputy</charseq>
+      </extent>
+      <head>
+			<charseq START="156" END="162">Florida</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E3" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E3-1">
+      <extent>
+			<charseq START="154" END="169">a Florida deputy</charseq>
+      </extent>
+      <head>
+			<charseq START="164" END="169">deputy</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E4" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E4-1">
+      <extent>
+			<charseq START="171" END="173">who</charseq>
+      </extent>
+      <head>
+			<charseq START="171" END="173">who</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E5" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E5-1">
+      <extent>
+			<charseq START="175" END="178">they</charseq>
+      </extent>
+      <head>
+			<charseq START="175" END="178">they</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E6" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E6-1">
+      <extent>
+			<charseq START="189" END="195">a woman</charseq>
+      </extent>
+      <head>
+			<charseq START="191" END="195">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E7" TYPE="WEA" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E7-1">
+      <extent>
+			<charseq START="213" END="219">the gun</charseq>
+      </extent>
+      <head>
+			<charseq START="217" END="219">gun</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E8" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E8-1">
+      <extent>
+			<charseq START="224" END="230">himself</charseq>
+      </extent>
+      <head>
+			<charseq START="224" END="230">himself</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E9" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E9-1">
+      <extent>
+			<charseq START="233" END="252">Boynton Beach police</charseq>
+      </extent>
+      <head>
+			<charseq START="233" END="245">Boynton Beach</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E10" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E10-1">
+      <extent>
+			<charseq START="233" END="252">Boynton Beach police</charseq>
+      </extent>
+      <head>
+			<charseq START="247" END="252">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E11" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E11-1">
+      <extent>
+			<charseq START="271" END="325">that Palm Beach County Sheriff’s Deputy Michael DeMarco</charseq>
+      </extent>
+      <head>
+			<charseq START="276" END="302">Palm Beach County Sheriff’s</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E12" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E12-1">
+      <extent>
+			<charseq START="271" END="325">that Palm Beach County Sheriff’s Deputy Michael DeMarco</charseq>
+      </extent>
+      <head>
+			<charseq START="311" END="325">Michael DeMarco</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E13" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E13-1">
+      <extent>
+			<charseq START="344" END="345">He</charseq>
+      </extent>
+      <head>
+			<charseq START="344" END="345">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E14" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E14-1">
+      <extent>
+			<charseq START="366" END="374">The woman</charseq>
+      </extent>
+      <head>
+			<charseq START="370" END="374">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E15" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E15-1">
+      <extent>
+			<charseq START="427" END="434">Her name</charseq>
+      </extent>
+      <head>
+			<charseq START="427" END="429">Her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E16" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E16-1">
+      <extent>
+			<charseq START="499" END="523">domestic violence victims</charseq>
+      </extent>
+      <head>
+			<charseq START="517" END="523">victims</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E17" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E17-1">
+      <extent>
+			<charseq START="526" END="531">Police</charseq>
+      </extent>
+      <head>
+			<charseq START="526" END="531">Police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E18" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E18-1">
+      <extent>
+			<charseq START="584" END="617">a gated Boynton Beach neighborhood</charseq>
+      </extent>
+      <head>
+			<charseq START="592" END="604">Boynton Beach</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E19" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E19-1">
+      <extent>
+			<charseq START="584" END="617">a gated Boynton Beach neighborhood</charseq>
+      </extent>
+      <head>
+			<charseq START="606" END="617">neighborhood</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E20" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E20-1">
+      <extent>
+			<charseq START="620" END="626">DeMarco</charseq>
+      </extent>
+      <head>
+			<charseq START="620" END="626">DeMarco</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E21" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E21-1">
+      <extent>
+			<charseq START="672" END="680">the woman</charseq>
+      </extent>
+      <head>
+			<charseq START="676" END="680">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E22" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E22-1">
+      <extent>
+			<charseq START="688" END="690">she</charseq>
+      </extent>
+      <head>
+			<charseq START="688" END="690">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E23" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E23-1">
+      <extent>
+			<charseq START="704" END="710">her dog</charseq>
+      </extent>
+      <head>
+			<charseq START="704" END="706">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E24" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E24-1">
+      <extent>
+			<charseq START="737" END="738">He</charseq>
+      </extent>
+      <head>
+			<charseq START="737" END="738">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E25" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E25-1">
+      <extent>
+			<charseq START="758" END="764">himself</charseq>
+      </extent>
+      <head>
+			<charseq START="758" END="764">himself</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E26" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E26-1">
+      <extent>
+			<charseq START="767" END="779">Investigators</charseq>
+      </extent>
+      <head>
+			<charseq START="767" END="779">Investigators</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E27" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E27-1">
+      <extent>
+			<charseq START="786" END="792">the two</charseq>
+      </extent>
+      <head>
+			<charseq START="790" END="792">two</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E28" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E28-1">
+      <extent>
+			<charseq START="815" END="829">The SunSentinel</charseq>
+      </extent>
+      <head>
+			<charseq START="819" END="829">SunSentinel</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E29" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E29-1">
+      <extent>
+			<charseq START="839" END="846">a friend</charseq>
+      </extent>
+      <head>
+			<charseq START="841" END="846">friend</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E30" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E30-1">
+      <extent>
+			<charseq START="851" END="861">the woman’s</charseq>
+      </extent>
+      <head>
+			<charseq START="855" END="861">woman’s</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E31" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E31-1">
+      <extent>
+			<charseq START="868" END="870">she</charseq>
+      </extent>
+      <head>
+			<charseq START="868" END="870">she</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E32" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E32-1">
+      <extent>
+			<charseq START="943" END="944">He</charseq>
+      </extent>
+      <head>
+			<charseq START="943" END="944">He</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E33" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E33-1">
+      <extent>
+			<charseq START="969" END="971">her</charseq>
+      </extent>
+      <head>
+			<charseq START="969" END="971">her</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E34" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E34-1">
+      <extent>
+			<charseq START="1001" END="1010">the friend</charseq>
+      </extent>
+      <head>
+			<charseq START="1005" END="1010">friend</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E35" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E35-1">
+      <extent>
+			<charseq START="1013" END="1025">Yeni Gonzalez</charseq>
+      </extent>
+      <head>
+			<charseq START="1013" END="1025">Yeni Gonzalez</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E36" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E36-1">
+      <extent>
+			<charseq START="1033" END="1045">the newspaper</charseq>
+      </extent>
+      <head>
+			<charseq START="1037" END="1045">newspaper</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E37" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E37-1">
+      <extent>
+			<charseq START="1048" END="1078">Palm Beach County court records</charseq>
+      </extent>
+      <head>
+			<charseq START="1053" END="1064">Beach County</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E38" TYPE="FAC" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E38-1">
+      <extent>
+			<charseq START="1048" END="1078">Palm Beach County court records</charseq>
+      </extent>
+      <head>
+			<charseq START="1066" END="1070">court</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E39" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E39-1">
+      <extent>
+			<charseq START="1085" END="1091">DeMarco</charseq>
+      </extent>
+      <head>
+			<charseq START="1085" END="1091">DeMarco</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E40" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E40-1">
+      <extent>
+			<charseq START="1117" END="1125">the woman</charseq>
+      </extent>
+      <head>
+			<charseq START="1121" END="1125">woman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E41" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E41-1">
+      <extent>
+			<charseq START="1201" END="1202">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1201" END="1202">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E42" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E42-1">
+      <extent>
+			<charseq START="1247" END="1253">the two</charseq>
+      </extent>
+      <head>
+			<charseq START="1251" END="1253">two</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E43" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E43-1">
+      <extent>
+			<charseq START="1279" END="1291">Media outlets</charseq>
+      </extent>
+      <head>
+			<charseq START="1279" END="1283">Media</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E44" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E44-1">
+      <extent>
+			<charseq START="1305" END="1311">DeMarco</charseq>
+      </extent>
+      <head>
+			<charseq START="1305" END="1311">DeMarco</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E45" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E45-1">
+      <extent>
+			<charseq START="1328" END="1365">the Palm Beach County Sheriff’s Office</charseq>
+      </extent>
+      <head>
+			<charseq START="1332" END="1365">Palm Beach County Sheriff’s Office</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E46" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E46-1">
+      <extent>
+			<charseq START="1395" END="1396">he</charseq>
+      </extent>
+      <head>
+			<charseq START="1395" END="1396">he</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E47" TYPE="ORG" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E47-1">
+      <extent>
+			<charseq START="1402" END="1417">a police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="1404" END="1409">police</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E48" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E48-1">
+      <extent>
+			<charseq START="1402" END="1417">a police officer</charseq>
+      </extent>
+      <head>
+			<charseq START="1411" END="1417">officer</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E49" TYPE="GPE" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E49-1">
+      <extent>
+			<charseq START="1422" END="1431">Lake Worth</charseq>
+      </extent>
+      <head>
+			<charseq START="1422" END="1425">Lake</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E50" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E50-1">
+      <extent>
+			<charseq START="1456" END="1478">A sheriff’s spokeswoman</charseq>
+      </extent>
+      <head>
+			<charseq START="1468" END="1478">spokeswoman</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E51" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E51-1">
+      <extent>
+			<charseq START="1485" END="1491">DeMarco</charseq>
+      </extent>
+      <head>
+			<charseq START="1485" END="1491">DeMarco</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <entity ID="Unseen_From_Tweet_2.sgm-E52" TYPE="PER" CLASS="GEN">
+    <entity_mention TYPE="NAM" ID="Unseen_From_Tweet_2.sgm-E52-1">
+      <extent>
+			<charseq START="1503" END="1513">a detective</charseq>
+      </extent>
+      <head>
+			<charseq START="1505" END="1513">detective</charseq>
+      </head>
+    </entity_mention>
+    <entity_attributes>
+    </entity_attributes>
+  </entity>
+  <relation ID="Unseen_From_Tweet_2.sgm-R0" TYPE="GEN-AFF">
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E3" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E2" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_2.sgm-R0-1">
+      <ldc_extent>
+			<charseq START="94" END="231">BOYNTON BEACH, Fla. (AP) — Authorities on Friday identified a Florida deputy who they say shot a woman and then turned the gun on himself.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E3-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="154" END="169">a Florida deputy</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E2-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="154" END="169">a Florida deputy</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="Unseen_From_Tweet_2.sgm-R1" TYPE="ORG-AFF">
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E10" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E9" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_2.sgm-R1-1">
+      <ldc_extent>
+			<charseq START="233" END="342">Boynton Beach police said in an email that Palm Beach County Sheriff’s Deputy Michael DeMarco was the shooter.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E10-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="233" END="252">Boynton Beach police</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E9-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="233" END="252">Boynton Beach police</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="Unseen_From_Tweet_2.sgm-R2" TYPE="PER-SOC">
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E29" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E30" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_2.sgm-R2-1">
+      <ldc_extent>
+			<charseq START="815" END="916">The SunSentinel reports a friend of the woman’s said she had decided to end the relationship recently.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E29-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="839" END="846">a friend</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E30-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="851" END="861">the woman’s</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="Unseen_From_Tweet_2.sgm-R3" TYPE="PART-WHOLE">
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E38" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E37" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_2.sgm-R3-1">
+      <ldc_extent>
+			<charseq START="1048" END="1223">Palm Beach County court records show DeMarco filed a lawsuit against the woman on Sept. 27 in an apparent dispute over a mattress and a mirror for which he was seeking payment.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E38-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1048" END="1078">Palm Beach County court records</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E37-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1048" END="1078">Palm Beach County court records</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="Unseen_From_Tweet_2.sgm-R4" TYPE="ORG-AFF">
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E48" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E47" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_2.sgm-R4-1">
+      <ldc_extent>
+			<charseq START="1279" END="1454">Media outlets report that DeMarco had worked for the Palm Beach County Sheriff’s Office since 1995, and before that he was a police officer in Lake Worth for about eight years.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E48-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1402" END="1417">a police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E47-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1402" END="1417">a police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="Unseen_From_Tweet_2.sgm-R5" TYPE="PHYS">
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E48" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E49" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_2.sgm-R5-1">
+      <ldc_extent>
+			<charseq START="1279" END="1454">Media outlets report that DeMarco had worked for the Palm Beach County Sheriff’s Office since 1995, and before that he was a police officer in Lake Worth for about eight years.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E48-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1402" END="1417">a police officer</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E49-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1422" END="1431">Lake Worth</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <relation ID="Unseen_From_Tweet_2.sgm-R6" TYPE="ORG-AFF">
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E44" ROLE="Arg-1" />
+    <relation_argument REFID="Unseen_From_Tweet_2.sgm-E45" ROLE="Arg-2" />
+      <relation_mention ID="Unseen_From_Tweet_2.sgm-R6-1">
+      <ldc_extent>
+			<charseq START="1279" END="1454">Media outlets report that DeMarco had worked for the Palm Beach County Sheriff’s Office since 1995, and before that he was a police officer in Lake Worth for about eight years.</charseq>
+      </ldc_extent>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E44-1" ROLE="Arg-1">
+          <extent>
+            <charseq START="1305" END="1311">DeMarco</charseq>
+          </extent>
+        </relation_mention_argument>
+        <relation_mention_argument REFID="Unseen_From_Tweet_2.sgm-E45-1" ROLE="Arg-2">
+          <extent>
+            <charseq START="1328" END="1365">the Palm Beach County Sheriff’s Office</charseq>
+          </extent>
+        </relation_mention_argument>
+      </relation_mention>
+  </relation>
+  <event ID="Unseen_From_Tweet_2.sgm-EV0" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV0-1" p="1.000">
+      <extent>
+			<charseq START="94" END="231">BOYNTON BEACH, Fla. (AP) — Authorities on Friday identified a Florida deputy who they say shot a woman and then turned the gun on himself.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="184" END="187">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_2.sgm-E0-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="94" END="106">BOYNTON BEACH</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="Unseen_From_Tweet_2.sgm-E6-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="189" END="195">a woman</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV1" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV1-1" p="1.000">
+      <extent>
+			<charseq START="233" END="342">Boynton Beach police said in an email that Palm Beach County Sheriff’s Deputy Michael DeMarco was the shooter.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="335" END="341">shooter</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV2" TYPE="Life" SUBTYPE="Die" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV2-1" p="1.000">
+      <extent>
+			<charseq START="344" END="364">He died at the scene.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="347" END="350">died</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_2.sgm-E13-1" ROLE="Victim" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="344" END="345">He</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV3" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV3-1" p="1.000">
+      <extent>
+			<charseq START="427" END="524">Her name has not been released under rules protecting the identities of domestic violence victims.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="508" END="515">violence</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV4" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV4-1" p="1.000">
+      <extent>
+			<charseq START="526" END="618">Police said the shooting happened Thursday morning inside a gated Boynton Beach neighborhood.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="542" END="549">shooting</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV5" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV5-1" p="1.000">
+      <extent>
+			<charseq START="620" END="735">DeMarco, dressed in an official uniform, approached the woman while she was walking her dog and fired several shots.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="716" END="720">fired</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_2.sgm-E20-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="620" END="626">DeMarco</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV6" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV6-1" p="1.000">
+      <extent>
+			<charseq START="620" END="735">DeMarco, dressed in an official uniform, approached the woman while she was walking her dog and fired several shots.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="730" END="734">shots</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV7" TYPE="Conflict" SUBTYPE="Attack" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV7-1" p="1.000">
+      <extent>
+			<charseq START="737" END="765">He then fatally shot himself.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="753" END="756">shot</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_2.sgm-E24-1" ROLE="Attacker" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="737" END="738">He</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="Unseen_From_Tweet_2.sgm-E25-1" ROLE="Target" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="758" END="764">himself</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV8" TYPE="Justice" SUBTYPE="Sue" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV8-1" p="1.000">
+      <extent>
+			<charseq START="1048" END="1223">Palm Beach County court records show DeMarco filed a lawsuit against the woman on Sept. 27 in an apparent dispute over a mattress and a mirror for which he was seeking payment.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1101" END="1107">lawsuit</charseq>
+      </anchor>
+      <event_mention_argument REFID="Unseen_From_Tweet_2.sgm-E39-1" ROLE="Plaintiff" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1085" END="1091">DeMarco</charseq>
+      	</extent>
+      </event_mention_argument>
+      <event_mention_argument REFID="Unseen_From_Tweet_2.sgm-E40-1" ROLE="Defendant" p="1.000" pRole="1.000">
+      	<extent>
+			<charseq START="1117" END="1125">the woman</charseq>
+      	</extent>
+      </event_mention_argument>
+    </event_mention>
+  </event>
+  <event ID="Unseen_From_Tweet_2.sgm-EV9" TYPE="Transaction" SUBTYPE="Transfer-Money" MODALITY="Asserted" POLARITY="Positive" GENERICITY="Specific" TENSE="Past" MODPROB="1.0" POLPROB="1.0" GENPROB="1.0" TENPROB="1.0">
+    <event_mention ID="Unseen_From_Tweet_2.sgm-EV9-1" p="1.000">
+      <extent>
+			<charseq START="1048" END="1223">Palm Beach County court records show DeMarco filed a lawsuit against the woman on Sept. 27 in an apparent dispute over a mattress and a mirror for which he was seeking payment.</charseq>
+      </extent>
+      <anchor>
+			<charseq START="1216" END="1222">payment</charseq>
+      </anchor>
+    </event_mention>
+  </event>
+</document>
+</source_file>

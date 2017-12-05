@@ -1,0 +1,603 @@
+{
+  "xml_info_entitites": [
+    [
+      "GPE", 
+      "Arizona", 
+      "80", 
+      "86"
+    ], 
+    [
+      "PER", 
+      "authorities", 
+      "88", 
+      "98"
+    ], 
+    [
+      "LOC", 
+      "West", 
+      "133", 
+      "136"
+    ], 
+    [
+      "GPE", 
+      "town", 
+      "138", 
+      "141"
+    ], 
+    [
+      "GPE", 
+      "Tombstone", 
+      "146", 
+      "154"
+    ], 
+    [
+      "PER", 
+      "man", 
+      "164", 
+      "166"
+    ], 
+    [
+      "FAC", 
+      "hospital", 
+      "175", 
+      "182"
+    ], 
+    [
+      "FAC", 
+      "jail", 
+      "216", 
+      "219"
+    ], 
+    [
+      "GPE", 
+      "Cochise County", 
+      "226", 
+      "239"
+    ], 
+    [
+      "PER", 
+      "Sheriff", 
+      "241", 
+      "247"
+    ], 
+    [
+      "ORG", 
+      "Office", 
+      "251", 
+      "256"
+    ], 
+    [
+      "PER", 
+      "men", 
+      "323", 
+      "325"
+    ], 
+    [
+      "PER", 
+      "woman", 
+      "389", 
+      "393"
+    ], 
+    [
+      "PER", 
+      "man", 
+      "407", 
+      "409"
+    ], 
+    [
+      "PER", 
+      "Sheriff", 
+      "412", 
+      "418"
+    ], 
+    [
+      "PER", 
+      "spokesperson", 
+      "422", 
+      "433"
+    ], 
+    [
+      "PER", 
+      "Carol Capas", 
+      "435", 
+      "445"
+    ], 
+    [
+      "ORG", 
+      "AP", 
+      "457", 
+      "458"
+    ], 
+    [
+      "PER", 
+      "James Roberson", 
+      "477", 
+      "490"
+    ], 
+    [
+      "PER", 
+      "Capas", 
+      "560", 
+      "564"
+    ], 
+    [
+      "PER", 
+      "Roberson", 
+      "571", 
+      "578"
+    ], 
+    [
+      "PER", 
+      "his", 
+      "584", 
+      "586"
+    ], 
+    [
+      "PER", 
+      "companion", 
+      "595", 
+      "603"
+    ], 
+    [
+      "PER", 
+      "their", 
+      "617", 
+      "621"
+    ], 
+    [
+      "PER", 
+      "they", 
+      "654", 
+      "657"
+    ], 
+    [
+      "PER", 
+      "couple", 
+      "747", 
+      "752"
+    ], 
+    [
+      "PER", 
+      "their", 
+      "764", 
+      "768"
+    ], 
+    [
+      "PER", 
+      "Tombstone", 
+      "791", 
+      "799"
+    ], 
+    [
+      "FAC", 
+      "It", 
+      "889", 
+      "890"
+    ], 
+    [
+      "FAC", 
+      "home", 
+      "905", 
+      "908"
+    ], 
+    [
+      "PER", 
+      "Doc Holliday", 
+      "913", 
+      "924"
+    ], 
+    [
+      "PER", 
+      "dentist", 
+      "929", 
+      "935"
+    ], 
+    [
+      "PER", 
+      "who", 
+      "937", 
+      "939"
+    ]
+  ], 
+  "tagged_text": "GPE PER say a saloon ATTACK in the Old LOC GPE of GPE put one PER in the FAC with a leg wound and another in FAC. The GPE PER's ORG says the ATTACK occurred in Doc Holliday's Saloon when the two PER struggled following a verbal altercation that also involved a PER and a third PER. PER's PER PER tells the ORG that 47-year-old PER remains ARREST-JAIL on suspicion of aggravated assault and other crimes.\nPER says PER and PER female PER surrendered PER TRANSPORT to the bartender when PER entered the saloon Friday evening and that the struggle and ATTACK occurred after the PER retrieved PER guns early Saturday. PER was the site of the infamous 1881 gunfight at the OK Corral between lawmen and outlaws. FAC also was the FAC of PER, a PER PER played a role In the shootout.", 
+  "xml_info_events": [
+    [
+      "Attack", 
+      [
+        [
+          "shooting", 
+          "113", 
+          "120"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "shooting", 
+          "267", 
+          "274"
+        ]
+      ]
+    ], 
+    [
+      "Arrest-Jail", 
+      [
+        [
+          "jailed", 
+          "500", 
+          "505"
+        ]
+      ]
+    ], 
+    [
+      "Transport", 
+      [
+        [
+          "handguns", 
+          "623", 
+          "630"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "shooting", 
+          "719", 
+          "726"
+        ]
+      ]
+    ]
+  ], 
+  "file": "Unseen_From_Tweet_0.txt", 
+  "json_to_link_og_text_with_tagged_entities": [
+    {
+      "entity_end_in_og_text": 7, 
+      "entity_start_in_og_text": 0, 
+      "entity": "Arizona", 
+      "entity_tag_id": 0, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 3, 
+      "tag_text_start_in_tagged_text": 0
+    }, 
+    {
+      "entity_end_in_og_text": 19, 
+      "entity_start_in_og_text": 8, 
+      "entity": "authorities", 
+      "entity_tag_id": 1, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 7, 
+      "tag_text_start_in_tagged_text": 4
+    }, 
+    {
+      "entity_end_in_og_text": 57, 
+      "entity_start_in_og_text": 53, 
+      "entity": "West", 
+      "entity_tag_id": 2, 
+      "tag": "LOC", 
+      "tag_text_end_in_tagged_text": 44, 
+      "tag_text_start_in_tagged_text": 41
+    }, 
+    {
+      "entity_end_in_og_text": 62, 
+      "entity_start_in_og_text": 58, 
+      "entity": "town", 
+      "entity_tag_id": 3, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 48, 
+      "tag_text_start_in_tagged_text": 45
+    }, 
+    {
+      "entity_end_in_og_text": 75, 
+      "entity_start_in_og_text": 66, 
+      "entity": "Tombstone", 
+      "entity_tag_id": 4, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 55, 
+      "tag_text_start_in_tagged_text": 52
+    }, 
+    {
+      "entity_end_in_og_text": 87, 
+      "entity_start_in_og_text": 84, 
+      "entity": "man", 
+      "entity_tag_id": 5, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 67, 
+      "tag_text_start_in_tagged_text": 64
+    }, 
+    {
+      "entity_end_in_og_text": 103, 
+      "entity_start_in_og_text": 95, 
+      "entity": "hospital", 
+      "entity_tag_id": 6, 
+      "tag": "FAC", 
+      "tag_text_end_in_tagged_text": 78, 
+      "tag_text_start_in_tagged_text": 75
+    }, 
+    {
+      "entity_end_in_og_text": 140, 
+      "entity_start_in_og_text": 136, 
+      "entity": "jail", 
+      "entity_tag_id": 7, 
+      "tag": "FAC", 
+      "tag_text_end_in_tagged_text": 114, 
+      "tag_text_start_in_tagged_text": 111
+    }, 
+    {
+      "entity_end_in_og_text": 160, 
+      "entity_start_in_og_text": 146, 
+      "entity": "Cochise County", 
+      "entity_tag_id": 8, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 123, 
+      "tag_text_start_in_tagged_text": 120
+    }, 
+    {
+      "entity_end_in_og_text": 168, 
+      "entity_start_in_og_text": 161, 
+      "entity": "Sheriff", 
+      "entity_tag_id": 9, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 127, 
+      "tag_text_start_in_tagged_text": 124
+    }, 
+    {
+      "entity_end_in_og_text": 177, 
+      "entity_start_in_og_text": 171, 
+      "entity": "Office", 
+      "entity_tag_id": 10, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 133, 
+      "tag_text_start_in_tagged_text": 130
+    }, 
+    {
+      "entity_end_in_og_text": 246, 
+      "entity_start_in_og_text": 243, 
+      "entity": "men", 
+      "entity_tag_id": 11, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 202, 
+      "tag_text_start_in_tagged_text": 199
+    }, 
+    {
+      "entity_end_in_og_text": 314, 
+      "entity_start_in_og_text": 309, 
+      "entity": "woman", 
+      "entity_tag_id": 12, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 268, 
+      "tag_text_start_in_tagged_text": 265
+    }, 
+    {
+      "entity_end_in_og_text": 330, 
+      "entity_start_in_og_text": 327, 
+      "entity": "man", 
+      "entity_tag_id": 13, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 284, 
+      "tag_text_start_in_tagged_text": 281
+    }, 
+    {
+      "entity_end_in_og_text": 339, 
+      "entity_start_in_og_text": 332, 
+      "entity": "Sheriff", 
+      "entity_tag_id": 14, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 289, 
+      "tag_text_start_in_tagged_text": 286
+    }, 
+    {
+      "entity_end_in_og_text": 354, 
+      "entity_start_in_og_text": 342, 
+      "entity": "spokesperson", 
+      "entity_tag_id": 15, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 295, 
+      "tag_text_start_in_tagged_text": 292
+    }, 
+    {
+      "entity_end_in_og_text": 366, 
+      "entity_start_in_og_text": 355, 
+      "entity": "Carol Capas", 
+      "entity_tag_id": 16, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 299, 
+      "tag_text_start_in_tagged_text": 296
+    }, 
+    {
+      "entity_end_in_og_text": 379, 
+      "entity_start_in_og_text": 377, 
+      "entity": "AP", 
+      "entity_tag_id": 17, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 313, 
+      "tag_text_start_in_tagged_text": 310
+    }, 
+    {
+      "entity_end_in_og_text": 411, 
+      "entity_start_in_og_text": 397, 
+      "entity": "James Roberson", 
+      "entity_tag_id": 18, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 334, 
+      "tag_text_start_in_tagged_text": 331
+    }, 
+    {
+      "entity_end_in_og_text": 485, 
+      "entity_start_in_og_text": 480, 
+      "entity": "Capas", 
+      "entity_tag_id": 19, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 406, 
+      "tag_text_start_in_tagged_text": 403
+    }, 
+    {
+      "entity_end_in_og_text": 499, 
+      "entity_start_in_og_text": 491, 
+      "entity": "Roberson", 
+      "entity_tag_id": 20, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 415, 
+      "tag_text_start_in_tagged_text": 412
+    }, 
+    {
+      "entity_end_in_og_text": 507, 
+      "entity_start_in_og_text": 504, 
+      "entity": "his", 
+      "entity_tag_id": 21, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 423, 
+      "tag_text_start_in_tagged_text": 420
+    }, 
+    {
+      "entity_end_in_og_text": 524, 
+      "entity_start_in_og_text": 515, 
+      "entity": "companion", 
+      "entity_tag_id": 22, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 434, 
+      "tag_text_start_in_tagged_text": 431
+    }, 
+    {
+      "entity_end_in_og_text": 542, 
+      "entity_start_in_og_text": 537, 
+      "entity": "their", 
+      "entity_tag_id": 23, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 450, 
+      "tag_text_start_in_tagged_text": 447
+    }, 
+    {
+      "entity_end_in_og_text": 578, 
+      "entity_start_in_og_text": 574, 
+      "entity": "they", 
+      "entity_tag_id": 24, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 485, 
+      "tag_text_start_in_tagged_text": 482
+    }, 
+    {
+      "entity_end_in_og_text": 673, 
+      "entity_start_in_og_text": 667, 
+      "entity": "couple", 
+      "entity_tag_id": 25, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 577, 
+      "tag_text_start_in_tagged_text": 574
+    }, 
+    {
+      "entity_end_in_og_text": 689, 
+      "entity_start_in_og_text": 684, 
+      "entity": "their", 
+      "entity_tag_id": 26, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 591, 
+      "tag_text_start_in_tagged_text": 588
+    }, 
+    {
+      "entity_end_in_og_text": 720, 
+      "entity_start_in_og_text": 711, 
+      "entity": "Tombstone", 
+      "entity_tag_id": 27, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 616, 
+      "tag_text_start_in_tagged_text": 613
+    }, 
+    {
+      "entity_end_in_og_text": 811, 
+      "entity_start_in_og_text": 809, 
+      "entity": "It", 
+      "entity_tag_id": 28, 
+      "tag": "FAC", 
+      "tag_text_end_in_tagged_text": 708, 
+      "tag_text_start_in_tagged_text": 705
+    }, 
+    {
+      "entity_end_in_og_text": 829, 
+      "entity_start_in_og_text": 825, 
+      "entity": "home", 
+      "entity_tag_id": 29, 
+      "tag": "FAC", 
+      "tag_text_end_in_tagged_text": 725, 
+      "tag_text_start_in_tagged_text": 722
+    }, 
+    {
+      "entity_end_in_og_text": 845, 
+      "entity_start_in_og_text": 833, 
+      "entity": "Doc Holliday", 
+      "entity_tag_id": 30, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 732, 
+      "tag_text_start_in_tagged_text": 729
+    }, 
+    {
+      "entity_end_in_og_text": 856, 
+      "entity_start_in_og_text": 849, 
+      "entity": "dentist", 
+      "entity_tag_id": 31, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 739, 
+      "tag_text_start_in_tagged_text": 736
+    }, 
+    {
+      "entity_end_in_og_text": 860, 
+      "entity_start_in_og_text": 857, 
+      "entity": "who", 
+      "entity_tag_id": 32, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 743, 
+      "tag_text_start_in_tagged_text": 740
+    }
+  ], 
+  "og_text": "Arizona authorities say a saloon shooting in the Old West town of Tombstone put one man in the hospital with a leg wound and another in jail. The Cochise County Sheriff's Office says the shooting occurred in Doc Holliday's Saloon when the two men struggled following a verbal altercation that also involved a woman and a third man. Sheriff's spokesperson Carol Capas tells the AP that 47-year-old James Roberson remains jailed on suspicion of aggravated assault and other crimes.\nCapas says Roberson and his female companion surrendered their handguns to the bartender when they entered the saloon Friday evening and that the struggle and shooting occurred after the couple retrieved their guns early Saturday. Tombstone was the site of the infamous 1881 gunfight at the OK Corral between lawmen and outlaws. It also was the home of Doc Holliday, a dentist who played a role In the shootout.", 
+  "json_to_link_og_text_with_tagged_events": [
+    {
+      "event": "shooting", 
+      "tag_text_end_in_tagged_text": 27, 
+      "event_end_in_og_text": 41, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 33, 
+      "event_tag_id": 0, 
+      "tag_text_start_in_tagged_text": 21
+    }, 
+    {
+      "event": "shooting", 
+      "tag_text_end_in_tagged_text": 147, 
+      "event_end_in_og_text": 195, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 187, 
+      "event_tag_id": 1, 
+      "tag_text_start_in_tagged_text": 141
+    }, 
+    {
+      "event": "jailed", 
+      "tag_text_end_in_tagged_text": 350, 
+      "event_end_in_og_text": 426, 
+      "tag": "ARREST-JAIL", 
+      "event_start_in_og_text": 420, 
+      "event_tag_id": 2, 
+      "tag_text_start_in_tagged_text": 339
+    }, 
+    {
+      "event": "handguns", 
+      "tag_text_end_in_tagged_text": 461, 
+      "event_end_in_og_text": 551, 
+      "tag": "TRANSPORT", 
+      "event_start_in_og_text": 543, 
+      "event_tag_id": 3, 
+      "tag_text_start_in_tagged_text": 452
+    }, 
+    {
+      "event": "shooting", 
+      "tag_text_end_in_tagged_text": 554, 
+      "event_end_in_og_text": 647, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 639, 
+      "event_tag_id": 4, 
+      "tag_text_start_in_tagged_text": 548
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+
+
+INFORMATION EXTRACTOR V0.0.1
+
+Goonmeet Bajaj
+Michael Partin
+
+
+-------ORIGINAL TEXT---------------------
+PUYALLUP, Wash. (AP) - The Pierce County Sheriff's Office says a 31-year-old man shot and killed his 34-year-old girlfriend and then himself inside her home near Puyallup. The News Tribune reports (http://is.gd/MDGo2c ) that the victim's teenage daughter and sister found the bodies about 1:30 a.m. Monday. Investigators said the woman lived at a duplex and that the man, with whom she had an on-again, off-again relationship, did not live there. Sheriff's spokesman Ed Troyer said the shooting likely happened late Saturday or early Sunday, but neighbors did not hear the shots.
+
+-------TAGGED TEXT-----------------------
+PER, PER. (AP) - The GPE PER's ORG says a 31-year-old PER ATTACK and DIE PER 34-year-old PER and then PER inside PER FAC near PER. The ORG reports (http://is.gd/MDGo2c ) that the PER's teenage PER and PER found the bodies about 1:30 a.m. Monday. PER said the PER lived at a duplex and that the PER, with PER PER had an on-again, off-again relationship, did not live there. PER's PER PER said the ATTACK likely happened late Saturday or early Sunday, but PER did not hear the shots.
+
+-------EVENTS----------------------------
+0 - ATTACK - shot
+1 - DIE - killed
+2 - ATTACK - shooting
+
+-------ENTITIES--------------------------
+0 - PER - PUYALLUP
+1 - PER - Wash
+2 - GPE - Pierce County
+3 - PER - Sheriff
+4 - ORG - Office
+5 - PER - man
+6 - PER - his
+7 - PER - girlfriend
+8 - PER - himself
+9 - PER - her
+10 - FAC - home
+11 - PER - Puyallup
+12 - ORG - News Tribune
+13 - PER - victim
+14 - PER - daughter
+15 - PER - sister
+16 - PER - Investigators
+17 - PER - woman
+18 - PER - man
+19 - PER - whom
+20 - PER - she
+21 - PER - Sheriff
+22 - PER - spokesman
+23 - PER - Ed Troyer
+24 - PER - neighbors
+
+***Finding Relationships...
+0%20%21%22%23%24%25%26%27%28%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%85%86%87%88%89%90%91%92%93%94%95%96%
+-------RELATIONSHIPS--------------------------
+0 - Assailant Attack Victim - "man shot and killed his"
+    [entity] - man
+    [event] - shot
+    [entity] - his
+
+
+...done
+
+

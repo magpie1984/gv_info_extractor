@@ -1,0 +1,623 @@
+{
+  "xml_info_entitites": [
+    [
+      "LOC", 
+      "LIBERTIES", 
+      "99", 
+      "107"
+    ], 
+    [
+      "ORG", 
+      "WPVI", 
+      "110", 
+      "113"
+    ], 
+    [
+      "ORG", 
+      "police", 
+      "132", 
+      "137"
+    ], 
+    [
+      "GPE", 
+      "city", 
+      "226", 
+      "229"
+    ], 
+    [
+      "ORG", 
+      "Northern Liberties section", 
+      "233", 
+      "258"
+    ], 
+    [
+      "GPE", 
+      "North", 
+      "318", 
+      "322"
+    ], 
+    [
+      "ORG", 
+      "3rd Street", 
+      "324", 
+      "333"
+    ], 
+    [
+      "PER", 
+      "Police", 
+      "336", 
+      "341"
+    ], 
+    [
+      "PER", 
+      "man", 
+      "412", 
+      "414"
+    ], 
+    [
+      "PER", 
+      "victim", 
+      "491", 
+      "496"
+    ], 
+    [
+      "PER", 
+      "He", 
+      "526", 
+      "527"
+    ], 
+    [
+      "FAC", 
+      "building", 
+      "552", 
+      "559"
+    ], 
+    [
+      "FAC", 
+      "houses", 
+      "561", 
+      "566"
+    ], 
+    [
+      "PER", 
+      "Superior", 
+      "568", 
+      "575"
+    ], 
+    [
+      "PER", 
+      "Sound Studio", 
+      "577", 
+      "588"
+    ], 
+    [
+      "ORG", 
+      "its", 
+      "610", 
+      "612"
+    ], 
+    [
+      "ORG", 
+      "Facebook", 
+      "614", 
+      "621"
+    ], 
+    [
+      "PER", 
+      "artists", 
+      "653", 
+      "659"
+    ], 
+    [
+      "PER", 
+      "Police", 
+      "662", 
+      "667"
+    ], 
+    [
+      "PER", 
+      "victim", 
+      "702", 
+      "707"
+    ], 
+    [
+      "PER", 
+      "his", 
+      "742", 
+      "744"
+    ], 
+    [
+      "PER", 
+      "owner", 
+      "775", 
+      "779"
+    ], 
+    [
+      "PER", 
+      "I", 
+      "789", 
+      "789"
+    ], 
+    [
+      "PER", 
+      "I", 
+      "830", 
+      "830"
+    ], 
+    [
+      "PER", 
+      "my", 
+      "855", 
+      "856"
+    ], 
+    [
+      "PER", 
+      "I", 
+      "888", 
+      "888"
+    ], 
+    [
+      "PER", 
+      "Police", 
+      "932", 
+      "937"
+    ], 
+    [
+      "PER", 
+      "suspect", 
+      "965", 
+      "971"
+    ]
+  ], 
+  "tagged_text": "NORTHERN LOC (ORG) -- Philadelphia ORG are investigating a deadly shooting and possible INJURE at a recording studio in the GPE's ORG.\nDIE happened in the basement of a recording studio at 444 GPE ORG.\nPER first TRANSPORT around 7:30 Saturday morning and found the 30-year-old PER ATTACK in the head and back, and a bloody screwdriver nearby, indicating the PER may have also been INJURE. PER DIE at the scene.\nThe FAC FAC PER PER, which according to ORG ORG page rents out studio time to PER.\nPER haven't released the name of the PER or the circumstances surrounding PER DIE.\nIn a text, the studio PER PHONE-WRITE:  PER don't know DIE happened at this time. PER am seeing the image of PER life's dream being ATTACK. PER am just a little too distraught to talk. \nPER have not publicly named a PER.", 
+  "xml_info_events": [
+    [
+      "Injure", 
+      [
+        [
+          "stabbing", 
+          "188", 
+          "195"
+        ]
+      ]
+    ], 
+    [
+      "Die", 
+      [
+        [
+          "It", 
+          "261", 
+          "262"
+        ]
+      ]
+    ], 
+    [
+      "Transport", 
+      [
+        [
+          "arrived", 
+          "349", 
+          "355"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "shot", 
+          "416", 
+          "419"
+        ]
+      ]
+    ], 
+    [
+      "Injure", 
+      [
+        [
+          "stabbed", 
+          "517", 
+          "523"
+        ]
+      ]
+    ], 
+    [
+      "Die", 
+      [
+        [
+          "died", 
+          "529", 
+          "532"
+        ]
+      ]
+    ], 
+    [
+      "Die", 
+      [
+        [
+          "death", 
+          "746", 
+          "750"
+        ]
+      ]
+    ], 
+    [
+      "Phone-Write", 
+      [
+        [
+          "wrote", 
+          "781", 
+          "785"
+        ]
+      ]
+    ], 
+    [
+      "Die", 
+      [
+        [
+          "what", 
+          "802", 
+          "805"
+        ]
+      ]
+    ], 
+    [
+      "Attack", 
+      [
+        [
+          "destroyed", 
+          "877", 
+          "885"
+        ]
+      ]
+    ]
+  ], 
+  "file": "Unseen_From_Tweet_4.txt", 
+  "json_to_link_og_text_with_tagged_entities": [
+    {
+      "entity_end_in_og_text": 18, 
+      "entity_start_in_og_text": 9, 
+      "entity": "LIBERTIES", 
+      "entity_tag_id": 0, 
+      "tag": "LOC", 
+      "tag_text_end_in_tagged_text": 12, 
+      "tag_text_start_in_tagged_text": 9
+    }, 
+    {
+      "entity_end_in_og_text": 24, 
+      "entity_start_in_og_text": 20, 
+      "entity": "WPVI", 
+      "entity_tag_id": 1, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 17, 
+      "tag_text_start_in_tagged_text": 14
+    }, 
+    {
+      "entity_end_in_og_text": 48, 
+      "entity_start_in_og_text": 42, 
+      "entity": "police", 
+      "entity_tag_id": 2, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 38, 
+      "tag_text_start_in_tagged_text": 35
+    }, 
+    {
+      "entity_end_in_og_text": 140, 
+      "entity_start_in_og_text": 136, 
+      "entity": "city", 
+      "entity_tag_id": 3, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 129, 
+      "tag_text_start_in_tagged_text": 126
+    }, 
+    {
+      "entity_end_in_og_text": 169, 
+      "entity_start_in_og_text": 143, 
+      "entity": "Northern Liberties section", 
+      "entity_tag_id": 4, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 135, 
+      "tag_text_start_in_tagged_text": 132
+    }, 
+    {
+      "entity_end_in_og_text": 233, 
+      "entity_start_in_og_text": 228, 
+      "entity": "North", 
+      "entity_tag_id": 5, 
+      "tag": "GPE", 
+      "tag_text_end_in_tagged_text": 197, 
+      "tag_text_start_in_tagged_text": 194
+    }, 
+    {
+      "entity_end_in_og_text": 244, 
+      "entity_start_in_og_text": 234, 
+      "entity": "3rd Street", 
+      "entity_tag_id": 6, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 201, 
+      "tag_text_start_in_tagged_text": 198
+    }, 
+    {
+      "entity_end_in_og_text": 252, 
+      "entity_start_in_og_text": 246, 
+      "entity": "Police", 
+      "entity_tag_id": 7, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 206, 
+      "tag_text_start_in_tagged_text": 203
+    }, 
+    {
+      "entity_end_in_og_text": 325, 
+      "entity_start_in_og_text": 322, 
+      "entity": "man", 
+      "entity_tag_id": 8, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 279, 
+      "tag_text_start_in_tagged_text": 276
+    }, 
+    {
+      "entity_end_in_og_text": 407, 
+      "entity_start_in_og_text": 401, 
+      "entity": "victim", 
+      "entity_tag_id": 9, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 358, 
+      "tag_text_start_in_tagged_text": 355
+    }, 
+    {
+      "entity_end_in_og_text": 438, 
+      "entity_start_in_og_text": 436, 
+      "entity": "He", 
+      "entity_tag_id": 10, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 390, 
+      "tag_text_start_in_tagged_text": 387
+    }, 
+    {
+      "entity_end_in_og_text": 470, 
+      "entity_start_in_og_text": 462, 
+      "entity": "building", 
+      "entity_tag_id": 11, 
+      "tag": "FAC", 
+      "tag_text_end_in_tagged_text": 417, 
+      "tag_text_start_in_tagged_text": 414
+    }, 
+    {
+      "entity_end_in_og_text": 477, 
+      "entity_start_in_og_text": 471, 
+      "entity": "houses", 
+      "entity_tag_id": 12, 
+      "tag": "FAC", 
+      "tag_text_end_in_tagged_text": 421, 
+      "tag_text_start_in_tagged_text": 418
+    }, 
+    {
+      "entity_end_in_og_text": 486, 
+      "entity_start_in_og_text": 478, 
+      "entity": "Superior", 
+      "entity_tag_id": 13, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 425, 
+      "tag_text_start_in_tagged_text": 422
+    }, 
+    {
+      "entity_end_in_og_text": 499, 
+      "entity_start_in_og_text": 487, 
+      "entity": "Sound Studio", 
+      "entity_tag_id": 14, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 429, 
+      "tag_text_start_in_tagged_text": 426
+    }, 
+    {
+      "entity_end_in_og_text": 523, 
+      "entity_start_in_og_text": 520, 
+      "entity": "its", 
+      "entity_tag_id": 15, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 453, 
+      "tag_text_start_in_tagged_text": 450
+    }, 
+    {
+      "entity_end_in_og_text": 532, 
+      "entity_start_in_og_text": 524, 
+      "entity": "Facebook", 
+      "entity_tag_id": 16, 
+      "tag": "ORG", 
+      "tag_text_end_in_tagged_text": 457, 
+      "tag_text_start_in_tagged_text": 454
+    }, 
+    {
+      "entity_end_in_og_text": 570, 
+      "entity_start_in_og_text": 563, 
+      "entity": "artists", 
+      "entity_tag_id": 17, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 491, 
+      "tag_text_start_in_tagged_text": 488
+    }, 
+    {
+      "entity_end_in_og_text": 578, 
+      "entity_start_in_og_text": 572, 
+      "entity": "Police", 
+      "entity_tag_id": 18, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 496, 
+      "tag_text_start_in_tagged_text": 493
+    }, 
+    {
+      "entity_end_in_og_text": 618, 
+      "entity_start_in_og_text": 612, 
+      "entity": "victim", 
+      "entity_tag_id": 19, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 533, 
+      "tag_text_start_in_tagged_text": 530
+    }, 
+    {
+      "entity_end_in_og_text": 655, 
+      "entity_start_in_og_text": 652, 
+      "entity": "his", 
+      "entity_tag_id": 20, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 570, 
+      "tag_text_start_in_tagged_text": 567
+    }, 
+    {
+      "entity_end_in_og_text": 690, 
+      "entity_start_in_og_text": 685, 
+      "entity": "owner", 
+      "entity_tag_id": 21, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 603, 
+      "tag_text_start_in_tagged_text": 600
+    }, 
+    {
+      "entity_end_in_og_text": 700, 
+      "entity_start_in_og_text": 699, 
+      "entity": "I", 
+      "entity_tag_id": 22, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 615, 
+      "tag_text_start_in_tagged_text": 612
+    }, 
+    {
+      "entity_end_in_og_text": 741, 
+      "entity_start_in_og_text": 740, 
+      "entity": "I", 
+      "entity_tag_id": 23, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 658, 
+      "tag_text_start_in_tagged_text": 655
+    }, 
+    {
+      "entity_end_in_og_text": 767, 
+      "entity_start_in_og_text": 765, 
+      "entity": "my", 
+      "entity_tag_id": 24, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 685, 
+      "tag_text_start_in_tagged_text": 682
+    }, 
+    {
+      "entity_end_in_og_text": 799, 
+      "entity_start_in_og_text": 798, 
+      "entity": "I", 
+      "entity_tag_id": 25, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 719, 
+      "tag_text_start_in_tagged_text": 716
+    }, 
+    {
+      "entity_end_in_og_text": 848, 
+      "entity_start_in_og_text": 842, 
+      "entity": "Police", 
+      "entity_tag_id": 26, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 765, 
+      "tag_text_start_in_tagged_text": 762
+    }, 
+    {
+      "entity_end_in_og_text": 882, 
+      "entity_start_in_og_text": 875, 
+      "entity": "suspect", 
+      "entity_tag_id": 27, 
+      "tag": "PER", 
+      "tag_text_end_in_tagged_text": 795, 
+      "tag_text_start_in_tagged_text": 792
+    }
+  ], 
+  "og_text": "NORTHERN LIBERTIES (WPVI) -- Philadelphia police are investigating a deadly shooting and possible stabbing at a recording studio in the city's Northern Liberties section.\nIt happened in the basement of a recording studio at 444 North 3rd Street.\nPolice first arrived around 7:30 Saturday morning and found the 30-year-old man shot in the head and back, and a bloody screwdriver nearby, indicating the victim may have also been stabbed. He died at the scene.\nThe building houses Superior Sound Studio, which according to its Facebook page rents out studio time to artists.\nPolice haven't released the name of the victim or the circumstances surrounding his death.\nIn a text, the studio owner wrote:  I don't know what happened at this time. I am seeing the image of my life's dream being destroyed. I am just a little too distraught to talk. \nPolice have not publicly named a suspect.", 
+  "json_to_link_og_text_with_tagged_events": [
+    {
+      "event": "stabbing", 
+      "tag_text_end_in_tagged_text": 94, 
+      "event_end_in_og_text": 106, 
+      "tag": "INJURE", 
+      "event_start_in_og_text": 98, 
+      "event_tag_id": 0, 
+      "tag_text_start_in_tagged_text": 88
+    }, 
+    {
+      "event": "It", 
+      "tag_text_end_in_tagged_text": 138, 
+      "event_end_in_og_text": 173, 
+      "tag": "DIE", 
+      "event_start_in_og_text": 171, 
+      "event_tag_id": 1, 
+      "tag_text_start_in_tagged_text": 135
+    }, 
+    {
+      "event": "arrived", 
+      "tag_text_end_in_tagged_text": 221, 
+      "event_end_in_og_text": 266, 
+      "tag": "TRANSPORT", 
+      "event_start_in_og_text": 259, 
+      "event_tag_id": 2, 
+      "tag_text_start_in_tagged_text": 212
+    }, 
+    {
+      "event": "shot", 
+      "tag_text_end_in_tagged_text": 287, 
+      "event_end_in_og_text": 330, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 326, 
+      "event_tag_id": 3, 
+      "tag_text_start_in_tagged_text": 281
+    }, 
+    {
+      "event": "stabbed", 
+      "tag_text_end_in_tagged_text": 387, 
+      "event_end_in_og_text": 434, 
+      "tag": "INJURE", 
+      "event_start_in_og_text": 427, 
+      "event_tag_id": 4, 
+      "tag_text_start_in_tagged_text": 381
+    }, 
+    {
+      "event": "died", 
+      "tag_text_end_in_tagged_text": 396, 
+      "event_end_in_og_text": 443, 
+      "tag": "DIE", 
+      "event_start_in_og_text": 439, 
+      "event_tag_id": 5, 
+      "tag_text_start_in_tagged_text": 393
+    }, 
+    {
+      "event": "death", 
+      "tag_text_end_in_tagged_text": 575, 
+      "event_end_in_og_text": 661, 
+      "tag": "DIE", 
+      "event_start_in_og_text": 656, 
+      "event_tag_id": 6, 
+      "tag_text_start_in_tagged_text": 572
+    }, 
+    {
+      "event": "wrote", 
+      "tag_text_end_in_tagged_text": 614, 
+      "event_end_in_og_text": 696, 
+      "tag": "PHONE-WRITE", 
+      "event_start_in_og_text": 691, 
+      "event_tag_id": 7, 
+      "tag_text_start_in_tagged_text": 603
+    }, 
+    {
+      "event": "what", 
+      "tag_text_end_in_tagged_text": 635, 
+      "event_end_in_og_text": 716, 
+      "tag": "DIE", 
+      "event_start_in_og_text": 712, 
+      "event_tag_id": 8, 
+      "tag_text_start_in_tagged_text": 632
+    }, 
+    {
+      "event": "destroyed", 
+      "tag_text_end_in_tagged_text": 715, 
+      "event_end_in_og_text": 796, 
+      "tag": "ATTACK", 
+      "event_start_in_og_text": 787, 
+      "event_tag_id": 9, 
+      "tag_text_start_in_tagged_text": 709
+    }
+  ]
+}

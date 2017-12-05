@@ -1,0 +1,79 @@
+Viewer
+Text
+
+Paste
+
+
+Copy
+
+
+Format
+
+
+Remove white space
+
+
+Clear
+
+
+Load JSON data
+
+
+About
+
+
+[
+  {
+    u'A1': u"a 31-year-old man shot and killed his 34-year-old girlfriend and then himself inside her home near Puyallup . The News Tribune reports ( http : // is . gd / MDGo2c ) that the victim 's teenage daughter and sister found the bodies about 1:30 a.m. Monday . Investigators said the woman lived at a duplex and that the man , with whom she had an on-again , off-again relationship , did not live there. Sheriff 's spokesman Ed Troyer said the shooting likely happened late Saturday or early Sunday , but neighbors did not hear the shots",
+    u'A0': u"PUYALLUP , Wash. ( AP ) - The Pierce County Sheriff 's Office",
+    u'V': u'says'
+  },
+  {
+    u'A1': u'his 34-year-old girlfriend',
+    u'V': u'killed'
+  },
+  {
+    u'A1': u"the bodies  the woman lived at a duplex and that the man , with whom she had an on-again , off-again relationship , did not live there. Sheriff 's spokesman Ed Troyer said the shooting likely happened late Saturday or early Sunday , but neighbors did not hear the shots",
+    u'A0': u"the victim 's teenage daughter and sister",
+    u'AM-TMP': u'about 1:30 a.m. Monday',
+    u'V': u'found'
+  },
+  {
+    u'A1': u"the woman lived at a duplex and that the man , with whom she had an on-again , off-again relationship , did not live there. Sheriff 's spokesman Ed Troyer said the shooting likely happened late Saturday or early Sunday , but neighbors did not hear the shots",
+    u'A0': u'Investigators',
+    u'V': u'said'
+  },
+  {
+    u'A1': u"at a duplex and that the man , with whom she had an on-again , off-again relationship , did not live there. Sheriff 's spokesman Ed Troyer said the shooting likely happened late Saturday or early Sunday , but neighbors did not hear the shots",
+    u'A0': u'the woman',
+    u'V': u'lived'
+  },
+  {
+    u'A1': u'an on-again , off-again relationship',
+    u'A0': u'she',
+    u'V': u'had'
+  },
+  {
+    u'A0': u'the man , with whom she had an on-again , off-again relationship ,',
+    u'AM-NEG': u'not',
+    u'V': u'live'
+  },
+  {
+    u'A1': u'the shooting likely happened late Saturday or early Sunday , but neighbors did not hear the shots',
+    u'A0': u'Ed Troyer',
+    u'V': u'said'
+  },
+  {
+    u'A1': u'the shooting',
+    u'AM-ADV': u'likely',
+    u'AM-TMP': u'late Saturday or early Sunday',
+    u'V': u'happened'
+  },
+  {
+    u'A1': u'the shots',
+    u'A0': u'neighbors',
+    u'AM-NEG': u'not',
+    u'V': u'hear'
+  }
+]
+O

@@ -1,0 +1,54 @@
+[
+  {
+    u'A1': u'A 16-year-old',
+    u'AM-TMP': u'after being shot outside a party in North County early Monday morning',
+    u'V': u'hospitalized'
+  },
+  {
+    u'A1': u'A 16-year-old',
+    u'AM-LOC': u'outside a party in North County',
+    u'AM-TMP': u'early Monday morning',
+    u'V': u'shot'
+  },
+  {
+    u'A1': u'a party',
+    u'A0': u'A residence in the 2100 block of Empire',
+    u'AM-TMP': u'when several gunshots were heard around 2 a.m.',
+    u'V': u'hosting'
+  },
+  {
+    u'A1': u'several gunshots',
+    u'AM-TMP': u'around 2 a.m.',
+    u'V': u'heard'
+  },
+  {
+    u'A1': u'A residence in the 2100 block of Empire was hosting a party when several gunshots were heard around 2 a.m.  After the gunshots were heard , the teenager ran inside with a gunshot wound to his left buttock . The injury is not believed to be life threatening . Authorities have not released any information regarding suspects',
+    u'A0': u'police',
+    u'V': u'said'
+  },
+  {
+    u'A1': u'the gunshots',
+    u'V': u'heard'
+  },
+  {
+    u'A1': u'with a gunshot wound to his left buttock',
+    u'A0': u'the teenager',
+    u'AM-DIR': u'inside',
+    u'V': u'ran'
+  },
+  {
+    u'A1': u'The injury',
+    u'C-A1': u'to be life threatening',
+    u'AM-NEG': u'not',
+    u'V': u'believed'
+  },
+  {
+    u'V': u'threatening'
+  },
+  {
+    u'A1': u'any information regarding suspects',
+    u'A0': u'Authorities',
+    u'AM-NEG': u'not',
+    u'V': u'released'
+  }
+]
